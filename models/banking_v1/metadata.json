@@ -1,0 +1,38 @@
+{
+  "run_id": "v1",
+  "timestamp": "2026-07-11T14:28:30.195041",
+  "config_used": {
+    "split": {
+      "test_size": 0.2,
+      "seed": 42
+    },
+    "model": {
+      "n_estimators": 200,
+      "max_depth": 3,
+      "learning_rate": 0.05,
+      "random_state": 42
+    },
+    "tenants": {
+      "telco": {
+        "data_path": "data/raw/telco.csv",
+        "target_column": "Churn",
+        "target_positive_value": "Yes",
+        "revenue_column": "MonthlyCharges",
+        "id_column": "customerID"
+      },
+      "banking": {
+        "data_path": "data/raw/bank_churn.csv",
+        "target_column": "Exited",
+        "target_positive_value": 1,
+        "revenue_column": "Balance",
+        "id_column": "CustomerId"
+      }
+    }
+  },
+  "n_train": 8000,
+  "n_test": 2000,
+  "churn_rate_train": 0.20375,
+  "churn_rate_test": 0.2035,
+  "roc_auc": 0.8398730008899501,
+  "pr_auc": 0.6691235610724795
+}

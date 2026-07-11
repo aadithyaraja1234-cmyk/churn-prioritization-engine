@@ -1,0 +1,14 @@
+__pycache__/
+**/__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+venv/
+*.egg-info/
+
+# Generated at runtime by database/migrate_csv_to_db.py - not source of truth
+database/app.db
+
+# Unrelated datasets, not used by any code in this repo
+data/raw/olist_orders_dataset.csv
+data/raw/olist_order_payments_dataset.csv

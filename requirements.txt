@@ -1,0 +1,22 @@
+# pandas/scikit-learn/joblib/lifelines are pinned EXACTLY, not range-bound:
+# models/*.pkl were trained and pickled under these exact versions, and
+# unpickling a GradientBoostingClassifier/CoxPHFitter under a different
+# scikit-learn/lifelines version is not guaranteed to work (it broke
+# concretely: scikit-learn 1.9.0 couldn't unpickle a model.pkl trained under
+# 1.7.2 - "ModuleNotFoundError: No module named '_loss'"). Since containers
+# only ever load these pickles (never retrain), matching the training
+# environment exactly is required, not just compatible-range.
+pandas==2.3.3
+PyYAML>=6.0,<7.0
+pytest>=8.0,<9.0
+scikit-learn==1.7.2
+joblib==1.5.2
+lifelines==0.30.1
+sqlalchemy>=2.0,<3.0
+openpyxl>=3.1,<4.0  # only needed for src/data/prepare_extended.py, not the running API
+fastapi>=0.110,<1.0
+uvicorn>=0.29,<1.0
+passlib[bcrypt]>=1.7,<2.0
+bcrypt==4.0.1  # pinned: bcrypt>=4.1 removed internals passlib 1.7.4's self-test depends on
+pyjwt>=2.8,<3.0
+httpx>=0.27,<1.0  # required by fastapi.testclient.TestClient

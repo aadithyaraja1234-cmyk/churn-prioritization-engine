@@ -1,0 +1,33 @@
+{
+  "run_id": "v2_feedback_loop_simulation",
+  "data_source": "includes synthetic_feedback_batch, NOT purely real data",
+  "synthetic_data_disclosure": "This model was trained on the original training set PLUS a synthetically generated feedback batch. The feedback batch contains simulated retention outcomes, not real customer interactions. This model is for demonstration of the feedback loop mechanism only and does NOT represent an actual improvement in model performance.",
+  "feedback_batch_info": {
+    "n_customers_sampled": 100,
+    "retention_rate_applied": 0.3,
+    "source": "synthetic_top_20_pct_of_test_set"
+  },
+  "timestamp": "2026-07-11T12:49:01.197801",
+  "config_used": {
+    "split": {
+      "test_size": 0.2,
+      "seed": 42
+    },
+    "model": {
+      "n_estimators": 200,
+      "max_depth": 3,
+      "learning_rate": 0.05,
+      "random_state": 42
+    }
+  },
+  "n_train_original": 5634,
+  "n_feedback_synthetic": 100,
+  "n_train_combined": 5734,
+  "n_test": 1409,
+  "churn_rate_train_original": 0.2653532126375577,
+  "churn_rate_feedback_synthetic": 0.47,
+  "churn_rate_train_combined": 0.2689222183467039,
+  "churn_rate_test": 0.2654364797728886,
+  "roc_auc": 0.8459014699423907,
+  "pr_auc": 0.6706087104784695
+}

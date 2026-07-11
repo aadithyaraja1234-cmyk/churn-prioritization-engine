@@ -1,0 +1,23 @@
+split:
+  test_size: 0.2
+  seed: 42
+
+model:
+  n_estimators: 200
+  max_depth: 3
+  learning_rate: 0.05
+  random_state: 42
+
+tenants:
+  telco:
+    data_path: data/raw/telco.csv
+    target_column: Churn
+    target_positive_value: "Yes"
+    revenue_column: MonthlyCharges
+    id_column: customerID
+  banking:
+    data_path: data/raw/bank_churn.csv
+    target_column: Exited
+    target_positive_value: 1
+    revenue_column: Balance
+    id_column: CustomerId
