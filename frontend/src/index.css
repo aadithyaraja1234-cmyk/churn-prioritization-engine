@@ -1,0 +1,87 @@
+@import './styles/tokens.css';
+
+/*
+ * Stage 2: the app's existing component CSS (App.css) was written against
+ * these legacy variable names throughout - remapping them here to draw
+ * from tokens.css propagates the new dark/bold design system everywhere
+ * without rewriting every rule. Two audited exceptions, NOT a blanket 1:1
+ * remap:
+ *
+ *   --accent -> --color-accent-hover (safe for the many places --accent
+ *   is used as TEXT or a border/decorative color: 5.88-6.46:1). Every
+ *   site that instead uses --accent as a SOLID FILL WITH WHITE TEXT ON
+ *   TOP (buttons, badges, chat bubbles - ~12 sites in App.css) was
+ *   migrated individually to --color-accent-solid, which is darkened
+ *   specifically so white text on it clears 4.5:1 (raw --color-accent
+ *   only hits 4.35:1 resting / 3.06:1 with the old lighter hover fill -
+ *   see tokens.css's contrast footer). Remapping --accent to the solid
+ *   variant instead would have made the many TEXT/border usages fail the
+ *   opposite way.
+ *
+ *   --warn-bg -> --color-surface-hover, NOT --color-warn-bg. Auditing
+ *   this token's ~22 usages found it was mostly repurposed as a generic
+ *   subtle-highlight tint (nav hover, code blocks, hover states, "pass"
+ *   badges) rather than real warning semantics - remapping it to the new
+ *   semantic amber would have painted all of those amber/orange. The
+ *   handful of genuinely-semantic warnings (.verdict-banner-warning,
+ *   .data-sufficiency-card.data-sufficiency-warning) were migrated
+ *   individually to --color-warn-bg / --color-warn instead.
+ */
+:root {
+  --text: var(--color-text);
+  --text-muted: var(--color-text-muted);
+  --bg: var(--color-bg);
+  --surface: var(--color-surface);
+  --border: var(--color-border);
+  --accent: var(--color-accent-hover);
+  --danger: var(--color-danger);
+  --danger-bg: var(--color-danger-bg);
+  --warn-bg: var(--color-surface-hover);
+
+  font: var(--text-size-body) / 1.5 var(--font-sans);
+  color-scheme: dark;
+  color: var(--text);
+  background: var(--bg);
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+}
+
+h1,
+h2,
+h3 {
+  font-weight: 600;
+  margin: 0;
+}
+
+p {
+  margin: 0;
+}
+
+/*
+ * Stage 4: app-wide focus-visible ring (audit found zero :focus rules
+ * anywhere before this) and a default accent-color for native form
+ * controls (checkbox/radio/range - several had none, so they rendered
+ * with the browser's default blue instead of the app's violet theme).
+ * Both verified against every background token - see tokens.css footer.
+ */
+a:focus-visible,
+button:focus-visible,
+input:focus-visible,
+select:focus-visible,
+textarea:focus-visible,
+[tabindex]:focus-visible {
+  outline: var(--focus-ring-width) solid var(--focus-ring-color);
+  outline-offset: var(--focus-ring-offset);
+}
+
+input,
+select,
+textarea {
+  accent-color: var(--color-accent);
+}

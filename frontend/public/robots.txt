@@ -1,0 +1,5 @@
+# This is an authenticated SaaS application, not public content meant to be
+# indexed - everything past the sign-in/registration screens requires a
+# logged-in session, so there is nothing here worth crawling.
+User-agent: *
+Disallow: /

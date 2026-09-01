@@ -1,0 +1,51 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+
+    <!-- Favicon set: favicon.svg is the primary icon (modern browsers), the
+         PNG files are fallbacks for user agents that don't support SVG
+         favicons (older browsers, some crawlers/social-preview bots) and for
+         iOS home-screen shortcuts (apple-touch-icon must be PNG - Safari
+         doesn't support SVG there). -->
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png" />
+    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png" />
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <title>Churn Prioritization Engine</title>
+    <meta
+      name="description"
+      content="See which customers are about to churn, why, and what to do about it — grounded in real model output, not guesswork."
+    />
+
+    <!-- Open Graph / social preview. This app is auth-gated (see robots.txt),
+         so these describe the public sign-in/landing surface, not any
+         internal dashboard page. og:image/twitter:image are relative paths -
+         some crawlers require an absolute URL to fetch a preview image
+         correctly, so switch these to the full production URL
+         (https://yourdomain.com/og-image.png) once one exists. -->
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="Churn Prioritization Engine" />
+    <meta
+      property="og:description"
+      content="See which customers are about to churn, why, and what to do about it — grounded in real model output, not guesswork."
+    />
+    <meta property="og:image" content="/og-image.png" />
+    <meta property="og:image:width" content="1200" />
+    <meta property="og:image:height" content="630" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="Churn Prioritization Engine" />
+    <meta
+      name="twitter:description"
+      content="See which customers are about to churn, why, and what to do about it — grounded in real model output, not guesswork."
+    />
+    <meta name="twitter:image" content="/og-image.png" />
+  </head>
+  <body>
+    <div id="root"></div>
+    <script type="module" src="/src/main.jsx"></script>
+  </body>
+</html>

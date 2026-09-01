@@ -1,0 +1,2117 @@
+/* Landing page */
+
+.landing-page {
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 24px;
+}
+
+.landing-card {
+  max-width: 480px;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 16px;
+}
+
+.landing-card h1 {
+  font-size: 26px;
+}
+
+.landing-card p {
+  color: var(--text-muted);
+  font-size: 15px;
+  line-height: 1.5;
+}
+
+.landing-signin-button {
+  font-weight: 600;
+  padding: 10px 24px;
+  border-radius: 6px;
+  background: var(--color-accent-solid);
+  color: white;
+  text-decoration: none;
+}
+
+/* Morning Brief (proactive Copilot card) */
+
+.morning-brief {
+  border-left: 3px solid var(--accent);
+  background: var(--warn-bg);
+}
+
+.morning-brief .copilot-markdown {
+  font-size: 13.5px;
+}
+
+/* Welcome intro panel */
+
+.welcome-intro {
+  position: relative;
+  border-left: 3px solid var(--accent);
+}
+
+.welcome-intro-dismiss {
+  position: absolute;
+  top: 16px;
+  right: 16px;
+  font: inherit;
+  font-size: 12px;
+  padding: 4px 10px;
+  border: 1px solid var(--color-border-strong);
+  border-radius: 6px;
+  background: var(--surface);
+  color: var(--text-muted);
+  cursor: pointer;
+}
+
+.welcome-intro-terms {
+  margin: 0;
+  display: grid;
+  grid-template-columns: auto 1fr;
+  gap: 6px 14px;
+  font-size: 13px;
+}
+
+.welcome-intro-terms dt {
+  font-weight: 600;
+}
+
+.welcome-intro-terms dd {
+  margin: 0;
+  color: var(--text-muted);
+}
+
+/* Toasts */
+
+.toast-stack {
+  position: fixed;
+  bottom: 24px;
+  right: 24px;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  z-index: 100;
+}
+
+.toast {
+  padding: 10px 16px;
+  border-radius: 6px;
+  background: var(--text);
+  color: var(--surface);
+  font-size: 13px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+}
+
+/* CSV export button */
+
+.export-csv-button {
+  font: inherit;
+  font-size: 12px;
+  font-weight: 600;
+  padding: 6px 12px;
+  margin-bottom: 10px;
+  border: 1px solid var(--color-border-strong);
+  border-radius: 6px;
+  background: var(--surface);
+  color: var(--text);
+  cursor: pointer;
+}
+
+.export-csv-button:hover {
+  background: var(--warn-bg);
+}
+
+/* Login */
+
+.login-page {
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.login-form {
+  width: 320px;
+  display: flex;
+  flex-direction: column;
+  gap: 14px;
+  padding: 32px;
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 8px;
+}
+
+.login-form h1 {
+  font-size: 18px;
+  margin-bottom: 8px;
+}
+
+.login-form label {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  font-size: 13px;
+  color: var(--text-muted);
+}
+
+.login-form input {
+  font: inherit;
+  padding: 8px 10px;
+  border: 1px solid var(--color-border-strong);
+  border-radius: 6px;
+  background: var(--bg);
+  color: var(--text);
+}
+
+.login-form button {
+  font: inherit;
+  font-weight: 600;
+  padding: 9px 12px;
+  border: none;
+  border-radius: 6px;
+  background: var(--color-accent-solid);
+  color: white;
+  cursor: pointer;
+}
+
+.login-form button:disabled {
+  opacity: 0.6;
+  cursor: default;
+}
+
+/* Dashboard shell */
+
+.dashboard {
+  max-width: 1080px;
+  margin: 0 auto;
+  padding: 0 var(--space-5) var(--space-7);
+}
+
+.dashboard-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: var(--space-5) 0;
+  border-bottom: 1px solid var(--border);
+  margin-bottom: var(--space-5);
+}
+
+.dashboard-header h1 {
+  font-family: var(--font-sans);
+  font-size: var(--text-size-h1);
+  font-weight: var(--text-weight-black);
+  letter-spacing: var(--text-tracking-tight);
+}
+
+.dashboard-header-left {
+  display: flex;
+  align-items: center;
+  gap: var(--space-5);
+}
+
+.dashboard-nav {
+  display: flex;
+  align-items: center;
+  gap: var(--space-1);
+  background: var(--color-bg-raised);
+  padding: var(--space-1);
+  border-radius: var(--radius-md);
+  border: 1px solid var(--border);
+}
+
+.dashboard-nav a {
+  font-family: var(--font-sans);
+  font-size: var(--text-size-small);
+  font-weight: var(--text-weight-medium);
+  color: var(--text-muted);
+  text-decoration: none;
+  padding: var(--space-2) var(--space-3);
+  border-radius: var(--radius-sm);
+  transition: background var(--transition-fast), color var(--transition-fast), box-shadow var(--transition-fast);
+}
+
+.dashboard-nav a:hover {
+  color: var(--text);
+  background: var(--color-surface-hover);
+}
+
+.dashboard-nav a.active {
+  color: var(--color-accent-text);
+  background: var(--color-accent-bg-medium);
+  box-shadow: var(--glow-accent-sm);
+}
+
+.dashboard-header-right {
+  display: flex;
+  align-items: center;
+  gap: var(--space-3);
+  font-size: var(--text-size-small);
+  color: var(--text-muted);
+}
+
+.dashboard-header-right button {
+  font: inherit;
+  padding: var(--space-2) var(--space-3);
+  border: 1px solid var(--color-border-strong);
+  border-radius: var(--radius-sm);
+  background: var(--surface);
+  color: var(--text);
+  cursor: pointer;
+  transition: background var(--transition-fast), border-color var(--transition-fast);
+}
+
+.dashboard-header-right button:hover {
+  background: var(--color-surface-hover);
+  border-color: var(--color-accent-border);
+}
+
+/* Account menu (Settings gear - API Keys / Admin) */
+
+.account-menu {
+  position: relative;
+}
+
+.account-menu-trigger {
+  font-size: var(--text-size-body);
+  line-height: 1;
+  padding: var(--space-2) var(--space-3) !important;
+}
+
+.account-menu-dropdown {
+  position: absolute;
+  top: calc(100% + var(--space-2));
+  right: 0;
+  z-index: 20;
+  display: flex;
+  flex-direction: column;
+  min-width: 140px;
+  padding: var(--space-1);
+  background: var(--color-bg-raised);
+  border: 1px solid var(--color-border-strong);
+  border-radius: var(--radius-md);
+  box-shadow: var(--shadow-lg);
+}
+
+.account-menu-dropdown a {
+  font-size: var(--text-size-small);
+  font-weight: var(--text-weight-medium);
+  color: var(--text-muted);
+  text-decoration: none;
+  padding: var(--space-2) var(--space-3);
+  border-radius: var(--radius-sm);
+  transition: background var(--transition-fast), color var(--transition-fast);
+}
+
+.account-menu-dropdown a:hover {
+  color: var(--text);
+  background: var(--color-surface-hover);
+}
+
+.account-menu-dropdown a.active {
+  color: var(--color-accent-text);
+  background: var(--color-accent-bg-medium);
+}
+
+/* Sections */
+
+.dashboard-section {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: var(--radius-lg);
+  padding: var(--space-5);
+  margin-bottom: var(--space-4);
+}
+
+.dashboard-section h2 {
+  font-family: var(--font-sans);
+  font-size: var(--text-size-h3);
+  font-weight: var(--text-weight-semibold);
+  letter-spacing: var(--text-tracking-snug);
+  margin-bottom: var(--space-4);
+}
+
+.muted {
+  color: var(--text-muted);
+  font-size: 13px;
+}
+
+.muted.small {
+  font-size: 12px;
+  margin-top: 6px;
+}
+
+.error-text {
+  color: var(--danger);
+  background: var(--danger-bg);
+  padding: 8px 12px;
+  border-radius: 6px;
+  font-size: 13px;
+}
+
+.not-available {
+  color: var(--text-muted);
+  background: var(--warn-bg);
+  padding: 10px 12px;
+  border-radius: 6px;
+  font-size: 13px;
+}
+
+.feature-coverage-list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+
+.feature-badge {
+  padding: 4px 10px;
+  border-radius: 999px;
+  font-size: 12.5px;
+  white-space: nowrap;
+}
+
+.feature-badge-enabled {
+  background: var(--color-accent-solid);
+  color: #fff;
+}
+
+.feature-badge-disabled {
+  background: var(--warn-bg);
+  color: var(--text-muted);
+}
+
+.feature-coverage-note {
+  margin-top: 10px;
+}
+
+.caveat {
+  font-size: 12.5px;
+  color: var(--text-muted);
+  background: var(--warn-bg);
+  padding: 10px 12px;
+  border-radius: 6px;
+  margin: 12px 0;
+}
+
+.intervention-caveat-block {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  margin: 12px 0;
+}
+
+.intervention-caveat-block .caveat {
+  margin: 0;
+}
+
+.caveat-benchmark {
+  border-left: 3px solid var(--accent);
+}
+
+/* KPI strip */
+
+.kpi-strip {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(140px, 1fr));
+  gap: var(--space-3);
+}
+
+.kpi-card {
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-1);
+  padding: var(--space-4);
+  background: var(--color-bg-raised);
+  border: 1px solid var(--border);
+  border-radius: var(--radius-md);
+  box-shadow: var(--shadow-sm);
+  transition: box-shadow var(--transition-fast), border-color var(--transition-fast);
+}
+
+.kpi-card:hover {
+  border-color: var(--color-border-strong);
+  box-shadow: var(--shadow-md);
+}
+
+.kpi-label {
+  font-family: var(--font-sans);
+  font-size: var(--text-size-small);
+  color: var(--text-muted);
+}
+
+.kpi-value {
+  font-family: var(--font-mono);
+  font-feature-settings: var(--numeric-feature-settings);
+  font-size: var(--text-size-h3);
+  font-weight: var(--text-weight-bold);
+  letter-spacing: var(--text-tracking-tight);
+}
+
+.kpi-card-primary {
+  border-color: var(--color-accent);
+  /* was var(--warn-bg) - that token was being repurposed as a generic
+     subtle-highlight tint here, not a real warning; this card is meant
+     to read as "primary/accent-highlighted", so it draws directly from
+     the accent-tinted background instead. */
+  background: var(--color-accent-bg-subtle);
+  box-shadow: var(--glow-accent-sm);
+}
+
+.kpi-card-primary:hover {
+  box-shadow: var(--glow-accent-md);
+}
+
+.kpi-card-primary .kpi-label {
+  font-weight: var(--text-weight-semibold);
+}
+
+.kpi-card-primary .kpi-value {
+  font-size: var(--text-size-display);
+  /* --color-accent-hover, not raw --color-accent: verified 5.09:1 on
+     this card's actual composited background (accent-bg-subtle over
+     --color-surface) - raw accent would be marginal/context-dependent. */
+  color: var(--color-accent-hover);
+}
+
+/* ROI calculator (interactive backtest slider) */
+
+.roi-calculator {
+  display: flex;
+  flex-direction: column;
+  gap: 14px;
+}
+
+.roi-slider-label {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  font-size: 13px;
+  color: var(--text-muted);
+}
+
+.roi-slider-label strong {
+  color: var(--text);
+}
+
+.roi-slider-label input[type='range'] {
+  width: 100%;
+  accent-color: var(--accent);
+}
+
+.roi-kpi-strip .kpi-card {
+  gap: 2px;
+}
+
+.roi-lift-positive {
+  color: var(--color-success);
+}
+
+.roi-lift-negative {
+  color: var(--color-danger);
+}
+
+.roi-lift-flat {
+  color: var(--text-muted);
+}
+
+/* Cards (segments / anomalies) */
+
+.card-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 14px;
+}
+
+.info-card {
+  background: var(--color-bg-raised);
+  border: 1px solid var(--border);
+  border-radius: var(--radius-md);
+  padding: var(--space-4);
+  box-shadow: var(--shadow-sm);
+}
+
+.info-card h3 {
+  font-size: 13px;
+  margin-bottom: 4px;
+}
+
+.card-subtitle {
+  font-size: 12px;
+  color: var(--text-muted);
+  margin-bottom: 10px;
+}
+
+.info-card dl {
+  display: grid;
+  grid-template-columns: auto 1fr;
+  gap: 4px 10px;
+  margin: 0;
+  font-size: 12.5px;
+}
+
+.info-card dt {
+  color: var(--text-muted);
+}
+
+.info-card dd {
+  margin: 0;
+  text-align: right;
+  font-weight: 500;
+}
+
+/* Table */
+
+.table-wrap {
+  overflow-x: auto;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: var(--text-size-small);
+}
+
+th,
+td {
+  text-align: left;
+  padding: var(--space-2) var(--space-3);
+  border-bottom: 1px solid var(--border);
+  white-space: nowrap;
+}
+
+td {
+  /* Tabular figures for any numeric content - harmless no-op on cells
+     that are pure text (columns aren't individually marked "numeric" in
+     the real PriorityTable, so this applies broadly rather than needing
+     a JSX change to tag them). */
+  font-feature-settings: var(--numeric-feature-settings);
+}
+
+th {
+  cursor: pointer;
+  color: var(--color-text-faint);
+  background: var(--color-bg-raised);
+  font-size: var(--text-size-micro);
+  font-weight: var(--text-weight-semibold);
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  -webkit-user-select: none;
+  user-select: none;
+}
+
+.th-tooltip-trigger {
+  position: relative;
+  text-decoration: underline dotted;
+  text-underline-offset: 3px;
+  cursor: help;
+}
+
+.th-tooltip-bubble {
+  display: none;
+  position: absolute;
+  z-index: 20;
+  top: 22px;
+  left: 0;
+  width: 260px;
+  white-space: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 1.4;
+  color: var(--text);
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 6px;
+  padding: 8px 10px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.12);
+}
+
+.th-tooltip-trigger:hover .th-tooltip-bubble {
+  display: block;
+}
+
+th:hover {
+  color: var(--text);
+}
+
+/* Manual tracking fields (Priority Table) */
+
+.tracking-fields {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  min-width: 150px;
+}
+
+.tracking-fields input,
+.tracking-fields select {
+  font: inherit;
+  font-size: 12px;
+  padding: 4px 6px;
+  /* var(--color-border-strong), not the decorative var(--border) - same
+     fix as Stage 1.2's density-preview tracking fields (an input/select
+     boundary is a real UI component, not a decorative divider; the
+     decorative border alone measured well under 3:1 here too). */
+  border: 1px solid var(--color-border-strong);
+  border-radius: 4px;
+  background: var(--surface);
+  color: var(--text);
+}
+
+/* AI Copilot chat */
+
+.copilot-section {
+  display: flex;
+  flex-direction: column;
+  gap: 14px;
+}
+
+.copilot-messages {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  min-height: 120px;
+}
+
+.copilot-message {
+  display: flex;
+}
+
+.copilot-message-user {
+  justify-content: flex-end;
+}
+
+.copilot-message-assistant {
+  justify-content: flex-start;
+}
+
+.copilot-message-bubble {
+  max-width: 70%;
+  border: 1px solid var(--color-border-strong);
+  border-radius: 10px;
+  padding: 10px 14px;
+}
+
+.copilot-message-bubble > p {
+  margin: 0;
+  white-space: pre-wrap;
+}
+
+.copilot-markdown > *:first-child {
+  margin-top: 0;
+}
+
+.copilot-markdown > *:last-child {
+  margin-bottom: 0;
+}
+
+.copilot-markdown p {
+  margin: 0 0 10px;
+}
+
+.copilot-markdown ul,
+.copilot-markdown ol {
+  margin: 0 0 10px;
+  padding-left: 20px;
+}
+
+.copilot-markdown h1,
+.copilot-markdown h2,
+.copilot-markdown h3,
+.copilot-markdown h4 {
+  margin: 14px 0 8px;
+  font-size: 14px;
+}
+
+.copilot-markdown .table-wrap {
+  margin: 0 0 10px;
+}
+
+.copilot-markdown table {
+  font-size: 12.5px;
+}
+
+.copilot-markdown code {
+  background: var(--warn-bg);
+  padding: 1px 4px;
+  border-radius: 3px;
+  font-size: 0.9em;
+}
+
+.copilot-message-user .copilot-message-bubble {
+  background: var(--color-accent-solid);
+  border-color: var(--color-accent-solid);
+  color: white;
+}
+
+/* A refusal is the copilot working correctly, not failing - it gets the
+   exact same bubble styling as any other successful answer. Only a real
+   request failure (503/network error, shown via .error-text below the
+   message list) gets error styling. */
+.copilot-message-assistant .copilot-message-bubble {
+  background: var(--surface);
+}
+
+.copilot-sources {
+  margin: 8px 0 0 !important;
+  font-size: 11.5px;
+  color: var(--text-muted);
+  font-style: italic;
+}
+
+.copilot-input-row {
+  display: flex;
+  gap: 10px;
+}
+
+.copilot-input-row input {
+  flex: 1;
+  font: inherit;
+  padding: 9px 12px;
+  border: 1px solid var(--color-border-strong);
+  border-radius: 6px;
+  background: var(--surface);
+  color: var(--text);
+}
+
+.copilot-input-row button {
+  font: inherit;
+  font-weight: 600;
+  padding: 8px 18px;
+  border: none;
+  border-radius: 6px;
+  background: var(--color-accent-solid);
+  color: white;
+  cursor: pointer;
+}
+
+.copilot-input-row button:disabled {
+  opacity: 0.6;
+  cursor: default;
+}
+
+/* Health score badge */
+
+.health-badge-wrap {
+  position: relative;
+  display: inline-block;
+}
+
+.health-badge {
+  font: inherit;
+  font-weight: 700;
+  font-size: 12px;
+  width: 32px;
+  height: 24px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  color: white;
+}
+
+.health-badge-green {
+  /* was #16A34A - pre-existing, hardcoded, and already failed AA with
+     white text (3.30:1) before this design system existed - see
+     tokens.css's --color-success-solid comment. */
+  background: var(--color-success-solid);
+}
+
+.health-badge-yellow {
+  /* was #CA8A04 - pre-existing, already failed AA with white text
+     (2.94:1). */
+  background: var(--color-warn-solid);
+}
+
+.health-badge-red {
+  /* was #DC2626 - the one variant that already passed (4.83:1), still
+     moved onto the token so all three share one derivation. */
+  background: var(--color-danger-solid);
+}
+
+.health-badge-loading {
+  background: var(--border);
+  color: var(--text-muted);
+  cursor: default;
+}
+
+.health-breakdown {
+  position: absolute;
+  z-index: 10;
+  top: 28px;
+  right: 0;
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 6px;
+  padding: 10px 12px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+  white-space: nowrap;
+}
+
+.health-breakdown dl {
+  margin: 0;
+}
+
+.health-breakdown-row {
+  display: flex;
+  justify-content: space-between;
+  gap: 16px;
+  font-size: 12px;
+  padding: 2px 0;
+}
+
+.health-breakdown-row dt {
+  color: var(--text-muted);
+}
+
+.health-breakdown-row dd {
+  margin: 0;
+  font-weight: 600;
+}
+
+/* What-if panel */
+
+.whatif-controls {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: end;
+  gap: 14px;
+}
+
+.whatif-controls label {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  font-size: 12px;
+  color: var(--text-muted);
+}
+
+.whatif-controls select,
+.whatif-controls input {
+  font: inherit;
+  padding: 7px 9px;
+  border: 1px solid var(--color-border-strong);
+  border-radius: 6px;
+  background: var(--surface);
+  color: var(--text);
+  min-width: 120px;
+}
+
+.whatif-controls button {
+  font: inherit;
+  font-weight: 600;
+  padding: 8px 16px;
+  border: none;
+  border-radius: 6px;
+  background: var(--color-accent-solid);
+  color: white;
+  cursor: pointer;
+  height: 34px;
+}
+
+.whatif-controls button:disabled {
+  opacity: 0.6;
+  cursor: default;
+}
+
+.whatif-override-row {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: end;
+  gap: 10px;
+  width: 100%;
+  padding: 8px 0;
+  border-bottom: 1px dashed var(--border);
+}
+
+.whatif-remove-row,
+.whatif-add-row {
+  font: inherit;
+  padding: 6px 12px;
+  border: 1px solid var(--color-border-strong);
+  border-radius: 6px;
+  background: var(--surface);
+  color: var(--text-muted);
+  cursor: pointer;
+  height: 34px;
+}
+
+.whatif-add-row {
+  align-self: flex-start;
+}
+
+.whatif-result {
+  display: flex;
+  align-items: center;
+  gap: 24px;
+  margin-top: 18px;
+  padding: 14px 18px;
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  width: fit-content;
+}
+
+.whatif-prob {
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+}
+
+.whatif-delta {
+  font-size: 18px;
+  font-weight: 700;
+}
+
+.whatif-delta-down {
+  color: var(--color-success);
+}
+
+.whatif-delta-up {
+  color: var(--color-danger);
+}
+
+.whatif-delta-flat {
+  color: var(--text-muted);
+}
+
+/* Alerts */
+
+.alerts-summary {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin-bottom: 14px;
+}
+
+.alerts-summary-chip {
+  font-size: 12px;
+  padding: 4px 10px;
+  border-radius: 999px;
+  background: var(--warn-bg);
+  color: var(--text-muted);
+  text-transform: capitalize;
+}
+
+.alerts-list {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.alerts-group {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+}
+
+.alert-card {
+  display: flex;
+  align-items: baseline;
+  gap: 10px;
+  padding: 8px 12px;
+  border-radius: 6px;
+  border-left: 4px solid transparent;
+  background: var(--warn-bg);
+  font-size: 13px;
+}
+
+.alert-card p {
+  margin: 0;
+}
+
+.alert-severity {
+  font-size: 10px;
+  font-weight: 700;
+  letter-spacing: 0.03em;
+  flex-shrink: 0;
+}
+
+.alert-card-high {
+  border-left-color: var(--color-danger);
+}
+
+.alert-card-high .alert-severity {
+  color: var(--color-danger);
+}
+
+.alert-card-medium {
+  border-left-color: var(--color-warn);
+}
+
+.alert-card-medium .alert-severity {
+  color: var(--color-warn);
+}
+
+/* Cohort comparison */
+
+.cohort-columns {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 20px;
+  margin-bottom: 16px;
+}
+
+.cohort-column h3 {
+  font-size: 13px;
+  margin-bottom: 10px;
+  color: var(--text-muted);
+}
+
+.cohort-column .kpi-strip {
+  grid-template-columns: repeat(2, 1fr);
+}
+
+@media (max-width: 640px) {
+  .cohort-columns {
+    grid-template-columns: 1fr;
+  }
+}
+
+/* Recommended action badge */
+
+.recommend-badge {
+  font: inherit;
+  font-size: 11px;
+  font-weight: 600;
+  padding: 4px 10px;
+  border: 1px solid var(--border);
+  border-radius: var(--radius-sm);
+  background: var(--surface);
+  color: var(--text);
+  cursor: pointer;
+  white-space: nowrap;
+}
+
+.recommend-badge-priority {
+  /* was #FEF3C7/#CA8A04/#92400E - light-theme colors, unreadable/
+     mismatched against the dark base (not a contrast failure per se,
+     6.37:1 on its own, but a real light card floating on near-black).
+     accent-bg-subtle (not -medium) specifically: verified 4.75-5.09:1
+     for accent-hover text across both the table row's normal and hover
+     backgrounds - accent-bg-medium measured a marginal 4.19-4.47:1 FAIL
+     here, a real new-combination surprise this component's small (11px)
+     text made worse than the KPI-card use of the same medium tint. */
+  background: var(--color-accent-bg-subtle);
+  border-color: var(--color-accent);
+  color: var(--color-accent-hover);
+}
+
+.recommend-breakdown {
+  width: 240px;
+  white-space: normal;
+}
+
+.recommend-action-text {
+  font-weight: 500;
+  margin-bottom: 6px;
+}
+
+/* Scenario simulator */
+
+.scenario-builder {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
+
+.scenario-builder-row {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: end;
+  gap: 14px;
+}
+
+.scenario-builder-row label {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  font-size: 12px;
+  color: var(--text-muted);
+  min-width: 180px;
+}
+
+.scenario-builder-row select,
+.scenario-builder-row input[type='text'],
+.scenario-builder-row input[type='number'] {
+  font: inherit;
+  padding: 7px 9px;
+  border: 1px solid var(--color-border-strong);
+  border-radius: 6px;
+  background: var(--surface);
+  color: var(--text);
+}
+
+.scenario-builder-row input[type='range'] {
+  width: 100%;
+}
+
+.scenario-builder button {
+  font: inherit;
+  font-weight: 600;
+  padding: 8px 16px;
+  border: none;
+  border-radius: 6px;
+  background: var(--color-accent-solid);
+  color: white;
+  cursor: pointer;
+  width: fit-content;
+}
+
+.scenario-builder button:disabled {
+  opacity: 0.6;
+  cursor: default;
+}
+
+/* Budget optimizer */
+
+.coverage-bar-block {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  margin: 16px 0;
+}
+
+.coverage-bar-label {
+  display: flex;
+  justify-content: space-between;
+  font-size: 12.5px;
+  color: var(--text-muted);
+}
+
+.coverage-bar-track {
+  width: 100%;
+  height: 10px;
+  border-radius: 5px;
+  background: var(--border);
+  overflow: hidden;
+}
+
+.coverage-bar-fill {
+  height: 100%;
+  background: var(--accent);
+  border-radius: 5px 0 0 5px;
+  transition: width 0.3s ease;
+}
+
+.budget-spend-mode {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.budget-spend-mode-option {
+  display: flex;
+  align-items: flex-start;
+  gap: 8px;
+  font-size: 12.5px;
+  color: var(--text-muted);
+  cursor: pointer;
+}
+
+.budget-spend-mode-option input {
+  margin-top: 3px;
+  flex-shrink: 0;
+}
+
+.unspent-budget-note {
+  border-left: 3px solid var(--accent);
+  font-weight: 500;
+}
+
+.scenario-summary {
+  font-size: 15px;
+  font-weight: 500;
+  margin-bottom: 16px;
+  padding: 12px 14px;
+  border-radius: 6px;
+  background: var(--warn-bg);
+}
+
+.scenario-history-list {
+  list-style: none;
+  margin: 0 0 14px;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.scenario-history-item {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.scenario-history-link {
+  flex: 1;
+  text-align: left;
+  font: inherit;
+  padding: 8px 12px;
+  border: 1px solid var(--color-border-strong);
+  border-radius: 6px;
+  background: var(--surface);
+  color: var(--text);
+  cursor: pointer;
+}
+
+.scenario-history-link:hover {
+  background: var(--warn-bg);
+}
+
+.scenario-history-compare-button {
+  font: inherit;
+  font-weight: 600;
+  padding: 8px 16px;
+  border: none;
+  border-radius: 6px;
+  background: var(--color-accent-solid);
+  color: white;
+  cursor: pointer;
+  width: fit-content;
+}
+
+.scenario-history-compare-button:disabled {
+  opacity: 0.6;
+  cursor: default;
+}
+
+.scenario-compare-columns {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 20px;
+}
+
+.scenario-compare-column h3 {
+  font-size: 13px;
+  margin-bottom: 10px;
+  color: var(--text-muted);
+}
+
+@media (max-width: 640px) {
+  .scenario-compare-columns {
+    grid-template-columns: 1fr;
+  }
+}
+
+/* Customer 360 */
+
+.customer-360-select-label {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  font-size: 12px;
+  color: var(--text-muted);
+  max-width: 260px;
+}
+
+.customer-360-select-label select {
+  font: inherit;
+  padding: 7px 9px;
+  border: 1px solid var(--color-border-strong);
+  border-radius: 6px;
+  background: var(--surface);
+  color: var(--text);
+}
+
+.recommend-lookup {
+  display: flex;
+  flex-direction: column;
+  align-items: start;
+  gap: 10px;
+}
+
+.recommend-lookup button {
+  font: inherit;
+  font-weight: 600;
+  padding: 8px 16px;
+  border: none;
+  border-radius: 6px;
+  background: var(--color-accent-solid);
+  color: white;
+  cursor: pointer;
+}
+
+.recommend-lookup button:disabled {
+  opacity: 0.6;
+  cursor: default;
+}
+
+.recommend-lookup-result {
+  padding: 10px 12px;
+  border: 1px solid var(--border);
+  border-radius: 6px;
+  background: var(--warn-bg);
+}
+
+/* Customer timeline */
+
+.timeline-list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  position: relative;
+}
+
+.timeline-list::before {
+  content: '';
+  position: absolute;
+  left: 13px;
+  top: 6px;
+  bottom: 6px;
+  width: 2px;
+  background: var(--border);
+}
+
+.timeline-event {
+  display: flex;
+  gap: var(--space-4);
+  padding: 0 0 var(--space-5);
+  position: relative;
+}
+
+.timeline-event:last-child {
+  padding-bottom: 0;
+}
+
+.timeline-icon {
+  flex-shrink: 0;
+  z-index: 1;
+  width: 28px;
+  height: 28px;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 12px;
+  background: var(--surface);
+  border: 2px solid var(--border);
+  color: var(--text-muted);
+}
+
+.timeline-icon-signup {
+  border-color: var(--color-category-neutral);
+  color: var(--color-category-neutral);
+}
+
+.timeline-icon-contract_snapshot {
+  border-color: var(--color-category-neutral);
+  color: var(--color-category-neutral);
+}
+
+.timeline-icon-prediction {
+  border-color: var(--color-category-info);
+  color: var(--color-category-info);
+}
+
+.timeline-icon-recommendation {
+  border-color: var(--color-warn);
+  color: var(--color-warn);
+}
+
+.timeline-icon-scenario {
+  border-color: var(--color-accent);
+  color: var(--color-accent);
+}
+
+.timeline-content {
+  flex: 1;
+  padding-top: 3px;
+}
+
+.timeline-content p {
+  margin: 4px 0 0;
+  font-size: 13.5px;
+}
+
+.timeline-content-header {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 8px;
+}
+
+.timeline-type {
+  font-weight: 600;
+  font-size: 13px;
+  text-transform: capitalize;
+}
+
+.timeline-badge {
+  font-size: 10px;
+  font-weight: 700;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+  padding: 2px 8px;
+  border-radius: 999px;
+}
+
+.timeline-badge-recorded {
+  /* was #DCFCE7/#16A34A - light-theme mint, unreadable against the dark
+     base. success-bg composited over surface: success text still clears
+     7.18:1. */
+  background: var(--color-success-bg);
+  color: var(--color-success);
+}
+
+.timeline-badge-estimated {
+  background: var(--warn-bg);
+  color: var(--text-muted);
+}
+
+.timeline-timestamp {
+  margin-left: auto;
+}
+
+/* Executive view */
+
+.executive-view {
+  max-width: 800px;
+}
+
+.opportunity-list {
+  margin: 0;
+  padding-left: 20px;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  font-size: 13.5px;
+}
+
+.opportunity-list li::marker {
+  color: var(--text-muted);
+}
+
+/* API Keys settings */
+
+.api-key-create-form {
+  display: flex;
+  gap: 10px;
+  margin: 12px 0;
+}
+
+.api-key-create-form input {
+  flex: 1;
+  max-width: 360px;
+  font: inherit;
+  padding: 8px 10px;
+  border: 1px solid var(--color-border-strong);
+  border-radius: 6px;
+  background: var(--surface);
+  color: var(--text);
+}
+
+.api-key-create-form button {
+  font: inherit;
+  font-weight: 600;
+  padding: 8px 16px;
+  border: none;
+  border-radius: 6px;
+  background: var(--color-accent-solid);
+  color: white;
+  cursor: pointer;
+}
+
+.api-key-create-form button:disabled {
+  opacity: 0.6;
+  cursor: default;
+}
+
+.api-key-reveal {
+  margin-top: 14px;
+  padding: 14px 16px;
+  border: 1px solid var(--danger);
+  border-radius: 8px;
+  background: var(--danger-bg);
+}
+
+.api-key-reveal-warning {
+  margin: 0 0 10px;
+  font-size: 13px;
+}
+
+.api-key-reveal-row {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.api-key-reveal-value {
+  flex: 1;
+  padding: 8px 10px;
+  background: var(--surface);
+  border: 1px solid var(--color-border-strong);
+  border-radius: 6px;
+  color: var(--text);
+  font-size: 13px;
+  overflow-x: auto;
+  white-space: nowrap;
+}
+
+.api-key-reveal-row button {
+  font: inherit;
+  font-weight: 600;
+  padding: 8px 14px;
+  border: 1px solid var(--color-border-strong);
+  border-radius: 6px;
+  background: var(--surface);
+  color: var(--text);
+  cursor: pointer;
+  white-space: nowrap;
+}
+
+/* .api-keys-table itself needs no rules of its own - it's a plain
+   <table>, so the generic table/th/td rules (tabular-nums, uppercase
+   header treatment, spacing scale, row hover) already apply. This
+   duplicate override was found during the Stage 3 audit: it silently
+   opted this ONE table out of every table fix made so far (Stage 2's
+   header-contrast fix, Stage 3's tabular-nums) by re-declaring the same
+   selectors with older, unfixed values - exactly the "same bug in a
+   different table" this stage's audit was meant to catch. */
+
+.api-key-row-revoked {
+  opacity: 0.55;
+}
+
+.api-key-status-active {
+  color: var(--color-success);
+  font-weight: 600;
+}
+
+.api-key-status-revoked {
+  color: var(--text-muted);
+  font-weight: 600;
+}
+
+.api-key-revoke-button {
+  font: inherit;
+  font-size: 12px;
+  font-weight: 600;
+  padding: 5px 10px;
+  border: 1px solid var(--danger);
+  border-radius: 6px;
+  background: var(--surface);
+  color: var(--danger);
+  cursor: pointer;
+}
+
+.api-key-revoke-button:hover {
+  background: var(--danger-bg);
+}
+
+/* Data onboarding wizard */
+
+.onboarding-steps {
+  display: flex;
+  gap: 20px;
+  list-style: none;
+  margin: 0 0 20px;
+  padding: 0;
+  font-size: 13px;
+  color: var(--text-muted);
+}
+
+.onboarding-steps li {
+  padding-bottom: 6px;
+  border-bottom: 2px solid transparent;
+}
+
+.onboarding-steps li.onboarding-step-active {
+  color: var(--text);
+  font-weight: 600;
+  border-bottom-color: var(--accent);
+}
+
+.upload-dropzone {
+  margin-top: 12px;
+  padding: 48px 24px;
+  text-align: center;
+  border: 2px dashed var(--color-border-strong);
+  border-radius: 10px;
+  cursor: pointer;
+  color: var(--text-muted);
+}
+
+.upload-dropzone:hover,
+.upload-dropzone-active {
+  border-color: var(--accent);
+  background: var(--warn-bg);
+  color: var(--text);
+}
+
+.upload-error {
+  margin-top: 12px;
+}
+
+.mapping-table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 13px;
+  margin-top: 12px;
+}
+
+.mapping-table th,
+.mapping-table td {
+  text-align: left;
+  padding: 8px 10px;
+  border-bottom: 1px solid var(--border);
+}
+
+.mapping-table th {
+  color: var(--text-muted);
+  font-weight: 600;
+  font-size: 12px;
+}
+
+.mapping-sample {
+  color: var(--text-muted);
+  max-width: 220px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.mapping-table select {
+  font: inherit;
+  font-size: 13px;
+  padding: 5px 8px;
+  border: 1px solid var(--color-border-strong);
+  border-radius: 6px;
+  background: var(--surface);
+  color: var(--text);
+}
+
+.onboarding-actions {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  margin-top: 18px;
+}
+
+.onboarding-actions button {
+  font: inherit;
+  font-weight: 600;
+  padding: 8px 16px;
+  border: 1px solid var(--color-border-strong);
+  border-radius: 6px;
+  background: var(--surface);
+  color: var(--text);
+  cursor: pointer;
+}
+
+.onboarding-actions button:not(:disabled):last-of-type {
+  background: var(--color-accent-solid);
+  color: white;
+  border-color: var(--color-accent-solid);
+}
+
+.onboarding-actions button:disabled {
+  opacity: 0.6;
+  cursor: default;
+}
+
+.onboarding-acknowledge {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  font-size: 13px;
+  color: var(--text-muted);
+}
+
+.validation-checks {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  margin: 12px 0 20px;
+}
+
+.validation-check {
+  display: flex;
+  align-items: flex-start;
+  gap: 8px;
+  font-size: 13.5px;
+  padding: 8px 12px;
+  border-radius: 6px;
+}
+
+.validation-check-pass {
+  background: var(--warn-bg);
+}
+
+.validation-check-fail {
+  background: var(--danger-bg);
+  color: var(--danger);
+}
+
+.validation-check-icon {
+  font-weight: 700;
+}
+
+.data-sufficiency-card {
+  padding: 16px 18px;
+  border-radius: 8px;
+  border: 1px solid var(--border);
+}
+
+.data-sufficiency-card.data-sufficiency-ok {
+  border-left: 4px solid var(--color-success);
+}
+
+.data-sufficiency-card.data-sufficiency-warning {
+  border-left: 4px solid var(--color-warn);
+  background: var(--color-warn-bg);
+}
+
+.data-sufficiency-card h3 {
+  margin: 0 0 10px;
+  font-size: 14px;
+}
+
+.data-sufficiency-stats {
+  display: flex;
+  gap: 32px;
+  margin: 0 0 10px;
+}
+
+.data-sufficiency-stats dt {
+  font-size: 11px;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  color: var(--text-muted);
+  margin-bottom: 2px;
+}
+
+.data-sufficiency-stats dd {
+  margin: 0;
+  font-size: 15px;
+  font-weight: 600;
+}
+
+.data-sufficiency-guidance {
+  margin: 0;
+  font-size: 13.5px;
+  line-height: 1.5;
+}
+
+/* Landing: register link */
+
+.landing-actions {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 10px;
+}
+
+.landing-register-link {
+  font-size: 13px;
+  color: var(--text-muted);
+}
+
+/* Register page */
+
+.register-form label {
+  position: relative;
+}
+
+.field-error {
+  display: block;
+  margin-top: 4px;
+  font-size: 12px;
+  color: var(--danger);
+}
+
+.password-strength-meter {
+  margin-top: 6px;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.password-strength-bar {
+  display: flex;
+  gap: 3px;
+  flex: 1;
+}
+
+.password-strength-bar span {
+  height: 4px;
+  flex: 1;
+  border-radius: 2px;
+  background: var(--border);
+}
+
+.password-strength-bar.password-strength-1 span.filled {
+  background: var(--color-danger);
+}
+
+.password-strength-bar.password-strength-2 span.filled {
+  background: var(--color-warn);
+}
+
+.password-strength-bar.password-strength-3 span.filled {
+  background: var(--color-accent);
+}
+
+.password-strength-bar.password-strength-4 span.filled {
+  background: var(--color-success);
+}
+
+.password-strength-label {
+  font-size: 11px;
+  color: var(--text-muted);
+  white-space: nowrap;
+}
+
+.register-login-link {
+  margin: 0;
+  text-align: center;
+  font-size: 13px;
+  color: var(--text-muted);
+}
+
+.register-login-link a {
+  color: var(--color-accent-hover);
+}
+
+.register-welcome {
+  width: 420px;
+  text-align: center;
+  padding: 40px 32px;
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  display: flex;
+  flex-direction: column;
+  gap: 14px;
+}
+
+.register-welcome h1 {
+  font-size: 20px;
+}
+
+.register-welcome-actions {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  margin-top: 8px;
+}
+
+.register-welcome-button {
+  padding: 10px 16px;
+  border-radius: 6px;
+  border: 1px solid var(--color-border-strong);
+  background: var(--surface);
+  color: var(--text);
+  font-weight: 600;
+  text-decoration: none;
+}
+
+.register-welcome-button-primary {
+  background: var(--color-accent-solid);
+  color: white;
+  border-color: var(--color-accent-solid);
+}
+
+/* Onboarding wizard: progress bar + verdict banner + getting-started checklist */
+
+.onboarding-progress {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  margin: 0 0 20px;
+}
+
+.onboarding-progress-step {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+}
+
+.onboarding-progress-bar {
+  height: 4px;
+  border-radius: 2px;
+  background: var(--border);
+}
+
+.onboarding-progress-step.onboarding-progress-done .onboarding-progress-bar,
+.onboarding-progress-step.onboarding-progress-active .onboarding-progress-bar {
+  background: var(--accent);
+}
+
+.onboarding-progress-label {
+  font-size: 12px;
+  color: var(--text-muted);
+}
+
+.onboarding-progress-step.onboarding-progress-active .onboarding-progress-label {
+  color: var(--text);
+  font-weight: 600;
+}
+
+.onboarding-resume-banner {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 10px 14px;
+  margin-bottom: 16px;
+  border-radius: 6px;
+  background: var(--warn-bg);
+  font-size: 13px;
+}
+
+.verdict-banner {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  padding: 16px 18px;
+  margin-bottom: 18px;
+  border-radius: 8px;
+  font-weight: 600;
+  font-size: 15px;
+}
+
+.verdict-banner-icon {
+  font-size: 22px;
+}
+
+.verdict-banner-ready {
+  /* was #F0FDF4/#16A34A - same light-theme mint as .training-status-succeeded
+     below; both fixed identically. */
+  background: var(--color-success-bg);
+  color: var(--color-success);
+}
+
+.verdict-banner-warning {
+  background: var(--color-warn-bg);
+  color: var(--color-warn);
+}
+
+.verdict-banner-blocked {
+  background: var(--danger-bg);
+  color: var(--danger);
+}
+
+.training-status {
+  padding: 10px 14px;
+  border-radius: 8px;
+  font-weight: 600;
+  font-size: 14px;
+}
+
+.training-status-row {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.training-status-active {
+  background: var(--warn-bg);
+  color: var(--color-warn);
+}
+
+.training-status-succeeded {
+  background: var(--color-success-bg);
+  color: var(--color-success);
+}
+
+.training-status-failed {
+  background: var(--danger-bg);
+  color: var(--danger);
+}
+
+.training-status-spinner {
+  width: 14px;
+  height: 14px;
+  border: 2px solid currentColor;
+  border-right-color: transparent;
+  border-radius: 50%;
+  animation: training-status-spin 0.8s linear infinite;
+  flex-shrink: 0;
+}
+
+@keyframes training-status-spin {
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+/* Per-module breakdown (classifier -> survival -> segments -> anomalies ->
+   clv) once a training job succeeds - reuses .validation-check's
+   pass/fail styling (DataOnboarding.jsx's mapping-validation report) for
+   visual consistency; "skipped" (no duration/clv column mapped) gets its
+   own neutral state, distinct from a real, failed gate. */
+.training-status-modules {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  margin-top: 10px;
+}
+
+.training-status-module-skipped {
+  background: var(--color-bg-raised, transparent);
+  color: var(--color-text-muted);
+}
+
+.training-status-error,
+.training-status-note {
+  margin: 6px 0 0;
+  font-weight: 400;
+  font-size: 13px;
+}
+
+.getting-started-card {
+  padding: 20px 24px;
+  border-radius: 8px;
+  border: 1px solid var(--border);
+  background: var(--surface);
+  margin-bottom: 20px;
+}
+
+.getting-started-card h2 {
+  margin: 0 0 4px;
+}
+
+.getting-started-list {
+  list-style: none;
+  margin: 16px 0 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.getting-started-item {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  font-size: 14px;
+  padding: 8px 12px;
+  border-radius: 6px;
+}
+
+.getting-started-item-done {
+  color: var(--text-muted);
+  text-decoration: line-through;
+}
+
+.getting-started-item-current {
+  background: var(--warn-bg);
+  font-weight: 600;
+  text-decoration: none;
+}
+
+.getting-started-checkbox {
+  font-size: 16px;
+}
+
+.getting-started-cta {
+  margin-top: 16px;
+  display: inline-block;
+  padding: 9px 18px;
+  border-radius: 6px;
+  background: var(--color-accent-solid);
+  color: white;
+  font-weight: 600;
+  text-decoration: none;
+}

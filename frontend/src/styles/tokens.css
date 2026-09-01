@@ -1,0 +1,275 @@
+/*
+ * Design tokens — Stage 1.
+ *
+ * One accent, used boldly: vivid violet (#7C5CFF) against a near-black
+ * base. Chosen over electric lime (too harsh at large fill areas) and hot
+ * coral (clashes with the danger/red semantic color) - violet-blue reads
+ * as premium and energetic without fighting the risk-color palette it has
+ * to sit next to on every dashboard.
+ *
+ * Nothing in this file is wired into the app yet - see the preview this
+ * stage shipped with for how these compose. Later stages apply these to
+ * real components; that's a styling-only change, this file is the
+ * contract they'll style against.
+ */
+
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=JetBrains+Mono:wght@400;500;600;700&display=swap');
+
+:root {
+  /* ---------- Color: base ---------- */
+  --color-bg: #0a0a0f;
+  --color-bg-raised: #12121a;
+  --color-surface: #16161f;
+  --color-surface-hover: #1c1c28;
+  /* Decorative-only dividers (row separators, card outlines already
+     distinguished by their own background) - WCAG 1.4.11's 3:1 non-text
+     contrast rule doesn't apply here since the border isn't the sole
+     means of perceiving the boundary. Left as-is. */
+  --color-border: #26262f;
+  /* Originally #34343F - measured 1.46:1 on --color-surface (the Stage 1
+     density preview's tracking-field input/select borders, where the
+     border IS the primary way a user perceives the field boundary - a
+     real UI-component contrast failure, not decorative). Lightened until
+     it clears 3:1 against every background token (3.29-3.62:1). */
+  --color-border-strong: #68687a;
+
+  --color-text: #f4f4f8;
+  --color-text-muted: #9494a3;
+  /* Originally #5F5F6E - measured 2.97:1 on --color-bg-raised in the
+     Stage 1 density preview (table column headers), failing even the
+     3:1 UI/large-text floor. Lightened until it clears 4.5:1 against
+     every background token (4.86-5.34:1 - see footer). */
+  --color-text-faint: #84848f;
+
+  /* ---------- Color: accent (vivid violet-blue) ----------
+     CONTRAST CONSTRAINT (WCAG AA, verified 2026-07-28 - see this file's
+     footer for the computed ratios): #7C5CFF itself FAILS 4.5:1 both as
+     normal-text-on-surface (4.13:1) and as a filled background under
+     white button labels (4.35:1 resting / 3.06:1 with the old, lighter
+     hover fill #9B7FFF - hover was actually WORSE than resting). Do not
+     use --color-accent as a text color, and do not use it as a solid
+     fill with text on top - use the tokens below instead:
+       - text on a dark surface -> --color-accent-hover (5.88-6.46:1, safe)
+       - a filled background with text/icons on top (buttons) ->
+         --color-accent-solid / -solid-hover / -solid-active
+     --color-accent itself remains the identity color for borders, glows,
+     and any fill that never has text directly on top of it - WCAG's text
+     contrast rules don't apply there. */
+  --color-accent: #7c5cff;
+  --color-accent-hover: #9b7fff;
+  --color-accent-active: #6a47ff;
+  --color-accent-text: #efeaff;
+  --color-accent-bg-subtle: rgba(124, 92, 255, 0.14);
+  --color-accent-bg-medium: rgba(124, 92, 255, 0.24);
+  --color-accent-border: rgba(124, 92, 255, 0.45);
+
+  /* Same hue, darkened until white text on top clears AA - for any solid
+     fill that carries text/icon content (primary buttons first and
+     foremost). Ramp gets darker (not lighter) on hover/active, since
+     lightening is what broke the old hover state's contrast. */
+  --color-accent-solid: #7053e6;        /* white-on-this: 5.16:1 */
+  --color-accent-solid-hover: #634acc;  /* white-on-this: 6.21:1 */
+  --color-accent-solid-active: #563fb0; /* white-on-this: 7.68:1 */
+
+  /* ---------- Color: semantic risk (distinct from accent, readable on dark) ---------- */
+  --color-danger: #ff5c72;
+  --color-danger-bg: rgba(255, 92, 114, 0.14);
+  --color-danger-border: rgba(255, 92, 114, 0.4);
+
+  --color-warn: #ffb020;
+  --color-warn-bg: rgba(255, 176, 32, 0.14);
+  --color-warn-border: rgba(255, 176, 32, 0.4);
+
+  --color-success: #2ed573;
+  --color-success-bg: rgba(46, 213, 115, 0.14);
+  --color-success-border: rgba(46, 213, 115, 0.4);
+
+  /* Same accent-solid pattern as above, for semantic colors: found needed
+     when Stage 2's REAL-app verification pass hit the health-score badge
+     (solid color fill + white text) - it was using hardcoded, pre-existing
+     hex values (#16A34A/#CA8A04/#DC2626) that ALREADY failed AA before
+     this design system existed (white text: 3.30:1 / 2.94:1 / 4.83:1 -
+     only red passed). Darkened until white text clears 4.5:1 (all >=5:1
+     for margin), same as --color-accent-solid. */
+  --color-success-solid: #1b7e44;  /* white-on-this: 5.10:1 */
+  --color-warn-solid: #946613;     /* white-on-this: 5.04:1 */
+  --color-danger-solid: #bd4454;   /* white-on-this: 5.10:1 */
+
+  /* ---------- Category colors (event-type, e.g. Customer Timeline's
+     signup/prediction/recommendation/scenario icons) - a DIFFERENT
+     semantic dimension from the risk colors above (this is "what kind of
+     event", not "how urgent"), so intentionally distinct hues rather than
+     reusing success/warn/danger. Stage 3 audit found these as pre-existing
+     hardcoded hex in App.css (#64748B, #2563EB) that already passed 3:1
+     against every background (3.78:1 / 3.48:1) - values kept unchanged,
+     only formalized into named tokens so nothing is a magic hex anymore.
+     Two more categories reuse --color-warn/--color-accent directly
+     (already verified elsewhere in this file) rather than adding two more
+     near-duplicate tokens. */
+  --color-category-neutral: #64748b; /* signup, contract snapshot */
+  --color-category-info: #2563eb;    /* prediction */
+
+  /* ---------- Typography ---------- */
+  --font-sans: 'Inter', -apple-system, 'Segoe UI', system-ui, sans-serif;
+  --font-mono: 'JetBrains Mono', ui-monospace, 'SF Mono', Consolas, monospace;
+
+  --text-size-display: 40px;   /* page-level hero numbers */
+  --text-size-h1: 34px;
+  --text-size-h2: 26px;
+  --text-size-h3: 20px;
+  --text-size-body: 15px;
+  --text-size-small: 13px;
+  --text-size-micro: 11px;
+
+  --text-weight-regular: 400;
+  --text-weight-medium: 500;
+  --text-weight-semibold: 600;
+  --text-weight-bold: 700;
+  --text-weight-black: 800;
+
+  --text-tracking-tight: -0.03em;   /* headlines */
+  --text-tracking-snug: -0.01em;    /* sub-headings */
+  --text-tracking-normal: 0;
+
+  /* Tabular-figure numeric style - apply alongside --font-mono for any
+     KPI/metric/table-number display so digits don't jitter in width as
+     they change (count-up animations, live-updating cells). */
+  --numeric-feature-settings: 'tnum' 1, 'zero' 1;
+
+  /* ---------- Motion ---------- */
+  --ease-out: cubic-bezier(0.16, 1, 0.3, 1);
+  --ease-out-bounce: cubic-bezier(0.34, 1.56, 0.64, 1);
+  --ease-in-out: cubic-bezier(0.65, 0, 0.35, 1);
+
+  --duration-instant: 100ms;
+  --duration-fast: 180ms;     /* hovers, small state toggles */
+  --duration-panel: 300ms;    /* panel/section transitions, modals */
+  --duration-slow: 480ms;     /* larger layout shifts */
+  --duration-count-up: 1200ms; /* KPI number count-up */
+
+  --transition-fast: var(--duration-fast) var(--ease-out);
+  --transition-panel: var(--duration-panel) var(--ease-out);
+  --transition-bounce: var(--duration-panel) var(--ease-out-bounce);
+
+  /* ---------- Spacing ---------- */
+  --space-1: 4px;
+  --space-2: 8px;
+  --space-3: 12px;
+  --space-4: 16px;
+  --space-5: 24px;
+  --space-6: 32px;
+  --space-7: 48px;
+  --space-8: 64px;
+
+  /* ---------- Radius ----------
+     Moderate, current - not sharp corporate rectangles, not maximal
+     bubble-rounded. */
+  --radius-sm: 8px;
+  --radius-md: 12px;
+  --radius-lg: 16px;
+  --radius-full: 999px; /* reserved for true pills/avatars only, used sparingly */
+
+  /* ---------- Shadow / glow ----------
+     Flat by default; glow is reserved for accent-bearing elements
+     (primary actions, active nav) so it reads as emphasis, not decoration
+     everywhere. */
+  --shadow-sm: 0 1px 2px rgba(0, 0, 0, 0.4);
+  --shadow-md: 0 4px 12px rgba(0, 0, 0, 0.45);
+  --shadow-lg: 0 12px 32px rgba(0, 0, 0, 0.5);
+
+  --glow-accent-sm: 0 0 0 1px var(--color-accent-border), 0 2px 8px rgba(124, 92, 255, 0.25);
+  --glow-accent-md: 0 0 0 1px var(--color-accent-border), 0 4px 20px rgba(124, 92, 255, 0.35);
+  --glow-accent-lg: 0 0 0 1px var(--color-accent-border), 0 8px 40px rgba(124, 92, 255, 0.45);
+
+  /* ---------- Focus ring (Stage 4) ----------
+     Stage 4 audit found ZERO :focus/:focus-visible rules anywhere in the
+     app - every interactive element relied entirely on browser defaults.
+     Solid, opaque accent-hover (#9B7FFF) rather than a translucent token,
+     applied via outline+offset so the ring is drawn OUTSIDE the element on
+     whatever sits behind it (page/card backdrop), not on the element's own
+     fill - this is what makes one ratio check valid for every button
+     regardless of its own background color (accent-solid/danger-solid/
+     etc. included), rather than needing a separate check per fill color.
+     Verified 5.52-6.46:1 against all 4 background tokens (bg/bg-raised/
+     surface/surface-hover) - see tokens.css footer. */
+  --focus-ring-width: 2px;
+  --focus-ring-offset: 2px;
+  --focus-ring-color: var(--color-accent-hover);
+}
+
+/*
+ * WCAG AA contrast ratios actually computed (relative-luminance formula,
+ * not eyeballed) for every accent/semantic color used as text or a
+ * text-bearing fill against the backgrounds this file puts it on.
+ * Thresholds: 4.5:1 normal text, 3:1 large text (>=24px regular or
+ * >=18.66px/14pt bold) and non-text UI components/borders.
+ *
+ *   accent (#7C5CFF) as text on --color-bg (#0A0A0F)........ 4.54:1  PASS (normal) - marginal, avoid for small text
+ *   accent (#7C5CFF) as text on --color-surface (#16161F)... 4.13:1  FAIL (normal) / PASS (large only) - do not use as small/body text
+ *   accent-hover (#9B7FFF) as text on --color-surface....... 5.88:1  PASS (normal) - used for KPI values
+ *   accent-hover (#9B7FFF) as text on --color-bg............ 6.46:1  PASS (normal)
+ *   white on accent-solid (#7053E6) [button label, resting].. 5.16:1  PASS (normal)
+ *   white on accent-solid-hover (#634ACC) [button hover]..... 6.21:1  PASS (normal)
+ *   white on accent-solid-active (#563FB0) [button press].... 7.68:1  PASS (normal)
+ *   accent-text (#EFEAFF) on composited nav-active pill..... 12.13:1 PASS (normal)
+ *   danger (#FF5C72) as text on --color-surface............. 6.01:1  PASS (normal)
+ *   warn (#FFB020) as text on --color-surface............... 9.83:1  PASS (normal)
+ *   success (#2ED573) as text on --color-surface............ 9.31:1  PASS (normal)
+ *   text-muted (#9494A3) on --color-surface.................. 6.01:1 PASS (normal)
+ *   text-faint (#84848F, was #5F5F6E) on bg/bg-raised/surface 5.34 / 5.04 / 4.86:1  PASS (normal) - all 3 backgrounds
+ *   border-strong (#68687A, was #34343F) on bg/bg-raised/surface 3.62 / 3.42 / 3.29:1  PASS (3:1 UI component) - all 3
+ *
+ * The two rows above were found by the Stage 1.2 DENSITY pass (a full
+ * 20-row, all-real-columns Priority Table preview) - not visible from
+ * hero elements (buttons/KPI cards) in isolation. Original values:
+ * text-faint (#5F5F6E, table column headers) measured 2.97:1 on
+ * --color-bg-raised - failed even the 3:1 floor. border-strong (#34343F,
+ * tracking-field input/select borders) measured 1.46:1 on --color-surface
+ * - badly failed 3:1 non-text UI contrast. --color-border (the lighter,
+ * #26262F divider/outline token) is exempt from the 3:1 rule on purpose -
+ * it's decorative (row separators, card outlines already distinguished by
+ * their own background), never the sole way a boundary is perceived.
+ *
+ * The two FAILs that existed before this file's Stage 1.1 revision (the
+ * original #7C5CFF/#9B7FFF button fill: 4.35:1 resting, 3.06:1 hover -
+ * hover was WORSE than resting because it lightened the fill) are what
+ * --color-accent-solid/-solid-hover/-solid-active above were introduced
+ * to fix. Re-run this check with any new color before shipping it.
+ *
+ * Stage 4 additions (forms/interactive elements):
+ *   focus-ring-color (#9B7FFF, = accent-hover) on bg/bg-raised/surface/
+ *     surface-hover.......................... 6.46 / 6.10 / 5.88 / 5.52:1
+ *     PASS (3:1 non-text UI floor, all 4 backgrounds) - drawn via
+ *     outline+offset so it sits on the backdrop BEHIND the element, not
+ *     the element's own fill, so this one check covers every button
+ *     regardless of its own background color.
+ *   accent (#7C5CFF) as native-control accent-color (checkbox/radio/
+ *     range fill - no text ever sits on top, so the 4.5:1 text floor
+ *     doesn't apply, only the 3:1 non-text floor) on bg/bg-raised/
+ *     surface/surface-hover.................. 4.54 / 4.29 / 4.13 / 3.88:1
+ *     PASS (3:1 floor, all 4 backgrounds)
+ *   disabled buttons (opacity: 0.6, pre-existing pattern, audited not
+ *     introduced) - white text + accent-solid fill both dimmed 0.6 over
+ *     --color-bg composite to ~9D9D9F text vs ~473690 fill = 3.53:1.
+ *     Below the 4.5:1 normal-text floor, but WCAG 1.4.3/1.4.11 explicitly
+ *     EXEMPT inactive/disabled UI components - not a failure, no change
+ *     made. Documented here since Stage 4 was asked to check it.
+ *
+ * Stage 5 additions (empty/loading/error states) - all reuse existing
+ * tokens in new contexts, no new colors introduced:
+ *   text-muted (#9494A3) on --color-surface-hover (=--warn-bg, the
+ *     .not-available/.caveat background)........................ 5.64:1 PASS
+ *   text-muted (#9494A3) directly on --color-border as a solid fill
+ *     (.health-badge-loading's placeholder badge, not a border line)
+ *     .............................................................. 5.01:1 PASS
+ *   danger (#FF5C72) on danger-bg composited over --color-bg (the
+ *     header's .usage-indicator-low pill, sits on page bg not surface)
+ *     .............................................................. 5.70:1 PASS
+ *   success (#2ED573) / warn (#FFB020) on their -bg tokens composited
+ *     over --color-surface (TrainingStatusIndicator's succeeded/queued
+ *     rows)........................................... 7.18:1 / 7.44:1 PASS
+ *   border-strong on --color-surface, reused for .copilot-message-bubble
+ *     (assistant bubble's background matches its own card background,
+ *     so the border is the ONLY perceptible boundary - same failure
+ *     pattern as Stage 4's finds, fixed the same way)............. 3.29:1 PASS
+ */
