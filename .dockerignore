@@ -8,3 +8,34 @@ database/app.db
 .venv/
 venv/
 *.egg-info/
+
+# Same allowlist as .gitignore's models/* rule, mirrored here on purpose -
+# .dockerignore governs the build context independently of what git tracks,
+# so without this, every self-registered tenant's model dir that happens to
+# exist on whoever's machine runs `docker build` (dev/test artifacts from
+# local training runs, none of them meant to ship) gets baked into the
+# image right alongside the real Telco/Banking ones. Caught by actually
+# building the image and inspecting it, not assumed correct - see
+# docker-compose.yml's comment on the models/ volume for why an EMPTY
+# models/ build context here would be just as wrong (Telco/Banking need to
+# still be present) as an unfiltered one.
+models/*
+!models/v1/
+!models/v1_enriched/
+!models/v2/
+!models/banking_v1/
+
+# Not read at build time or by the running app - frontend has its own,
+# separate .dockerignore/Dockerfile; node_modules/dist would only bloat the
+# backend image's build context for no reason.
+frontend/node_modules/
+frontend/dist/
+
+# Unrelated large datasets and runtime-generated tenant uploads - same
+# reasoning as .gitignore's own exclusions for these.
+data/raw/olist_orders_dataset.csv
+data/raw/olist_order_payments_dataset.csv
+data/tenant_uploads/
+data/live_demo/
+data/live_demo_v2/
+data/test_onboarding_samples/

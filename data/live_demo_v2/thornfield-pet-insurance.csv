@@ -1,0 +1,1801 @@
+PolicyID,policy_age_mo,Coverage Type,PREMIUM,Pet_Species,petAge,VET_VISITS_YTD,Multi_pet_Household,claimsFiled,AutoRenew,discount_applied,ZIPRegion,est_lifetime_val,Status
+TPI-00001,39,Wellness Plus,76.79,Dog,11,0,Yes,1,Yes,No,Suburban,4636.89,Lapsed
+TPI-00002,0,Comprehensive,50.51,Cat,12,2,No,3,Yes,No,Suburban,244.08,Active
+TPI-00003,53,Basic Accident,17.73,Cat,14,2,No,2,Yes,No,Rural,714.06,Lapsed
+TPI-00004,56,Comprehensive,49.61,Cat,14,1,No,2,Yes,No,Urban,2302.53,Active
+TPI-00005,0,Comprehensive,61.96,Dog,8,3,No,1,No,Yes,Rural,0.0,Active
+TPI-00006,2,Comprehensive,36.12,Dog,7,2,No,1,Yes,No,Rural,250.95,Active
+TPI-00007,1,Comprehensive,61.76,Dog,6,3,No,2,Yes,Yes,Urban,215.93,Active
+TPI-00008,19,Basic Accident,20.78,Dog,1,3,Yes,0,Yes,No,Urban,589.11,Active
+TPI-00009,28,Comprehensive,57.77,Dog,7,3,No,2,No,Yes,Suburban,2913.52,Lapsed
+TPI-00010,1,Wellness Plus,72.35,Cat,13,1,No,0,Yes,No,Urban,238.0,Lapsed
+TPI-00011,34,Basic Accident,28.72,Dog,12,3,Yes,0,Yes,No,Suburban,541.33,Active
+TPI-00012,58,Comprehensive,45.21,Dog,5,3,Yes,0,Yes,No,Urban,3975.09,Lapsed
+TPI-00013,50,Comprehensive,54.15,Cat,5,0,No,3,Yes,Yes,Rural,1651.62,Active
+TPI-00014,39,Basic Accident,16.19,Cat,8,1,No,1,Yes,No,Suburban,460.08,Lapsed
+TPI-00015,40,Basic Accident,26.91,Cat,8,1,Yes,0,No,No,Suburban,1745.11,Active
+TPI-00016,7,Basic Accident,14.93,Cat,3,2,No,0,Yes,Yes,Suburban,270.7,Active
+TPI-00017,3,Basic Accident,22.96,Dog,13,3,No,1,Yes,No,Suburban,245.56,Active
+TPI-00018,42,Basic Accident,26.89,Dog,9,1,Yes,0,No,No,Suburban,526.7,Active
+TPI-00019,22,Comprehensive,65.52,Dog,11,0,No,0,No,Yes,Urban,1963.34,Active
+TPI-00020,59,Comprehensive,36.75,Dog,15,9,No,1,No,No,Suburban,1374.09,Active
+TPI-00021,41,Wellness Plus,89.56,Cat,11,2,No,0,Yes,No,Rural,5891.31,Active
+TPI-00022,31,Basic Accident,15.86,Cat,8,3,No,1,Yes,No,Urban,491.86,Active
+TPI-00023,31,Comprehensive,49.79,Dog,3,4,No,1,Yes,Yes,Urban,2269.96,Active
+TPI-00024,15,Wellness Plus,86.84,Dog,13,0,No,1,No,Yes,Urban,1698.93,Active
+TPI-00025,51,Wellness Plus,65.69,Dog,1,0,No,0,Yes,No,Rural,3227.93,Active
+TPI-00026,35,Basic Accident,18.94,Dog,6,1,No,2,Yes,No,Suburban,742.77,Lapsed
+TPI-00027,20,Comprehensive,38.97,Dog,7,1,No,2,No,No,Suburban,655.26,Lapsed
+TPI-00028,37,Comprehensive,50.96,Cat,13,3,Yes,0,No,No,Urban,3123.86,Active
+TPI-00029,48,Wellness Plus,79.65,Other,10,1,No,0,No,Yes,Urban,1698.95,Active
+TPI-00030,29,Basic Accident,27.3,Cat,4,2,No,0,Yes,No,Suburban,575.83,Active
+TPI-00031,19,Basic Accident,19.79,Cat,13,0,No,1,No,No,Suburban,483.29,Active
+TPI-00032,54,Comprehensive,55.85,Dog,4,2,No,0,No,No,Urban,1142.61,Active
+TPI-00033,4,Comprehensive,40.09,Dog,4,2,No,0,No,No,Rural,35.93,Active
+TPI-00034,35,Comprehensive,43.56,Dog,6,3,No,1,No,No,Suburban,1440.36,Active
+TPI-00035,42,Comprehensive,47.72,Cat,8,1,No,1,Yes,No,Rural,3147.42,Active
+TPI-00036,42,Comprehensive,55.49,Dog,9,3,No,0,No,Yes,Rural,4346.54,Active
+TPI-00037,39,Basic Accident,21.17,Cat,13,4,No,1,No,No,Suburban,357.27,Active
+TPI-00038,42,Comprehensive,56.7,Cat,7,3,No,1,Yes,No,Rural,2761.91,Active
+TPI-00039,43,Comprehensive,52.22,Dog,5,1,No,1,No,No,Suburban,3347.24,Active
+TPI-00040,26,Basic Accident,20.82,Cat,4,2,No,1,No,No,Rural,709.08,Active
+TPI-00041,40,Comprehensive,50.58,Dog,5,1,No,0,No,No,Suburban,2600.78,Active
+TPI-00042,22,Comprehensive,48.42,Dog,8,1,No,2,Yes,No,Suburban,975.89,Active
+TPI-00043,23,Comprehensive,55.67,Dog,6,3,Yes,4,No,No,Urban,1211.83,Lapsed
+TPI-00044,43,Wellness Plus,56.45,Dog,6,0,No,0,Yes,No,Suburban,1791.25,Active
+TPI-00045,52,Wellness Plus,66.55,Dog,6,1,No,1,No,Yes,Urban,4238.72,Active
+TPI-00046,9,Wellness Plus,97.34,Cat,7,3,No,0,No,No,Urban,1605.12,Active
+TPI-00047,22,Basic Accident,16.91,Dog,5,2,Yes,0,Yes,No,Urban,600.82,Active
+TPI-00048,34,Wellness Plus,79.05,Dog,13,1,No,0,Yes,Yes,Urban,1843.24,Active
+TPI-00049,23,Wellness Plus,94.73,Cat,7,4,No,0,No,Yes,Suburban,1419.89,Active
+TPI-00050,23,Comprehensive,52.57,Dog,14,3,Yes,1,No,No,Urban,776.4,Active
+TPI-00051,3,Wellness Plus,81.85,Cat,10,1,Yes,1,No,No,Suburban,126.0,Active
+TPI-00052,25,Wellness Plus,85.6,Cat,0,1,No,1,No,No,Urban,2190.3,Active
+TPI-00053,53,Wellness Plus,79.04,Cat,15,2,No,1,Yes,Yes,Urban,2693.4,Active
+TPI-00054,51,Comprehensive,54.33,Dog,13,2,No,1,Yes,No,Rural,2199.84,Active
+TPI-00055,48,Comprehensive,50.02,Dog,1,3,No,0,No,Yes,Suburban,3632.81,Active
+TPI-00056,11,Comprehensive,38.11,Dog,9,5,No,2,No,Yes,Urban,466.45,Active
+TPI-00057,0,Comprehensive,39.06,Cat,14,1,No,0,Yes,Yes,Suburban,47.32,Active
+TPI-00058,21,Wellness Plus,55.0,Dog,4,1,No,2,Yes,Yes,Suburban,1226.23,Active
+TPI-00059,15,Comprehensive,52.2,Cat,1,2,No,1,Yes,No,Urban,1159.28,Active
+TPI-00060,35,Comprehensive,44.47,Cat,14,6,Yes,0,Yes,No,Suburban,1365.94,Active
+TPI-00061,42,Wellness Plus,83.14,Cat,12,4,No,0,Yes,No,Suburban,1478.1,Active
+TPI-00062,18,Basic Accident,23.02,Dog,3,1,No,1,No,Yes,Urban,376.52,Active
+TPI-00063,13,Basic Accident,27.39,Dog,10,3,No,2,Yes,Yes,Urban,547.08,Active
+TPI-00064,56,Basic Accident,22.82,Dog,8,3,Yes,1,No,No,Urban,2753.65,Active
+TPI-00065,5,Comprehensive,52.06,Dog,12,3,No,1,Yes,No,Suburban,338.78,Active
+TPI-00066,31,Basic Accident,27.05,Cat,14,2,No,1,Yes,Yes,Urban,1192.25,Active
+TPI-00067,37,Wellness Plus,93.23,Dog,6,3,No,0,Yes,Yes,Urban,3209.55,Active
+TPI-00068,24,Wellness Plus,87.74,Cat,0,2,Yes,4,Yes,No,Suburban,6415.27,Active
+TPI-00069,20,Basic Accident,20.92,Dog,4,3,No,0,No,No,Urban,553.43,Lapsed
+TPI-00070,39,Basic Accident,23.12,Other,11,0,No,0,Yes,No,Urban,2094.7,Active
+TPI-00071,31,Comprehensive,44.7,Dog,11,2,Yes,1,Yes,No,Suburban,695.52,Active
+TPI-00072,33,Basic Accident,25.9,Dog,4,2,Yes,1,Yes,No,Suburban,731.8,Active
+TPI-00073,13,Basic Accident,22.76,Dog,1,2,Yes,2,Yes,Yes,Suburban,403.42,Lapsed
+TPI-00074,13,Basic Accident,17.85,Cat,6,2,Yes,0,No,No,Urban,292.49,Active
+TPI-00075,36,Comprehensive,42.0,Dog,0,0,Yes,0,Yes,No,Urban,1951.21,Active
+TPI-00076,17,Basic Accident,19.06,Dog,7,6,No,1,Yes,No,Urban,649.24,Lapsed
+TPI-00077,10,Basic Accident,22.33,Dog,15,2,No,0,No,Yes,Suburban,127.97,Lapsed
+TPI-00078,56,Wellness Plus,55.0,Dog,9,2,Yes,2,Yes,No,Suburban,4916.12,Active
+TPI-00079,17,Comprehensive,53.89,Dog,10,2,No,3,Yes,No,Suburban,1123.64,Active
+TPI-00080,29,Comprehensive,37.64,Dog,3,6,No,0,Yes,Yes,Suburban,984.16,Active
+TPI-00081,29,Comprehensive,52.81,Cat,3,2,Yes,0,No,No,Suburban,1656.49,Active
+TPI-00082,21,Wellness Plus,88.27,Dog,10,1,No,0,Yes,No,Urban,3259.8,Active
+TPI-00083,33,Basic Accident,25.37,Cat,7,1,Yes,2,Yes,No,Rural,1251.64,Active
+TPI-00084,57,Comprehensive,45.2,Dog,4,1,No,1,Yes,Yes,Urban,3134.47,Active
+TPI-00085,37,Comprehensive,42.1,Cat,0,1,No,1,Yes,No,Urban,2058.96,Active
+TPI-00086,37,Comprehensive,44.92,Dog,4,2,Yes,3,Yes,Yes,Rural,2156.48,Active
+TPI-00087,30,Basic Accident,21.35,Cat,7,1,No,0,No,No,Suburban,589.48,Lapsed
+TPI-00088,42,Basic Accident,25.97,Dog,9,3,No,3,Yes,No,Urban,1323.75,Lapsed
+TPI-00089,0,Comprehensive,49.25,Other,11,5,Yes,2,Yes,No,Suburban,267.65,Active
+TPI-00090,16,Basic Accident,29.47,Dog,5,1,No,0,Yes,No,Suburban,203.93,Active
+TPI-00091,0,Comprehensive,62.21,Cat,0,3,Yes,1,No,No,Urban,88.61,Active
+TPI-00092,12,Comprehensive,52.01,Dog,4,1,No,3,No,Yes,Urban,438.66,Active
+TPI-00093,9,Wellness Plus,76.37,Dog,8,1,No,2,Yes,Yes,Suburban,604.66,Active
+TPI-00094,27,Comprehensive,56.91,Dog,7,3,No,2,No,No,Suburban,1742.2,Lapsed
+TPI-00095,58,Wellness Plus,72.82,Other,0,3,No,1,Yes,Yes,Suburban,3955.46,Active
+TPI-00096,25,Basic Accident,26.58,Dog,15,2,Yes,0,No,No,Urban,710.37,Lapsed
+TPI-00097,47,Wellness Plus,73.89,Dog,2,0,No,0,Yes,No,Suburban,2269.0,Active
+TPI-00098,48,Basic Accident,20.26,Dog,12,2,Yes,2,No,No,Urban,1180.78,Lapsed
+TPI-00099,30,Comprehensive,53.85,Dog,7,2,No,1,Yes,No,Suburban,1409.28,Active
+TPI-00100,13,Wellness Plus,78.48,Cat,1,3,No,0,No,No,Suburban,1813.47,Active
+TPI-00101,18,Comprehensive,49.71,Dog,1,1,No,1,No,Yes,Urban,748.95,Lapsed
+TPI-00102,36,Wellness Plus,68.3,Cat,7,0,No,3,Yes,No,Suburban,3185.25,Active
+TPI-00103,2,Comprehensive,44.84,Dog,10,3,Yes,0,Yes,No,Suburban,101.02,Active
+TPI-00104,27,Comprehensive,44.82,Cat,10,4,No,1,No,Yes,Urban,2851.39,Active
+TPI-00105,30,Comprehensive,46.57,Dog,3,2,Yes,5,No,No,Urban,1490.22,Active
+TPI-00106,44,Wellness Plus,77.99,Dog,9,0,No,1,Yes,No,Suburban,3981.58,Active
+TPI-00107,53,Wellness Plus,85.77,Cat,5,1,No,0,Yes,No,Urban,6686.6,Active
+TPI-00108,57,Comprehensive,56.5,Dog,7,1,No,0,Yes,No,Suburban,2887.07,Active
+TPI-00109,41,Comprehensive,66.69,Cat,12,1,No,0,Yes,No,Urban,7736.02,Active
+TPI-00110,10,Comprehensive,45.46,Dog,15,3,No,1,Yes,Yes,Suburban,937.77,Active
+TPI-00111,31,Comprehensive,49.84,Dog,8,2,Yes,2,Yes,No,Rural,1111.54,Active
+TPI-00112,51,Wellness Plus,82.52,Dog,14,1,Yes,0,Yes,Yes,Urban,5125.62,Active
+TPI-00113,13,Comprehensive,48.77,Dog,12,1,No,0,No,No,Suburban,877.04,Active
+TPI-00114,48,Basic Accident,20.8,Dog,5,2,No,0,Yes,No,Urban,1566.13,Active
+TPI-00115,1,Wellness Plus,84.7,Dog,4,2,No,1,No,No,Urban,150.16,Active
+TPI-00116,41,Basic Accident,27.44,Dog,8,4,Yes,1,No,No,Suburban,990.84,Lapsed
+TPI-00117,46,Basic Accident,23.11,Dog,6,2,No,1,Yes,Yes,Urban,1810.12,Active
+TPI-00118,9,Comprehensive,44.85,Dog,7,1,No,0,No,No,Rural,294.55,Active
+TPI-00119,29,Comprehensive,32.3,Cat,3,0,No,3,Yes,No,Rural,903.45,Active
+TPI-00120,45,Basic Accident,22.17,Cat,9,1,No,1,Yes,No,Suburban,677.04,Lapsed
+TPI-00121,28,Comprehensive,59.43,Dog,12,1,No,2,No,No,Suburban,1123.04,Active
+TPI-00122,23,Comprehensive,52.45,Cat,0,0,No,1,Yes,Yes,Rural,687.59,Lapsed
+TPI-00123,57,Comprehensive,52.83,Dog,12,2,No,2,No,No,Urban,2045.81,Active
+TPI-00124,59,Basic Accident,21.29,Dog,3,1,No,0,Yes,No,Rural,1616.7,Active
+TPI-00125,25,Comprehensive,44.01,Dog,3,2,No,4,No,Yes,Urban,1892.7,Active
+TPI-00126,26,Comprehensive,53.38,Dog,6,4,No,2,Yes,No,Suburban,1256.46,Active
+TPI-00127,31,Basic Accident,18.62,Dog,8,5,No,0,No,No,Suburban,569.23,Lapsed
+TPI-00128,9,Comprehensive,38.97,Cat,11,4,No,1,No,Yes,Urban,269.47,Active
+TPI-00129,40,Basic Accident,18.18,Cat,7,3,No,0,No,No,Rural,569.2,Lapsed
+TPI-00130,46,Comprehensive,50.59,Dog,1,0,Yes,0,No,No,Urban,1419.09,Active
+TPI-00131,37,Basic Accident,20.23,Cat,8,2,No,0,Yes,No,Urban,506.94,Active
+TPI-00132,47,Comprehensive,39.96,Cat,7,0,No,0,Yes,No,Suburban,3262.86,Active
+TPI-00133,38,Basic Accident,20.2,Dog,12,3,No,1,No,No,Rural,699.4,Active
+TPI-00134,26,Comprehensive,40.29,Dog,11,2,No,1,No,Yes,Suburban,1387.64,Active
+TPI-00135,17,Basic Accident,24.42,Cat,7,4,No,0,No,No,Suburban,425.66,Active
+TPI-00136,49,Comprehensive,47.67,Cat,6,3,No,1,Yes,Yes,Suburban,4310.03,Active
+TPI-00137,42,Basic Accident,20.67,Cat,4,3,Yes,0,Yes,No,Suburban,518.4,Active
+TPI-00138,38,Comprehensive,45.56,Cat,14,2,No,0,No,No,Suburban,1526.55,Active
+TPI-00139,10,Comprehensive,61.01,Dog,12,2,No,1,No,No,Rural,643.18,Active
+TPI-00140,40,Comprehensive,34.44,Dog,14,2,No,1,No,No,Urban,941.42,Active
+TPI-00141,17,Basic Accident,22.07,Dog,3,3,Yes,0,Yes,No,Urban,274.52,Lapsed
+TPI-00142,22,Wellness Plus,95.74,Dog,13,6,No,1,Yes,No,Suburban,2242.93,Active
+TPI-00143,60,Comprehensive,52.31,Dog,11,0,Yes,0,No,No,Rural,3862.79,Active
+TPI-00144,13,Comprehensive,56.61,Dog,4,0,No,0,No,No,Rural,1444.18,Lapsed
+TPI-00145,51,Comprehensive,42.66,Dog,8,1,No,0,No,No,Suburban,1807.09,Active
+TPI-00146,7,Comprehensive,45.8,Cat,14,4,No,0,Yes,No,Urban,340.02,Active
+TPI-00147,6,Comprehensive,53.81,Other,0,1,No,0,No,Yes,Suburban,130.59,Active
+TPI-00148,46,Basic Accident,20.3,Dog,4,0,No,5,Yes,Yes,Suburban,940.95,Lapsed
+TPI-00149,40,Comprehensive,40.69,Cat,15,1,Yes,1,Yes,Yes,Suburban,1919.15,Active
+TPI-00150,58,Basic Accident,20.68,Dog,1,2,No,0,Yes,No,Suburban,813.62,Active
+TPI-00151,51,Wellness Plus,78.24,Dog,10,1,No,0,No,No,Suburban,3927.31,Active
+TPI-00152,34,Wellness Plus,85.1,Cat,11,1,Yes,1,No,No,Rural,1814.2,Active
+TPI-00153,46,Wellness Plus,72.24,Dog,9,4,No,2,Yes,Yes,Suburban,3238.89,Active
+TPI-00154,27,Wellness Plus,82.48,Dog,12,5,Yes,0,No,No,Urban,5349.09,Lapsed
+TPI-00155,4,Basic Accident,23.16,Dog,5,1,Yes,1,Yes,No,Urban,247.47,Lapsed
+TPI-00156,1,Basic Accident,12.0,Dog,2,2,No,1,No,Yes,Suburban,64.06,Lapsed
+TPI-00157,16,Basic Accident,27.36,Other,14,1,Yes,0,No,No,Rural,1458.57,Lapsed
+TPI-00158,54,Comprehensive,48.21,Dog,14,2,No,1,Yes,Yes,Urban,4225.53,Active
+TPI-00159,6,Comprehensive,47.01,Dog,0,2,Yes,1,Yes,No,Urban,504.13,Active
+TPI-00160,54,Basic Accident,21.38,Cat,7,2,Yes,2,No,No,Rural,1163.73,Active
+TPI-00161,19,Comprehensive,51.07,Cat,2,4,Yes,3,Yes,No,Rural,1520.64,Active
+TPI-00162,25,Comprehensive,49.34,Dog,7,3,No,0,Yes,No,Rural,1792.26,Active
+TPI-00163,39,Basic Accident,18.08,Cat,5,0,No,2,Yes,No,Rural,668.71,Active
+TPI-00164,44,Wellness Plus,82.43,Dog,1,0,No,1,Yes,No,Suburban,6037.49,Active
+TPI-00165,9,Comprehensive,47.25,Dog,13,5,Yes,2,No,No,Suburban,819.24,Active
+TPI-00166,44,Wellness Plus,66.88,Dog,2,1,No,0,Yes,No,Urban,2892.79,Active
+TPI-00167,47,Comprehensive,47.72,Cat,5,1,No,1,No,No,Rural,1779.21,Active
+TPI-00168,5,Comprehensive,44.51,Cat,14,4,Yes,0,No,No,Suburban,368.82,Active
+TPI-00169,52,Wellness Plus,72.12,Dog,1,2,No,0,No,No,Urban,3093.5,Active
+TPI-00170,33,Basic Accident,17.43,Other,2,1,No,1,No,No,Rural,546.15,Lapsed
+TPI-00171,41,Basic Accident,22.28,Dog,7,3,No,1,No,No,Urban,607.82,Active
+TPI-00172,16,Wellness Plus,65.76,Dog,7,1,No,0,No,No,Suburban,739.1,Active
+TPI-00173,44,Comprehensive,54.4,Dog,1,2,No,0,No,Yes,Urban,5280.61,Lapsed
+TPI-00174,41,Basic Accident,12.0,Dog,15,2,No,2,Yes,No,Suburban,1185.13,Active
+TPI-00175,5,Comprehensive,49.66,Cat,0,1,No,2,No,Yes,Rural,531.46,Active
+TPI-00176,10,Comprehensive,49.08,Cat,13,2,No,0,Yes,Yes,Suburban,757.48,Active
+TPI-00177,46,Comprehensive,60.34,Cat,9,4,No,4,Yes,Yes,Urban,1751.85,Active
+TPI-00178,45,Wellness Plus,79.82,Dog,10,0,Yes,2,Yes,Yes,Suburban,4448.27,Active
+TPI-00179,15,Basic Accident,27.06,Dog,3,2,No,0,No,No,Suburban,542.61,Lapsed
+TPI-00180,28,Comprehensive,54.6,Cat,10,2,No,1,Yes,No,Suburban,1766.1,Active
+TPI-00181,46,Basic Accident,18.75,Cat,7,2,Yes,0,No,No,Urban,1148.86,Lapsed
+TPI-00182,49,Wellness Plus,77.26,Cat,5,1,No,1,Yes,No,Urban,8966.62,Active
+TPI-00183,11,Basic Accident,27.19,Other,6,0,No,0,Yes,No,Suburban,366.85,Active
+TPI-00184,47,Basic Accident,24.34,Dog,12,2,No,1,No,No,Suburban,1248.2,Active
+TPI-00185,25,Comprehensive,43.86,Cat,8,4,No,1,Yes,Yes,Suburban,798.76,Active
+TPI-00186,41,Comprehensive,65.54,Dog,9,2,Yes,0,Yes,No,Suburban,3475.17,Active
+TPI-00187,4,Basic Accident,21.62,Cat,4,0,Yes,1,Yes,No,Suburban,272.24,Active
+TPI-00188,2,Wellness Plus,90.85,Dog,1,3,No,0,Yes,Yes,Suburban,296.6,Active
+TPI-00189,24,Basic Accident,25.06,Cat,8,2,No,1,No,No,Urban,436.92,Lapsed
+TPI-00190,47,Comprehensive,44.95,Cat,2,2,No,0,Yes,No,Rural,1683.63,Active
+TPI-00191,45,Comprehensive,68.88,Cat,1,4,Yes,1,No,No,Suburban,960.7,Active
+TPI-00192,37,Basic Accident,19.46,Dog,12,2,No,0,Yes,No,Suburban,824.73,Active
+TPI-00193,48,Wellness Plus,86.78,Cat,6,1,No,0,No,No,Rural,3550.74,Active
+TPI-00194,7,Basic Accident,20.81,Cat,7,1,No,2,Yes,Yes,Urban,363.38,Lapsed
+TPI-00195,31,Wellness Plus,81.14,Dog,13,3,No,1,Yes,Yes,Urban,2658.11,Active
+TPI-00196,19,Wellness Plus,87.07,Dog,15,2,No,1,Yes,No,Suburban,2234.05,Active
+TPI-00197,26,Comprehensive,32.0,Dog,0,1,No,1,Yes,No,Urban,1925.61,Active
+TPI-00198,60,Comprehensive,44.09,Dog,13,5,No,1,Yes,No,Urban,1914.07,Active
+TPI-00199,36,Comprehensive,47.19,Dog,0,2,No,0,Yes,No,Urban,2441.76,Active
+TPI-00200,55,Basic Accident,29.27,Dog,9,2,No,0,Yes,No,Suburban,1046.34,Active
+TPI-00201,60,Comprehensive,46.66,Dog,5,1,No,2,Yes,No,Suburban,2423.75,Active
+TPI-00202,18,Comprehensive,45.75,Other,15,6,No,0,Yes,Yes,Rural,809.28,Active
+TPI-00203,42,Basic Accident,24.51,Dog,4,3,No,0,Yes,No,Suburban,1514.11,Active
+TPI-00204,30,Wellness Plus,84.63,Dog,0,5,No,1,No,No,Suburban,1561.85,Active
+TPI-00205,28,Basic Accident,25.38,Dog,13,2,Yes,2,Yes,No,Suburban,558.75,Lapsed
+TPI-00206,2,Wellness Plus,89.7,Other,6,2,Yes,0,Yes,Yes,Urban,236.66,Active
+TPI-00207,34,Basic Accident,21.88,Dog,4,0,No,0,No,No,Rural,98.26,Lapsed
+TPI-00208,60,Basic Accident,18.39,Dog,1,2,Yes,1,No,No,Rural,1667.03,Lapsed
+TPI-00209,39,Comprehensive,52.15,Cat,10,3,No,0,No,Yes,Urban,2643.01,Active
+TPI-00210,58,Wellness Plus,90.45,Dog,3,1,No,0,Yes,Yes,Suburban,5105.66,Active
+TPI-00211,12,Comprehensive,43.87,Cat,14,1,No,0,Yes,No,Urban,850.17,Active
+TPI-00212,7,Basic Accident,21.36,Dog,7,1,No,1,Yes,No,Urban,264.12,Active
+TPI-00213,5,Wellness Plus,101.82,Dog,13,2,No,0,Yes,No,Suburban,840.98,Active
+TPI-00214,21,Comprehensive,48.74,Dog,13,2,Yes,1,No,No,Urban,1391.76,Lapsed
+TPI-00215,11,Basic Accident,17.26,Dog,11,2,No,0,No,No,Rural,133.56,Lapsed
+TPI-00216,3,Comprehensive,50.58,Other,9,3,No,0,Yes,Yes,Rural,429.7,Active
+TPI-00217,54,Basic Accident,16.02,Cat,4,1,Yes,1,Yes,No,Urban,891.47,Lapsed
+TPI-00218,49,Comprehensive,70.0,Dog,4,1,Yes,0,Yes,No,Suburban,1479.52,Active
+TPI-00219,42,Basic Accident,22.19,Dog,13,2,No,1,Yes,No,Urban,963.79,Active
+TPI-00220,28,Comprehensive,60.85,Dog,15,4,Yes,0,No,No,Urban,2033.55,Active
+TPI-00221,6,Basic Accident,18.96,Dog,7,2,No,1,No,No,Urban,28.33,Active
+TPI-00222,57,Comprehensive,53.03,Other,8,6,Yes,2,No,Yes,Urban,3824.25,Active
+TPI-00223,60,Comprehensive,59.91,Dog,1,2,No,0,Yes,No,Urban,6199.52,Active
+TPI-00224,8,Basic Accident,23.77,Cat,5,1,No,0,No,No,Urban,58.27,Active
+TPI-00225,40,Wellness Plus,88.78,Dog,1,0,No,0,No,Yes,Urban,1804.95,Active
+TPI-00226,4,Comprehensive,32.0,Dog,9,6,Yes,0,No,No,Urban,204.03,Lapsed
+TPI-00227,11,Comprehensive,36.23,Dog,0,2,No,0,Yes,No,Suburban,434.33,Active
+TPI-00228,56,Comprehensive,46.39,Dog,0,3,No,1,No,No,Suburban,4272.88,Active
+TPI-00229,23,Wellness Plus,65.36,Dog,15,3,Yes,1,Yes,No,Urban,1633.98,Active
+TPI-00230,56,Comprehensive,39.51,Dog,7,2,No,0,No,No,Urban,1051.65,Active
+TPI-00231,42,Wellness Plus,94.66,Dog,5,1,No,0,No,No,Suburban,2220.09,Active
+TPI-00232,52,Basic Accident,19.53,Dog,4,1,No,0,Yes,Yes,Suburban,2646.79,Active
+TPI-00233,3,Wellness Plus,71.34,Dog,7,1,Yes,0,No,Yes,Urban,135.46,Active
+TPI-00234,16,Comprehensive,52.51,Dog,12,2,No,2,Yes,No,Suburban,825.57,Active
+TPI-00235,16,Wellness Plus,101.18,Cat,10,3,No,2,Yes,No,Urban,1300.07,Active
+TPI-00236,60,Basic Accident,14.83,Dog,10,3,No,1,Yes,No,Urban,453.63,Active
+TPI-00237,36,Wellness Plus,74.92,Dog,13,1,No,1,No,No,Urban,3205.01,Active
+TPI-00238,8,Basic Accident,24.77,Dog,14,4,Yes,1,Yes,No,Urban,180.41,Active
+TPI-00239,52,Comprehensive,55.21,Cat,12,2,No,2,No,No,Suburban,3597.37,Lapsed
+TPI-00240,27,Basic Accident,24.53,Dog,2,2,No,2,Yes,No,Suburban,909.61,Active
+TPI-00241,4,Wellness Plus,98.24,Cat,10,1,Yes,1,No,Yes,Suburban,550.85,Active
+TPI-00242,19,Basic Accident,24.05,Cat,1,1,No,0,No,No,Rural,52.34,Lapsed
+TPI-00243,57,Basic Accident,20.37,Dog,9,0,Yes,1,Yes,Yes,Suburban,1177.85,Active
+TPI-00244,50,Basic Accident,26.66,Cat,3,2,Yes,1,Yes,No,Suburban,2173.67,Active
+TPI-00245,14,Wellness Plus,66.21,Dog,10,0,No,0,No,No,Urban,745.62,Active
+TPI-00246,46,Wellness Plus,97.3,Dog,14,5,No,0,Yes,No,Suburban,3893.25,Active
+TPI-00247,57,Comprehensive,46.41,Dog,14,3,Yes,0,Yes,Yes,Urban,1638.19,Active
+TPI-00248,27,Comprehensive,41.88,Other,15,2,No,0,No,No,Suburban,955.14,Active
+TPI-00249,47,Basic Accident,21.5,Dog,8,2,Yes,0,Yes,No,Suburban,740.95,Active
+TPI-00250,36,Comprehensive,59.14,Cat,11,3,No,3,No,No,Urban,1940.42,Active
+TPI-00251,52,Comprehensive,33.16,Cat,11,1,No,0,Yes,Yes,Suburban,1095.82,Active
+TPI-00252,54,Basic Accident,22.38,Dog,7,2,No,0,No,No,Suburban,1881.54,Active
+TPI-00253,17,Comprehensive,45.72,Dog,13,5,No,1,No,No,Suburban,1187.71,Active
+TPI-00254,4,Basic Accident,24.02,Dog,8,2,No,0,Yes,No,Rural,78.27,Active
+TPI-00255,54,Basic Accident,17.0,Cat,6,5,Yes,0,Yes,Yes,Urban,2793.43,Active
+TPI-00256,56,Comprehensive,40.02,Dog,3,4,No,1,Yes,No,Suburban,2607.85,Active
+TPI-00257,11,Basic Accident,21.98,Dog,7,0,No,1,Yes,No,Urban,327.92,Active
+TPI-00258,59,Basic Accident,21.64,Dog,10,3,No,1,No,No,Suburban,2545.74,Lapsed
+TPI-00259,3,Comprehensive,47.64,Dog,2,4,No,2,No,No,Rural,277.16,Lapsed
+TPI-00260,9,Basic Accident,24.07,Cat,15,0,No,1,Yes,No,Urban,272.58,Lapsed
+TPI-00261,34,Basic Accident,23.51,Dog,6,6,No,1,Yes,Yes,Urban,578.6,Active
+TPI-00262,50,Wellness Plus,100.16,Dog,2,2,No,1,Yes,No,Suburban,1168.93,Active
+TPI-00263,60,Comprehensive,45.25,Dog,7,4,No,2,No,Yes,Suburban,6918.65,Active
+TPI-00264,8,Wellness Plus,102.49,Cat,3,2,No,1,No,No,Rural,1009.7,Active
+TPI-00265,44,Wellness Plus,96.71,Dog,13,1,Yes,0,No,No,Suburban,4947.49,Active
+TPI-00266,23,Basic Accident,26.78,Cat,6,0,No,0,Yes,Yes,Suburban,956.99,Active
+TPI-00267,47,Wellness Plus,83.1,Dog,4,4,No,1,Yes,Yes,Rural,3216.89,Active
+TPI-00268,27,Comprehensive,46.45,Dog,13,3,Yes,1,No,Yes,Suburban,1724.14,Active
+TPI-00269,8,Basic Accident,28.29,Cat,5,1,No,0,No,No,Suburban,165.62,Active
+TPI-00270,38,Wellness Plus,80.37,Dog,9,2,Yes,0,Yes,No,Urban,3380.77,Active
+TPI-00271,27,Wellness Plus,82.71,Dog,2,1,Yes,3,Yes,No,Urban,3389.37,Active
+TPI-00272,27,Comprehensive,50.28,Dog,11,2,Yes,2,Yes,No,Rural,1045.16,Lapsed
+TPI-00273,32,Basic Accident,20.75,Other,1,1,Yes,1,Yes,No,Urban,2698.74,Active
+TPI-00274,16,Basic Accident,14.32,Dog,10,0,No,0,Yes,Yes,Urban,202.12,Active
+TPI-00275,57,Comprehensive,63.53,Cat,4,1,No,1,Yes,Yes,Urban,4903.29,Active
+TPI-00276,23,Comprehensive,56.72,Dog,1,0,No,0,No,No,Suburban,1244.61,Active
+TPI-00277,20,Comprehensive,45.62,Other,12,2,Yes,1,No,No,Urban,1890.87,Lapsed
+TPI-00278,47,Comprehensive,43.79,Cat,10,4,No,0,Yes,No,Suburban,1952.83,Active
+TPI-00279,50,Basic Accident,13.57,Dog,1,1,No,0,No,No,Rural,428.09,Active
+TPI-00280,6,Wellness Plus,67.02,Cat,15,1,No,1,Yes,No,Suburban,688.16,Active
+TPI-00281,3,Comprehensive,51.47,Dog,10,4,No,0,Yes,Yes,Suburban,150.94,Active
+TPI-00282,30,Basic Accident,26.42,Cat,0,1,No,0,Yes,No,Urban,1314.45,Active
+TPI-00283,53,Wellness Plus,77.51,Other,8,0,No,1,No,No,Urban,2368.57,Active
+TPI-00284,43,Comprehensive,35.79,Dog,7,1,Yes,1,Yes,No,Suburban,1177.13,Lapsed
+TPI-00285,41,Comprehensive,32.0,Cat,1,0,No,1,Yes,Yes,Suburban,1071.17,Lapsed
+TPI-00286,0,Basic Accident,17.86,Cat,12,4,No,0,No,No,Suburban,32.76,Lapsed
+TPI-00287,56,Basic Accident,20.7,Dog,6,0,No,1,No,No,Suburban,759.78,Lapsed
+TPI-00288,31,Comprehensive,49.2,Cat,4,3,No,1,Yes,No,Urban,3233.42,Active
+TPI-00289,47,Basic Accident,26.1,Dog,6,3,No,0,Yes,Yes,Suburban,3455.75,Active
+TPI-00290,7,Basic Accident,22.88,Dog,1,2,No,1,No,No,Urban,128.23,Lapsed
+TPI-00291,59,Basic Accident,30.83,Dog,8,2,No,0,Yes,No,Urban,3383.46,Active
+TPI-00292,10,Comprehensive,47.22,Dog,7,1,Yes,0,Yes,No,Urban,686.46,Active
+TPI-00293,30,Basic Accident,25.62,Dog,6,0,Yes,1,Yes,Yes,Urban,894.14,Lapsed
+TPI-00294,11,Wellness Plus,91.63,Dog,1,2,No,3,No,Yes,Urban,638.04,Active
+TPI-00295,31,Comprehensive,59.35,Dog,0,0,No,1,Yes,No,Suburban,3155.33,Active
+TPI-00296,56,Wellness Plus,100.55,Dog,9,3,No,2,Yes,No,Suburban,2577.05,Active
+TPI-00297,3,Basic Accident,19.76,Cat,2,0,No,1,Yes,Yes,Urban,272.49,Active
+TPI-00298,20,Wellness Plus,75.85,Cat,12,2,No,0,No,No,Suburban,1004.52,Active
+TPI-00299,24,Wellness Plus,76.12,Cat,5,1,Yes,1,No,Yes,Urban,1664.18,Active
+TPI-00300,51,Comprehensive,46.85,Dog,6,5,Yes,2,Yes,Yes,Rural,4579.64,Active
+TPI-00301,5,Comprehensive,54.46,Dog,14,1,Yes,1,Yes,No,Rural,254.91,Active
+TPI-00302,59,Comprehensive,51.88,Dog,7,1,No,2,Yes,Yes,Suburban,1930.68,Active
+TPI-00303,55,Basic Accident,19.46,Cat,9,3,Yes,2,Yes,No,Urban,1080.95,Lapsed
+TPI-00304,24,Basic Accident,25.73,Cat,8,1,No,2,Yes,No,Urban,1125.69,Active
+TPI-00305,47,Basic Accident,20.7,Cat,11,0,Yes,1,Yes,No,Suburban,1409.88,Active
+TPI-00306,56,Basic Accident,24.8,Dog,8,4,Yes,0,No,No,Urban,3141.96,Active
+TPI-00307,20,Basic Accident,29.2,Dog,9,1,Yes,0,No,No,Suburban,601.93,Active
+TPI-00308,50,Basic Accident,17.1,Dog,12,1,Yes,1,No,No,Suburban,1061.68,Lapsed
+TPI-00309,36,Comprehensive,47.85,Cat,0,5,No,2,Yes,No,Urban,1462.46,Active
+TPI-00310,31,Comprehensive,39.09,Dog,10,3,No,0,Yes,No,Suburban,455.79,Active
+TPI-00311,29,Basic Accident,17.89,Dog,8,2,Yes,1,Yes,No,Suburban,1191.75,Lapsed
+TPI-00312,51,Basic Accident,16.15,Cat,11,2,No,2,Yes,Yes,Urban,1189.08,Active
+TPI-00313,9,Comprehensive,47.54,Other,4,4,No,0,Yes,Yes,Suburban,634.6,Active
+TPI-00314,32,Comprehensive,38.64,Dog,8,2,Yes,0,No,No,Urban,819.61,Active
+TPI-00315,50,Wellness Plus,99.18,Dog,1,4,No,1,Yes,Yes,Suburban,10363.19,Active
+TPI-00316,8,Wellness Plus,77.77,Cat,4,2,No,0,No,Yes,Suburban,324.88,Active
+TPI-00317,44,Basic Accident,16.47,Cat,12,2,No,0,Yes,No,Suburban,545.65,Active
+TPI-00318,60,Basic Accident,18.97,Cat,4,3,No,0,No,Yes,Urban,945.75,Active
+TPI-00319,8,Basic Accident,20.79,Dog,11,3,No,1,Yes,Yes,Suburban,428.63,Active
+TPI-00320,15,Wellness Plus,69.96,Cat,12,1,No,1,Yes,Yes,Urban,1013.49,Active
+TPI-00321,38,Basic Accident,20.01,Dog,9,1,No,0,Yes,Yes,Urban,1169.62,Active
+TPI-00322,49,Comprehensive,42.4,Dog,13,2,No,0,Yes,No,Rural,3145.72,Lapsed
+TPI-00323,25,Basic Accident,22.74,Other,5,2,No,0,No,No,Suburban,598.95,Lapsed
+TPI-00324,1,Comprehensive,37.64,Cat,3,3,Yes,2,Yes,Yes,Suburban,274.62,Lapsed
+TPI-00325,16,Comprehensive,57.74,Dog,6,1,No,2,Yes,Yes,Suburban,655.97,Active
+TPI-00326,6,Comprehensive,47.07,Dog,1,3,No,1,Yes,No,Suburban,476.46,Active
+TPI-00327,54,Comprehensive,39.96,Cat,13,0,Yes,0,Yes,Yes,Urban,2335.77,Active
+TPI-00328,27,Comprehensive,38.1,Cat,6,1,No,0,No,Yes,Urban,1565.02,Lapsed
+TPI-00329,48,Comprehensive,55.92,Dog,5,3,No,3,Yes,No,Urban,5454.29,Active
+TPI-00330,42,Comprehensive,54.07,Cat,13,4,No,0,No,No,Rural,1575.29,Active
+TPI-00331,52,Wellness Plus,93.9,Dog,2,3,Yes,2,No,Yes,Suburban,5548.72,Active
+TPI-00332,29,Basic Accident,20.89,Dog,12,2,Yes,1,No,Yes,Suburban,452.21,Active
+TPI-00333,40,Comprehensive,37.69,Dog,11,2,No,1,Yes,Yes,Rural,1468.68,Active
+TPI-00334,39,Comprehensive,52.64,Dog,1,0,Yes,0,Yes,Yes,Urban,2604.82,Active
+TPI-00335,22,Wellness Plus,79.9,Dog,1,1,No,1,Yes,No,Urban,2421.35,Active
+TPI-00336,31,Comprehensive,43.01,Dog,2,1,Yes,1,Yes,No,Urban,1707.54,Active
+TPI-00337,46,Comprehensive,54.21,Dog,5,2,No,0,Yes,No,Urban,1860.98,Active
+TPI-00338,23,Basic Accident,25.73,Cat,2,3,Yes,1,Yes,No,Urban,768.04,Active
+TPI-00339,58,Comprehensive,35.57,Dog,0,3,No,0,Yes,Yes,Urban,1694.13,Active
+TPI-00340,51,Basic Accident,34.31,Dog,11,2,No,1,Yes,No,Suburban,1979.96,Active
+TPI-00341,27,Basic Accident,21.37,Cat,3,2,Yes,2,Yes,Yes,Suburban,653.78,Active
+TPI-00342,2,Comprehensive,48.04,Dog,7,1,No,1,No,Yes,Suburban,76.77,Active
+TPI-00343,26,Comprehensive,50.69,Dog,1,2,No,1,Yes,No,Urban,1176.07,Active
+TPI-00344,46,Comprehensive,60.25,Dog,15,0,No,0,Yes,No,Suburban,3288.44,Active
+TPI-00345,16,Basic Accident,20.04,Dog,0,4,No,1,Yes,No,Suburban,374.63,Lapsed
+TPI-00346,47,Basic Accident,18.71,Dog,6,1,No,0,Yes,No,Urban,635.14,Lapsed
+TPI-00347,52,Wellness Plus,84.32,Dog,15,2,No,0,Yes,No,Urban,6451.64,Active
+TPI-00348,17,Comprehensive,42.24,Dog,13,3,Yes,1,Yes,No,Urban,650.93,Active
+TPI-00349,4,Comprehensive,40.04,Dog,11,1,No,0,No,Yes,Suburban,103.61,Lapsed
+TPI-00350,2,Basic Accident,15.45,Dog,13,1,Yes,0,No,No,Urban,0.0,Active
+TPI-00351,11,Wellness Plus,77.08,Cat,11,2,No,0,No,No,Urban,783.92,Active
+TPI-00352,16,Wellness Plus,85.7,Cat,15,5,No,3,Yes,No,Suburban,1911.73,Active
+TPI-00353,50,Basic Accident,19.55,Other,7,3,No,1,Yes,Yes,Suburban,1003.89,Active
+TPI-00354,39,Comprehensive,38.3,Dog,8,0,Yes,1,No,Yes,Rural,1878.3,Active
+TPI-00355,47,Wellness Plus,65.59,Cat,2,2,Yes,1,No,Yes,Urban,2720.97,Active
+TPI-00356,53,Comprehensive,40.74,Dog,1,2,Yes,1,Yes,Yes,Suburban,2496.18,Active
+TPI-00357,43,Comprehensive,58.3,Dog,0,0,No,2,Yes,Yes,Suburban,4835.84,Active
+TPI-00358,15,Basic Accident,22.48,Dog,14,3,Yes,0,Yes,No,Urban,293.77,Active
+TPI-00359,7,Basic Accident,21.58,Cat,8,3,No,2,Yes,No,Suburban,463.73,Active
+TPI-00360,1,Basic Accident,28.92,Dog,5,1,No,0,No,No,Suburban,0.0,Lapsed
+TPI-00361,10,Basic Accident,23.85,Dog,15,4,Yes,1,Yes,No,Urban,383.33,Lapsed
+TPI-00362,23,Comprehensive,39.87,Cat,14,3,No,2,Yes,No,Suburban,719.19,Lapsed
+TPI-00363,9,Basic Accident,26.79,Cat,11,3,No,0,Yes,No,Urban,419.05,Active
+TPI-00364,51,Basic Accident,20.32,Dog,8,1,No,1,Yes,Yes,Urban,1415.75,Lapsed
+TPI-00365,50,Basic Accident,15.75,Dog,4,4,No,2,Yes,Yes,Urban,1088.44,Lapsed
+TPI-00366,7,Basic Accident,25.2,Dog,6,2,Yes,0,Yes,No,Urban,294.41,Active
+TPI-00367,8,Wellness Plus,75.85,Dog,15,1,No,2,Yes,No,Suburban,808.09,Active
+TPI-00368,2,Wellness Plus,79.9,Dog,1,2,No,0,No,No,Suburban,124.01,Active
+TPI-00369,30,Comprehensive,50.03,Dog,3,2,No,1,Yes,No,Suburban,2006.19,Lapsed
+TPI-00370,50,Basic Accident,25.53,Dog,12,1,No,0,Yes,No,Suburban,1422.25,Lapsed
+TPI-00371,33,Basic Accident,17.9,Dog,13,2,Yes,0,Yes,Yes,Urban,457.02,Active
+TPI-00372,49,Wellness Plus,72.67,Dog,10,2,No,0,Yes,No,Urban,6905.59,Active
+TPI-00373,34,Comprehensive,49.92,Dog,11,4,No,0,Yes,No,Urban,2416.99,Active
+TPI-00374,19,Basic Accident,14.19,Cat,15,3,No,2,Yes,Yes,Suburban,318.39,Active
+TPI-00375,15,Comprehensive,38.61,Other,0,2,No,0,No,Yes,Urban,338.25,Active
+TPI-00376,55,Basic Accident,15.2,Cat,7,0,Yes,0,Yes,Yes,Urban,740.85,Active
+TPI-00377,10,Comprehensive,52.1,Dog,13,3,No,1,Yes,Yes,Suburban,1804.4,Active
+TPI-00378,25,Wellness Plus,87.85,Dog,13,0,Yes,0,Yes,No,Suburban,956.48,Active
+TPI-00379,58,Basic Accident,25.96,Dog,15,2,No,2,No,No,Suburban,4790.66,Active
+TPI-00380,31,Comprehensive,55.2,Dog,12,3,No,0,No,Yes,Urban,1425.18,Lapsed
+TPI-00381,32,Basic Accident,22.46,Dog,12,3,No,0,No,No,Urban,507.7,Active
+TPI-00382,59,Basic Accident,21.5,Dog,9,2,No,0,No,Yes,Suburban,2238.4,Active
+TPI-00383,57,Comprehensive,43.5,Dog,6,3,No,0,Yes,Yes,Suburban,2327.85,Active
+TPI-00384,27,Wellness Plus,100.03,Cat,11,0,No,1,Yes,Yes,Urban,6512.36,Active
+TPI-00385,27,Comprehensive,46.32,Dog,6,2,Yes,2,Yes,Yes,Urban,1373.17,Active
+TPI-00386,50,Basic Accident,24.88,Cat,6,6,No,0,Yes,No,Urban,1670.45,Lapsed
+TPI-00387,7,Wellness Plus,87.12,Dog,11,2,No,0,Yes,No,Rural,722.64,Active
+TPI-00388,21,Comprehensive,44.85,Dog,13,4,No,1,Yes,No,Suburban,2132.3,Active
+TPI-00389,50,Comprehensive,38.46,Cat,1,3,Yes,0,Yes,No,Urban,1562.32,Active
+TPI-00390,20,Wellness Plus,77.49,Cat,15,4,Yes,2,Yes,No,Suburban,1443.96,Active
+TPI-00391,54,Wellness Plus,73.34,Cat,1,2,Yes,0,No,No,Urban,3799.96,Active
+TPI-00392,8,Comprehensive,51.21,Other,0,1,No,2,Yes,Yes,Suburban,615.21,Active
+TPI-00393,30,Comprehensive,47.52,Cat,15,1,Yes,0,Yes,No,Rural,3254.86,Active
+TPI-00394,46,Basic Accident,20.98,Cat,7,3,No,2,Yes,No,Suburban,1531.78,Active
+TPI-00395,13,Comprehensive,49.54,Cat,1,2,No,0,No,No,Suburban,597.62,Active
+TPI-00396,27,Basic Accident,15.17,Dog,2,1,No,1,Yes,Yes,Urban,471.78,Lapsed
+TPI-00397,52,Comprehensive,32.0,Dog,0,4,Yes,0,Yes,No,Suburban,1170.39,Active
+TPI-00398,27,Comprehensive,50.71,Dog,4,2,No,1,Yes,No,Urban,1431.15,Active
+TPI-00399,1,Comprehensive,58.2,Other,14,2,No,1,No,Yes,Suburban,117.87,Active
+TPI-00400,36,Comprehensive,43.09,Dog,10,3,Yes,0,No,Yes,Suburban,1208.32,Active
+TPI-00401,29,Basic Accident,19.57,Cat,13,2,No,0,Yes,No,Urban,581.59,Active
+TPI-00402,52,Comprehensive,40.82,Dog,6,3,No,0,Yes,Yes,Rural,3229.11,Active
+TPI-00403,42,Basic Accident,33.4,Dog,13,2,No,1,No,No,Urban,2255.29,Lapsed
+TPI-00404,18,Wellness Plus,56.11,Cat,2,1,No,2,Yes,No,Urban,897.6,Active
+TPI-00405,13,Basic Accident,26.95,Dog,5,1,No,0,Yes,No,Rural,366.47,Lapsed
+TPI-00406,55,Comprehensive,53.68,Cat,11,1,No,0,Yes,Yes,Rural,5688.89,Lapsed
+TPI-00407,55,Basic Accident,23.44,Dog,5,2,No,1,Yes,No,Rural,1101.93,Active
+TPI-00408,40,Comprehensive,37.96,Dog,14,2,Yes,0,Yes,No,Suburban,2164.19,Active
+TPI-00409,21,Basic Accident,19.13,Dog,11,2,Yes,1,No,No,Urban,381.59,Lapsed
+TPI-00410,33,Wellness Plus,68.6,Dog,0,2,No,0,No,No,Urban,2042.54,Active
+TPI-00411,22,Comprehensive,32.0,Dog,8,2,No,0,Yes,No,Urban,2540.75,Active
+TPI-00412,28,Comprehensive,49.23,Other,5,1,Yes,1,Yes,No,Suburban,743.73,Active
+TPI-00413,57,Comprehensive,43.11,Dog,7,5,No,1,Yes,No,Rural,1762.46,Active
+TPI-00414,41,Comprehensive,52.96,Dog,2,1,Yes,0,Yes,No,Rural,1285.37,Active
+TPI-00415,35,Basic Accident,23.83,Cat,7,2,No,0,Yes,Yes,Rural,1267.02,Lapsed
+TPI-00416,41,Comprehensive,48.43,Dog,5,2,Yes,0,No,No,Urban,805.84,Active
+TPI-00417,8,Wellness Plus,74.17,Dog,14,2,No,0,No,No,Urban,1301.05,Active
+TPI-00418,15,Wellness Plus,87.59,Dog,10,4,No,2,Yes,No,Suburban,1314.8,Active
+TPI-00419,20,Basic Accident,26.31,Dog,15,1,No,1,Yes,No,Suburban,555.01,Lapsed
+TPI-00420,11,Basic Accident,23.66,Cat,2,2,Yes,0,No,Yes,Suburban,437.94,Lapsed
+TPI-00421,40,Wellness Plus,69.85,Other,2,0,No,0,Yes,No,Urban,2729.09,Active
+TPI-00422,25,Basic Accident,22.02,Dog,0,1,No,2,No,Yes,Suburban,1160.52,Lapsed
+TPI-00423,57,Basic Accident,20.59,Dog,1,4,No,2,Yes,Yes,Urban,1578.48,Active
+TPI-00424,43,Comprehensive,53.17,Cat,13,0,No,0,No,No,Urban,1929.93,Active
+TPI-00425,22,Basic Accident,26.54,Dog,8,6,Yes,0,Yes,No,Suburban,931.83,Lapsed
+TPI-00426,53,Wellness Plus,85.41,Dog,13,6,No,0,Yes,No,Suburban,6543.82,Active
+TPI-00427,11,Basic Accident,22.11,Dog,1,2,Yes,1,No,No,Suburban,232.47,Lapsed
+TPI-00428,17,Comprehensive,48.99,Dog,5,1,No,1,No,No,Urban,647.86,Active
+TPI-00429,44,Basic Accident,21.2,Cat,10,2,No,1,Yes,Yes,Rural,2364.85,Active
+TPI-00430,5,Comprehensive,54.63,Cat,14,4,Yes,1,No,No,Urban,319.45,Active
+TPI-00431,1,Wellness Plus,93.54,Dog,1,0,No,4,Yes,Yes,Rural,307.07,Active
+TPI-00432,21,Comprehensive,70.0,Dog,0,0,No,2,Yes,Yes,Suburban,2505.45,Active
+TPI-00433,52,Basic Accident,21.32,Dog,1,2,No,1,No,No,Urban,1462.13,Active
+TPI-00434,49,Basic Accident,19.68,Dog,6,2,No,0,Yes,No,Suburban,1529.81,Active
+TPI-00435,58,Basic Accident,22.8,Cat,7,3,Yes,2,Yes,No,Suburban,1210.63,Active
+TPI-00436,32,Comprehensive,44.58,Cat,6,2,No,1,No,No,Suburban,857.51,Active
+TPI-00437,28,Comprehensive,46.41,Cat,4,4,No,0,No,No,Urban,1651.62,Active
+TPI-00438,5,Comprehensive,39.0,Cat,5,3,No,0,Yes,No,Urban,289.68,Active
+TPI-00439,29,Wellness Plus,71.34,Dog,1,0,Yes,1,Yes,No,Urban,2252.75,Active
+TPI-00440,21,Basic Accident,14.97,Other,4,1,No,2,No,Yes,Suburban,722.42,Lapsed
+TPI-00441,30,Wellness Plus,82.0,Dog,2,1,No,1,Yes,Yes,Suburban,4825.51,Active
+TPI-00442,29,Comprehensive,45.91,Dog,4,1,No,1,Yes,No,Urban,988.53,Active
+TPI-00443,49,Comprehensive,47.95,Dog,2,0,Yes,1,Yes,No,Suburban,4670.49,Active
+TPI-00444,58,Basic Accident,19.66,Dog,4,0,No,1,Yes,Yes,Suburban,2107.35,Active
+TPI-00445,33,Comprehensive,44.69,Dog,11,1,No,0,No,No,Suburban,1485.82,Lapsed
+TPI-00446,56,Basic Accident,18.99,Dog,11,1,Yes,1,Yes,No,Urban,2019.68,Active
+TPI-00447,58,Wellness Plus,93.42,Cat,11,3,No,0,Yes,No,Urban,4374.25,Active
+TPI-00448,25,Comprehensive,48.65,Dog,14,2,No,0,Yes,No,Suburban,1320.33,Active
+TPI-00449,19,Comprehensive,48.9,Dog,15,3,No,2,No,Yes,Urban,1510.44,Active
+TPI-00450,59,Comprehensive,49.85,Dog,15,3,Yes,0,No,No,Suburban,2227.19,Active
+TPI-00451,39,Basic Accident,24.92,Cat,11,3,No,0,Yes,No,Suburban,708.14,Lapsed
+TPI-00452,12,Comprehensive,44.59,Dog,8,2,No,0,Yes,No,Urban,879.69,Active
+TPI-00453,47,Basic Accident,23.56,Dog,6,1,No,0,Yes,No,Rural,1042.74,Lapsed
+TPI-00454,52,Comprehensive,35.06,Cat,6,0,No,0,Yes,Yes,Urban,2407.95,Active
+TPI-00455,29,Wellness Plus,78.68,Dog,7,2,No,3,No,No,Rural,2069.96,Active
+TPI-00456,55,Wellness Plus,78.26,Other,14,5,Yes,2,No,No,Suburban,1898.25,Active
+TPI-00457,51,Comprehensive,53.37,Other,6,2,No,0,Yes,No,Suburban,2458.81,Active
+TPI-00458,36,Comprehensive,45.32,Dog,12,3,No,0,Yes,Yes,Suburban,2676.58,Active
+TPI-00459,16,Basic Accident,31.71,Dog,10,1,No,0,No,No,Suburban,612.68,Lapsed
+TPI-00460,44,Wellness Plus,73.39,Dog,7,2,No,0,Yes,No,Urban,3015.59,Active
+TPI-00461,39,Basic Accident,21.04,Dog,1,4,No,0,Yes,No,Rural,567.43,Active
+TPI-00462,44,Wellness Plus,71.08,Dog,5,2,No,2,Yes,No,Urban,4988.33,Active
+TPI-00463,0,Comprehensive,54.06,Dog,14,3,No,0,No,No,Suburban,0.0,Active
+TPI-00464,56,Basic Accident,25.0,Cat,1,1,No,0,Yes,No,Suburban,1431.28,Active
+TPI-00465,53,Comprehensive,44.87,Dog,11,2,No,2,Yes,No,Urban,5524.96,Active
+TPI-00466,0,Wellness Plus,63.42,Cat,3,6,No,1,Yes,No,Rural,282.48,Active
+TPI-00467,55,Comprehensive,36.67,Cat,7,1,No,1,Yes,No,Rural,2843.3,Active
+TPI-00468,17,Basic Accident,14.07,Dog,15,2,No,0,No,No,Urban,213.22,Lapsed
+TPI-00469,60,Comprehensive,45.35,Cat,5,1,No,1,Yes,No,Urban,1548.33,Active
+TPI-00470,15,Comprehensive,32.74,Dog,12,2,No,1,Yes,No,Rural,923.54,Active
+TPI-00471,12,Comprehensive,40.17,Cat,13,1,No,0,Yes,Yes,Rural,471.41,Active
+TPI-00472,0,Basic Accident,21.91,Dog,6,0,No,0,Yes,Yes,Suburban,36.29,Active
+TPI-00473,43,Basic Accident,19.51,Cat,7,2,No,2,Yes,Yes,Urban,2711.53,Active
+TPI-00474,60,Wellness Plus,70.82,Dog,10,1,No,0,Yes,No,Suburban,4202.3,Active
+TPI-00475,19,Basic Accident,17.0,Dog,4,1,No,1,Yes,Yes,Suburban,244.49,Active
+TPI-00476,14,Basic Accident,22.85,Cat,1,1,No,1,Yes,Yes,Suburban,411.61,Active
+TPI-00477,51,Basic Accident,28.93,Dog,8,3,No,1,No,No,Suburban,2276.43,Active
+TPI-00478,22,Wellness Plus,76.42,Dog,15,0,No,1,Yes,No,Rural,1819.4,Active
+TPI-00479,32,Basic Accident,23.43,Dog,5,3,No,1,No,No,Suburban,519.21,Active
+TPI-00480,19,Basic Accident,16.23,Dog,8,0,Yes,1,Yes,Yes,Suburban,437.66,Lapsed
+TPI-00481,54,Wellness Plus,82.46,Cat,14,1,Yes,1,No,No,Urban,4435.02,Active
+TPI-00482,55,Wellness Plus,92.35,Other,12,5,No,1,No,No,Urban,7886.32,Active
+TPI-00483,60,Basic Accident,13.93,Dog,0,0,Yes,3,Yes,Yes,Urban,837.82,Lapsed
+TPI-00484,60,Comprehensive,45.43,Dog,10,3,Yes,0,No,No,Urban,3107.7,Active
+TPI-00485,28,Comprehensive,38.06,Cat,9,2,No,0,No,No,Urban,670.69,Active
+TPI-00486,18,Comprehensive,46.05,Dog,9,0,Yes,1,No,No,Urban,1085.7,Active
+TPI-00487,29,Basic Accident,22.74,Other,10,1,Yes,2,Yes,Yes,Rural,560.67,Active
+TPI-00488,60,Comprehensive,40.24,Dog,8,3,Yes,0,No,No,Urban,2177.19,Active
+TPI-00489,59,Basic Accident,19.57,Dog,8,2,No,2,Yes,No,Urban,1053.15,Active
+TPI-00490,16,Comprehensive,52.42,Dog,2,3,Yes,0,Yes,No,Suburban,1283.01,Active
+TPI-00491,38,Basic Accident,16.73,Dog,5,2,No,0,Yes,No,Suburban,883.72,Active
+TPI-00492,51,Basic Accident,24.56,Dog,8,5,No,1,No,No,Rural,1435.43,Active
+TPI-00493,57,Basic Accident,27.19,Dog,6,2,No,1,Yes,Yes,Suburban,3691.46,Lapsed
+TPI-00494,53,Basic Accident,15.63,Cat,15,3,No,0,Yes,No,Suburban,1382.86,Active
+TPI-00495,44,Basic Accident,25.95,Cat,7,1,No,1,Yes,No,Urban,1698.25,Active
+TPI-00496,23,Comprehensive,32.0,Dog,0,5,No,2,Yes,No,Suburban,1332.19,Lapsed
+TPI-00497,0,Basic Accident,19.21,Dog,2,3,Yes,1,Yes,No,Urban,137.89,Lapsed
+TPI-00498,12,Comprehensive,49.97,Dog,5,3,No,0,Yes,No,Suburban,643.79,Active
+TPI-00499,21,Wellness Plus,62.88,Dog,8,6,Yes,0,No,No,Rural,1274.3,Active
+TPI-00500,13,Comprehensive,46.81,Dog,13,2,Yes,0,No,No,Suburban,153.63,Lapsed
+TPI-00501,42,Basic Accident,21.57,Dog,3,2,No,2,Yes,No,Rural,724.4,Lapsed
+TPI-00502,28,Comprehensive,42.1,Dog,10,0,Yes,0,Yes,No,Suburban,1349.31,Active
+TPI-00503,60,Basic Accident,26.17,Dog,15,2,No,2,Yes,No,Suburban,2876.6,Lapsed
+TPI-00504,42,Basic Accident,18.64,Cat,2,2,No,1,No,Yes,Urban,745.48,Lapsed
+TPI-00505,58,Comprehensive,46.37,Cat,11,3,No,1,No,No,Urban,1489.21,Lapsed
+TPI-00506,57,Comprehensive,50.8,Cat,2,3,No,1,Yes,No,Suburban,1982.15,Active
+TPI-00507,59,Basic Accident,21.57,Cat,14,1,No,1,Yes,No,Suburban,760.2,Active
+TPI-00508,24,Basic Accident,18.09,Cat,7,1,No,0,Yes,No,Urban,991.09,Lapsed
+TPI-00509,9,Comprehensive,32.0,Dog,4,3,No,0,No,No,Suburban,203.51,Active
+TPI-00510,27,Basic Accident,23.3,Cat,4,2,No,0,Yes,Yes,Suburban,893.0,Active
+TPI-00511,45,Comprehensive,52.67,Cat,2,1,No,1,Yes,No,Suburban,3955.06,Active
+TPI-00512,10,Basic Accident,23.79,Dog,2,1,Yes,1,Yes,No,Rural,414.91,Lapsed
+TPI-00513,1,Comprehensive,60.71,Dog,10,3,No,1,No,No,Suburban,120.69,Active
+TPI-00514,30,Wellness Plus,64.24,Dog,13,2,No,0,No,Yes,Urban,1858.01,Lapsed
+TPI-00515,32,Wellness Plus,94.45,Dog,3,3,No,1,No,No,Rural,4705.26,Active
+TPI-00516,7,Wellness Plus,73.79,Cat,11,1,No,1,Yes,No,Suburban,680.3,Active
+TPI-00517,56,Basic Accident,16.16,Dog,3,0,No,1,No,Yes,Suburban,1035.9,Lapsed
+TPI-00518,8,Basic Accident,18.68,Cat,6,4,No,0,Yes,No,Urban,188.41,Active
+TPI-00519,48,Comprehensive,36.94,Dog,10,3,No,1,Yes,No,Urban,1300.27,Active
+TPI-00520,44,Comprehensive,62.09,Cat,2,0,No,2,Yes,No,Urban,3652.22,Active
+TPI-00521,35,Basic Accident,27.63,Dog,4,1,No,0,Yes,No,Suburban,1158.44,Lapsed
+TPI-00522,31,Basic Accident,24.38,Cat,0,1,No,0,Yes,No,Urban,760.77,Lapsed
+TPI-00523,31,Comprehensive,55.17,Dog,14,4,No,0,Yes,No,Urban,1483.43,Active
+TPI-00524,44,Basic Accident,22.76,Cat,2,3,Yes,0,Yes,Yes,Suburban,1198.98,Active
+TPI-00525,45,Comprehensive,41.91,Dog,11,3,No,0,Yes,Yes,Suburban,1443.92,Active
+TPI-00526,0,Comprehensive,48.78,Dog,5,3,Yes,0,Yes,No,Suburban,150.75,Active
+TPI-00527,10,Wellness Plus,85.57,Dog,6,2,No,2,No,No,Urban,480.71,Active
+TPI-00528,10,Comprehensive,43.13,Dog,4,1,Yes,0,Yes,No,Suburban,727.37,Active
+TPI-00529,21,Comprehensive,49.07,Dog,5,1,No,1,No,No,Suburban,831.22,Active
+TPI-00530,15,Basic Accident,25.92,Cat,4,0,Yes,0,No,Yes,Urban,319.35,Active
+TPI-00531,58,Wellness Plus,90.26,Dog,0,2,Yes,1,Yes,No,Rural,5860.96,Active
+TPI-00532,38,Comprehensive,61.42,Dog,3,3,No,1,Yes,No,Suburban,2435.31,Active
+TPI-00533,5,Basic Accident,18.77,Dog,3,3,Yes,0,No,No,Suburban,40.87,Active
+TPI-00534,59,Comprehensive,52.31,Cat,1,3,No,1,No,Yes,Urban,2630.12,Active
+TPI-00535,60,Comprehensive,45.47,Dog,3,2,Yes,2,Yes,No,Urban,3507.39,Lapsed
+TPI-00536,30,Wellness Plus,84.32,Dog,1,1,No,0,Yes,No,Rural,2749.87,Active
+TPI-00537,46,Basic Accident,20.53,Dog,13,4,Yes,0,Yes,Yes,Urban,1480.6,Lapsed
+TPI-00538,6,Basic Accident,18.37,Dog,15,2,No,2,Yes,No,Rural,439.17,Active
+TPI-00539,30,Comprehensive,51.1,Dog,4,3,Yes,1,No,No,Urban,1787.93,Active
+TPI-00540,12,Wellness Plus,78.3,Dog,2,2,No,0,No,No,Suburban,505.6,Active
+TPI-00541,45,Wellness Plus,87.35,Dog,2,4,No,1,Yes,No,Suburban,8246.9,Active
+TPI-00542,1,Comprehensive,36.76,Dog,2,1,No,1,Yes,No,Urban,302.53,Active
+TPI-00543,44,Basic Accident,15.87,Cat,11,4,No,0,Yes,Yes,Rural,965.3,Active
+TPI-00544,24,Basic Accident,19.02,Dog,2,2,Yes,1,Yes,No,Rural,1155.27,Active
+TPI-00545,11,Basic Accident,21.75,Dog,6,1,No,0,Yes,Yes,Suburban,451.01,Active
+TPI-00546,42,Wellness Plus,80.16,Dog,5,1,No,2,Yes,Yes,Suburban,1638.95,Active
+TPI-00547,39,Wellness Plus,73.03,Dog,9,0,No,0,Yes,No,Rural,1362.53,Active
+TPI-00548,15,Comprehensive,60.7,Cat,15,5,No,0,No,No,Rural,376.36,Active
+TPI-00549,4,Wellness Plus,78.27,Cat,13,0,No,0,Yes,Yes,Rural,328.86,Active
+TPI-00550,40,Comprehensive,46.17,Dog,10,2,Yes,0,Yes,No,Urban,3146.57,Active
+TPI-00551,34,Wellness Plus,75.22,Other,14,4,No,1,Yes,No,Urban,3560.07,Active
+TPI-00552,26,Basic Accident,24.28,Cat,15,2,No,0,Yes,No,Rural,883.61,Active
+TPI-00553,2,Comprehensive,46.07,Cat,15,0,No,1,Yes,Yes,Suburban,225.71,Active
+TPI-00554,28,Basic Accident,26.84,Dog,2,3,No,1,Yes,No,Suburban,1660.44,Active
+TPI-00555,11,Comprehensive,49.7,Dog,14,0,No,1,Yes,No,Suburban,648.33,Active
+TPI-00556,60,Wellness Plus,80.99,Dog,11,4,No,2,Yes,Yes,Rural,2682.81,Active
+TPI-00557,37,Basic Accident,22.34,Dog,11,1,Yes,2,No,No,Rural,766.77,Active
+TPI-00558,47,Basic Accident,24.43,Dog,1,0,No,1,No,No,Rural,1651.88,Active
+TPI-00559,55,Comprehensive,44.03,Dog,2,0,No,3,No,No,Urban,3200.9,Active
+TPI-00560,25,Basic Accident,25.62,Dog,9,6,Yes,0,Yes,No,Urban,405.07,Active
+TPI-00561,8,Basic Accident,25.83,Dog,10,2,No,0,Yes,Yes,Rural,304.28,Lapsed
+TPI-00562,21,Basic Accident,19.53,Dog,12,1,Yes,0,No,No,Suburban,714.02,Active
+TPI-00563,59,Basic Accident,19.25,Cat,14,1,No,1,Yes,No,Urban,954.19,Lapsed
+TPI-00564,50,Wellness Plus,66.91,Dog,1,2,No,2,Yes,No,Suburban,2490.96,Lapsed
+TPI-00565,14,Comprehensive,41.2,Cat,5,2,No,0,Yes,No,Suburban,827.41,Active
+TPI-00566,20,Comprehensive,50.62,Cat,6,1,No,1,Yes,No,Urban,1951.22,Lapsed
+TPI-00567,4,Wellness Plus,91.24,Dog,6,2,No,0,Yes,Yes,Suburban,311.74,Active
+TPI-00568,15,Comprehensive,45.22,Cat,3,1,No,3,No,No,Urban,956.48,Active
+TPI-00569,47,Basic Accident,22.08,Other,8,4,Yes,0,No,Yes,Urban,853.05,Active
+TPI-00570,29,Wellness Plus,77.53,Dog,6,0,Yes,1,No,Yes,Suburban,1022.91,Lapsed
+TPI-00571,42,Comprehensive,38.77,Dog,0,4,No,1,Yes,No,Urban,1679.5,Lapsed
+TPI-00572,32,Comprehensive,55.91,Dog,2,2,Yes,0,Yes,No,Urban,1612.6,Active
+TPI-00573,37,Comprehensive,32.0,Cat,3,0,No,1,Yes,No,Suburban,1413.98,Active
+TPI-00574,18,Basic Accident,30.27,Cat,12,3,No,1,Yes,No,Urban,438.31,Lapsed
+TPI-00575,58,Wellness Plus,66.8,Cat,15,1,No,1,No,Yes,Urban,3652.63,Active
+TPI-00576,18,Wellness Plus,70.55,Dog,0,2,No,0,Yes,No,Suburban,1064.5,Active
+TPI-00577,5,Basic Accident,25.68,Dog,3,2,No,1,Yes,Yes,Urban,397.47,Lapsed
+TPI-00578,48,Comprehensive,38.35,Cat,2,1,No,1,Yes,No,Urban,1172.24,Active
+TPI-00579,9,Basic Accident,20.34,Dog,15,1,No,0,No,No,Suburban,274.83,Active
+TPI-00580,58,Basic Accident,22.07,Other,0,1,Yes,1,Yes,No,Suburban,1152.6,Active
+TPI-00581,47,Comprehensive,54.37,Dog,8,1,No,0,Yes,No,Urban,2259.51,Active
+TPI-00582,3,Basic Accident,23.12,Dog,12,2,No,0,Yes,No,Suburban,200.42,Lapsed
+TPI-00583,44,Basic Accident,17.12,Other,9,3,No,0,No,No,Urban,587.52,Lapsed
+TPI-00584,5,Comprehensive,45.65,Dog,2,0,Yes,2,Yes,No,Urban,293.11,Active
+TPI-00585,38,Comprehensive,57.78,Dog,6,2,No,1,Yes,No,Rural,4272.01,Active
+TPI-00586,43,Comprehensive,57.08,Cat,11,0,No,0,Yes,No,Urban,2039.59,Active
+TPI-00587,29,Comprehensive,55.59,Dog,15,2,No,3,Yes,Yes,Urban,2602.06,Active
+TPI-00588,41,Comprehensive,60.04,Cat,8,2,Yes,1,Yes,Yes,Urban,1666.14,Active
+TPI-00589,16,Comprehensive,45.98,Cat,8,5,Yes,1,Yes,No,Urban,1267.8,Active
+TPI-00590,24,Comprehensive,46.97,Other,1,3,No,1,Yes,No,Urban,1017.68,Active
+TPI-00591,0,Comprehensive,48.29,Dog,9,3,No,0,No,No,Urban,3.47,Active
+TPI-00592,36,Basic Accident,18.96,Dog,10,1,Yes,1,Yes,No,Urban,590.92,Lapsed
+TPI-00593,22,Basic Accident,23.82,Dog,1,3,Yes,2,Yes,No,Urban,463.44,Lapsed
+TPI-00594,10,Basic Accident,24.89,Dog,15,3,No,2,Yes,No,Rural,424.8,Lapsed
+TPI-00595,21,Basic Accident,21.43,Cat,4,2,No,0,Yes,No,Suburban,776.69,Lapsed
+TPI-00596,5,Basic Accident,20.18,Other,13,1,Yes,1,Yes,No,Suburban,436.22,Active
+TPI-00597,38,Comprehensive,56.04,Dog,12,1,No,1,Yes,No,Rural,2722.62,Active
+TPI-00598,45,Comprehensive,43.46,Cat,0,4,No,1,Yes,Yes,Rural,4237.45,Active
+TPI-00599,55,Basic Accident,23.49,Dog,14,2,No,0,Yes,No,Suburban,1403.39,Active
+TPI-00600,42,Basic Accident,18.03,Cat,4,4,Yes,0,No,No,Suburban,550.69,Lapsed
+TPI-00601,35,Wellness Plus,68.16,Dog,13,2,No,1,Yes,No,Urban,2149.97,Active
+TPI-00602,17,Comprehensive,55.23,Dog,14,2,Yes,1,Yes,Yes,Rural,1318.82,Lapsed
+TPI-00603,56,Comprehensive,48.63,Dog,13,6,No,2,Yes,No,Rural,2596.89,Lapsed
+TPI-00604,52,Comprehensive,56.04,Dog,4,4,Yes,3,No,No,Suburban,5427.64,Active
+TPI-00605,13,Comprehensive,55.27,Dog,1,1,No,0,No,No,Suburban,503.87,Lapsed
+TPI-00606,16,Basic Accident,18.36,Cat,8,1,Yes,0,Yes,No,Rural,658.12,Active
+TPI-00607,55,Comprehensive,46.87,Cat,11,4,No,2,No,No,Urban,3240.23,Active
+TPI-00608,18,Basic Accident,33.64,Dog,15,1,Yes,1,Yes,No,Suburban,983.79,Active
+TPI-00609,1,Comprehensive,61.17,Dog,15,2,No,0,Yes,No,Urban,49.09,Active
+TPI-00610,30,Wellness Plus,65.99,Other,6,2,No,3,Yes,No,Urban,943.31,Active
+TPI-00611,59,Basic Accident,18.89,Dog,13,3,No,1,Yes,Yes,Suburban,1262.06,Active
+TPI-00612,21,Wellness Plus,97.23,Cat,15,4,No,1,No,No,Urban,1539.79,Active
+TPI-00613,14,Comprehensive,55.47,Cat,0,4,Yes,0,Yes,Yes,Suburban,983.13,Active
+TPI-00614,54,Wellness Plus,93.02,Cat,4,3,No,0,Yes,No,Suburban,6236.3,Active
+TPI-00615,30,Comprehensive,33.63,Dog,6,4,Yes,2,Yes,No,Suburban,968.99,Active
+TPI-00616,34,Comprehensive,32.0,Cat,1,2,Yes,0,Yes,Yes,Suburban,851.51,Active
+TPI-00617,3,Comprehensive,39.91,Cat,15,4,No,2,No,No,Suburban,119.64,Active
+TPI-00618,37,Comprehensive,47.79,Dog,0,2,No,0,Yes,No,Suburban,867.5,Active
+TPI-00619,19,Wellness Plus,65.42,Dog,15,3,No,0,Yes,Yes,Suburban,1096.72,Active
+TPI-00620,7,Comprehensive,57.06,Cat,8,3,No,1,No,No,Rural,419.31,Active
+TPI-00621,44,Comprehensive,45.28,Cat,8,0,No,0,No,No,Suburban,2511.11,Active
+TPI-00622,7,Comprehensive,45.38,Cat,1,3,Yes,1,Yes,No,Suburban,320.53,Active
+TPI-00623,42,Basic Accident,25.49,Cat,7,2,No,0,Yes,No,Suburban,1183.51,Active
+TPI-00624,28,Wellness Plus,67.09,Dog,11,1,No,1,Yes,No,Urban,2738.24,Active
+TPI-00625,31,Wellness Plus,66.98,Cat,7,2,No,0,Yes,No,Suburban,2547.83,Active
+TPI-00626,34,Basic Accident,20.47,Cat,13,1,No,0,Yes,No,Urban,1024.48,Active
+TPI-00627,12,Basic Accident,24.46,Cat,12,0,Yes,0,No,No,Suburban,203.93,Active
+TPI-00628,23,Basic Accident,25.75,Dog,10,3,No,0,Yes,No,Urban,490.98,Lapsed
+TPI-00629,2,Basic Accident,15.75,Cat,1,1,No,3,No,No,Suburban,126.32,Lapsed
+TPI-00630,17,Basic Accident,21.65,Dog,5,0,No,0,Yes,Yes,Suburban,307.18,Active
+TPI-00631,9,Basic Accident,17.23,Cat,4,3,No,1,Yes,Yes,Suburban,310.01,Lapsed
+TPI-00632,33,Comprehensive,50.26,Dog,6,0,Yes,0,Yes,Yes,Urban,2665.9,Active
+TPI-00633,48,Basic Accident,18.3,Dog,2,3,No,0,Yes,No,Suburban,1053.77,Active
+TPI-00634,25,Wellness Plus,83.95,Cat,14,3,Yes,0,Yes,No,Suburban,2882.42,Active
+TPI-00635,5,Comprehensive,59.84,Dog,9,1,Yes,1,Yes,No,Suburban,751.01,Active
+TPI-00636,15,Comprehensive,50.95,Cat,6,3,No,0,No,Yes,Urban,723.5,Active
+TPI-00637,15,Basic Accident,27.48,Cat,9,2,No,1,Yes,No,Rural,894.31,Active
+TPI-00638,4,Comprehensive,46.02,Cat,3,5,Yes,0,No,Yes,Urban,142.06,Lapsed
+TPI-00639,44,Comprehensive,39.01,Dog,11,5,Yes,1,Yes,Yes,Urban,1052.44,Active
+TPI-00640,14,Comprehensive,37.84,Cat,3,3,No,0,Yes,No,Suburban,732.22,Active
+TPI-00641,58,Comprehensive,36.05,Dog,6,3,No,0,Yes,No,Urban,1830.35,Active
+TPI-00642,41,Basic Accident,18.8,Cat,3,0,No,1,Yes,No,Urban,554.79,Active
+TPI-00643,40,Basic Accident,19.12,Dog,11,4,No,0,No,No,Urban,564.93,Lapsed
+TPI-00644,27,Basic Accident,24.54,Dog,4,7,No,0,Yes,No,Urban,588.19,Lapsed
+TPI-00645,54,Basic Accident,33.59,Dog,1,1,No,2,Yes,No,Suburban,2574.22,Active
+TPI-00646,0,Comprehensive,51.96,Dog,6,2,Yes,1,Yes,No,Rural,161.11,Active
+TPI-00647,16,Wellness Plus,80.43,Dog,4,1,No,0,No,No,Urban,1470.61,Active
+TPI-00648,34,Wellness Plus,82.74,Cat,11,5,No,1,Yes,No,Suburban,3472.94,Active
+TPI-00649,53,Comprehensive,50.58,Dog,3,4,No,0,Yes,No,Urban,1996.97,Active
+TPI-00650,33,Comprehensive,52.76,Cat,7,1,Yes,2,No,No,Suburban,1401.94,Active
+TPI-00651,44,Basic Accident,20.26,Dog,11,3,No,1,Yes,Yes,Rural,1143.72,Active
+TPI-00652,47,Comprehensive,55.06,Dog,2,3,Yes,1,Yes,No,Suburban,3355.36,Active
+TPI-00653,6,Comprehensive,49.35,Other,15,3,No,0,No,No,Suburban,495.06,Lapsed
+TPI-00654,35,Comprehensive,40.43,Dog,4,3,No,2,Yes,No,Suburban,1381.93,Active
+TPI-00655,51,Comprehensive,42.68,Dog,3,0,No,1,Yes,No,Suburban,1833.85,Active
+TPI-00656,37,Wellness Plus,66.65,Dog,13,2,Yes,1,No,No,Suburban,6980.03,Active
+TPI-00657,26,Comprehensive,48.91,Cat,6,2,No,1,Yes,No,Urban,1995.16,Lapsed
+TPI-00658,43,Comprehensive,44.88,Cat,9,1,No,0,Yes,No,Suburban,2895.42,Active
+TPI-00659,5,Comprehensive,33.33,Dog,0,0,Yes,0,No,No,Urban,105.94,Lapsed
+TPI-00660,44,Comprehensive,42.31,Cat,8,5,No,1,No,Yes,Urban,2022.26,Active
+TPI-00661,8,Wellness Plus,64.14,Dog,6,0,Yes,1,No,No,Urban,861.31,Active
+TPI-00662,8,Basic Accident,18.9,Cat,13,1,No,1,Yes,No,Urban,418.18,Active
+TPI-00663,43,Wellness Plus,71.6,Cat,4,4,No,1,Yes,Yes,Urban,4787.29,Active
+TPI-00664,21,Basic Accident,21.3,Dog,12,1,No,1,Yes,No,Suburban,455.38,Active
+TPI-00665,9,Wellness Plus,87.15,Dog,9,1,Yes,0,Yes,Yes,Urban,700.05,Active
+TPI-00666,32,Basic Accident,24.85,Cat,11,4,Yes,1,Yes,No,Suburban,840.29,Lapsed
+TPI-00667,24,Basic Accident,26.14,Cat,0,1,No,1,No,No,Urban,829.73,Lapsed
+TPI-00668,5,Comprehensive,59.24,Cat,3,2,Yes,2,No,Yes,Suburban,303.35,Active
+TPI-00669,46,Wellness Plus,105.76,Other,2,1,Yes,1,Yes,No,Urban,7307.46,Active
+TPI-00670,1,Comprehensive,49.77,Dog,4,1,No,0,Yes,No,Suburban,87.35,Active
+TPI-00671,36,Basic Accident,16.87,Cat,9,1,No,2,Yes,Yes,Suburban,698.07,Lapsed
+TPI-00672,0,Basic Accident,29.06,Cat,1,0,No,1,Yes,Yes,Rural,152.62,Lapsed
+TPI-00673,22,Basic Accident,24.31,Dog,12,2,No,0,No,Yes,Suburban,246.45,Active
+TPI-00674,30,Wellness Plus,63.25,Dog,6,1,No,0,Yes,No,Urban,1235.58,Active
+TPI-00675,41,Basic Accident,18.79,Cat,8,2,No,3,No,No,Suburban,1275.32,Active
+TPI-00676,38,Wellness Plus,92.95,Cat,10,2,Yes,0,No,No,Suburban,3158.94,Lapsed
+TPI-00677,14,Basic Accident,21.07,Dog,9,4,No,0,Yes,No,Suburban,231.96,Active
+TPI-00678,15,Basic Accident,23.88,Other,2,1,No,0,Yes,No,Suburban,344.9,Lapsed
+TPI-00679,15,Wellness Plus,85.74,Dog,9,0,Yes,1,No,No,Suburban,1522.37,Active
+TPI-00680,8,Comprehensive,48.89,Dog,7,2,Yes,0,Yes,Yes,Suburban,348.0,Lapsed
+TPI-00681,26,Comprehensive,41.53,Cat,5,4,No,4,Yes,Yes,Rural,1617.16,Active
+TPI-00682,9,Comprehensive,36.49,Dog,0,1,No,0,Yes,No,Urban,269.53,Lapsed
+TPI-00683,35,Basic Accident,22.02,Cat,6,1,Yes,0,Yes,No,Rural,875.77,Active
+TPI-00684,5,Comprehensive,48.51,Cat,14,0,No,0,No,No,Suburban,406.25,Lapsed
+TPI-00685,23,Basic Accident,21.41,Dog,11,1,No,0,No,No,Suburban,489.82,Lapsed
+TPI-00686,6,Basic Accident,30.3,Dog,8,4,No,1,No,Yes,Urban,122.8,Active
+TPI-00687,5,Comprehensive,50.95,Cat,9,1,No,1,Yes,No,Urban,472.92,Lapsed
+TPI-00688,49,Comprehensive,36.49,Cat,9,1,No,0,Yes,No,Urban,1060.66,Lapsed
+TPI-00689,35,Basic Accident,24.13,Dog,5,2,Yes,0,No,Yes,Rural,704.73,Active
+TPI-00690,39,Comprehensive,54.81,Cat,13,4,No,0,No,Yes,Suburban,1516.54,Active
+TPI-00691,56,Basic Accident,20.18,Dog,5,3,No,1,No,No,Rural,1102.02,Active
+TPI-00692,21,Comprehensive,44.1,Dog,5,1,No,0,No,No,Rural,949.79,Active
+TPI-00693,36,Comprehensive,50.78,Cat,4,1,No,0,No,No,Suburban,2812.03,Active
+TPI-00694,21,Basic Accident,20.59,Cat,4,0,No,0,Yes,No,Suburban,411.77,Lapsed
+TPI-00695,50,Comprehensive,48.34,Dog,7,0,No,1,No,No,Urban,2952.08,Active
+TPI-00696,53,Basic Accident,28.9,Dog,0,5,No,0,Yes,No,Urban,3237.96,Active
+TPI-00697,23,Basic Accident,23.44,Cat,9,1,No,1,Yes,Yes,Suburban,624.3,Lapsed
+TPI-00698,38,Comprehensive,47.28,Dog,11,2,No,2,Yes,No,Suburban,2057.06,Active
+TPI-00699,40,Basic Accident,17.72,Dog,14,2,No,0,Yes,No,Suburban,654.32,Active
+TPI-00700,10,Wellness Plus,67.38,Dog,6,1,No,2,Yes,No,Rural,1665.22,Active
+TPI-00701,31,Basic Accident,21.07,Dog,15,1,Yes,1,No,Yes,Urban,361.27,Active
+TPI-00702,54,Basic Accident,21.9,Dog,2,2,No,0,Yes,No,Rural,1176.96,Active
+TPI-00703,35,Wellness Plus,83.75,Dog,3,1,Yes,0,Yes,No,Rural,2900.3,Active
+TPI-00704,42,Basic Accident,17.89,Dog,0,6,Yes,2,No,Yes,Urban,412.24,Active
+TPI-00705,22,Basic Accident,28.57,Dog,6,2,Yes,0,No,No,Urban,351.47,Active
+TPI-00706,14,Wellness Plus,80.29,Cat,1,2,No,1,Yes,Yes,Rural,915.89,Active
+TPI-00707,26,Basic Accident,17.0,Dog,8,1,No,1,Yes,No,Urban,570.79,Active
+TPI-00708,49,Basic Accident,28.6,Dog,10,3,Yes,1,Yes,No,Suburban,1632.24,Lapsed
+TPI-00709,8,Comprehensive,69.22,Cat,5,3,No,0,No,No,Urban,162.5,Lapsed
+TPI-00710,25,Wellness Plus,80.93,Dog,13,2,No,0,Yes,No,Urban,2916.57,Active
+TPI-00711,4,Basic Accident,17.29,Dog,5,2,Yes,4,No,No,Rural,220.46,Lapsed
+TPI-00712,58,Comprehensive,52.47,Dog,10,1,No,1,Yes,No,Suburban,3325.58,Active
+TPI-00713,43,Wellness Plus,86.97,Cat,10,3,No,0,Yes,No,Suburban,3324.82,Lapsed
+TPI-00714,46,Comprehensive,48.24,Dog,0,0,No,0,Yes,No,Urban,1576.84,Active
+TPI-00715,42,Wellness Plus,99.75,Dog,1,2,No,1,No,No,Urban,5762.16,Active
+TPI-00716,17,Basic Accident,23.2,Dog,7,2,No,1,Yes,No,Suburban,759.2,Lapsed
+TPI-00717,26,Basic Accident,26.97,Dog,5,1,No,3,Yes,No,Rural,1520.65,Lapsed
+TPI-00718,47,Comprehensive,53.06,Dog,3,1,No,2,Yes,No,Urban,3164.17,Active
+TPI-00719,60,Basic Accident,21.43,Dog,14,2,No,1,No,No,Urban,823.75,Active
+TPI-00720,15,Basic Accident,18.71,Cat,15,2,No,0,No,No,Rural,231.18,Active
+TPI-00721,1,Basic Accident,22.61,Dog,0,1,Yes,3,No,Yes,Rural,142.79,Lapsed
+TPI-00722,51,Wellness Plus,86.49,Cat,1,2,Yes,1,Yes,Yes,Rural,3706.98,Active
+TPI-00723,57,Comprehensive,44.8,Cat,6,0,Yes,0,Yes,No,Rural,1481.38,Active
+TPI-00724,19,Wellness Plus,79.75,Dog,7,4,No,0,Yes,Yes,Urban,2879.59,Active
+TPI-00725,3,Basic Accident,23.59,Dog,10,3,No,3,Yes,Yes,Suburban,318.24,Lapsed
+TPI-00726,38,Comprehensive,54.49,Dog,4,4,No,2,Yes,No,Urban,1691.51,Active
+TPI-00727,52,Basic Accident,27.42,Dog,0,2,No,0,No,No,Suburban,1840.94,Active
+TPI-00728,14,Basic Accident,17.22,Dog,3,3,Yes,2,No,No,Rural,251.69,Active
+TPI-00729,56,Wellness Plus,71.36,Cat,5,1,No,0,Yes,No,Suburban,4208.17,Active
+TPI-00730,38,Comprehensive,50.19,Dog,12,3,No,3,Yes,Yes,Urban,1428.48,Active
+TPI-00731,56,Wellness Plus,77.16,Dog,6,3,No,2,No,No,Suburban,2791.87,Active
+TPI-00732,13,Wellness Plus,81.48,Dog,4,2,No,0,Yes,Yes,Urban,1751.42,Active
+TPI-00733,25,Comprehensive,46.83,Dog,4,2,Yes,1,No,No,Urban,1607.09,Active
+TPI-00734,5,Wellness Plus,74.64,Dog,7,3,No,0,Yes,Yes,Urban,807.44,Active
+TPI-00735,24,Basic Accident,18.32,Cat,2,0,No,1,Yes,No,Suburban,638.79,Lapsed
+TPI-00736,11,Comprehensive,45.73,Cat,0,1,No,0,Yes,No,Urban,657.74,Active
+TPI-00737,60,Comprehensive,46.74,Dog,6,2,No,1,No,Yes,Urban,3500.65,Active
+TPI-00738,51,Comprehensive,48.09,Dog,4,1,Yes,1,No,Yes,Rural,1940.77,Active
+TPI-00739,55,Comprehensive,57.64,Cat,13,6,No,0,Yes,No,Suburban,1894.25,Active
+TPI-00740,8,Comprehensive,51.43,Cat,1,3,No,0,Yes,No,Rural,554.46,Active
+TPI-00741,31,Wellness Plus,87.77,Dog,3,2,No,0,Yes,No,Urban,2366.3,Active
+TPI-00742,45,Comprehensive,32.0,Cat,5,2,No,1,Yes,No,Suburban,1434.55,Active
+TPI-00743,52,Comprehensive,61.23,Dog,13,2,No,0,Yes,No,Suburban,6077.37,Active
+TPI-00744,54,Basic Accident,30.2,Dog,7,3,No,0,No,No,Rural,1361.53,Active
+TPI-00745,17,Basic Accident,22.89,Cat,0,5,Yes,1,Yes,No,Rural,640.07,Active
+TPI-00746,18,Comprehensive,52.4,Dog,2,2,Yes,2,Yes,No,Urban,1137.22,Active
+TPI-00747,21,Basic Accident,23.66,Dog,9,3,No,1,No,Yes,Suburban,465.02,Active
+TPI-00748,51,Wellness Plus,99.23,Dog,2,3,No,1,Yes,No,Suburban,2571.95,Active
+TPI-00749,50,Comprehensive,68.07,Dog,5,3,Yes,2,Yes,No,Rural,4311.98,Active
+TPI-00750,16,Wellness Plus,60.22,Cat,12,0,Yes,0,Yes,Yes,Suburban,2161.39,Active
+TPI-00751,41,Comprehensive,47.55,Other,10,2,No,1,Yes,No,Suburban,3645.46,Active
+TPI-00752,22,Comprehensive,57.25,Cat,4,3,No,2,Yes,Yes,Urban,1274.77,Lapsed
+TPI-00753,26,Basic Accident,24.95,Cat,11,4,Yes,0,Yes,Yes,Urban,1729.34,Active
+TPI-00754,52,Wellness Plus,71.25,Dog,1,3,No,1,No,Yes,Urban,6135.26,Active
+TPI-00755,43,Basic Accident,22.49,Dog,8,3,No,1,Yes,Yes,Urban,1087.75,Lapsed
+TPI-00756,39,Comprehensive,54.09,Dog,3,3,No,1,Yes,No,Urban,4374.78,Active
+TPI-00757,5,Wellness Plus,98.82,Dog,1,0,Yes,1,Yes,Yes,Rural,714.3,Active
+TPI-00758,33,Basic Accident,26.99,Cat,9,0,No,2,Yes,No,Urban,1251.79,Active
+TPI-00759,11,Basic Accident,24.65,Dog,1,3,No,0,No,No,Urban,532.3,Active
+TPI-00760,4,Basic Accident,22.24,Dog,6,5,No,2,No,No,Urban,42.35,Lapsed
+TPI-00761,45,Comprehensive,49.53,Cat,15,2,No,1,No,Yes,Suburban,2151.72,Active
+TPI-00762,58,Comprehensive,58.7,Cat,2,4,No,0,Yes,Yes,Rural,1835.74,Active
+TPI-00763,6,Comprehensive,46.57,Dog,4,2,No,0,No,Yes,Urban,335.86,Active
+TPI-00764,0,Wellness Plus,79.45,Other,1,3,No,0,No,Yes,Urban,89.34,Lapsed
+TPI-00765,10,Wellness Plus,92.33,Dog,11,2,No,1,Yes,No,Suburban,1184.19,Active
+TPI-00766,30,Basic Accident,16.01,Dog,5,2,Yes,2,Yes,No,Suburban,844.81,Active
+TPI-00767,24,Comprehensive,49.09,Cat,3,4,No,3,Yes,Yes,Suburban,719.27,Active
+TPI-00768,46,Comprehensive,39.34,Dog,13,1,Yes,1,Yes,No,Suburban,2231.56,Active
+TPI-00769,28,Basic Accident,26.1,Cat,10,3,No,1,No,No,Suburban,469.93,Lapsed
+TPI-00770,27,Basic Accident,29.52,Cat,5,3,Yes,0,Yes,No,Rural,1326.83,Lapsed
+TPI-00771,24,Basic Accident,26.86,Cat,10,1,No,1,Yes,No,Suburban,602.23,Lapsed
+TPI-00772,3,Comprehensive,46.27,Cat,8,3,No,0,Yes,Yes,Suburban,344.43,Active
+TPI-00773,11,Comprehensive,40.88,Dog,15,3,Yes,0,Yes,Yes,Urban,403.97,Active
+TPI-00774,45,Comprehensive,48.39,Other,12,3,No,0,No,No,Urban,2416.61,Active
+TPI-00775,22,Basic Accident,13.15,Dog,8,2,No,1,Yes,No,Urban,437.2,Lapsed
+TPI-00776,56,Basic Accident,26.98,Dog,7,2,No,1,Yes,No,Urban,1864.42,Active
+TPI-00777,45,Comprehensive,52.98,Cat,4,2,Yes,1,Yes,No,Suburban,2215.06,Active
+TPI-00778,55,Basic Accident,24.7,Dog,15,5,No,0,No,No,Urban,1872.29,Active
+TPI-00779,6,Wellness Plus,66.06,Dog,5,1,No,0,Yes,Yes,Suburban,615.2,Active
+TPI-00780,44,Comprehensive,51.2,Dog,4,3,No,0,Yes,Yes,Urban,2457.38,Active
+TPI-00781,18,Basic Accident,22.24,Dog,9,1,No,0,Yes,No,Urban,525.43,Active
+TPI-00782,25,Comprehensive,49.79,Dog,0,3,Yes,1,Yes,No,Suburban,825.26,Active
+TPI-00783,26,Wellness Plus,83.44,Cat,2,2,No,1,No,No,Rural,2430.24,Active
+TPI-00784,18,Comprehensive,53.86,Cat,4,1,No,1,Yes,No,Urban,961.8,Active
+TPI-00785,29,Comprehensive,67.62,Dog,2,2,No,0,Yes,No,Urban,3096.41,Active
+TPI-00786,16,Basic Accident,16.75,Cat,10,2,No,1,Yes,No,Suburban,421.44,Lapsed
+TPI-00787,10,Wellness Plus,74.95,Dog,6,2,No,1,No,Yes,Suburban,778.66,Active
+TPI-00788,48,Basic Accident,18.95,Dog,8,2,No,0,Yes,No,Suburban,1449.26,Active
+TPI-00789,41,Basic Accident,23.85,Cat,10,0,No,1,Yes,No,Suburban,964.73,Active
+TPI-00790,0,Comprehensive,44.48,Cat,11,2,Yes,1,No,No,Urban,0.0,Lapsed
+TPI-00791,22,Basic Accident,20.25,Dog,14,3,No,0,Yes,No,Urban,674.47,Active
+TPI-00792,36,Wellness Plus,77.67,Dog,12,1,No,2,Yes,No,Urban,4563.87,Active
+TPI-00793,56,Comprehensive,67.5,Dog,12,3,No,3,No,No,Rural,5505.24,Active
+TPI-00794,5,Basic Accident,30.24,Dog,12,0,No,0,Yes,Yes,Urban,249.01,Active
+TPI-00795,59,Comprehensive,36.87,Dog,9,2,No,0,Yes,No,Urban,1132.12,Active
+TPI-00796,39,Basic Accident,15.61,Other,2,3,No,2,Yes,No,Urban,1125.11,Lapsed
+TPI-00797,26,Basic Accident,21.62,Dog,12,3,Yes,0,Yes,Yes,Urban,515.64,Active
+TPI-00798,0,Comprehensive,32.0,Dog,3,4,No,2,No,No,Suburban,41.97,Active
+TPI-00799,60,Basic Accident,15.52,Cat,10,2,No,0,Yes,Yes,Suburban,1942.83,Active
+TPI-00800,2,Comprehensive,57.78,Cat,12,5,No,0,Yes,No,Rural,290.81,Active
+TPI-00801,0,Comprehensive,48.69,Dog,11,2,No,0,Yes,No,Urban,96.03,Active
+TPI-00802,48,Wellness Plus,74.23,Dog,9,2,Yes,0,Yes,No,Suburban,3412.66,Active
+TPI-00803,31,Basic Accident,15.43,Dog,8,2,Yes,0,Yes,No,Urban,245.3,Active
+TPI-00804,28,Basic Accident,17.46,Dog,12,4,No,1,Yes,Yes,Rural,900.67,Active
+TPI-00805,23,Wellness Plus,97.64,Dog,13,2,Yes,0,No,Yes,Suburban,1991.88,Active
+TPI-00806,42,Comprehensive,35.65,Other,13,4,No,1,No,No,Urban,1204.0,Lapsed
+TPI-00807,37,Basic Accident,14.88,Dog,10,1,No,0,Yes,No,Urban,841.24,Active
+TPI-00808,35,Wellness Plus,72.24,Cat,0,5,No,1,Yes,No,Rural,3125.16,Active
+TPI-00809,0,Basic Accident,24.21,Cat,5,4,Yes,0,No,Yes,Suburban,12.07,Active
+TPI-00810,48,Comprehensive,48.41,Dog,4,0,No,0,Yes,Yes,Suburban,1380.37,Active
+TPI-00811,5,Comprehensive,44.73,Dog,3,3,No,0,Yes,No,Urban,409.83,Active
+TPI-00812,59,Wellness Plus,91.7,Cat,14,1,No,1,Yes,No,Suburban,4701.34,Active
+TPI-00813,52,Wellness Plus,78.84,Dog,3,4,No,0,Yes,No,Urban,4265.82,Active
+TPI-00814,10,Basic Accident,18.79,Dog,15,1,No,3,No,No,Urban,298.52,Active
+TPI-00815,24,Basic Accident,17.62,Cat,3,2,Yes,0,Yes,No,Rural,879.17,Active
+TPI-00816,27,Comprehensive,51.24,Cat,10,3,No,3,Yes,Yes,Rural,2376.58,Active
+TPI-00817,8,Comprehensive,46.02,Dog,13,3,No,0,No,Yes,Suburban,1576.81,Active
+TPI-00818,28,Basic Accident,21.86,Cat,7,3,No,0,Yes,No,Rural,801.56,Active
+TPI-00819,10,Basic Accident,21.16,Dog,7,2,No,2,No,Yes,Urban,200.74,Active
+TPI-00820,17,Basic Accident,21.0,Dog,8,2,No,1,No,No,Suburban,321.43,Lapsed
+TPI-00821,46,Basic Accident,20.34,Other,1,2,Yes,3,No,No,Urban,938.3,Lapsed
+TPI-00822,32,Comprehensive,58.42,Dog,13,1,Yes,3,Yes,No,Urban,1296.27,Active
+TPI-00823,10,Basic Accident,23.49,Cat,5,6,No,0,Yes,No,Rural,315.81,Active
+TPI-00824,8,Basic Accident,24.46,Dog,3,2,No,1,Yes,Yes,Suburban,737.25,Active
+TPI-00825,10,Wellness Plus,99.47,Other,3,1,Yes,0,Yes,No,Suburban,1010.64,Active
+TPI-00826,57,Basic Accident,17.87,Cat,14,3,No,1,Yes,Yes,Rural,1910.74,Lapsed
+TPI-00827,15,Basic Accident,28.57,Dog,9,2,No,2,Yes,Yes,Suburban,866.53,Active
+TPI-00828,11,Wellness Plus,85.66,Cat,2,1,No,0,No,No,Urban,1160.83,Lapsed
+TPI-00829,27,Wellness Plus,62.33,Cat,12,0,No,3,No,No,Urban,2842.84,Active
+TPI-00830,43,Wellness Plus,79.66,Dog,15,2,Yes,0,No,No,Urban,4214.68,Active
+TPI-00831,26,Basic Accident,21.94,Dog,13,1,No,0,Yes,No,Urban,382.97,Active
+TPI-00832,11,Wellness Plus,76.08,Cat,9,3,No,1,No,Yes,Urban,1133.24,Lapsed
+TPI-00833,23,Comprehensive,49.38,Dog,12,3,No,0,No,No,Suburban,1154.65,Active
+TPI-00834,17,Basic Accident,26.64,Cat,5,4,Yes,1,Yes,No,Suburban,319.62,Active
+TPI-00835,9,Basic Accident,22.4,Cat,3,3,No,0,No,No,Suburban,201.1,Active
+TPI-00836,50,Basic Accident,25.3,Dog,0,4,Yes,1,No,No,Urban,1326.71,Lapsed
+TPI-00837,53,Basic Accident,15.97,Dog,15,1,Yes,1,No,No,Rural,942.59,Lapsed
+TPI-00838,51,Comprehensive,50.27,Dog,10,2,No,1,No,No,Suburban,8490.89,Active
+TPI-00839,48,Basic Accident,17.38,Dog,10,1,No,0,No,No,Suburban,1755.71,Lapsed
+TPI-00840,3,Basic Accident,19.57,Cat,15,4,No,0,No,No,Suburban,0.0,Lapsed
+TPI-00841,3,Basic Accident,16.86,Dog,4,0,Yes,0,Yes,Yes,Suburban,181.45,Lapsed
+TPI-00842,19,Comprehensive,46.52,Dog,12,3,No,0,No,No,Urban,739.15,Active
+TPI-00843,8,Wellness Plus,85.63,Dog,9,2,No,0,Yes,No,Rural,637.7,Active
+TPI-00844,31,Comprehensive,53.58,Dog,4,2,No,0,Yes,No,Urban,2547.67,Active
+TPI-00845,41,Basic Accident,23.09,Cat,10,0,No,2,Yes,No,Suburban,1030.15,Lapsed
+TPI-00846,48,Comprehensive,47.11,Cat,12,5,No,2,Yes,No,Suburban,2782.11,Active
+TPI-00847,7,Comprehensive,56.09,Cat,1,3,No,3,No,No,Suburban,449.03,Active
+TPI-00848,7,Comprehensive,36.9,Other,11,6,No,0,Yes,No,Urban,350.75,Active
+TPI-00849,38,Wellness Plus,80.22,Dog,13,1,Yes,0,Yes,No,Suburban,4220.19,Active
+TPI-00850,24,Basic Accident,21.91,Dog,0,4,Yes,2,Yes,Yes,Urban,1160.45,Active
+TPI-00851,52,Basic Accident,17.97,Dog,12,1,No,0,Yes,No,Suburban,870.8,Active
+TPI-00852,52,Comprehensive,48.99,Other,2,1,No,0,Yes,No,Suburban,5698.82,Active
+TPI-00853,53,Wellness Plus,59.94,Dog,0,0,No,3,No,No,Urban,3843.77,Active
+TPI-00854,45,Comprehensive,43.36,Dog,11,2,No,0,Yes,No,Suburban,2183.61,Active
+TPI-00855,0,Basic Accident,24.14,Dog,15,3,No,0,No,No,Rural,87.8,Lapsed
+TPI-00856,4,Comprehensive,40.14,Dog,13,2,No,2,No,No,Urban,314.55,Active
+TPI-00857,40,Comprehensive,37.43,Cat,9,5,No,1,Yes,No,Suburban,1938.09,Lapsed
+TPI-00858,34,Wellness Plus,74.06,Dog,7,1,No,2,Yes,Yes,Rural,3233.04,Active
+TPI-00859,44,Wellness Plus,72.66,Other,10,3,No,0,Yes,No,Suburban,3332.66,Active
+TPI-00860,43,Wellness Plus,78.03,Dog,12,2,No,2,Yes,Yes,Urban,6668.61,Active
+TPI-00861,23,Comprehensive,41.12,Dog,0,2,No,0,Yes,Yes,Urban,1119.85,Active
+TPI-00862,43,Wellness Plus,81.92,Dog,9,1,No,3,Yes,No,Suburban,2031.24,Active
+TPI-00863,25,Comprehensive,50.91,Dog,2,1,No,0,No,Yes,Urban,2725.0,Active
+TPI-00864,36,Wellness Plus,86.8,Dog,3,2,No,1,No,No,Rural,3733.17,Active
+TPI-00865,11,Basic Accident,25.14,Dog,12,2,No,0,No,Yes,Urban,78.51,Lapsed
+TPI-00866,23,Basic Accident,13.62,Dog,4,0,Yes,0,Yes,Yes,Urban,216.87,Active
+TPI-00867,12,Comprehensive,51.64,Cat,15,4,No,0,Yes,No,Urban,675.11,Active
+TPI-00868,53,Basic Accident,26.1,Cat,4,3,No,0,Yes,No,Urban,1846.81,Lapsed
+TPI-00869,54,Basic Accident,24.52,Cat,15,3,No,1,Yes,No,Suburban,493.81,Active
+TPI-00870,26,Comprehensive,54.44,Dog,13,1,No,2,No,Yes,Urban,637.19,Active
+TPI-00871,29,Basic Accident,15.65,Dog,3,3,Yes,2,Yes,No,Rural,725.97,Lapsed
+TPI-00872,22,Comprehensive,44.44,Cat,4,0,No,0,Yes,Yes,Suburban,1954.63,Active
+TPI-00873,57,Basic Accident,19.19,Other,15,2,No,1,No,No,Urban,2101.98,Active
+TPI-00874,28,Comprehensive,56.22,Cat,13,1,No,1,No,No,Suburban,919.28,Active
+TPI-00875,50,Basic Accident,19.32,Cat,6,3,No,1,Yes,No,Rural,1311.25,Lapsed
+TPI-00876,51,Basic Accident,18.12,Other,7,1,No,0,Yes,No,Suburban,1336.45,Active
+TPI-00877,33,Comprehensive,47.52,Cat,7,5,No,0,Yes,Yes,Suburban,1939.57,Active
+TPI-00878,28,Basic Accident,28.09,Dog,8,1,Yes,0,No,No,Urban,1258.92,Lapsed
+TPI-00879,50,Comprehensive,53.36,Cat,7,5,Yes,0,No,No,Rural,1793.32,Active
+TPI-00880,42,Comprehensive,48.9,Dog,8,3,No,0,Yes,Yes,Suburban,2603.95,Active
+TPI-00881,4,Comprehensive,42.14,Dog,13,0,No,0,Yes,No,Suburban,525.89,Active
+TPI-00882,44,Comprehensive,36.74,Dog,2,3,Yes,2,Yes,Yes,Urban,1603.7,Active
+TPI-00883,37,Basic Accident,19.93,Dog,6,3,No,2,No,Yes,Urban,647.56,Active
+TPI-00884,42,Comprehensive,38.45,Cat,0,0,No,1,Yes,No,Rural,2381.97,Active
+TPI-00885,10,Basic Accident,12.76,Dog,2,1,No,1,Yes,No,Suburban,280.85,Active
+TPI-00886,43,Wellness Plus,84.89,Dog,12,2,Yes,1,Yes,No,Suburban,1761.58,Active
+TPI-00887,29,Comprehensive,40.3,Cat,3,0,No,0,Yes,No,Urban,1909.68,Active
+TPI-00888,22,Comprehensive,44.07,Cat,11,3,No,0,No,No,Suburban,475.1,Active
+TPI-00889,41,Wellness Plus,55.0,Dog,2,0,No,0,Yes,Yes,Suburban,3374.12,Active
+TPI-00890,0,Basic Accident,20.75,Dog,15,0,No,1,Yes,No,Urban,264.06,Lapsed
+TPI-00891,43,Basic Accident,19.55,Dog,7,1,No,2,Yes,No,Urban,963.04,Lapsed
+TPI-00892,46,Wellness Plus,84.5,Cat,7,3,No,1,Yes,No,Suburban,4205.57,Active
+TPI-00893,29,Basic Accident,19.12,Cat,10,1,No,1,Yes,No,Urban,522.53,Active
+TPI-00894,35,Comprehensive,53.17,Dog,2,2,No,0,Yes,Yes,Suburban,3280.75,Active
+TPI-00895,5,Wellness Plus,94.47,Dog,3,2,Yes,1,No,Yes,Suburban,516.71,Lapsed
+TPI-00896,55,Wellness Plus,80.07,Cat,6,4,No,1,Yes,No,Urban,3969.43,Lapsed
+TPI-00897,15,Basic Accident,23.27,Other,0,2,No,3,No,No,Suburban,878.09,Lapsed
+TPI-00898,42,Wellness Plus,70.79,Dog,0,0,No,0,Yes,Yes,Urban,2966.85,Active
+TPI-00899,48,Comprehensive,55.95,Dog,13,0,No,2,Yes,Yes,Suburban,2087.28,Active
+TPI-00900,3,Comprehensive,56.53,Dog,4,2,Yes,0,Yes,Yes,Urban,336.27,Active
+TPI-00901,38,Comprehensive,32.0,Dog,9,2,No,0,Yes,No,Rural,995.97,Active
+TPI-00902,43,Wellness Plus,67.68,Dog,2,2,Yes,1,No,No,Suburban,6384.34,Active
+TPI-00903,23,Wellness Plus,88.76,Cat,11,3,No,1,Yes,No,Rural,1938.69,Active
+TPI-00904,16,Comprehensive,44.29,Other,0,2,No,1,No,No,Rural,542.23,Lapsed
+TPI-00905,21,Comprehensive,45.88,Dog,12,4,Yes,2,Yes,Yes,Suburban,960.75,Active
+TPI-00906,59,Basic Accident,16.32,Dog,10,2,Yes,0,No,No,Rural,873.16,Lapsed
+TPI-00907,24,Basic Accident,29.1,Dog,6,1,No,1,No,No,Urban,644.63,Active
+TPI-00908,31,Comprehensive,44.67,Dog,13,2,No,0,Yes,Yes,Suburban,1297.14,Active
+TPI-00909,46,Basic Accident,21.49,Cat,13,1,Yes,1,Yes,Yes,Urban,557.12,Lapsed
+TPI-00910,28,Basic Accident,22.13,Dog,9,6,Yes,0,No,No,Urban,682.35,Active
+TPI-00911,6,Basic Accident,20.22,Cat,10,2,No,0,Yes,No,Rural,193.42,Active
+TPI-00912,27,Basic Accident,28.22,Dog,9,1,No,2,No,No,Suburban,1367.52,Active
+TPI-00913,19,Comprehensive,34.27,Dog,5,1,Yes,2,Yes,Yes,Rural,666.15,Active
+TPI-00914,13,Basic Accident,19.23,Cat,11,1,No,2,Yes,Yes,Suburban,469.28,Active
+TPI-00915,55,Comprehensive,56.21,Cat,6,1,No,0,Yes,No,Suburban,4928.39,Active
+TPI-00916,25,Wellness Plus,82.17,Other,13,2,No,3,Yes,No,Rural,2683.96,Lapsed
+TPI-00917,19,Wellness Plus,71.3,Cat,5,2,No,1,Yes,No,Urban,1178.74,Active
+TPI-00918,25,Basic Accident,22.84,Cat,11,4,Yes,0,Yes,Yes,Suburban,992.05,Lapsed
+TPI-00919,4,Basic Accident,23.41,Dog,1,1,No,1,Yes,Yes,Suburban,390.59,Active
+TPI-00920,55,Basic Accident,21.1,Cat,5,1,Yes,0,No,No,Urban,1228.57,Lapsed
+TPI-00921,23,Comprehensive,62.56,Dog,8,2,No,2,Yes,No,Rural,1913.9,Active
+TPI-00922,1,Wellness Plus,80.09,Dog,13,6,Yes,1,Yes,Yes,Urban,281.1,Active
+TPI-00923,45,Wellness Plus,73.27,Cat,14,1,No,0,Yes,No,Rural,2779.1,Active
+TPI-00924,39,Wellness Plus,72.85,Dog,8,5,Yes,1,Yes,No,Urban,4501.0,Active
+TPI-00925,28,Basic Accident,24.26,Dog,0,2,Yes,0,Yes,No,Urban,772.72,Active
+TPI-00926,21,Basic Accident,25.48,Other,14,2,No,2,No,Yes,Urban,388.68,Active
+TPI-00927,37,Wellness Plus,78.49,Other,9,2,No,1,Yes,No,Suburban,5634.32,Active
+TPI-00928,25,Comprehensive,45.26,Cat,10,5,Yes,0,Yes,Yes,Urban,2019.01,Lapsed
+TPI-00929,6,Basic Accident,24.92,Dog,8,6,No,0,Yes,No,Suburban,227.89,Active
+TPI-00930,57,Wellness Plus,80.32,Dog,8,3,No,1,No,No,Suburban,14763.93,Active
+TPI-00931,0,Basic Accident,21.58,Dog,8,0,Yes,0,Yes,Yes,Suburban,182.19,Active
+TPI-00932,24,Wellness Plus,69.1,Other,10,0,No,0,No,No,Suburban,893.78,Active
+TPI-00933,25,Comprehensive,65.7,Dog,12,0,No,1,Yes,No,Suburban,1743.95,Active
+TPI-00934,56,Comprehensive,32.0,Cat,11,3,No,0,No,Yes,Suburban,919.55,Active
+TPI-00935,48,Basic Accident,20.96,Dog,12,1,No,0,Yes,No,Suburban,1358.22,Lapsed
+TPI-00936,51,Wellness Plus,73.81,Dog,2,3,No,1,No,No,Urban,7127.06,Active
+TPI-00937,60,Comprehensive,39.17,Dog,7,0,No,3,Yes,Yes,Suburban,1904.45,Lapsed
+TPI-00938,27,Comprehensive,45.87,Cat,11,1,No,1,No,No,Urban,1096.1,Active
+TPI-00939,28,Comprehensive,53.18,Cat,5,2,No,0,Yes,Yes,Suburban,1205.63,Active
+TPI-00940,57,Basic Accident,22.53,Dog,6,2,No,0,No,Yes,Suburban,1137.14,Lapsed
+TPI-00941,30,Basic Accident,20.38,Cat,4,3,No,0,No,No,Suburban,510.32,Active
+TPI-00942,31,Basic Accident,17.79,Cat,12,1,Yes,2,Yes,No,Urban,658.6,Active
+TPI-00943,24,Comprehensive,48.65,Dog,1,1,No,0,No,No,Rural,1535.95,Active
+TPI-00944,53,Comprehensive,39.25,Cat,11,2,No,4,No,No,Suburban,1473.44,Active
+TPI-00945,57,Basic Accident,22.63,Dog,6,1,No,1,No,Yes,Suburban,1545.58,Active
+TPI-00946,28,Basic Accident,27.89,Dog,0,5,No,1,Yes,No,Suburban,1325.7,Active
+TPI-00947,28,Basic Accident,24.03,Dog,3,1,Yes,0,Yes,No,Rural,519.18,Active
+TPI-00948,56,Wellness Plus,98.63,Dog,8,0,No,2,No,No,Suburban,2872.62,Active
+TPI-00949,14,Wellness Plus,67.0,Dog,9,1,Yes,1,Yes,No,Suburban,681.15,Lapsed
+TPI-00950,55,Comprehensive,53.91,Dog,5,2,Yes,0,Yes,Yes,Suburban,2542.53,Active
+TPI-00951,60,Basic Accident,16.68,Cat,14,2,No,0,Yes,No,Rural,716.61,Lapsed
+TPI-00952,16,Wellness Plus,80.61,Cat,0,1,Yes,0,Yes,Yes,Suburban,2613.58,Active
+TPI-00953,36,Comprehensive,52.66,Cat,10,2,No,1,No,No,Suburban,1836.8,Active
+TPI-00954,33,Comprehensive,43.68,Dog,4,4,No,0,Yes,No,Urban,1132.53,Active
+TPI-00955,38,Comprehensive,44.99,Cat,13,0,No,1,Yes,No,Urban,1367.59,Active
+TPI-00956,60,Comprehensive,38.98,Cat,15,3,Yes,2,Yes,No,Urban,3552.8,Active
+TPI-00957,32,Basic Accident,22.35,Dog,1,1,Yes,5,Yes,No,Urban,1468.8,Lapsed
+TPI-00958,31,Comprehensive,52.28,Dog,8,4,Yes,3,Yes,No,Urban,1434.4,Active
+TPI-00959,17,Basic Accident,25.67,Dog,11,3,No,2,No,No,Rural,636.84,Active
+TPI-00960,34,Wellness Plus,85.16,Cat,10,0,No,0,No,No,Suburban,3633.47,Active
+TPI-00961,45,Comprehensive,38.49,Cat,7,1,No,0,No,Yes,Suburban,2082.14,Active
+TPI-00962,0,Comprehensive,37.57,Other,0,3,Yes,0,Yes,No,Urban,199.06,Active
+TPI-00963,41,Wellness Plus,70.98,Cat,4,5,Yes,2,No,Yes,Urban,4685.58,Active
+TPI-00964,27,Comprehensive,61.0,Cat,13,1,No,1,No,No,Rural,2169.6,Active
+TPI-00965,51,Comprehensive,48.74,Cat,15,4,No,0,Yes,No,Suburban,2079.35,Active
+TPI-00966,5,Comprehensive,42.24,Dog,2,2,No,2,Yes,Yes,Rural,340.96,Lapsed
+TPI-00967,8,Comprehensive,32.6,Cat,0,2,Yes,0,Yes,Yes,Suburban,224.53,Active
+TPI-00968,49,Comprehensive,48.91,Dog,3,1,No,1,Yes,No,Suburban,2808.0,Active
+TPI-00969,35,Basic Accident,21.32,Dog,3,2,No,0,No,No,Urban,843.01,Active
+TPI-00970,59,Comprehensive,48.12,Cat,4,1,No,2,No,No,Urban,2433.56,Active
+TPI-00971,1,Comprehensive,56.89,Cat,6,0,No,2,Yes,No,Suburban,348.32,Lapsed
+TPI-00972,5,Basic Accident,22.71,Other,12,4,Yes,0,Yes,Yes,Urban,170.01,Active
+TPI-00973,10,Basic Accident,35.0,Dog,13,3,No,0,Yes,No,Suburban,386.09,Lapsed
+TPI-00974,29,Basic Accident,29.48,Dog,8,0,Yes,1,No,No,Rural,1485.95,Active
+TPI-00975,10,Basic Accident,22.05,Cat,4,2,No,2,Yes,Yes,Suburban,327.51,Lapsed
+TPI-00976,15,Basic Accident,24.96,Other,2,4,No,0,Yes,No,Urban,389.01,Active
+TPI-00977,44,Wellness Plus,71.64,Cat,4,0,No,1,Yes,No,Rural,4510.26,Active
+TPI-00978,48,Wellness Plus,69.5,Dog,13,1,Yes,2,Yes,Yes,Suburban,2390.19,Active
+TPI-00979,18,Basic Accident,21.17,Dog,10,2,Yes,2,Yes,Yes,Rural,751.87,Active
+TPI-00980,36,Wellness Plus,66.05,Cat,9,6,Yes,1,Yes,Yes,Urban,1781.73,Active
+TPI-00981,9,Comprehensive,32.0,Dog,2,2,No,0,Yes,No,Suburban,525.45,Active
+TPI-00982,11,Comprehensive,41.98,Cat,0,3,Yes,1,Yes,No,Urban,1356.89,Active
+TPI-00983,34,Wellness Plus,95.28,Dog,15,4,Yes,1,No,No,Urban,5151.22,Active
+TPI-00984,23,Basic Accident,20.89,Cat,2,2,Yes,0,Yes,No,Urban,992.71,Lapsed
+TPI-00985,8,Comprehensive,52.4,Other,9,1,No,1,Yes,No,Rural,620.84,Active
+TPI-00986,52,Comprehensive,46.68,Dog,13,1,No,1,Yes,No,Urban,5476.04,Active
+TPI-00987,4,Wellness Plus,72.76,Dog,12,2,No,0,Yes,No,Suburban,156.83,Active
+TPI-00988,52,Comprehensive,53.71,Dog,14,2,No,0,Yes,Yes,Urban,3383.43,Active
+TPI-00989,48,Comprehensive,50.14,Dog,11,4,No,1,No,No,Urban,3826.01,Lapsed
+TPI-00990,54,Comprehensive,49.73,Dog,9,2,Yes,3,No,No,Suburban,2483.44,Lapsed
+TPI-00991,15,Comprehensive,52.89,Cat,12,3,No,1,Yes,Yes,Rural,1182.86,Active
+TPI-00992,44,Comprehensive,38.2,Dog,14,3,Yes,1,Yes,Yes,Suburban,1591.09,Active
+TPI-00993,43,Basic Accident,25.95,Dog,3,3,No,1,Yes,No,Rural,2296.82,Active
+TPI-00994,15,Comprehensive,50.72,Dog,3,3,No,2,No,No,Suburban,881.03,Active
+TPI-00995,26,Comprehensive,51.11,Cat,7,0,No,0,Yes,Yes,Suburban,1338.65,Active
+TPI-00996,19,Comprehensive,64.84,Dog,10,2,No,0,No,No,Suburban,972.13,Active
+TPI-00997,34,Comprehensive,32.0,Dog,4,2,No,1,Yes,No,Urban,1341.05,Active
+TPI-00998,53,Wellness Plus,77.9,Cat,14,5,No,0,Yes,No,Rural,8329.42,Active
+TPI-00999,24,Basic Accident,25.87,Dog,2,0,Yes,2,No,Yes,Rural,1036.91,Active
+TPI-01000,15,Basic Accident,24.79,Cat,14,1,No,1,Yes,No,Suburban,384.58,Active
+TPI-01001,24,Comprehensive,44.84,Dog,15,2,No,0,No,Yes,Suburban,1149.74,Active
+TPI-01002,13,Basic Accident,21.27,Dog,12,2,No,0,Yes,Yes,Urban,532.78,Active
+TPI-01003,23,Comprehensive,52.34,Dog,5,2,No,0,No,Yes,Urban,1205.81,Active
+TPI-01004,54,Comprehensive,55.08,Other,7,3,Yes,3,No,Yes,Urban,3398.64,Active
+TPI-01005,56,Basic Accident,29.51,Dog,10,0,No,1,Yes,No,Rural,3143.73,Active
+TPI-01006,17,Comprehensive,46.3,Dog,9,0,Yes,1,Yes,No,Urban,952.06,Active
+TPI-01007,18,Comprehensive,45.3,Cat,1,1,No,2,Yes,No,Urban,1231.67,Active
+TPI-01008,39,Basic Accident,17.76,Cat,1,1,Yes,1,Yes,No,Rural,1319.92,Active
+TPI-01009,38,Basic Accident,22.56,Dog,2,4,Yes,0,Yes,No,Suburban,1384.11,Active
+TPI-01010,7,Comprehensive,46.18,Dog,5,6,No,2,Yes,Yes,Urban,559.19,Active
+TPI-01011,19,Wellness Plus,67.2,Dog,9,2,No,1,Yes,Yes,Suburban,2636.3,Active
+TPI-01012,18,Wellness Plus,82.55,Dog,7,2,No,1,Yes,No,Suburban,1308.37,Active
+TPI-01013,23,Basic Accident,17.56,Dog,4,2,Yes,1,No,No,Urban,307.5,Active
+TPI-01014,42,Comprehensive,59.33,Cat,3,0,No,1,Yes,No,Suburban,3110.2,Active
+TPI-01015,32,Basic Accident,22.62,Dog,14,3,Yes,2,Yes,No,Urban,1930.89,Lapsed
+TPI-01016,53,Basic Accident,21.0,Cat,4,2,No,0,No,No,Suburban,2967.03,Lapsed
+TPI-01017,18,Comprehensive,47.63,Dog,2,3,No,0,No,No,Suburban,568.27,Active
+TPI-01018,0,Basic Accident,27.63,Dog,8,1,Yes,0,Yes,No,Urban,192.26,Lapsed
+TPI-01019,45,Wellness Plus,71.09,Dog,8,1,No,0,No,Yes,Urban,1514.92,Active
+TPI-01020,14,Comprehensive,42.29,Dog,10,3,No,0,No,No,Rural,695.88,Active
+TPI-01021,47,Comprehensive,43.12,Cat,6,2,No,1,Yes,No,Suburban,2951.65,Active
+TPI-01022,58,Basic Accident,22.16,Dog,11,2,Yes,0,Yes,No,Rural,990.71,Active
+TPI-01023,57,Comprehensive,42.04,Cat,8,1,No,1,Yes,Yes,Rural,2205.11,Active
+TPI-01024,30,Wellness Plus,86.9,Dog,11,0,Yes,1,No,No,Rural,5008.79,Active
+TPI-01025,50,Comprehensive,54.69,Cat,11,4,No,1,No,Yes,Suburban,6617.76,Active
+TPI-01026,44,Comprehensive,56.73,Dog,8,1,No,0,No,No,Rural,3777.18,Active
+TPI-01027,4,Comprehensive,34.42,Dog,5,2,Yes,0,Yes,No,Suburban,239.28,Lapsed
+TPI-01028,53,Comprehensive,43.93,Cat,6,3,No,0,No,No,Urban,5229.91,Active
+TPI-01029,36,Comprehensive,52.52,Cat,12,1,No,1,Yes,No,Suburban,2487.98,Active
+TPI-01030,3,Comprehensive,50.05,Cat,10,3,No,0,Yes,Yes,Rural,162.12,Active
+TPI-01031,38,Comprehensive,45.62,Other,15,0,No,0,No,Yes,Rural,1370.46,Active
+TPI-01032,16,Basic Accident,27.76,Cat,13,0,No,0,Yes,No,Rural,372.77,Lapsed
+TPI-01033,3,Comprehensive,54.73,Dog,5,1,No,0,Yes,No,Suburban,497.24,Active
+TPI-01034,43,Comprehensive,59.21,Cat,9,3,No,0,Yes,No,Rural,8480.3,Active
+TPI-01035,25,Comprehensive,42.3,Cat,1,1,No,0,Yes,No,Urban,1007.03,Active
+TPI-01036,1,Basic Accident,21.44,Cat,7,2,No,1,No,No,Urban,0.0,Lapsed
+TPI-01037,47,Comprehensive,35.29,Cat,1,2,No,0,No,Yes,Rural,1525.6,Lapsed
+TPI-01038,29,Wellness Plus,67.09,Dog,3,1,No,0,Yes,Yes,Rural,2343.64,Active
+TPI-01039,32,Basic Accident,20.24,Cat,10,2,Yes,1,No,No,Suburban,475.9,Active
+TPI-01040,8,Wellness Plus,97.36,Dog,9,0,No,1,Yes,Yes,Suburban,1125.99,Active
+TPI-01041,45,Comprehensive,47.26,Dog,2,3,No,1,Yes,No,Suburban,5271.11,Active
+TPI-01042,45,Basic Accident,23.89,Cat,4,2,No,0,Yes,No,Urban,1173.99,Lapsed
+TPI-01043,19,Comprehensive,39.32,Dog,15,3,No,4,No,No,Urban,888.15,Active
+TPI-01044,58,Basic Accident,13.78,Dog,4,1,No,1,No,No,Urban,1462.0,Lapsed
+TPI-01045,29,Basic Accident,20.83,Cat,7,3,Yes,1,Yes,No,Suburban,506.66,Active
+TPI-01046,4,Wellness Plus,70.99,Dog,13,4,Yes,0,Yes,No,Urban,416.42,Active
+TPI-01047,58,Comprehensive,53.73,Other,4,2,Yes,0,Yes,No,Urban,2849.27,Active
+TPI-01048,34,Comprehensive,39.75,Dog,15,3,No,1,No,Yes,Suburban,1061.67,Active
+TPI-01049,30,Comprehensive,63.75,Cat,4,3,No,2,No,No,Urban,1293.83,Active
+TPI-01050,10,Comprehensive,38.78,Dog,5,2,No,0,Yes,No,Suburban,678.2,Active
+TPI-01051,10,Comprehensive,47.05,Cat,13,4,No,0,Yes,No,Rural,1073.37,Active
+TPI-01052,45,Basic Accident,23.06,Dog,12,2,Yes,0,No,Yes,Urban,1571.65,Active
+TPI-01053,42,Comprehensive,49.62,Dog,12,1,No,0,No,No,Urban,5410.33,Active
+TPI-01054,47,Wellness Plus,81.83,Cat,2,1,No,0,Yes,Yes,Urban,5813.83,Active
+TPI-01055,59,Basic Accident,31.28,Dog,15,1,No,0,No,No,Suburban,1950.96,Active
+TPI-01056,57,Wellness Plus,82.15,Dog,2,1,No,1,Yes,No,Urban,4609.35,Active
+TPI-01057,41,Basic Accident,24.76,Dog,12,3,No,1,Yes,Yes,Suburban,1266.37,Active
+TPI-01058,10,Basic Accident,14.98,Dog,11,3,Yes,2,Yes,Yes,Urban,402.03,Lapsed
+TPI-01059,13,Comprehensive,42.8,Dog,1,3,No,4,Yes,Yes,Suburban,967.42,Active
+TPI-01060,7,Wellness Plus,88.5,Dog,2,2,Yes,1,Yes,Yes,Urban,1218.8,Active
+TPI-01061,28,Basic Accident,19.49,Other,8,4,Yes,0,Yes,No,Urban,485.55,Active
+TPI-01062,31,Comprehensive,46.58,Dog,15,1,No,1,Yes,Yes,Rural,1407.66,Active
+TPI-01063,3,Basic Accident,17.69,Dog,1,0,Yes,0,Yes,Yes,Suburban,205.7,Active
+TPI-01064,34,Basic Accident,24.03,Cat,5,1,Yes,0,Yes,No,Urban,755.04,Active
+TPI-01065,2,Comprehensive,49.6,Dog,5,1,Yes,2,Yes,No,Rural,353.33,Active
+TPI-01066,57,Wellness Plus,60.6,Cat,15,1,No,2,Yes,No,Suburban,1550.89,Active
+TPI-01067,1,Basic Accident,25.93,Cat,15,3,Yes,0,Yes,No,Urban,202.78,Active
+TPI-01068,29,Basic Accident,16.22,Cat,11,2,Yes,0,Yes,Yes,Suburban,589.37,Active
+TPI-01069,12,Comprehensive,63.47,Cat,7,1,No,0,Yes,No,Suburban,767.11,Active
+TPI-01070,60,Basic Accident,26.83,Cat,6,0,No,0,No,No,Urban,1165.0,Active
+TPI-01071,19,Basic Accident,18.59,Cat,3,2,No,1,Yes,No,Rural,539.91,Lapsed
+TPI-01072,21,Comprehensive,50.82,Dog,12,4,Yes,1,Yes,No,Suburban,890.96,Active
+TPI-01073,45,Basic Accident,18.68,Cat,10,2,No,0,No,No,Urban,524.19,Active
+TPI-01074,36,Comprehensive,48.56,Other,4,1,No,0,No,No,Urban,2079.31,Lapsed
+TPI-01075,19,Basic Accident,17.35,Cat,9,1,No,1,Yes,Yes,Suburban,134.78,Lapsed
+TPI-01076,17,Basic Accident,19.89,Dog,12,2,Yes,0,Yes,Yes,Urban,462.49,Active
+TPI-01077,16,Basic Accident,22.27,Dog,4,0,Yes,0,Yes,Yes,Urban,562.38,Active
+TPI-01078,14,Wellness Plus,66.89,Dog,4,3,No,2,No,No,Suburban,652.07,Active
+TPI-01079,13,Basic Accident,26.96,Dog,11,2,Yes,1,Yes,No,Urban,770.75,Lapsed
+TPI-01080,38,Wellness Plus,73.56,Cat,0,0,No,1,Yes,No,Suburban,1687.49,Active
+TPI-01081,47,Basic Accident,17.04,Dog,4,3,Yes,1,Yes,Yes,Urban,669.13,Active
+TPI-01082,44,Basic Accident,17.23,Dog,8,1,Yes,0,Yes,No,Suburban,575.1,Active
+TPI-01083,48,Wellness Plus,91.45,Cat,8,3,Yes,1,Yes,Yes,Rural,2332.89,Active
+TPI-01084,22,Comprehensive,58.04,Cat,13,4,No,0,Yes,Yes,Urban,1007.88,Active
+TPI-01085,13,Basic Accident,25.77,Cat,12,4,No,1,No,Yes,Suburban,501.54,Active
+TPI-01086,7,Basic Accident,20.87,Other,1,5,Yes,0,Yes,No,Urban,338.56,Lapsed
+TPI-01087,51,Comprehensive,53.48,Cat,1,0,Yes,1,Yes,No,Suburban,2503.83,Lapsed
+TPI-01088,30,Wellness Plus,75.65,Cat,13,6,No,1,No,No,Suburban,1143.37,Active
+TPI-01089,12,Basic Accident,19.45,Dog,9,3,No,0,No,Yes,Suburban,168.42,Lapsed
+TPI-01090,23,Wellness Plus,98.28,Cat,3,3,No,1,Yes,No,Suburban,1715.19,Active
+TPI-01091,39,Comprehensive,57.94,Dog,12,1,Yes,0,Yes,No,Urban,3853.6,Active
+TPI-01092,21,Comprehensive,41.3,Cat,13,1,Yes,2,Yes,Yes,Rural,1180.44,Active
+TPI-01093,19,Comprehensive,36.51,Cat,9,1,Yes,1,Yes,No,Rural,528.3,Active
+TPI-01094,51,Comprehensive,61.79,Dog,12,1,Yes,0,Yes,No,Suburban,1296.45,Active
+TPI-01095,11,Comprehensive,52.05,Dog,14,2,No,1,No,No,Suburban,517.31,Active
+TPI-01096,30,Comprehensive,43.67,Cat,6,1,Yes,0,No,No,Rural,740.77,Active
+TPI-01097,13,Comprehensive,39.29,Dog,1,1,No,1,Yes,Yes,Rural,699.83,Active
+TPI-01098,44,Basic Accident,23.09,Cat,7,1,Yes,0,Yes,Yes,Suburban,1280.05,Active
+TPI-01099,60,Wellness Plus,102.49,Dog,1,4,Yes,0,Yes,No,Suburban,7740.1,Active
+TPI-01100,16,Wellness Plus,77.59,Dog,8,1,No,0,Yes,No,Urban,2066.94,Active
+TPI-01101,2,Basic Accident,19.96,Cat,9,3,No,1,Yes,Yes,Rural,227.01,Lapsed
+TPI-01102,12,Basic Accident,18.42,Cat,6,2,Yes,0,Yes,No,Suburban,497.59,Active
+TPI-01103,7,Basic Accident,20.95,Dog,1,7,Yes,0,No,No,Urban,75.65,Active
+TPI-01104,8,Basic Accident,23.09,Cat,11,2,No,1,Yes,No,Urban,424.09,Lapsed
+TPI-01105,49,Comprehensive,44.67,Cat,9,1,No,0,Yes,No,Urban,2039.29,Active
+TPI-01106,25,Wellness Plus,103.58,Dog,14,4,Yes,3,Yes,No,Urban,4856.65,Active
+TPI-01107,47,Basic Accident,17.68,Dog,2,1,No,0,Yes,Yes,Suburban,1966.77,Lapsed
+TPI-01108,38,Basic Accident,26.16,Dog,13,2,No,3,Yes,No,Suburban,1996.68,Lapsed
+TPI-01109,25,Comprehensive,63.12,Dog,13,0,No,0,No,No,Urban,2676.62,Active
+TPI-01110,43,Wellness Plus,73.79,Dog,4,1,Yes,0,No,No,Suburban,3136.58,Active
+TPI-01111,2,Wellness Plus,80.91,Dog,4,2,No,0,Yes,No,Rural,114.53,Active
+TPI-01112,7,Comprehensive,38.17,Dog,11,2,No,0,Yes,No,Suburban,589.81,Active
+TPI-01113,13,Basic Accident,21.48,Dog,8,1,No,0,Yes,No,Suburban,403.66,Active
+TPI-01114,9,Comprehensive,62.85,Dog,9,4,No,0,Yes,Yes,Urban,1007.42,Active
+TPI-01115,15,Comprehensive,43.3,Cat,2,0,No,0,Yes,No,Suburban,804.17,Active
+TPI-01116,38,Basic Accident,21.38,Cat,15,0,No,0,No,No,Suburban,1091.11,Lapsed
+TPI-01117,27,Wellness Plus,82.3,Cat,10,2,No,2,No,Yes,Suburban,3921.92,Lapsed
+TPI-01118,55,Basic Accident,19.76,Cat,15,2,No,1,Yes,No,Suburban,882.62,Active
+TPI-01119,47,Comprehensive,47.94,Cat,15,3,No,0,No,Yes,Suburban,2917.34,Active
+TPI-01120,45,Wellness Plus,94.69,Dog,7,1,Yes,0,No,No,Urban,4289.61,Active
+TPI-01121,51,Wellness Plus,91.06,Dog,10,2,No,1,Yes,Yes,Urban,5626.47,Active
+TPI-01122,51,Basic Accident,20.45,Cat,0,0,Yes,1,No,Yes,Suburban,1232.13,Active
+TPI-01123,0,Comprehensive,48.16,Cat,11,0,No,1,No,Yes,Urban,118.25,Lapsed
+TPI-01124,12,Basic Accident,19.05,Cat,6,0,Yes,0,Yes,No,Suburban,267.61,Active
+TPI-01125,5,Wellness Plus,77.45,Cat,5,0,Yes,3,Yes,No,Suburban,645.14,Active
+TPI-01126,54,Comprehensive,49.2,Dog,0,0,No,1,No,No,Suburban,2878.52,Active
+TPI-01127,6,Wellness Plus,71.03,Cat,1,3,No,1,Yes,Yes,Suburban,741.57,Active
+TPI-01128,21,Basic Accident,26.6,Other,13,4,No,0,Yes,No,Rural,484.02,Lapsed
+TPI-01129,10,Comprehensive,35.92,Other,2,2,No,0,No,No,Rural,346.56,Active
+TPI-01130,35,Basic Accident,22.69,Dog,6,3,No,0,Yes,No,Urban,1586.56,Active
+TPI-01131,26,Comprehensive,67.95,Cat,8,2,No,0,No,Yes,Suburban,1437.24,Active
+TPI-01132,53,Wellness Plus,82.71,Dog,7,4,No,2,No,No,Urban,2417.16,Active
+TPI-01133,39,Comprehensive,53.86,Dog,12,4,No,1,Yes,No,Rural,2960.03,Active
+TPI-01134,11,Wellness Plus,85.67,Dog,2,3,No,1,Yes,No,Urban,822.03,Active
+TPI-01135,52,Wellness Plus,93.05,Cat,9,2,No,0,No,No,Rural,2560.3,Active
+TPI-01136,58,Basic Accident,20.11,Cat,12,2,No,0,No,Yes,Urban,1106.27,Active
+TPI-01137,33,Wellness Plus,97.69,Dog,15,2,No,0,Yes,No,Rural,1904.07,Active
+TPI-01138,53,Comprehensive,54.66,Dog,9,4,No,0,Yes,Yes,Urban,1580.78,Active
+TPI-01139,50,Comprehensive,48.87,Dog,0,2,No,1,Yes,No,Urban,3747.75,Active
+TPI-01140,2,Wellness Plus,74.89,Cat,7,0,No,2,Yes,No,Suburban,325.76,Active
+TPI-01141,30,Comprehensive,50.14,Cat,5,1,No,0,Yes,Yes,Urban,972.2,Active
+TPI-01142,45,Basic Accident,18.65,Dog,14,1,No,0,Yes,No,Urban,746.2,Active
+TPI-01143,38,Basic Accident,20.17,Dog,11,3,No,2,Yes,No,Suburban,2565.16,Active
+TPI-01144,50,Basic Accident,23.98,Dog,0,1,Yes,0,Yes,No,Rural,1206.33,Lapsed
+TPI-01145,21,Basic Accident,20.6,Other,1,1,No,0,Yes,No,Urban,453.81,Active
+TPI-01146,36,Comprehensive,51.78,Dog,6,3,No,1,Yes,No,Rural,1274.66,Active
+TPI-01147,32,Wellness Plus,71.58,Dog,2,0,No,1,No,No,Urban,2424.25,Active
+TPI-01148,32,Basic Accident,21.12,Cat,15,1,Yes,2,Yes,No,Suburban,482.75,Active
+TPI-01149,35,Wellness Plus,83.8,Dog,3,3,No,2,No,No,Suburban,1463.07,Active
+TPI-01150,42,Basic Accident,22.5,Cat,15,4,No,1,Yes,No,Urban,1261.97,Active
+TPI-01151,35,Comprehensive,50.87,Dog,15,1,No,1,No,No,Urban,994.22,Active
+TPI-01152,11,Comprehensive,40.97,Dog,12,1,Yes,1,No,No,Urban,548.59,Active
+TPI-01153,26,Wellness Plus,62.59,Dog,6,1,Yes,0,Yes,No,Suburban,3878.21,Active
+TPI-01154,45,Basic Accident,19.77,Dog,0,0,No,3,Yes,No,Suburban,1377.99,Active
+TPI-01155,24,Comprehensive,42.83,Dog,3,2,Yes,2,Yes,Yes,Suburban,652.45,Lapsed
+TPI-01156,46,Basic Accident,21.6,Dog,0,3,No,2,No,No,Suburban,714.71,Lapsed
+TPI-01157,19,Comprehensive,55.9,Cat,12,5,No,0,No,No,Suburban,697.3,Active
+TPI-01158,53,Comprehensive,59.35,Cat,9,3,No,2,No,Yes,Urban,2995.67,Active
+TPI-01159,3,Basic Accident,30.23,Cat,3,5,No,1,Yes,Yes,Urban,208.62,Active
+TPI-01160,46,Basic Accident,22.75,Cat,2,2,No,0,No,No,Suburban,512.69,Active
+TPI-01161,4,Comprehensive,41.7,Dog,10,3,No,0,Yes,No,Suburban,196.36,Active
+TPI-01162,17,Comprehensive,46.19,Dog,15,3,No,2,Yes,No,Urban,1460.06,Active
+TPI-01163,54,Comprehensive,45.92,Cat,3,1,No,0,No,No,Suburban,2620.16,Active
+TPI-01164,23,Comprehensive,55.15,Cat,7,3,Yes,0,Yes,Yes,Suburban,1037.75,Active
+TPI-01165,16,Comprehensive,46.99,Cat,9,1,No,2,Yes,No,Rural,1302.18,Active
+TPI-01166,57,Wellness Plus,96.79,Dog,10,3,No,1,No,No,Suburban,9780.17,Active
+TPI-01167,30,Comprehensive,45.44,Dog,14,6,No,2,Yes,No,Rural,1474.84,Active
+TPI-01168,59,Comprehensive,41.74,Cat,14,3,No,0,No,No,Urban,2238.24,Active
+TPI-01169,47,Wellness Plus,68.26,Cat,1,1,No,2,Yes,No,Rural,3746.57,Active
+TPI-01170,33,Basic Accident,22.89,Cat,11,5,No,0,Yes,No,Urban,1571.13,Lapsed
+TPI-01171,22,Comprehensive,55.62,Cat,14,1,Yes,1,Yes,No,Suburban,970.0,Active
+TPI-01172,29,Wellness Plus,79.41,Other,10,3,No,1,No,No,Rural,2840.4,Active
+TPI-01173,28,Basic Accident,19.06,Dog,9,1,No,0,No,No,Rural,993.86,Lapsed
+TPI-01174,19,Basic Accident,25.47,Dog,3,1,No,4,Yes,No,Urban,921.94,Active
+TPI-01175,37,Comprehensive,47.55,Cat,14,1,Yes,0,Yes,No,Suburban,735.02,Active
+TPI-01176,38,Wellness Plus,61.89,Cat,3,0,No,2,Yes,Yes,Urban,2688.97,Active
+TPI-01177,6,Comprehensive,45.52,Dog,9,3,No,0,Yes,Yes,Suburban,427.48,Active
+TPI-01178,27,Basic Accident,19.42,Cat,4,2,No,0,Yes,No,Suburban,838.55,Lapsed
+TPI-01179,57,Comprehensive,47.43,Cat,11,2,Yes,2,Yes,Yes,Rural,5484.15,Active
+TPI-01180,51,Basic Accident,23.32,Cat,4,1,No,0,No,No,Urban,651.78,Lapsed
+TPI-01181,41,Basic Accident,13.72,Dog,13,3,No,1,Yes,Yes,Suburban,653.64,Active
+TPI-01182,20,Basic Accident,18.82,Dog,0,1,No,0,Yes,Yes,Urban,538.53,Lapsed
+TPI-01183,40,Wellness Plus,69.53,Cat,4,2,No,1,No,No,Rural,3317.19,Active
+TPI-01184,55,Wellness Plus,85.69,Cat,10,3,No,3,Yes,No,Urban,11430.66,Active
+TPI-01185,42,Basic Accident,19.77,Dog,9,4,No,0,Yes,No,Urban,613.42,Active
+TPI-01186,59,Comprehensive,60.93,Dog,11,3,Yes,1,No,No,Rural,6012.49,Active
+TPI-01187,46,Basic Accident,20.77,Dog,5,1,No,1,No,No,Urban,1218.59,Lapsed
+TPI-01188,60,Comprehensive,50.34,Dog,7,0,No,1,Yes,Yes,Rural,2803.2,Active
+TPI-01189,3,Basic Accident,20.35,Dog,7,1,No,1,Yes,Yes,Suburban,262.07,Lapsed
+TPI-01190,49,Basic Accident,26.85,Cat,2,3,No,0,No,No,Urban,1571.42,Active
+TPI-01191,40,Wellness Plus,66.51,Cat,14,2,No,0,No,No,Urban,1184.63,Active
+TPI-01192,35,Basic Accident,21.73,Dog,6,3,No,1,Yes,Yes,Urban,960.16,Active
+TPI-01193,30,Wellness Plus,73.35,Dog,8,1,Yes,1,Yes,No,Suburban,3031.83,Active
+TPI-01194,6,Basic Accident,26.89,Cat,4,2,No,0,Yes,No,Urban,481.24,Lapsed
+TPI-01195,1,Wellness Plus,98.32,Other,9,2,No,0,Yes,Yes,Urban,318.26,Lapsed
+TPI-01196,31,Basic Accident,18.25,Dog,7,2,No,1,No,No,Urban,685.72,Lapsed
+TPI-01197,14,Comprehensive,60.18,Dog,14,4,No,1,No,Yes,Urban,1067.23,Lapsed
+TPI-01198,59,Wellness Plus,83.74,Dog,8,1,No,0,Yes,Yes,Rural,5803.32,Active
+TPI-01199,38,Basic Accident,17.13,Cat,2,3,No,0,Yes,No,Urban,689.17,Lapsed
+TPI-01200,31,Basic Accident,27.98,Dog,13,0,No,1,Yes,Yes,Suburban,1235.38,Active
+TPI-01201,0,Comprehensive,40.52,Dog,3,4,No,1,Yes,No,Suburban,102.21,Active
+TPI-01202,44,Basic Accident,18.38,Dog,11,6,No,2,No,No,Urban,706.72,Active
+TPI-01203,42,Basic Accident,23.13,Cat,11,5,Yes,0,Yes,Yes,Suburban,773.2,Lapsed
+TPI-01204,5,Basic Accident,20.96,Dog,1,1,No,1,Yes,No,Suburban,237.36,Lapsed
+TPI-01205,40,Wellness Plus,73.59,Dog,12,0,Yes,1,Yes,No,Urban,2700.19,Active
+TPI-01206,58,Wellness Plus,61.5,Dog,4,2,No,2,Yes,No,Urban,2748.25,Active
+TPI-01207,31,Basic Accident,17.46,Dog,5,4,No,2,Yes,No,Urban,778.42,Active
+TPI-01208,59,Wellness Plus,92.92,Dog,3,3,Yes,2,Yes,No,Urban,6401.78,Active
+TPI-01209,51,Basic Accident,16.52,Dog,8,2,Yes,4,No,No,Urban,1785.63,Active
+TPI-01210,11,Basic Accident,18.7,Other,6,2,Yes,1,Yes,No,Suburban,271.71,Active
+TPI-01211,18,Wellness Plus,98.41,Dog,7,2,No,1,No,No,Urban,1568.35,Active
+TPI-01212,15,Comprehensive,49.27,Dog,7,0,No,0,Yes,No,Urban,2075.21,Active
+TPI-01213,28,Basic Accident,20.25,Dog,9,1,No,0,Yes,Yes,Urban,440.2,Active
+TPI-01214,25,Basic Accident,23.65,Dog,7,2,No,1,No,Yes,Suburban,787.85,Active
+TPI-01215,40,Comprehensive,47.26,Dog,3,2,No,0,No,Yes,Urban,1023.15,Active
+TPI-01216,46,Basic Accident,22.28,Dog,2,0,No,1,Yes,No,Urban,1313.09,Active
+TPI-01217,19,Wellness Plus,55.0,Cat,5,2,No,0,Yes,Yes,Suburban,1146.57,Active
+TPI-01218,45,Basic Accident,20.64,Cat,4,2,Yes,0,No,Yes,Urban,1215.34,Active
+TPI-01219,3,Basic Accident,26.14,Cat,1,5,Yes,0,Yes,No,Suburban,78.58,Active
+TPI-01220,27,Comprehensive,69.48,Dog,1,2,No,0,No,Yes,Urban,2590.69,Active
+TPI-01221,44,Comprehensive,48.24,Dog,0,2,No,0,Yes,Yes,Urban,2712.06,Active
+TPI-01222,45,Comprehensive,41.25,Cat,3,2,Yes,0,No,No,Urban,4709.31,Active
+TPI-01223,52,Comprehensive,50.98,Other,6,2,No,1,No,No,Urban,1896.94,Lapsed
+TPI-01224,50,Comprehensive,52.55,Dog,14,1,Yes,1,Yes,No,Suburban,1784.83,Active
+TPI-01225,59,Basic Accident,27.29,Cat,4,2,Yes,0,Yes,Yes,Urban,1534.3,Active
+TPI-01226,27,Basic Accident,22.63,Cat,3,2,No,0,Yes,No,Suburban,877.36,Lapsed
+TPI-01227,15,Comprehensive,60.59,Dog,13,2,No,0,No,No,Urban,1334.44,Active
+TPI-01228,52,Comprehensive,45.07,Dog,8,2,Yes,2,Yes,No,Urban,2026.27,Active
+TPI-01229,18,Basic Accident,20.08,Cat,8,2,Yes,0,Yes,No,Urban,836.76,Active
+TPI-01230,21,Basic Accident,21.94,Dog,14,1,No,0,Yes,Yes,Rural,501.01,Active
+TPI-01231,56,Comprehensive,58.84,Dog,1,5,Yes,0,Yes,No,Suburban,1777.47,Lapsed
+TPI-01232,11,Comprehensive,49.56,Dog,7,4,No,0,No,No,Rural,587.22,Lapsed
+TPI-01233,38,Wellness Plus,61.25,Cat,3,5,No,0,Yes,No,Suburban,2299.74,Active
+TPI-01234,17,Basic Accident,23.02,Dog,0,0,No,0,Yes,No,Rural,566.88,Active
+TPI-01235,44,Basic Accident,16.17,Dog,14,2,Yes,1,No,No,Rural,825.27,Active
+TPI-01236,0,Comprehensive,52.35,Dog,11,1,Yes,3,Yes,No,Urban,293.99,Active
+TPI-01237,57,Wellness Plus,88.26,Cat,11,3,No,0,Yes,Yes,Urban,3665.61,Active
+TPI-01238,8,Wellness Plus,69.9,Dog,7,5,Yes,0,Yes,No,Suburban,440.27,Active
+TPI-01239,21,Wellness Plus,89.5,Dog,0,3,Yes,0,Yes,No,Suburban,1358.24,Active
+TPI-01240,22,Wellness Plus,71.38,Dog,8,3,Yes,1,Yes,No,Urban,4122.99,Active
+TPI-01241,1,Comprehensive,53.7,Cat,0,0,No,1,No,No,Suburban,137.22,Lapsed
+TPI-01242,40,Basic Accident,21.73,Dog,3,4,No,2,No,Yes,Rural,1596.11,Active
+TPI-01243,39,Basic Accident,22.14,Cat,10,4,Yes,0,Yes,No,Urban,1549.78,Active
+TPI-01244,5,Comprehensive,47.72,Dog,4,1,No,0,Yes,No,Suburban,277.92,Lapsed
+TPI-01245,43,Basic Accident,18.0,Dog,2,1,Yes,1,Yes,No,Suburban,1077.91,Active
+TPI-01246,17,Comprehensive,36.78,Cat,0,3,No,1,Yes,No,Rural,1029.78,Active
+TPI-01247,50,Comprehensive,50.0,Dog,6,1,No,0,No,No,Suburban,1696.53,Active
+TPI-01248,34,Basic Accident,19.77,Dog,7,2,No,1,No,No,Urban,443.85,Active
+TPI-01249,21,Comprehensive,44.33,Cat,11,2,No,0,Yes,No,Suburban,1390.68,Active
+TPI-01250,5,Wellness Plus,94.28,Dog,15,1,No,0,No,No,Suburban,398.92,Lapsed
+TPI-01251,28,Comprehensive,39.11,Dog,0,3,No,0,Yes,Yes,Urban,472.9,Active
+TPI-01252,18,Comprehensive,49.75,Cat,5,3,Yes,1,Yes,No,Urban,820.45,Active
+TPI-01253,41,Wellness Plus,61.57,Dog,9,4,No,0,Yes,No,Suburban,1873.92,Active
+TPI-01254,13,Basic Accident,18.99,Other,12,3,No,0,Yes,No,Suburban,341.54,Lapsed
+TPI-01255,37,Wellness Plus,74.77,Dog,5,3,Yes,1,Yes,Yes,Suburban,1605.16,Active
+TPI-01256,11,Wellness Plus,74.72,Cat,11,3,Yes,0,Yes,No,Urban,915.72,Active
+TPI-01257,29,Basic Accident,26.84,Cat,15,0,No,1,Yes,No,Rural,1091.59,Active
+TPI-01258,2,Comprehensive,40.73,Dog,2,2,Yes,1,No,No,Urban,108.38,Lapsed
+TPI-01259,58,Basic Accident,17.09,Cat,3,1,No,0,Yes,Yes,Suburban,980.55,Lapsed
+TPI-01260,56,Comprehensive,49.63,Dog,12,1,No,0,No,Yes,Urban,2014.1,Active
+TPI-01261,16,Basic Accident,23.52,Cat,1,3,No,1,Yes,No,Urban,490.36,Active
+TPI-01262,56,Comprehensive,48.7,Dog,14,1,Yes,1,Yes,Yes,Suburban,1644.34,Active
+TPI-01263,10,Basic Accident,28.51,Dog,13,0,Yes,0,Yes,Yes,Suburban,698.88,Lapsed
+TPI-01264,31,Comprehensive,46.85,Dog,15,2,No,0,No,No,Urban,2372.09,Active
+TPI-01265,9,Wellness Plus,86.3,Cat,2,2,Yes,1,No,No,Urban,356.12,Active
+TPI-01266,30,Comprehensive,40.66,Cat,3,1,Yes,0,Yes,No,Suburban,2595.31,Active
+TPI-01267,54,Comprehensive,37.09,Dog,0,1,Yes,1,Yes,No,Urban,2511.27,Active
+TPI-01268,1,Comprehensive,49.78,Dog,2,3,No,0,Yes,No,Urban,41.66,Lapsed
+TPI-01269,0,Comprehensive,58.22,Cat,11,2,No,1,Yes,No,Suburban,119.0,Active
+TPI-01270,16,Comprehensive,54.5,Dog,2,1,No,0,Yes,No,Urban,1280.07,Active
+TPI-01271,14,Wellness Plus,78.12,Dog,11,3,No,1,No,Yes,Suburban,888.5,Active
+TPI-01272,47,Basic Accident,21.62,Dog,12,3,Yes,0,No,No,Urban,668.65,Lapsed
+TPI-01273,23,Wellness Plus,74.81,Dog,9,1,No,1,No,Yes,Suburban,1505.43,Active
+TPI-01274,53,Comprehensive,38.08,Dog,7,1,No,1,Yes,Yes,Rural,1840.66,Active
+TPI-01275,25,Comprehensive,45.06,Dog,4,5,No,1,Yes,No,Urban,1213.91,Active
+TPI-01276,46,Wellness Plus,73.59,Dog,9,1,No,0,Yes,No,Rural,3905.87,Lapsed
+TPI-01277,51,Basic Accident,27.55,Dog,13,1,Yes,0,Yes,Yes,Suburban,531.71,Lapsed
+TPI-01278,28,Wellness Plus,55.0,Cat,1,4,No,1,Yes,No,Rural,2150.15,Lapsed
+TPI-01279,23,Wellness Plus,72.68,Cat,15,0,No,0,No,No,Rural,1508.97,Active
+TPI-01280,36,Basic Accident,22.41,Dog,7,0,Yes,0,Yes,No,Urban,1170.24,Active
+TPI-01281,56,Basic Accident,23.95,Dog,10,3,Yes,0,No,Yes,Urban,1551.96,Lapsed
+TPI-01282,23,Basic Accident,16.48,Dog,3,0,Yes,1,Yes,No,Suburban,344.55,Active
+TPI-01283,0,Wellness Plus,68.36,Dog,0,2,No,0,Yes,Yes,Urban,13.94,Active
+TPI-01284,35,Comprehensive,46.09,Cat,7,3,No,1,Yes,Yes,Suburban,1434.73,Active
+TPI-01285,27,Basic Accident,27.13,Dog,8,4,Yes,1,No,Yes,Suburban,339.99,Lapsed
+TPI-01286,14,Wellness Plus,83.85,Cat,10,0,No,0,Yes,No,Suburban,886.99,Active
+TPI-01287,31,Comprehensive,38.17,Cat,3,0,No,2,Yes,Yes,Urban,800.28,Active
+TPI-01288,50,Basic Accident,20.8,Dog,15,1,No,0,Yes,Yes,Rural,1475.77,Active
+TPI-01289,53,Comprehensive,43.52,Cat,5,1,Yes,1,No,No,Rural,4350.49,Active
+TPI-01290,21,Wellness Plus,70.27,Dog,13,1,No,0,Yes,No,Urban,1890.01,Active
+TPI-01291,19,Basic Accident,21.71,Other,5,0,Yes,0,Yes,Yes,Suburban,799.72,Active
+TPI-01292,29,Wellness Plus,86.49,Cat,9,2,No,1,Yes,No,Urban,1781.28,Active
+TPI-01293,41,Comprehensive,40.49,Dog,2,4,No,0,Yes,No,Urban,2308.86,Active
+TPI-01294,47,Basic Accident,20.58,Cat,2,1,No,1,Yes,No,Rural,965.36,Lapsed
+TPI-01295,15,Comprehensive,60.76,Cat,8,4,No,2,Yes,No,Urban,632.68,Active
+TPI-01296,55,Comprehensive,49.74,Cat,1,1,No,2,Yes,No,Urban,2695.02,Active
+TPI-01297,6,Wellness Plus,72.17,Dog,4,1,No,2,Yes,Yes,Suburban,708.38,Active
+TPI-01298,8,Comprehensive,59.97,Cat,5,4,No,0,Yes,No,Urban,925.11,Active
+TPI-01299,49,Comprehensive,50.33,Cat,14,3,No,0,No,Yes,Rural,2204.02,Active
+TPI-01300,6,Comprehensive,59.61,Dog,7,3,No,1,Yes,No,Rural,354.55,Active
+TPI-01301,55,Basic Accident,18.96,Dog,0,4,No,1,No,No,Suburban,1252.29,Active
+TPI-01302,41,Comprehensive,37.03,Cat,7,2,Yes,2,Yes,Yes,Urban,1579.53,Lapsed
+TPI-01303,12,Comprehensive,58.37,Dog,4,4,No,0,Yes,No,Suburban,550.51,Active
+TPI-01304,18,Basic Accident,25.25,Cat,10,1,No,2,Yes,No,Urban,683.84,Active
+TPI-01305,25,Basic Accident,20.5,Dog,0,3,No,0,Yes,No,Urban,1029.38,Lapsed
+TPI-01306,1,Basic Accident,18.82,Cat,12,1,No,0,No,No,Rural,0.0,Lapsed
+TPI-01307,51,Wellness Plus,75.9,Cat,14,2,No,0,Yes,No,Rural,13929.63,Active
+TPI-01308,36,Wellness Plus,77.87,Cat,10,2,No,1,Yes,Yes,Urban,1842.55,Active
+TPI-01309,36,Comprehensive,47.35,Dog,12,2,No,1,Yes,Yes,Urban,2035.51,Lapsed
+TPI-01310,13,Wellness Plus,70.17,Dog,14,1,No,0,No,No,Urban,1118.25,Active
+TPI-01311,26,Wellness Plus,79.23,Cat,8,3,Yes,1,Yes,No,Urban,1145.77,Active
+TPI-01312,45,Comprehensive,47.18,Dog,1,0,Yes,0,Yes,No,Urban,2301.79,Active
+TPI-01313,0,Wellness Plus,59.73,Dog,0,0,Yes,0,Yes,Yes,Urban,53.26,Active
+TPI-01314,50,Comprehensive,56.29,Cat,15,1,No,1,Yes,No,Rural,2140.66,Active
+TPI-01315,17,Comprehensive,47.62,Dog,6,3,Yes,1,No,Yes,Rural,650.67,Active
+TPI-01316,35,Comprehensive,52.1,Cat,5,5,Yes,0,Yes,Yes,Suburban,1442.44,Active
+TPI-01317,41,Basic Accident,19.04,Dog,0,1,No,1,No,No,Urban,2576.12,Active
+TPI-01318,46,Basic Accident,18.2,Cat,10,2,No,1,Yes,No,Suburban,931.52,Lapsed
+TPI-01319,36,Comprehensive,40.89,Dog,7,2,Yes,1,Yes,No,Urban,2194.79,Active
+TPI-01320,26,Comprehensive,63.45,Dog,6,1,No,0,No,No,Suburban,1099.62,Active
+TPI-01321,59,Basic Accident,27.99,Cat,7,3,Yes,0,Yes,No,Urban,2000.25,Active
+TPI-01322,4,Basic Accident,22.51,Dog,12,1,Yes,0,Yes,No,Suburban,184.62,Active
+TPI-01323,23,Comprehensive,41.72,Dog,14,4,No,2,No,Yes,Urban,2617.96,Active
+TPI-01324,23,Wellness Plus,83.51,Cat,2,2,No,0,No,No,Suburban,2489.94,Active
+TPI-01325,47,Basic Accident,18.81,Cat,5,2,Yes,2,Yes,Yes,Urban,1358.05,Active
+TPI-01326,45,Basic Accident,18.72,Dog,7,3,Yes,1,Yes,No,Rural,896.67,Lapsed
+TPI-01327,39,Comprehensive,39.53,Cat,8,6,No,0,No,Yes,Suburban,1845.35,Active
+TPI-01328,7,Comprehensive,41.04,Dog,8,3,No,0,Yes,Yes,Urban,711.79,Active
+TPI-01329,60,Comprehensive,38.17,Cat,4,1,Yes,0,Yes,No,Urban,2223.7,Active
+TPI-01330,18,Basic Accident,26.14,Dog,2,2,Yes,1,No,No,Urban,645.18,Active
+TPI-01331,41,Comprehensive,33.54,Dog,14,2,No,0,Yes,No,Urban,780.08,Active
+TPI-01332,51,Wellness Plus,79.84,Dog,12,2,No,1,No,Yes,Suburban,7258.0,Active
+TPI-01333,58,Wellness Plus,83.91,Dog,12,0,Yes,3,Yes,No,Rural,5349.33,Active
+TPI-01334,34,Basic Accident,23.07,Cat,5,4,No,1,No,No,Rural,891.94,Active
+TPI-01335,59,Basic Accident,16.03,Cat,10,1,Yes,1,Yes,No,Urban,742.3,Active
+TPI-01336,4,Comprehensive,48.77,Dog,15,2,No,1,Yes,No,Suburban,332.37,Active
+TPI-01337,42,Basic Accident,12.0,Dog,8,3,No,2,Yes,Yes,Urban,604.26,Lapsed
+TPI-01338,39,Comprehensive,38.35,Cat,2,2,No,2,Yes,No,Urban,2110.31,Active
+TPI-01339,49,Comprehensive,42.5,Dog,4,2,No,0,No,No,Urban,2558.96,Active
+TPI-01340,6,Comprehensive,32.0,Dog,9,3,No,1,Yes,No,Suburban,406.32,Active
+TPI-01341,31,Basic Accident,22.57,Cat,11,1,No,1,Yes,No,Suburban,577.18,Active
+TPI-01342,26,Basic Accident,27.48,Dog,0,3,No,0,Yes,No,Rural,438.3,Lapsed
+TPI-01343,33,Wellness Plus,91.99,Other,8,2,No,0,Yes,Yes,Suburban,3252.77,Active
+TPI-01344,31,Wellness Plus,101.37,Cat,10,0,Yes,2,No,No,Urban,1148.88,Active
+TPI-01345,7,Comprehensive,60.65,Cat,2,4,No,2,Yes,Yes,Urban,494.74,Active
+TPI-01346,30,Basic Accident,18.88,Dog,0,2,No,2,Yes,No,Suburban,913.1,Lapsed
+TPI-01347,43,Wellness Plus,74.49,Dog,12,1,Yes,0,No,No,Urban,6609.44,Active
+TPI-01348,5,Basic Accident,24.44,Dog,15,0,Yes,2,Yes,Yes,Urban,259.94,Lapsed
+TPI-01349,23,Basic Accident,29.12,Dog,7,5,Yes,0,Yes,Yes,Urban,1109.09,Active
+TPI-01350,36,Wellness Plus,68.94,Cat,1,2,Yes,1,Yes,No,Urban,3675.62,Active
+TPI-01351,50,Basic Accident,16.77,Dog,10,0,No,0,No,No,Urban,593.32,Active
+TPI-01352,24,Basic Accident,18.13,Cat,9,0,Yes,1,Yes,Yes,Suburban,1061.76,Active
+TPI-01353,47,Comprehensive,52.11,Cat,1,3,No,0,Yes,No,Suburban,3374.98,Active
+TPI-01354,44,Comprehensive,32.0,Dog,3,4,No,0,Yes,No,Urban,1773.03,Active
+TPI-01355,29,Comprehensive,46.59,Dog,15,1,Yes,0,Yes,No,Suburban,2639.1,Lapsed
+TPI-01356,47,Comprehensive,46.48,Cat,8,1,Yes,1,Yes,No,Urban,3598.04,Active
+TPI-01357,43,Comprehensive,46.76,Dog,11,3,No,1,Yes,No,Rural,3055.96,Active
+TPI-01358,20,Basic Accident,20.59,Cat,1,3,No,2,Yes,No,Suburban,364.65,Active
+TPI-01359,45,Basic Accident,23.52,Dog,13,3,No,2,No,No,Suburban,1316.16,Lapsed
+TPI-01360,28,Comprehensive,50.9,Dog,12,1,No,1,Yes,No,Urban,1669.47,Active
+TPI-01361,49,Basic Accident,23.37,Dog,14,4,Yes,1,Yes,Yes,Suburban,1281.08,Active
+TPI-01362,35,Comprehensive,35.89,Cat,10,1,No,0,No,Yes,Urban,1838.1,Active
+TPI-01363,42,Wellness Plus,72.92,Dog,15,2,Yes,0,No,No,Suburban,2211.86,Active
+TPI-01364,46,Basic Accident,21.51,Cat,8,1,No,0,No,No,Rural,1506.2,Lapsed
+TPI-01365,17,Comprehensive,40.16,Dog,6,1,Yes,4,Yes,Yes,Rural,1000.1,Active
+TPI-01366,22,Basic Accident,32.31,Cat,10,3,No,0,Yes,Yes,Urban,1106.39,Active
+TPI-01367,8,Basic Accident,25.29,Dog,8,3,No,0,Yes,Yes,Suburban,179.85,Active
+TPI-01368,34,Wellness Plus,95.88,Cat,5,2,No,1,No,No,Suburban,3602.37,Active
+TPI-01369,42,Comprehensive,43.88,Dog,11,1,No,1,No,No,Suburban,815.14,Active
+TPI-01370,46,Basic Accident,20.65,Dog,13,3,Yes,2,Yes,No,Urban,1835.12,Active
+TPI-01371,27,Basic Accident,21.25,Dog,2,0,No,1,No,Yes,Suburban,758.54,Lapsed
+TPI-01372,28,Basic Accident,20.51,Dog,7,3,Yes,0,Yes,No,Suburban,619.64,Lapsed
+TPI-01373,44,Comprehensive,52.17,Cat,2,2,No,2,Yes,No,Suburban,3093.77,Active
+TPI-01374,11,Wellness Plus,66.15,Dog,14,4,No,0,Yes,No,Suburban,798.32,Active
+TPI-01375,56,Basic Accident,27.01,Dog,8,2,No,0,No,No,Urban,890.3,Lapsed
+TPI-01376,13,Comprehensive,45.13,Dog,12,1,Yes,0,Yes,No,Suburban,665.79,Active
+TPI-01377,45,Basic Accident,15.93,Dog,9,1,No,2,Yes,Yes,Rural,804.71,Lapsed
+TPI-01378,0,Wellness Plus,108.68,Cat,7,1,No,2,Yes,Yes,Rural,298.75,Lapsed
+TPI-01379,18,Wellness Plus,79.56,Dog,5,4,No,1,Yes,Yes,Urban,1276.0,Active
+TPI-01380,44,Comprehensive,49.65,Dog,8,4,No,0,Yes,Yes,Urban,2056.1,Active
+TPI-01381,60,Basic Accident,21.05,Cat,1,0,Yes,2,Yes,No,Urban,2131.27,Active
+TPI-01382,11,Comprehensive,37.98,Dog,1,4,Yes,3,Yes,Yes,Urban,958.81,Lapsed
+TPI-01383,8,Comprehensive,42.11,Cat,14,2,Yes,2,No,Yes,Suburban,478.41,Active
+TPI-01384,20,Basic Accident,14.45,Dog,10,1,No,0,Yes,No,Urban,677.98,Lapsed
+TPI-01385,9,Wellness Plus,82.26,Cat,9,2,Yes,1,No,No,Urban,1564.56,Active
+TPI-01386,18,Wellness Plus,96.68,Dog,8,4,Yes,1,Yes,No,Suburban,5468.65,Active
+TPI-01387,11,Basic Accident,23.23,Dog,7,0,No,2,Yes,No,Suburban,403.33,Active
+TPI-01388,4,Basic Accident,24.04,Dog,9,1,No,0,No,Yes,Urban,90.12,Lapsed
+TPI-01389,18,Wellness Plus,73.78,Dog,9,1,No,2,Yes,Yes,Urban,2240.07,Active
+TPI-01390,54,Basic Accident,16.29,Cat,2,3,Yes,2,Yes,No,Suburban,1258.07,Active
+TPI-01391,2,Comprehensive,53.67,Cat,13,7,No,2,No,Yes,Suburban,193.93,Active
+TPI-01392,15,Comprehensive,52.31,Dog,5,2,No,3,Yes,No,Suburban,1279.61,Active
+TPI-01393,4,Basic Accident,15.6,Cat,11,0,No,0,No,No,Rural,260.89,Lapsed
+TPI-01394,6,Comprehensive,50.38,Cat,4,2,No,0,Yes,No,Suburban,675.67,Active
+TPI-01395,24,Basic Accident,22.09,Dog,5,3,No,0,No,Yes,Suburban,916.1,Lapsed
+TPI-01396,42,Wellness Plus,82.79,Dog,4,0,Yes,1,No,No,Urban,3744.87,Active
+TPI-01397,16,Basic Accident,23.41,Dog,0,4,No,0,No,Yes,Rural,13.28,Active
+TPI-01398,17,Comprehensive,54.26,Cat,7,3,Yes,0,Yes,Yes,Suburban,1085.02,Active
+TPI-01399,3,Wellness Plus,92.84,Dog,14,1,No,2,Yes,No,Urban,402.46,Active
+TPI-01400,9,Comprehensive,52.67,Dog,1,2,No,2,Yes,No,Suburban,1433.18,Active
+TPI-01401,12,Wellness Plus,66.44,Cat,12,2,No,3,Yes,No,Urban,1069.02,Active
+TPI-01402,35,Wellness Plus,58.47,Cat,3,1,No,0,Yes,Yes,Urban,1954.26,Active
+TPI-01403,18,Basic Accident,16.2,Dog,3,1,No,1,Yes,No,Rural,539.87,Lapsed
+TPI-01404,42,Basic Accident,20.91,Cat,6,3,No,1,No,No,Urban,1136.49,Active
+TPI-01405,25,Comprehensive,43.86,Dog,3,0,No,1,No,No,Rural,1193.18,Active
+TPI-01406,9,Comprehensive,52.47,Dog,10,2,No,1,Yes,No,Urban,692.11,Active
+TPI-01407,7,Wellness Plus,80.6,Cat,14,3,No,0,No,Yes,Suburban,898.17,Active
+TPI-01408,7,Comprehensive,49.0,Dog,8,6,Yes,3,No,No,Urban,240.82,Active
+TPI-01409,53,Comprehensive,45.9,Cat,14,1,No,0,Yes,Yes,Suburban,3390.03,Active
+TPI-01410,34,Basic Accident,24.65,Dog,11,2,No,0,No,No,Rural,711.28,Lapsed
+TPI-01411,43,Comprehensive,44.91,Dog,11,1,No,1,Yes,Yes,Suburban,3386.32,Active
+TPI-01412,2,Wellness Plus,63.94,Cat,12,1,No,1,Yes,No,Suburban,270.8,Active
+TPI-01413,18,Basic Accident,23.93,Cat,0,0,Yes,0,Yes,No,Suburban,465.85,Active
+TPI-01414,7,Comprehensive,56.46,Dog,12,2,No,0,Yes,Yes,Rural,619.13,Active
+TPI-01415,58,Comprehensive,53.96,Cat,5,1,No,1,No,Yes,Rural,2471.24,Active
+TPI-01416,11,Basic Accident,20.34,Dog,1,2,No,3,Yes,No,Urban,620.93,Lapsed
+TPI-01417,23,Basic Accident,19.23,Dog,3,1,No,0,No,No,Rural,471.79,Active
+TPI-01418,8,Comprehensive,44.26,Dog,1,3,Yes,2,Yes,No,Urban,350.65,Active
+TPI-01419,11,Basic Accident,12.09,Dog,15,0,Yes,0,No,No,Suburban,177.34,Active
+TPI-01420,26,Wellness Plus,83.1,Cat,5,1,Yes,0,No,No,Suburban,2073.49,Active
+TPI-01421,51,Basic Accident,18.93,Dog,14,4,No,0,No,Yes,Rural,975.05,Active
+TPI-01422,37,Comprehensive,42.59,Dog,9,0,No,1,Yes,Yes,Rural,2005.72,Active
+TPI-01423,14,Basic Accident,23.31,Cat,3,2,No,1,Yes,Yes,Urban,258.63,Lapsed
+TPI-01424,26,Wellness Plus,75.89,Dog,1,1,No,0,Yes,No,Suburban,4858.27,Active
+TPI-01425,57,Comprehensive,43.79,Other,8,1,No,1,Yes,Yes,Suburban,2218.71,Active
+TPI-01426,52,Basic Accident,21.83,Dog,1,3,No,1,No,No,Rural,882.75,Lapsed
+TPI-01427,3,Comprehensive,54.0,Cat,3,5,No,1,Yes,No,Urban,308.76,Active
+TPI-01428,33,Comprehensive,40.12,Dog,14,2,No,2,Yes,Yes,Rural,1100.34,Active
+TPI-01429,26,Wellness Plus,90.16,Dog,10,1,No,0,Yes,Yes,Suburban,3461.38,Active
+TPI-01430,48,Basic Accident,25.0,Dog,14,0,No,1,Yes,Yes,Urban,1075.48,Active
+TPI-01431,40,Basic Accident,29.51,Cat,5,1,No,0,Yes,No,Suburban,742.71,Active
+TPI-01432,39,Comprehensive,47.15,Dog,12,4,No,0,Yes,No,Suburban,1500.51,Active
+TPI-01433,25,Basic Accident,22.0,Dog,10,2,Yes,2,No,Yes,Urban,652.84,Lapsed
+TPI-01434,7,Wellness Plus,89.02,Dog,5,5,No,0,Yes,Yes,Suburban,927.14,Active
+TPI-01435,19,Wellness Plus,58.98,Dog,2,3,Yes,0,Yes,Yes,Urban,706.23,Active
+TPI-01436,60,Basic Accident,13.79,Dog,8,2,No,1,Yes,No,Suburban,415.57,Active
+TPI-01437,8,Wellness Plus,73.22,Dog,9,0,Yes,1,Yes,No,Suburban,392.84,Active
+TPI-01438,23,Basic Accident,19.98,Cat,5,1,No,0,Yes,Yes,Rural,1181.63,Lapsed
+TPI-01439,37,Comprehensive,53.16,Dog,10,2,Yes,0,Yes,No,Urban,818.51,Lapsed
+TPI-01440,29,Basic Accident,26.61,Dog,2,0,No,0,Yes,Yes,Urban,490.12,Active
+TPI-01441,0,Basic Accident,26.86,Cat,8,1,Yes,0,No,Yes,Suburban,0.0,Lapsed
+TPI-01442,56,Basic Accident,15.38,Cat,7,4,No,0,No,No,Urban,2538.86,Active
+TPI-01443,36,Comprehensive,51.41,Dog,2,1,No,0,Yes,No,Urban,1506.41,Active
+TPI-01444,26,Comprehensive,51.73,Cat,12,1,Yes,1,Yes,Yes,Urban,1677.32,Active
+TPI-01445,45,Basic Accident,18.54,Cat,14,2,No,2,Yes,No,Suburban,1678.54,Lapsed
+TPI-01446,13,Wellness Plus,63.86,Dog,6,2,No,0,No,No,Suburban,591.53,Active
+TPI-01447,54,Comprehensive,36.02,Cat,7,1,No,1,Yes,No,Rural,4374.75,Active
+TPI-01448,20,Basic Accident,21.15,Cat,7,3,No,2,Yes,No,Suburban,512.41,Active
+TPI-01449,0,Wellness Plus,82.83,Dog,13,1,No,0,No,No,Rural,104.74,Active
+TPI-01450,7,Basic Accident,25.65,Cat,6,1,No,2,Yes,Yes,Suburban,911.23,Active
+TPI-01451,43,Basic Accident,18.42,Cat,14,5,No,1,No,No,Suburban,655.16,Lapsed
+TPI-01452,12,Basic Accident,24.34,Dog,8,3,No,0,Yes,Yes,Suburban,360.47,Active
+TPI-01453,47,Wellness Plus,63.84,Dog,12,1,No,0,Yes,No,Urban,2568.37,Active
+TPI-01454,37,Comprehensive,51.17,Cat,9,2,No,0,Yes,Yes,Suburban,1919.82,Active
+TPI-01455,30,Wellness Plus,90.66,Cat,0,1,No,1,No,No,Suburban,2286.9,Lapsed
+TPI-01456,56,Wellness Plus,58.63,Dog,4,1,No,3,No,No,Urban,4544.95,Active
+TPI-01457,0,Basic Accident,12.0,Dog,3,1,No,0,Yes,No,Suburban,101.97,Active
+TPI-01458,39,Basic Accident,21.37,Cat,9,2,No,0,Yes,No,Rural,1106.88,Active
+TPI-01459,12,Comprehensive,42.0,Cat,3,2,No,1,Yes,No,Urban,667.25,Active
+TPI-01460,52,Comprehensive,44.4,Dog,2,3,No,1,Yes,No,Suburban,2385.71,Active
+TPI-01461,60,Basic Accident,17.21,Dog,0,3,No,1,No,No,Suburban,1050.16,Active
+TPI-01462,20,Basic Accident,20.84,Dog,2,2,No,3,No,No,Rural,542.9,Active
+TPI-01463,4,Basic Accident,15.83,Cat,2,2,Yes,1,Yes,No,Rural,158.65,Active
+TPI-01464,36,Basic Accident,22.09,Dog,5,0,No,1,No,Yes,Rural,1080.11,Lapsed
+TPI-01465,18,Basic Accident,24.21,Dog,15,1,No,2,Yes,No,Rural,711.27,Active
+TPI-01466,0,Basic Accident,22.85,Dog,12,3,No,0,No,No,Urban,0.0,Lapsed
+TPI-01467,19,Comprehensive,35.46,Other,10,2,No,0,Yes,No,Urban,926.11,Lapsed
+TPI-01468,19,Basic Accident,26.47,Dog,1,2,No,1,Yes,No,Rural,1241.5,Lapsed
+TPI-01469,15,Wellness Plus,76.76,Dog,8,1,Yes,1,No,Yes,Urban,770.82,Active
+TPI-01470,0,Wellness Plus,68.68,Dog,3,4,No,0,Yes,No,Suburban,134.55,Active
+TPI-01471,54,Basic Accident,22.48,Dog,1,1,No,1,No,No,Suburban,1491.89,Active
+TPI-01472,43,Wellness Plus,72.68,Dog,13,3,Yes,1,No,No,Urban,4583.11,Active
+TPI-01473,40,Basic Accident,22.64,Cat,14,0,Yes,0,No,No,Urban,749.96,Active
+TPI-01474,51,Basic Accident,19.63,Dog,2,3,Yes,0,Yes,No,Urban,1902.75,Lapsed
+TPI-01475,34,Comprehensive,55.9,Dog,11,4,No,1,No,No,Urban,894.1,Active
+TPI-01476,35,Basic Accident,23.65,Other,15,4,No,1,Yes,No,Suburban,1029.91,Lapsed
+TPI-01477,27,Comprehensive,52.45,Dog,7,3,No,0,Yes,Yes,Suburban,3141.38,Lapsed
+TPI-01478,12,Basic Accident,19.89,Dog,15,1,Yes,0,No,Yes,Urban,160.5,Active
+TPI-01479,8,Comprehensive,42.69,Dog,14,6,No,1,No,No,Urban,373.87,Active
+TPI-01480,8,Wellness Plus,71.84,Cat,15,2,No,1,Yes,No,Urban,965.17,Active
+TPI-01481,36,Wellness Plus,78.17,Dog,7,3,No,0,Yes,Yes,Rural,2832.23,Active
+TPI-01482,1,Comprehensive,51.2,Dog,10,3,No,0,Yes,No,Urban,290.28,Active
+TPI-01483,37,Comprehensive,54.33,Cat,8,3,No,1,No,Yes,Suburban,2745.77,Lapsed
+TPI-01484,40,Wellness Plus,64.79,Dog,2,1,Yes,0,Yes,No,Urban,1935.01,Active
+TPI-01485,56,Basic Accident,20.71,Dog,9,0,No,1,Yes,No,Rural,1851.43,Active
+TPI-01486,19,Comprehensive,58.08,Cat,10,3,No,1,No,No,Urban,1695.13,Active
+TPI-01487,48,Basic Accident,26.29,Dog,1,4,Yes,0,Yes,No,Rural,2255.86,Lapsed
+TPI-01488,59,Comprehensive,52.42,Cat,2,0,No,0,Yes,No,Urban,4089.83,Active
+TPI-01489,47,Wellness Plus,72.31,Dog,2,3,No,0,Yes,No,Rural,4840.97,Active
+TPI-01490,44,Basic Accident,28.82,Dog,7,1,Yes,1,Yes,Yes,Urban,1348.0,Active
+TPI-01491,60,Basic Accident,20.66,Cat,6,0,No,1,Yes,No,Suburban,2179.49,Active
+TPI-01492,43,Wellness Plus,98.76,Cat,1,2,No,0,Yes,No,Suburban,7098.26,Active
+TPI-01493,17,Comprehensive,44.28,Cat,10,2,No,0,Yes,No,Rural,1328.45,Active
+TPI-01494,10,Wellness Plus,78.72,Dog,4,1,Yes,1,Yes,No,Suburban,1286.41,Active
+TPI-01495,4,Basic Accident,23.58,Dog,1,3,No,2,No,No,Suburban,183.01,Lapsed
+TPI-01496,20,Basic Accident,18.95,Dog,15,1,No,0,No,No,Urban,682.89,Active
+TPI-01497,60,Comprehensive,39.46,Cat,10,2,No,1,Yes,No,Suburban,3548.3,Active
+TPI-01498,41,Comprehensive,65.3,Dog,9,2,No,0,No,No,Urban,819.48,Active
+TPI-01499,9,Comprehensive,45.3,Dog,4,0,No,0,Yes,No,Suburban,981.03,Lapsed
+TPI-01500,22,Basic Accident,19.39,Dog,5,2,No,1,Yes,No,Suburban,525.58,Lapsed
+TPI-01501,49,Comprehensive,47.87,Dog,15,2,Yes,1,Yes,No,Rural,2804.51,Active
+TPI-01502,29,Basic Accident,12.13,Cat,13,0,No,4,Yes,No,Urban,659.76,Lapsed
+TPI-01503,42,Wellness Plus,97.23,Dog,1,2,No,0,No,Yes,Urban,5831.95,Active
+TPI-01504,39,Basic Accident,24.25,Cat,11,4,Yes,3,Yes,No,Urban,1220.52,Active
+TPI-01505,18,Basic Accident,20.18,Cat,10,3,No,0,Yes,Yes,Urban,445.83,Active
+TPI-01506,24,Wellness Plus,77.0,Dog,2,0,No,1,Yes,Yes,Urban,929.44,Active
+TPI-01507,53,Wellness Plus,71.7,Cat,3,3,Yes,1,Yes,No,Rural,8465.89,Active
+TPI-01508,20,Comprehensive,51.4,Cat,7,3,No,0,Yes,Yes,Urban,1102.74,Active
+TPI-01509,23,Comprehensive,55.17,Cat,11,1,Yes,1,No,No,Urban,874.21,Active
+TPI-01510,39,Comprehensive,46.73,Cat,7,1,No,0,Yes,No,Suburban,6114.71,Lapsed
+TPI-01511,34,Comprehensive,55.88,Cat,8,0,No,1,Yes,Yes,Urban,3319.98,Active
+TPI-01512,30,Basic Accident,28.67,Cat,9,4,No,2,Yes,Yes,Urban,804.91,Active
+TPI-01513,44,Basic Accident,19.05,Dog,1,0,Yes,0,Yes,No,Urban,553.21,Lapsed
+TPI-01514,8,Wellness Plus,64.02,Dog,3,5,No,0,No,No,Suburban,491.26,Active
+TPI-01515,15,Basic Accident,21.95,Dog,14,0,Yes,0,Yes,Yes,Suburban,800.93,Active
+TPI-01516,49,Wellness Plus,83.99,Dog,6,2,No,3,Yes,No,Urban,2538.68,Active
+TPI-01517,9,Wellness Plus,96.53,Dog,13,0,No,0,No,No,Suburban,732.63,Active
+TPI-01518,33,Basic Accident,24.95,Dog,14,3,No,1,Yes,No,Urban,1712.25,Active
+TPI-01519,9,Comprehensive,68.69,Dog,15,1,No,1,Yes,No,Urban,361.65,Active
+TPI-01520,58,Basic Accident,32.0,Dog,8,4,Yes,0,Yes,Yes,Urban,1346.94,Active
+TPI-01521,38,Comprehensive,46.07,Dog,1,6,No,0,Yes,No,Suburban,1828.6,Active
+TPI-01522,19,Basic Accident,18.55,Dog,8,1,No,3,No,Yes,Urban,391.0,Lapsed
+TPI-01523,1,Comprehensive,52.87,Cat,0,3,Yes,1,Yes,No,Urban,70.93,Active
+TPI-01524,33,Comprehensive,41.0,Other,3,4,No,1,Yes,Yes,Rural,690.39,Active
+TPI-01525,4,Basic Accident,20.1,Cat,10,4,No,2,Yes,No,Urban,328.31,Lapsed
+TPI-01526,37,Basic Accident,22.64,Dog,0,3,No,0,Yes,Yes,Urban,873.13,Active
+TPI-01527,50,Wellness Plus,91.06,Cat,1,2,No,0,Yes,No,Suburban,5624.87,Active
+TPI-01528,49,Comprehensive,45.32,Dog,15,2,No,1,Yes,Yes,Rural,1518.5,Active
+TPI-01529,45,Comprehensive,42.13,Dog,8,3,Yes,0,No,No,Suburban,865.74,Active
+TPI-01530,59,Comprehensive,40.05,Dog,8,2,No,1,Yes,No,Urban,1876.81,Active
+TPI-01531,55,Comprehensive,40.14,Dog,6,1,No,2,Yes,No,Urban,2317.45,Active
+TPI-01532,28,Wellness Plus,85.91,Dog,1,3,No,1,No,No,Suburban,2015.26,Active
+TPI-01533,3,Comprehensive,59.33,Cat,6,3,No,1,Yes,No,Urban,231.26,Active
+TPI-01534,30,Comprehensive,62.07,Cat,4,3,Yes,0,No,Yes,Suburban,1144.28,Active
+TPI-01535,24,Basic Accident,20.73,Dog,12,2,No,2,Yes,Yes,Suburban,509.24,Active
+TPI-01536,29,Wellness Plus,93.93,Dog,7,1,No,1,No,No,Urban,7074.7,Lapsed
+TPI-01537,2,Comprehensive,58.68,Dog,14,4,No,2,Yes,No,Rural,357.63,Active
+TPI-01538,8,Comprehensive,47.45,Dog,11,2,No,0,Yes,No,Suburban,449.75,Active
+TPI-01539,31,Comprehensive,55.08,Dog,15,1,No,0,Yes,No,Suburban,1779.72,Active
+TPI-01540,52,Comprehensive,37.4,Dog,2,3,No,1,No,No,Urban,3331.63,Active
+TPI-01541,12,Basic Accident,24.77,Dog,7,0,No,1,Yes,Yes,Urban,441.56,Active
+TPI-01542,4,Basic Accident,22.66,Dog,4,3,No,0,No,No,Suburban,105.13,Active
+TPI-01543,60,Basic Accident,27.02,Cat,3,0,Yes,1,Yes,No,Urban,1135.44,Active
+TPI-01544,48,Basic Accident,20.99,Cat,14,2,No,0,Yes,No,Rural,1734.48,Active
+TPI-01545,29,Comprehensive,32.0,Dog,9,4,Yes,0,Yes,No,Urban,898.36,Lapsed
+TPI-01546,48,Comprehensive,45.69,Dog,6,0,Yes,0,Yes,No,Rural,1621.45,Active
+TPI-01547,40,Wellness Plus,87.06,Cat,2,3,Yes,0,No,No,Urban,3438.36,Active
+TPI-01548,56,Comprehensive,49.9,Dog,13,2,Yes,1,No,No,Urban,6107.95,Lapsed
+TPI-01549,15,Wellness Plus,89.52,Dog,15,0,No,0,No,No,Suburban,1513.37,Lapsed
+TPI-01550,26,Comprehensive,46.14,Dog,3,4,No,0,No,Yes,Urban,707.44,Lapsed
+TPI-01551,40,Wellness Plus,88.06,Dog,3,2,No,1,Yes,No,Suburban,3239.38,Active
+TPI-01552,30,Wellness Plus,88.86,Other,0,0,Yes,2,Yes,Yes,Urban,3963.36,Lapsed
+TPI-01553,44,Comprehensive,50.0,Other,0,3,No,2,Yes,No,Suburban,3302.27,Active
+TPI-01554,60,Basic Accident,25.42,Dog,11,3,No,2,Yes,Yes,Urban,1448.29,Lapsed
+TPI-01555,34,Comprehensive,48.86,Dog,4,1,No,1,No,Yes,Urban,748.35,Active
+TPI-01556,25,Comprehensive,44.59,Cat,7,2,No,1,Yes,Yes,Suburban,1278.73,Active
+TPI-01557,8,Wellness Plus,65.52,Other,0,2,No,0,Yes,No,Suburban,818.82,Active
+TPI-01558,12,Basic Accident,21.89,Dog,8,1,No,0,Yes,No,Suburban,403.83,Active
+TPI-01559,2,Wellness Plus,71.37,Dog,1,4,No,2,Yes,No,Urban,416.04,Lapsed
+TPI-01560,11,Wellness Plus,100.01,Dog,5,0,No,0,Yes,No,Rural,2361.42,Active
+TPI-01561,35,Comprehensive,44.79,Dog,12,5,No,1,Yes,No,Suburban,3285.09,Active
+TPI-01562,6,Comprehensive,51.28,Dog,14,1,No,0,Yes,No,Suburban,289.18,Lapsed
+TPI-01563,47,Basic Accident,24.27,Cat,2,1,Yes,2,No,No,Rural,1367.88,Active
+TPI-01564,16,Basic Accident,22.92,Dog,2,1,No,0,Yes,No,Suburban,462.05,Active
+TPI-01565,26,Wellness Plus,70.85,Cat,1,0,No,1,No,No,Suburban,1812.23,Active
+TPI-01566,43,Wellness Plus,65.34,Dog,1,2,No,1,No,Yes,Urban,3514.3,Active
+TPI-01567,19,Basic Accident,21.73,Dog,13,0,No,0,No,Yes,Urban,208.75,Lapsed
+TPI-01568,20,Comprehensive,62.61,Cat,15,1,No,1,No,No,Urban,1418.5,Active
+TPI-01569,31,Basic Accident,19.06,Cat,6,2,Yes,0,Yes,Yes,Urban,491.75,Lapsed
+TPI-01570,40,Comprehensive,45.19,Dog,14,1,No,1,Yes,No,Urban,2114.53,Active
+TPI-01571,34,Comprehensive,58.74,Cat,11,3,Yes,0,Yes,Yes,Suburban,1784.36,Active
+TPI-01572,7,Wellness Plus,84.62,Cat,6,2,No,5,No,No,Urban,687.33,Active
+TPI-01573,32,Basic Accident,25.39,Dog,12,2,No,0,Yes,No,Urban,915.3,Active
+TPI-01574,25,Basic Accident,17.82,Dog,0,3,Yes,3,Yes,No,Rural,717.35,Lapsed
+TPI-01575,45,Comprehensive,42.96,Dog,13,3,No,0,No,No,Urban,1192.51,Active
+TPI-01576,11,Comprehensive,42.55,Dog,6,2,No,1,Yes,Yes,Suburban,727.08,Active
+TPI-01577,17,Basic Accident,24.56,Dog,5,1,No,0,Yes,No,Urban,633.88,Active
+TPI-01578,43,Comprehensive,55.33,Cat,0,2,Yes,1,Yes,No,Urban,1907.12,Lapsed
+TPI-01579,35,Basic Accident,24.46,Dog,0,6,Yes,1,No,Yes,Urban,1152.79,Active
+TPI-01580,45,Comprehensive,61.04,Dog,8,1,No,1,No,No,Urban,4241.15,Active
+TPI-01581,3,Comprehensive,40.36,Other,8,2,No,0,Yes,Yes,Suburban,291.67,Active
+TPI-01582,41,Basic Accident,30.82,Dog,13,3,Yes,0,No,Yes,Urban,746.47,Lapsed
+TPI-01583,3,Wellness Plus,75.99,Other,4,1,No,0,No,No,Suburban,272.53,Active
+TPI-01584,3,Wellness Plus,96.57,Cat,5,1,No,2,Yes,No,Urban,478.8,Active
+TPI-01585,3,Basic Accident,25.39,Dog,15,4,Yes,1,Yes,No,Rural,216.1,Lapsed
+TPI-01586,49,Basic Accident,14.52,Cat,10,4,No,0,No,No,Suburban,418.87,Active
+TPI-01587,48,Comprehensive,32.98,Dog,3,1,No,0,Yes,Yes,Suburban,2069.46,Active
+TPI-01588,41,Wellness Plus,61.4,Dog,5,3,Yes,2,Yes,No,Urban,2032.66,Active
+TPI-01589,6,Basic Accident,18.17,Cat,12,2,Yes,0,No,Yes,Suburban,240.88,Active
+TPI-01590,53,Comprehensive,45.21,Other,9,2,No,2,No,No,Suburban,1949.63,Active
+TPI-01591,9,Comprehensive,58.5,Dog,12,2,No,2,Yes,No,Suburban,542.11,Active
+TPI-01592,54,Basic Accident,21.91,Cat,7,2,No,0,Yes,Yes,Suburban,953.79,Active
+TPI-01593,19,Comprehensive,51.28,Dog,1,2,Yes,0,Yes,No,Rural,2426.31,Active
+TPI-01594,43,Basic Accident,20.36,Dog,10,1,No,1,Yes,Yes,Suburban,753.19,Active
+TPI-01595,1,Basic Accident,23.43,Dog,2,0,Yes,1,No,No,Suburban,45.2,Active
+TPI-01596,43,Basic Accident,16.98,Dog,9,3,No,2,No,No,Urban,775.7,Active
+TPI-01597,31,Basic Accident,14.84,Cat,6,4,No,1,Yes,No,Suburban,470.9,Active
+TPI-01598,38,Comprehensive,34.76,Dog,1,0,No,1,Yes,No,Rural,1684.88,Lapsed
+TPI-01599,49,Basic Accident,18.2,Other,6,3,No,1,No,No,Suburban,1450.51,Active
+TPI-01600,42,Wellness Plus,63.88,Cat,8,2,No,2,Yes,No,Urban,1964.43,Active
+TPI-01601,40,Basic Accident,30.58,Dog,14,1,Yes,0,Yes,Yes,Urban,3466.09,Active
+TPI-01602,16,Comprehensive,43.36,Other,0,0,No,0,Yes,No,Rural,1674.16,Active
+TPI-01603,30,Comprehensive,50.29,Cat,14,5,Yes,2,No,No,Urban,1610.06,Active
+TPI-01604,42,Basic Accident,26.34,Dog,15,3,No,0,No,Yes,Suburban,1352.93,Lapsed
+TPI-01605,47,Comprehensive,57.21,Other,8,2,No,0,Yes,No,Suburban,3272.83,Active
+TPI-01606,53,Comprehensive,45.91,Dog,4,3,No,2,No,Yes,Urban,2624.09,Active
+TPI-01607,48,Comprehensive,53.45,Cat,1,3,No,1,No,No,Urban,3653.85,Lapsed
+TPI-01608,17,Basic Accident,19.75,Cat,10,1,No,0,Yes,No,Suburban,362.47,Lapsed
+TPI-01609,45,Basic Accident,22.71,Dog,13,2,No,1,Yes,No,Suburban,1915.05,Active
+TPI-01610,25,Basic Accident,18.03,Cat,5,0,No,0,No,No,Rural,410.85,Active
+TPI-01611,28,Basic Accident,25.39,Dog,9,1,No,0,No,No,Suburban,906.85,Active
+TPI-01612,24,Comprehensive,54.14,Cat,11,4,No,0,Yes,No,Rural,1297.03,Active
+TPI-01613,34,Basic Accident,17.79,Dog,5,2,No,3,Yes,No,Urban,601.84,Active
+TPI-01614,40,Comprehensive,49.17,Cat,0,2,No,0,Yes,No,Suburban,1325.41,Lapsed
+TPI-01615,4,Comprehensive,46.41,Cat,1,2,Yes,1,Yes,No,Urban,241.05,Active
+TPI-01616,39,Comprehensive,53.76,Dog,12,2,Yes,0,Yes,No,Rural,2109.5,Active
+TPI-01617,21,Basic Accident,20.43,Dog,3,2,No,2,No,No,Urban,745.73,Lapsed
+TPI-01618,41,Basic Accident,18.95,Dog,7,3,No,0,No,Yes,Urban,497.64,Lapsed
+TPI-01619,57,Wellness Plus,101.55,Cat,15,0,Yes,0,Yes,No,Rural,9414.27,Lapsed
+TPI-01620,6,Wellness Plus,67.25,Dog,15,1,No,1,Yes,No,Rural,364.48,Active
+TPI-01621,16,Comprehensive,44.87,Dog,11,1,Yes,0,No,No,Suburban,560.13,Active
+TPI-01622,55,Basic Accident,21.04,Dog,10,1,Yes,0,Yes,No,Urban,1855.99,Active
+TPI-01623,39,Basic Accident,23.15,Cat,13,1,No,1,Yes,No,Suburban,1420.82,Active
+TPI-01624,9,Basic Accident,21.92,Cat,5,2,No,0,No,Yes,Rural,194.58,Lapsed
+TPI-01625,52,Comprehensive,43.45,Dog,7,2,No,0,No,No,Suburban,1022.18,Lapsed
+TPI-01626,17,Wellness Plus,70.97,Other,12,2,Yes,0,Yes,No,Urban,1814.02,Active
+TPI-01627,39,Basic Accident,25.96,Dog,5,3,No,2,No,Yes,Suburban,903.69,Lapsed
+TPI-01628,37,Comprehensive,36.43,Cat,10,3,No,1,No,Yes,Suburban,1673.62,Active
+TPI-01629,39,Wellness Plus,74.45,Other,3,4,No,0,No,Yes,Urban,2401.64,Active
+TPI-01630,37,Comprehensive,32.0,Cat,6,0,No,1,Yes,No,Suburban,1183.47,Active
+TPI-01631,39,Basic Accident,18.01,Cat,9,2,Yes,3,Yes,No,Rural,928.18,Active
+TPI-01632,10,Comprehensive,37.21,Cat,9,0,Yes,0,No,No,Suburban,955.9,Active
+TPI-01633,38,Comprehensive,47.75,Dog,10,3,Yes,0,Yes,Yes,Suburban,1621.69,Active
+TPI-01634,19,Comprehensive,58.34,Dog,1,1,No,0,No,Yes,Urban,735.85,Active
+TPI-01635,34,Comprehensive,51.34,Cat,6,2,No,1,No,No,Suburban,2193.29,Active
+TPI-01636,48,Wellness Plus,55.0,Cat,14,2,No,1,Yes,Yes,Suburban,1226.03,Active
+TPI-01637,8,Wellness Plus,84.17,Other,9,2,Yes,1,Yes,Yes,Suburban,625.67,Active
+TPI-01638,32,Basic Accident,12.04,Cat,2,1,No,0,No,Yes,Urban,778.27,Active
+TPI-01639,41,Wellness Plus,61.84,Cat,14,2,No,1,No,No,Suburban,2245.79,Active
+TPI-01640,56,Comprehensive,58.31,Cat,11,0,No,2,Yes,Yes,Suburban,2842.75,Active
+TPI-01641,1,Comprehensive,46.44,Cat,4,1,No,0,Yes,Yes,Rural,320.01,Active
+TPI-01642,28,Basic Accident,22.68,Cat,14,4,No,1,Yes,No,Rural,848.53,Active
+TPI-01643,15,Basic Accident,28.49,Dog,5,3,No,0,Yes,No,Urban,487.13,Lapsed
+TPI-01644,22,Basic Accident,17.93,Dog,9,2,Yes,2,No,No,Suburban,444.59,Active
+TPI-01645,13,Basic Accident,24.31,Dog,8,3,No,0,Yes,Yes,Urban,401.61,Lapsed
+TPI-01646,42,Comprehensive,50.64,Dog,9,2,Yes,2,Yes,No,Suburban,2270.55,Active
+TPI-01647,10,Basic Accident,20.17,Dog,15,3,Yes,2,Yes,No,Suburban,316.56,Lapsed
+TPI-01648,35,Basic Accident,18.84,Cat,5,0,No,2,No,No,Urban,402.61,Active
+TPI-01649,26,Comprehensive,44.04,Dog,5,4,Yes,0,No,No,Suburban,1619.05,Active
+TPI-01650,34,Basic Accident,18.84,Dog,10,3,No,2,Yes,No,Rural,1871.85,Lapsed
+TPI-01651,59,Comprehensive,32.0,Cat,5,0,Yes,2,No,No,Suburban,838.82,Lapsed
+TPI-01652,19,Comprehensive,38.14,Dog,8,0,No,1,No,No,Urban,1347.49,Active
+TPI-01653,56,Comprehensive,43.22,Other,12,2,No,0,Yes,Yes,Urban,2352.05,Active
+TPI-01654,26,Basic Accident,24.0,Cat,1,3,Yes,0,Yes,No,Suburban,457.91,Lapsed
+TPI-01655,2,Comprehensive,50.21,Dog,0,0,No,0,Yes,No,Urban,187.36,Lapsed
+TPI-01656,0,Comprehensive,36.3,Dog,6,5,No,1,Yes,No,Rural,114.95,Active
+TPI-01657,36,Comprehensive,50.86,Dog,12,2,No,1,No,Yes,Urban,2018.07,Active
+TPI-01658,15,Comprehensive,51.21,Dog,3,1,Yes,5,Yes,No,Suburban,790.12,Active
+TPI-01659,41,Basic Accident,27.4,Dog,11,2,Yes,1,No,No,Rural,1061.43,Active
+TPI-01660,2,Comprehensive,36.12,Dog,0,2,No,1,Yes,No,Urban,310.08,Lapsed
+TPI-01661,50,Wellness Plus,85.21,Other,6,1,Yes,2,No,Yes,Suburban,5086.68,Active
+TPI-01662,54,Comprehensive,53.43,Other,10,2,Yes,1,Yes,No,Rural,4885.3,Active
+TPI-01663,31,Comprehensive,46.43,Cat,12,0,Yes,0,No,No,Urban,735.94,Active
+TPI-01664,25,Comprehensive,36.54,Dog,2,2,No,1,No,No,Urban,1108.46,Lapsed
+TPI-01665,57,Wellness Plus,59.64,Dog,1,6,No,0,Yes,Yes,Suburban,3262.18,Active
+TPI-01666,60,Wellness Plus,86.62,Cat,6,2,No,0,No,No,Urban,5089.86,Active
+TPI-01667,14,Basic Accident,26.76,Dog,14,2,No,1,Yes,Yes,Urban,648.41,Active
+TPI-01668,28,Comprehensive,47.8,Other,0,3,No,2,No,Yes,Suburban,1008.38,Active
+TPI-01669,26,Comprehensive,38.5,Dog,15,0,Yes,0,No,No,Urban,710.06,Active
+TPI-01670,5,Basic Accident,25.44,Dog,12,1,Yes,0,No,No,Urban,119.39,Lapsed
+TPI-01671,40,Basic Accident,22.56,Dog,13,0,Yes,0,Yes,Yes,Rural,1047.71,Active
+TPI-01672,43,Comprehensive,57.11,Dog,1,1,Yes,0,Yes,No,Urban,1691.44,Active
+TPI-01673,44,Basic Accident,19.42,Cat,8,2,No,0,No,No,Suburban,564.98,Active
+TPI-01674,37,Basic Accident,25.73,Cat,9,2,No,1,Yes,No,Urban,1288.75,Lapsed
+TPI-01675,51,Comprehensive,33.33,Dog,1,2,Yes,1,Yes,Yes,Urban,1515.54,Active
+TPI-01676,37,Comprehensive,55.56,Cat,8,2,No,2,Yes,Yes,Suburban,1826.93,Active
+TPI-01677,48,Comprehensive,60.97,Dog,14,1,No,0,Yes,Yes,Suburban,3790.99,Active
+TPI-01678,58,Comprehensive,59.24,Cat,15,5,No,0,No,No,Suburban,2570.82,Active
+TPI-01679,23,Basic Accident,27.35,Other,14,2,No,0,Yes,No,Urban,888.88,Active
+TPI-01680,51,Comprehensive,57.65,Dog,4,2,No,0,Yes,No,Urban,4893.9,Lapsed
+TPI-01681,45,Comprehensive,44.38,Cat,7,2,No,2,Yes,No,Rural,1655.11,Active
+TPI-01682,41,Basic Accident,20.3,Cat,5,2,Yes,0,Yes,Yes,Urban,1513.63,Active
+TPI-01683,35,Wellness Plus,75.49,Dog,6,1,No,1,No,Yes,Suburban,1746.42,Active
+TPI-01684,22,Comprehensive,47.65,Cat,0,1,No,0,Yes,No,Urban,2690.12,Active
+TPI-01685,42,Basic Accident,20.23,Dog,0,0,No,0,Yes,Yes,Suburban,1193.33,Active
+TPI-01686,51,Wellness Plus,76.0,Other,6,2,Yes,1,No,Yes,Suburban,3057.1,Active
+TPI-01687,48,Comprehensive,49.22,Dog,15,2,No,1,No,No,Rural,3853.97,Active
+TPI-01688,31,Comprehensive,37.89,Dog,10,0,No,0,Yes,Yes,Urban,963.55,Active
+TPI-01689,11,Comprehensive,54.13,Cat,5,2,No,1,Yes,No,Suburban,458.61,Active
+TPI-01690,55,Comprehensive,53.12,Dog,8,3,Yes,1,Yes,No,Urban,1989.25,Active
+TPI-01691,57,Comprehensive,50.7,Other,13,0,No,0,Yes,Yes,Suburban,1681.45,Active
+TPI-01692,0,Comprehensive,35.22,Cat,6,2,Yes,1,Yes,No,Suburban,156.95,Active
+TPI-01693,25,Basic Accident,23.69,Cat,10,0,No,0,Yes,No,Urban,995.67,Lapsed
+TPI-01694,53,Basic Accident,17.95,Dog,12,1,No,1,No,No,Suburban,1393.62,Active
+TPI-01695,41,Wellness Plus,85.4,Cat,4,1,No,0,Yes,Yes,Rural,2755.21,Active
+TPI-01696,10,Basic Accident,22.9,Dog,0,4,No,1,Yes,No,Urban,621.78,Active
+TPI-01697,33,Comprehensive,54.06,Cat,10,0,Yes,0,Yes,No,Urban,1161.52,Active
+TPI-01698,32,Basic Accident,14.05,Dog,14,7,No,1,Yes,No,Urban,771.17,Active
+TPI-01699,13,Basic Accident,26.12,Dog,15,1,No,0,Yes,No,Suburban,303.12,Active
+TPI-01700,42,Comprehensive,51.25,Dog,15,2,No,1,No,No,Rural,2418.56,Lapsed
+TPI-01701,8,Basic Accident,22.49,Dog,8,1,No,0,Yes,No,Suburban,272.06,Active
+TPI-01702,44,Comprehensive,41.31,Dog,8,3,No,2,Yes,Yes,Suburban,1804.41,Active
+TPI-01703,48,Comprehensive,48.29,Dog,2,1,Yes,0,Yes,Yes,Urban,2684.34,Active
+TPI-01704,41,Wellness Plus,88.7,Cat,3,1,No,1,Yes,No,Urban,2960.07,Active
+TPI-01705,26,Comprehensive,60.49,Dog,15,0,Yes,1,No,Yes,Urban,1580.64,Lapsed
+TPI-01706,26,Basic Accident,22.52,Dog,12,3,No,0,Yes,No,Suburban,515.49,Lapsed
+TPI-01707,41,Comprehensive,53.05,Dog,13,1,No,1,Yes,Yes,Urban,1404.26,Active
+TPI-01708,27,Comprehensive,58.42,Other,5,5,No,0,Yes,Yes,Suburban,731.0,Active
+TPI-01709,18,Comprehensive,61.67,Dog,9,0,Yes,0,Yes,No,Suburban,1242.99,Lapsed
+TPI-01710,52,Wellness Plus,79.08,Dog,8,2,No,0,Yes,No,Suburban,9270.36,Active
+TPI-01711,29,Wellness Plus,77.85,Cat,5,4,No,2,No,No,Rural,1626.12,Active
+TPI-01712,36,Basic Accident,24.11,Dog,12,2,No,0,Yes,No,Suburban,1200.56,Active
+TPI-01713,20,Basic Accident,20.08,Dog,2,1,Yes,0,No,No,Suburban,664.22,Active
+TPI-01714,28,Basic Accident,25.85,Dog,7,2,No,1,Yes,Yes,Urban,760.43,Active
+TPI-01715,18,Basic Accident,26.74,Dog,5,0,Yes,3,Yes,No,Urban,558.01,Active
+TPI-01716,8,Comprehensive,45.52,Cat,3,0,No,1,Yes,No,Urban,632.37,Active
+TPI-01717,3,Basic Accident,24.99,Dog,12,0,No,0,No,Yes,Suburban,69.44,Lapsed
+TPI-01718,23,Basic Accident,25.04,Other,14,1,No,2,No,Yes,Urban,850.88,Lapsed
+TPI-01719,45,Comprehensive,45.37,Dog,9,2,No,1,Yes,No,Rural,1499.92,Active
+TPI-01720,29,Comprehensive,48.22,Dog,1,2,Yes,1,Yes,No,Urban,3533.31,Active
+TPI-01721,48,Wellness Plus,71.94,Dog,14,2,Yes,1,Yes,No,Suburban,3335.48,Lapsed
+TPI-01722,58,Basic Accident,34.76,Dog,7,0,Yes,1,No,No,Urban,2132.71,Active
+TPI-01723,8,Basic Accident,28.43,Dog,4,1,No,0,Yes,No,Urban,422.21,Active
+TPI-01724,24,Comprehensive,32.0,Dog,6,3,No,0,No,No,Suburban,1367.13,Active
+TPI-01725,30,Basic Accident,19.52,Cat,1,2,No,1,Yes,No,Suburban,1929.56,Active
+TPI-01726,1,Basic Accident,22.72,Cat,7,1,No,0,Yes,Yes,Urban,105.16,Lapsed
+TPI-01727,21,Basic Accident,15.23,Dog,14,5,Yes,0,Yes,No,Urban,257.73,Active
+TPI-01728,9,Comprehensive,55.63,Dog,7,2,No,1,Yes,No,Urban,728.59,Active
+TPI-01729,48,Comprehensive,51.16,Cat,12,4,No,1,No,Yes,Urban,3159.34,Active
+TPI-01730,12,Comprehensive,41.83,Cat,2,1,No,1,Yes,Yes,Rural,428.54,Lapsed
+TPI-01731,39,Comprehensive,46.0,Dog,13,1,Yes,0,No,No,Urban,998.51,Active
+TPI-01732,8,Wellness Plus,82.77,Cat,3,2,No,1,Yes,No,Urban,1350.82,Active
+TPI-01733,58,Comprehensive,37.01,Dog,13,5,Yes,0,Yes,Yes,Urban,3887.46,Active
+TPI-01734,19,Basic Accident,24.89,Cat,8,3,No,0,No,Yes,Suburban,552.96,Lapsed
+TPI-01735,57,Basic Accident,19.81,Dog,8,0,No,0,No,No,Urban,2031.0,Active
+TPI-01736,21,Comprehensive,56.62,Dog,0,2,No,0,No,No,Suburban,1147.46,Lapsed
+TPI-01737,0,Comprehensive,48.06,Dog,9,2,No,1,Yes,No,Urban,162.0,Active
+TPI-01738,36,Comprehensive,52.47,Cat,4,3,No,1,Yes,Yes,Suburban,3255.78,Active
+TPI-01739,30,Comprehensive,48.37,Cat,1,2,No,1,Yes,Yes,Suburban,1515.49,Active
+TPI-01740,10,Comprehensive,61.48,Cat,0,1,No,0,Yes,No,Urban,1892.32,Active
+TPI-01741,48,Basic Accident,29.1,Cat,13,6,No,1,No,No,Suburban,801.33,Active
+TPI-01742,3,Basic Accident,24.76,Dog,4,3,No,1,Yes,Yes,Suburban,235.96,Lapsed
+TPI-01743,27,Basic Accident,20.1,Dog,8,3,No,0,Yes,No,Suburban,513.17,Active
+TPI-01744,59,Comprehensive,39.61,Dog,4,1,No,2,Yes,Yes,Rural,3830.82,Active
+TPI-01745,1,Basic Accident,22.35,Cat,3,3,No,0,Yes,Yes,Suburban,215.54,Active
+TPI-01746,48,Comprehensive,40.26,Cat,7,2,No,0,Yes,No,Urban,1447.49,Lapsed
+TPI-01747,24,Basic Accident,26.37,Dog,15,2,No,0,No,No,Urban,1496.02,Lapsed
+TPI-01748,16,Comprehensive,37.67,Dog,11,3,Yes,1,Yes,Yes,Suburban,346.51,Active
+TPI-01749,57,Wellness Plus,94.83,Cat,12,1,No,2,No,No,Suburban,6803.74,Active
+TPI-01750,38,Basic Accident,25.2,Cat,9,0,No,0,No,No,Suburban,1166.6,Active
+TPI-01751,8,Basic Accident,19.21,Dog,12,2,No,0,Yes,Yes,Urban,279.56,Lapsed
+TPI-01752,60,Comprehensive,54.74,Dog,14,4,Yes,0,No,No,Suburban,5260.01,Active
+TPI-01753,36,Wellness Plus,84.32,Dog,10,3,No,1,No,Yes,Urban,3482.99,Active
+TPI-01754,6,Wellness Plus,64.42,Other,0,2,No,1,Yes,No,Urban,640.48,Active
+TPI-01755,24,Comprehensive,32.03,Dog,14,0,No,0,No,No,Urban,430.13,Lapsed
+TPI-01756,56,Basic Accident,27.63,Dog,7,3,Yes,1,No,No,Suburban,1217.43,Active
+TPI-01757,6,Basic Accident,13.12,Cat,7,5,No,1,Yes,No,Urban,135.73,Active
+TPI-01758,40,Comprehensive,33.48,Dog,5,4,No,1,Yes,No,Urban,2479.08,Active
+TPI-01759,37,Comprehensive,42.78,Dog,6,0,Yes,1,Yes,No,Suburban,2255.32,Active
+TPI-01760,18,Basic Accident,16.45,Cat,14,5,No,1,Yes,No,Rural,485.73,Active
+TPI-01761,10,Basic Accident,21.77,Cat,6,1,No,1,Yes,No,Suburban,259.86,Active
+TPI-01762,54,Basic Accident,20.37,Cat,6,1,No,0,Yes,No,Suburban,761.32,Active
+TPI-01763,21,Comprehensive,55.59,Cat,14,4,No,0,Yes,Yes,Suburban,1479.94,Lapsed
+TPI-01764,45,Basic Accident,23.13,Dog,13,1,Yes,0,No,No,Suburban,884.01,Active
+TPI-01765,3,Wellness Plus,78.2,Dog,8,3,Yes,0,No,Yes,Suburban,181.59,Active
+TPI-01766,9,Wellness Plus,70.2,Dog,10,0,No,0,Yes,Yes,Rural,1117.9,Active
+TPI-01767,57,Wellness Plus,64.77,Dog,9,3,No,1,Yes,No,Urban,4025.17,Active
+TPI-01768,8,Wellness Plus,74.69,Cat,13,2,No,0,Yes,Yes,Rural,408.18,Active
+TPI-01769,8,Basic Accident,17.44,Dog,10,3,No,0,Yes,No,Urban,280.26,Active
+TPI-01770,18,Wellness Plus,82.83,Cat,3,0,No,1,Yes,No,Rural,1806.25,Active
+TPI-01771,8,Basic Accident,19.07,Cat,15,4,No,1,Yes,No,Urban,462.57,Lapsed
+TPI-01772,37,Basic Accident,17.67,Cat,4,2,No,2,Yes,No,Urban,664.44,Lapsed
+TPI-01773,13,Comprehensive,54.36,Other,15,2,No,2,Yes,No,Suburban,1313.36,Active
+TPI-01774,27,Wellness Plus,85.9,Dog,7,0,Yes,0,Yes,No,Rural,971.8,Active
+TPI-01775,23,Basic Accident,17.37,Dog,13,0,No,1,Yes,No,Rural,572.38,Active
+TPI-01776,42,Basic Accident,21.62,Cat,6,1,No,0,Yes,No,Rural,533.81,Lapsed
+TPI-01777,60,Basic Accident,17.77,Dog,0,1,No,0,Yes,No,Urban,860.43,Active
+TPI-01778,46,Comprehensive,39.02,Dog,9,2,No,1,No,No,Rural,2511.38,Lapsed
+TPI-01779,36,Comprehensive,32.65,Cat,10,3,No,0,Yes,No,Rural,1241.42,Active
+TPI-01780,8,Comprehensive,61.7,Cat,5,3,Yes,1,Yes,No,Urban,446.03,Active
+TPI-01781,13,Basic Accident,20.08,Other,15,3,No,0,Yes,No,Urban,353.6,Active
+TPI-01782,17,Comprehensive,43.74,Dog,10,0,No,2,Yes,No,Urban,1488.68,Active
+TPI-01783,6,Basic Accident,20.23,Dog,14,1,No,1,No,No,Rural,150.91,Lapsed
+TPI-01784,23,Comprehensive,54.81,Dog,4,2,No,2,Yes,No,Suburban,1480.58,Active
+TPI-01785,23,Comprehensive,54.87,Dog,1,1,No,0,No,Yes,Urban,407.38,Active
+TPI-01786,10,Wellness Plus,83.85,Cat,10,2,No,0,No,Yes,Urban,288.21,Active
+TPI-01787,34,Wellness Plus,69.66,Dog,6,3,No,1,No,Yes,Urban,1757.55,Active
+TPI-01788,60,Basic Accident,21.93,Cat,5,1,No,0,Yes,Yes,Urban,1274.23,Lapsed
+TPI-01789,29,Comprehensive,39.48,Dog,5,2,No,1,Yes,No,Rural,3998.2,Active
+TPI-01790,35,Comprehensive,44.5,Cat,11,1,No,2,No,No,Suburban,1082.77,Active
+TPI-01791,9,Basic Accident,15.18,Cat,1,2,No,1,Yes,Yes,Urban,261.86,Active
+TPI-01792,16,Basic Accident,23.62,Dog,4,4,No,0,No,No,Urban,326.32,Lapsed
+TPI-01793,34,Basic Accident,19.41,Dog,2,1,Yes,0,Yes,Yes,Urban,583.5,Active
+TPI-01794,22,Comprehensive,54.6,Dog,2,3,Yes,1,Yes,No,Suburban,2783.87,Active
+TPI-01795,7,Wellness Plus,67.03,Dog,6,2,No,0,Yes,No,Urban,520.83,Active
+TPI-01796,15,Basic Accident,23.2,Dog,7,3,Yes,0,Yes,No,Urban,273.12,Active
+TPI-01797,47,Wellness Plus,62.56,Cat,4,1,No,0,Yes,No,Suburban,3921.38,Active
+TPI-01798,59,Basic Accident,21.35,Dog,3,3,Yes,1,Yes,No,Suburban,1767.61,Lapsed
+TPI-01799,36,Comprehensive,46.39,Dog,3,0,No,1,No,No,Suburban,2579.5,Active
+TPI-01800,53,Comprehensive,36.39,Cat,6,1,No,1,Yes,No,Suburban,1852.99,Active

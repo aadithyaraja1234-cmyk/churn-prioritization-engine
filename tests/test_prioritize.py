@@ -3,6 +3,7 @@
 from pathlib import Path
 
 import pandas as pd
+import pytest
 from scipy.stats import spearmanr
 
 from src.models.prioritize import get_priority_ranking
@@ -102,10 +103,20 @@ def test_revenue_weighted_and_probability_only_rankings_differ_meaningfully():
         correlation < 0.98
     ), f"Correlation {correlation:.4f} is too high; strategies are too similar"
 
-    # The observed correlation should be around 0.949
-    assert (
-        0.94 < correlation < 0.96
-    ), f"Expected correlation ~0.949, got {correlation:.4f}"
+    # 0.9463042613936656 is Telco's final, documented baseline (models/v1
+    # trained with tuning explicitly disabled - src/models/train.py's
+    # tuning_enabled - on the original hand-picked hyperparameters
+    # (n_estimators=200, max_depth=3, learning_rate=0.05), computed under
+    # the current, correct customerID-based split. This number replaces an
+    # earlier ~0.949 figure that was computed under a since-fixed,
+    # position-dependent split (see test_multi_tenant.py's
+    # test_v1_split_indices_match_a_fresh_split_data_call for the
+    # regression guard against that exact staleness recurring silently).
+    assert correlation == pytest.approx(0.9463042613936656), (
+        f"Expected Telco's documented baseline correlation (~0.9463), got {correlation:.4f} - "
+        "if models/v1 was legitimately retrained, update this to the new real value; if not, "
+        "something changed unexpectedly."
+    )
 
 
 def test_revenue_weighted_has_new_top20_entrants_vs_probability_only():
@@ -134,13 +145,18 @@ def test_revenue_weighted_has_new_top20_entrants_vs_probability_only():
     # Compute new entrants (in revenue-weighted but not in probability-only)
     new_entrants = revenue_top20 - prob_top20
 
-    # Assert at least 1 new entrant (the finding was 12)
+    # Assert at least 1 new entrant (the finding was 11, Telco's final,
+    # documented baseline - see test_revenue_weighted_and_probability_only_
+    # rankings_differ_meaningfully's comment)
     assert (
         len(new_entrants) >= 1
     ), "Revenue-weighted strategy should bring at least 1 new customer into top 20"
 
-    # The observed value should be around 12
-    assert len(new_entrants) >= 10, (
-        f"Expected ~12 new entrants, got {len(new_entrants)}; "
-        f"actionable set change may be degraded"
+    # Telco's final, documented baseline is exactly 11 (models/v1, tuning
+    # disabled, original hyperparameters, current split - see
+    # test_multi_tenant.py's test_v1_model_metadata_matches_the_documented_
+    # baseline). An earlier ~12 figure predates the split fix.
+    assert len(new_entrants) == 11, (
+        f"Expected Telco's documented baseline (11 new entrants), got {len(new_entrants)}; "
+        f"if models/v1 was legitimately retrained, update this to the new real value."
     )

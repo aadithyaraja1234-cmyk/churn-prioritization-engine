@@ -12,3 +12,17 @@ database/app.db
 # Unrelated datasets, not used by any code in this repo
 data/raw/olist_orders_dataset.csv
 data/raw/olist_order_payments_dataset.csv
+
+# Self-registered tenants' training data + model artifacts (api/training.py) -
+# generated at runtime per tenant, not source of truth, unlike the committed
+# demo tenants' model dirs below (which stay tracked).
+data/tenant_uploads/
+models/*
+!models/v1
+!models/v1_enriched
+!models/v2
+!models/banking_v1
+
+# Secrets - real GEMINI_API_KEY goes in .env (gitignored), never in .env.example
+.env
+.env.local

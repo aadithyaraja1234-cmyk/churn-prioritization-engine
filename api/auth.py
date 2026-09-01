@@ -35,7 +35,7 @@ pwd_context = CryptContext(schemes=["bcrypt"], deprecated="auto")
 # a 403 on a missing header, which is not what "unauthenticated -> 401" means.
 bearer_scheme = HTTPBearer(auto_error=False)
 
-router = APIRouter(prefix="/auth", tags=["auth"])
+router = APIRouter(prefix="/auth", tags=["Auth"])
 
 
 class RegisterRequest(BaseModel):
@@ -81,7 +81,16 @@ def create_access_token(*, email: str, tenant_id: str, role: str) -> str:
     return jwt.encode(payload, SECRET_KEY, algorithm=ALGORITHM)
 
 
-@router.post("/register", response_model=RegisterResponse, status_code=status.HTTP_201_CREATED)
+@router.post(
+    "/register",
+    response_model=RegisterResponse,
+    status_code=status.HTTP_201_CREATED,
+    summary="Register a new user account",
+    description="Creates a new user for a given tenant, with a password (hashed with bcrypt "
+    "before storage) and a role. For onboarding a new interactive user, not for system "
+    "integrations (those authenticate with an API key instead - see `/api/api-keys`). Returns "
+    "400 if the email is already registered.",
+)
 def register(request: RegisterRequest, db: Session = Depends(get_db)) -> RegisterResponse:
     existing = db.query(User).filter(User.email == request.email).first()
     if existing is not None:
@@ -99,7 +108,17 @@ def register(request: RegisterRequest, db: Session = Depends(get_db)) -> Registe
     return RegisterResponse(email=user.email, tenant_id=user.tenant_id, role=user.role)
 
 
-@router.post("/login", response_model=TokenResponse)
+@router.post(
+    "/login",
+    response_model=TokenResponse,
+    summary="Log in and obtain a JWT access token",
+    description="Verifies email/password and returns a bearer JWT (valid for "
+    f"{ACCESS_TOKEN_EXPIRE_MINUTES} minutes) carrying the user's tenant and role. Pass this "
+    "token as `Authorization: Bearer <token>` on every subsequent request. For interactive/"
+    "human login; system integrations should use an API key instead once one has been created "
+    "via `POST /api/api-keys` (which itself still requires this JWT to call). Returns 401 on "
+    "incorrect credentials.",
+)
 def login(request: LoginRequest, db: Session = Depends(get_db)) -> TokenResponse:
     user = db.query(User).filter(User.email == request.email).first()
     if user is None or not verify_password(request.password, user.hashed_password):

@@ -1,0 +1,63 @@
+# Runs the whole app (backend + frontend) together. Quick start:
+#   docker compose up --build
+# then open http://localhost:5173. See RUNNING.md's "Run with Docker"
+# section for volumes/persistence/troubleshooting notes.
+
+services:
+  backend:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - "8000:8000"
+    environment:
+      # ${VAR:-} - empty, not an error, when unset on the host: Copilot
+      # degrades to an "unavailable" message without a real key rather than
+      # crashing (see src/copilot/agent.py), so this is genuinely optional.
+      - GEMINI_API_KEY=${GEMINI_API_KEY:-}
+      - GEMINI_MODEL=${GEMINI_MODEL:-}
+      # See database/db.py's DATABASE_PATH override - points the app at the
+      # mounted volume below instead of the in-image path, so the DB (and
+      # any self-registered tenant's training data) survives a rebuild.
+      - DATABASE_PATH=/data/app.db
+    volumes:
+      # Named volume, not a bind mount: Docker seeds a fresh named volume
+      # from whatever's already at that path in the image on first
+      # creation, so the committed Telco/Banking model artifacts (baked in
+      # by the Dockerfile's `COPY models/`) are still there on first run -
+      # then every self-registered tenant's own training output
+      # (api/training.py writes into models/<tenant_id>/) persists here
+      # across restarts/rebuilds instead of being wiped.
+      - backend_models:/app/models
+      # Same reasoning for tenant CSV uploads and the SQLite DB - both are
+      # write-at-runtime state, not image content.
+      - backend_uploads:/app/data/tenant_uploads
+      - backend_data:/data
+    healthcheck:
+      test: ["CMD", "python", "-c", "import urllib.request; urllib.request.urlopen('http://localhost:8000/health')"]
+      interval: 30s
+      timeout: 5s
+      start_period: 10s
+      retries: 3
+
+  frontend:
+    build:
+      context: ./frontend
+      dockerfile: Dockerfile
+      args:
+        # Browser-side calls hit the HOST's mapped port (8000 above), not
+        # the backend container's internal address - "backend:8000" would
+        # only resolve inside the compose network, not from the user's
+        # actual browser, so this stays localhost:8000 (the same default
+        # frontend/src/api/client.js already falls back to).
+        VITE_API_BASE_URL: http://localhost:8000
+    ports:
+      - "5173:80"
+    depends_on:
+      backend:
+        condition: service_healthy
+
+volumes:
+  backend_models:
+  backend_uploads:
+  backend_data:

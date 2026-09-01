@@ -8,6 +8,26 @@ model:
   learning_rate: 0.05
   random_state: 42
 
+# Each tenant entry is the single source of truth for that tenant's data,
+# trained-model locations, and which optional modules have been
+# independently validated and enabled for it. Enabling a validated module
+# for a tenant is a feature_flags edit here, not a code change - see
+# docs/ADDING_A_TENANT.md before flipping any flag to true.
+#
+# feature_flags keys:
+#   business_impact_core - business-impact/action-queue/alerts/health-score/
+#     recommend/whatif/business-language-explanation (the foundational
+#     revenue-impact + composite health-score layer everything else below
+#     builds on)
+#   priority_ranking, backtest, survival, segments, anomalies, clv,
+#     scenario_simulator, budget_optimizer, customer_timeline - independent
+#     advanced modules, each requiring its own trained artifact and its own
+#     validation pass (see docs/ADDING_A_TENANT.md)
+#
+# unavailable_reason is the default reason text returned for any disabled
+# feature_flag on this tenant. unavailable_reasons (plural, optional) maps
+# specific feature names to a more specific override reason, for cases
+# where the generic default isn't informative enough.
 tenants:
   telco:
     data_path: data/raw/telco.csv
@@ -15,9 +35,107 @@ tenants:
     target_positive_value: "Yes"
     revenue_column: MonthlyCharges
     id_column: customerID
+    # duration_column/duration_leakage_column/segment_feature_column feed
+    # survival.py; clv_column/clv_excluded_columns feed clv.py (against
+    # clv_data_path's enriched file, not data_path above). Same values
+    # src/data/load.py's DEFAULT_TENANT_CONFIG already defaults to - listed
+    # explicitly here for the same reason id_column etc. already are.
+    duration_column: tenure
+    duration_leakage_column: TotalCharges
+    segment_feature_column: Contract
+    clv_column: CLTV
+    clv_excluded_columns: [City, State, Zip Code, Latitude, Longitude, Churn Score, Churn Reason]
+    # tuning_enabled: false - a real, controlled comparison (src/models/
+    # train.py's RandomizedSearchCV) found tuning made Telco's held-out
+    # ROC-AUC slightly WORSE (0.8471 -> 0.8400) despite a higher cross-
+    # validation estimate; every number this project has ever published
+    # for Telco was computed under these original, fixed hyperparameters,
+    # so they stay fixed. See src/data/load.py's DEFAULT_TENANT_CONFIG
+    # (what run_pipeline.py's real retrain actually uses) for the full
+    # write-up - this entry is documentation/consistency, not what the
+    # real Telco retrain path reads.
+    tuning_enabled: false
+    model_dir: models/v1
+    clv_model_dir: models/v1_enriched
+    clv_data_path: data/raw/telco_enriched.csv
+    unavailable_reason: "not yet trained for this tenant"
+    unavailable_reasons:
+      clv_estimated: >-
+        not needed for this tenant - a real, trained CLV model already
+        exists (CLTV, see clv above); the formula-based proxy is only
+        offered for a tenant with no real CLV-equivalent column at all.
+    feature_flags:
+      business_impact_core: true
+      priority_ranking: true
+      backtest: true
+      survival: true
+      segments: true
+      anomalies: true
+      clv: true
+      scenario_simulator: true
+      budget_optimizer: true
+      customer_timeline: true
   banking:
     data_path: data/raw/bank_churn.csv
     target_column: Exited
     target_positive_value: 1
     revenue_column: Balance
     id_column: CustomerId
+    # duration_column: Tenure - a real, present column (years as a bank
+    # customer, 0-10) that was simply never mapped before. Added when
+    # Banking was fully trained for the first time (survival c-index
+    # 0.716) - a real gap, not a data limitation: Tenure existed in
+    # bank_churn.csv from the start, it just never had a role assigned.
+    duration_column: Tenure
+    # tuning_enabled: false - same decision, same reason as telco's own
+    # tuning_enabled comment above: a real comparison found tuning made
+    # Banking's held-out ROC-AUC slightly worse too (0.8399 -> 0.8285)
+    # despite a higher cross-validation estimate. This IS the tenant_config
+    # Banking's real retrain uses (unlike Telco, Banking has no
+    # DEFAULT_TENANT_CONFIG equivalent - this config.yaml entry is it).
+    tuning_enabled: false
+    model_dir: models/banking_v1
+    clv_model_dir: null
+    clv_data_path: null
+    unavailable_reason: "not yet trained for this tenant"
+    unavailable_reasons:
+      clv: >-
+        no CLV-equivalent column exists in this tenant's raw data
+        (bank_churn.csv has no lifetime-value-shaped field) - genuinely
+        unavailable, not just unmapped. See clv_estimated for a
+        formula-based proxy instead.
+    # Banking was fully trained (all modules genuinely attempted, each
+    # gated on its own real sanity check - same discipline as every
+    # self-registered tenant's Stage 2b/2c/2d pipeline): business_impact_
+    # core/survival/segments/anomalies/priority_ranking/backtest/
+    # customer_timeline/scenario_simulator/budget_optimizer all
+    # independently PASSED their own gate (survival c-index 0.716,
+    # segments silhouette 0.089/k=2, anomalies 5.0% flagged, priority_
+    # ranking Spearman 0.646, backtest 407 real churned test customers,
+    # scenario_simulator 54% of the probe population affected, budget_
+    # optimizer covered its full probe). The earlier unavailable_reasons
+    # for priority_ranking/backtest claimed Balance "has not been
+    # backtested" - that was true only because it had never actually been
+    # tried; a real backtest run clears the bar cleanly, so that caution
+    # turned out to be an untested assumption, not a real limitation, and
+    # has been removed. clv is the one genuine, structural gap: no CLV-
+    # equivalent column exists in bank_churn.csv at all (see
+    # unavailable_reasons.clv above) - honestly unavailable, not attempted
+    # as a real regression. clv_estimated stands in instead: a formula-
+    # based proxy (Balance x expected total lifetime, survival-informed -
+    # see src/models/clv.py's estimate_clv_bulk()) genuinely passed its own
+    # structural/variance sanity check (coefficient of variation 0.816,
+    # well above the 0.05 floor) - verified directly against Banking's real
+    # data before this flag was flipped.
+    feature_flags:
+      business_impact_core: true
+      priority_ranking: true
+      backtest: true
+      survival: true
+      segments: true
+      anomalies: true
+      clv: false
+      clv_estimated: true
+      scenario_simulator: true
+      budget_optimizer: true
+      customer_timeline: true

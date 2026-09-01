@@ -1,0 +1,2501 @@
+subscriber_id,tenure_months,plan_type,monthly_price,items_per_box,referral_count,boxes_skipped_ytd,gift_subscription,payment_method,loyalty_points_balance,app_installed,avg_review_rating,social_media_follower,subscriber_value_estimate,unsubscribed
+CAS-00001,2,Curated,37.46,2,0,2,No,Debit Card,290,No,4.5,Yes,216.03,Yes
+CAS-00002,42,Curated,35.36,2,1,1,No,Buy Now Pay Later,89,Yes,4.7,No,2346.76,Yes
+CAS-00003,13,Curated,30.84,5,1,0,No,Credit Card,116,Yes,4.5,No,560.23,No
+CAS-00004,20,Curated,30.71,4,2,3,No,Buy Now Pay Later,1009,No,4.1,No,1197.96,Yes
+CAS-00005,36,Curated,36.95,7,2,2,No,Credit Card,512,Yes,4.0,Yes,578.33,Yes
+CAS-00006,39,Curated,34.33,4,0,0,No,Credit Card,27,No,3.3,Yes,2900.43,No
+CAS-00007,33,Basic,19.7,3,1,3,No,Credit Card,376,Yes,4.7,Yes,538.66,Yes
+CAS-00008,10,Deluxe,59.05,8,3,2,No,Credit Card,492,Yes,3.8,No,477.48,No
+CAS-00009,21,Basic,22.71,5,0,4,No,Debit Card,348,No,4.5,No,678.77,Yes
+CAS-00010,34,Basic,20.23,4,1,2,No,Debit Card,50,No,3.7,No,797.96,Yes
+CAS-00011,41,Curated,30.96,5,1,3,No,Debit Card,186,No,4.5,No,1431.96,Yes
+CAS-00012,12,Curated,33.42,6,1,0,Yes,Debit Card,404,Yes,3.1,No,417.7,No
+CAS-00013,4,Basic,21.45,7,0,1,No,Credit Card,236,Yes,3.3,No,181.57,Yes
+CAS-00014,46,Deluxe,55.97,10,0,4,No,Debit Card,369,No,4.1,No,2034.6,No
+CAS-00015,13,Basic,18.3,6,1,1,No,PayPal,77,Yes,5.0,No,260.28,Yes
+CAS-00016,38,Deluxe,66.89,6,1,1,No,Credit Card,254,Yes,4.0,No,1356.06,Yes
+CAS-00017,8,Basic,19.07,5,0,0,No,Debit Card,676,Yes,4.5,No,563.32,Yes
+CAS-00018,1,Deluxe,52.48,9,0,0,No,PayPal,146,Yes,4.8,No,129.12,No
+CAS-00019,21,Curated,33.58,6,2,2,No,Credit Card,154,Yes,4.1,No,838.55,No
+CAS-00020,5,Basic,21.03,5,0,0,No,Debit Card,144,No,4.8,No,323.46,No
+CAS-00021,30,Basic,19.46,5,1,0,No,Credit Card,420,Yes,2.9,No,938.32,Yes
+CAS-00022,30,Basic,24.03,4,1,0,No,Credit Card,888,Yes,4.5,No,1117.67,Yes
+CAS-00023,39,Curated,36.95,10,0,0,No,PayPal,415,No,3.2,No,1118.72,No
+CAS-00024,35,Curated,31.58,3,0,1,No,Debit Card,80,Yes,4.0,Yes,1468.95,Yes
+CAS-00025,38,Basic,23.84,5,0,1,No,Credit Card,413,No,3.4,No,1179.21,No
+CAS-00026,11,Deluxe,57.43,4,0,4,No,Credit Card,68,No,3.6,No,1732.82,No
+CAS-00027,40,Basic,17.79,6,0,2,No,Debit Card,7,Yes,3.4,No,452.88,No
+CAS-00028,27,Curated,35.61,5,0,1,Yes,PayPal,1358,No,5.0,No,1712.22,No
+CAS-00029,26,Curated,37.37,5,1,0,No,Debit Card,901,Yes,2.9,No,1312.42,No
+CAS-00030,20,Deluxe,61.19,8,1,1,No,PayPal,333,No,4.1,Yes,1391.55,No
+CAS-00031,5,Deluxe,56.23,4,2,0,No,Credit Card,345,Yes,5.0,No,405.39,No
+CAS-00032,37,Basic,24.5,4,1,2,No,Credit Card,959,No,5.0,No,1600.99,Yes
+CAS-00033,2,Basic,19.41,4,0,0,No,PayPal,626,Yes,3.7,Yes,287.72,Yes
+CAS-00034,7,Curated,35.09,6,0,1,No,Credit Card,100,Yes,4.4,No,230.17,No
+CAS-00035,36,Curated,31.85,2,0,1,No,Credit Card,82,No,3.4,No,1444.66,Yes
+CAS-00036,25,Basic,20.05,8,1,1,No,Credit Card,139,No,3.0,No,480.1,Yes
+CAS-00037,37,Basic,22.51,9,0,1,No,Credit Card,668,Yes,4.1,Yes,1267.77,No
+CAS-00038,45,Basic,24.68,6,1,1,No,Credit Card,495,Yes,4.9,Yes,1439.01,No
+CAS-00039,33,Basic,19.5,2,1,0,No,Credit Card,547,No,4.2,No,966.57,No
+CAS-00040,46,Deluxe,53.38,6,2,2,No,PayPal,419,Yes,4.2,No,2789.35,No
+CAS-00041,22,Curated,36.36,4,0,4,No,Credit Card,127,Yes,4.2,No,1311.53,Yes
+CAS-00042,19,Basic,18.85,7,2,0,No,Credit Card,350,No,3.3,No,401.06,Yes
+CAS-00043,23,Curated,36.44,3,1,2,No,Debit Card,167,No,4.4,No,635.9,No
+CAS-00044,23,Curated,33.07,2,0,0,No,Debit Card,283,Yes,4.6,No,862.1,No
+CAS-00045,31,Basic,16.84,8,0,0,Yes,Debit Card,1431,Yes,4.7,Yes,1134.5,No
+CAS-00046,44,Deluxe,58.29,5,1,0,No,PayPal,273,Yes,4.2,Yes,3043.94,No
+CAS-00047,28,Basic,19.82,2,1,4,No,Credit Card,664,Yes,5.0,Yes,690.91,Yes
+CAS-00048,37,Deluxe,48.58,7,0,4,No,Credit Card,225,Yes,4.1,Yes,1445.95,No
+CAS-00049,27,Basic,20.97,4,1,0,No,PayPal,377,Yes,3.8,Yes,649.26,No
+CAS-00050,32,Deluxe,54.17,11,0,2,No,Credit Card,321,No,3.5,No,1451.94,No
+CAS-00051,43,Deluxe,53.35,6,0,0,No,Debit Card,395,Yes,4.0,No,3140.82,No
+CAS-00052,16,Curated,37.7,6,0,2,No,Buy Now Pay Later,630,No,4.1,No,770.75,Yes
+CAS-00053,23,Curated,32.22,6,0,1,No,PayPal,527,No,3.5,No,648.63,Yes
+CAS-00054,6,Basic,17.43,6,0,1,Yes,Debit Card,16,Yes,3.9,Yes,0.0,Yes
+CAS-00055,10,Basic,23.54,7,0,0,No,Credit Card,265,Yes,4.4,No,279.36,Yes
+CAS-00056,15,Curated,36.1,5,0,1,No,PayPal,106,Yes,5.0,No,839.4,No
+CAS-00057,42,Basic,17.77,5,0,4,No,Credit Card,489,Yes,3.9,Yes,1362.43,No
+CAS-00058,30,Basic,20.34,3,2,1,Yes,Buy Now Pay Later,1497,Yes,3.0,No,1401.43,No
+CAS-00059,44,Curated,36.58,8,0,3,Yes,Credit Card,740,Yes,5.0,No,3634.48,Yes
+CAS-00060,13,Basic,19.11,8,1,2,No,Debit Card,334,Yes,5.0,No,175.66,Yes
+CAS-00061,3,Curated,37.24,4,0,3,No,Debit Card,749,Yes,3.3,No,380.99,No
+CAS-00062,35,Curated,36.47,3,1,0,No,PayPal,377,Yes,4.5,No,749.73,No
+CAS-00063,20,Curated,32.27,5,0,0,No,Buy Now Pay Later,705,Yes,4.2,No,983.73,Yes
+CAS-00064,7,Basic,16.51,5,0,2,No,Credit Card,200,No,3.6,No,239.82,No
+CAS-00065,13,Curated,29.03,5,2,1,No,PayPal,958,Yes,4.7,No,874.37,Yes
+CAS-00066,28,Deluxe,49.04,3,0,2,No,PayPal,659,No,3.8,No,1828.25,No
+CAS-00067,44,Basic,22.91,13,1,2,No,PayPal,222,No,5.0,Yes,1263.33,Yes
+CAS-00068,12,Deluxe,59.02,3,3,2,No,Credit Card,784,No,3.9,No,887.28,No
+CAS-00069,28,Deluxe,50.53,6,0,1,No,Credit Card,337,No,4.2,No,1133.6,No
+CAS-00070,17,Deluxe,44.54,6,2,1,No,Credit Card,286,Yes,3.0,Yes,637.72,No
+CAS-00071,45,Curated,31.49,5,0,0,No,PayPal,431,Yes,3.2,Yes,1651.93,No
+CAS-00072,3,Deluxe,54.97,3,2,4,No,Credit Card,517,No,3.9,Yes,301.09,No
+CAS-00073,9,Basic,21.15,2,1,0,No,Credit Card,259,Yes,3.3,No,180.14,Yes
+CAS-00074,2,Basic,19.95,5,2,1,No,PayPal,360,Yes,4.1,No,359.68,No
+CAS-00075,24,Curated,37.98,3,2,0,No,Credit Card,669,Yes,4.1,No,1061.83,No
+CAS-00076,45,Curated,35.54,3,0,1,Yes,Credit Card,338,Yes,5.0,Yes,1220.01,No
+CAS-00077,40,Curated,35.46,3,0,1,Yes,Debit Card,34,No,4.1,No,2010.49,No
+CAS-00078,0,Curated,42.97,4,0,1,No,Credit Card,536,No,4.0,No,202.1,No
+CAS-00079,20,Basic,23.3,3,0,4,No,PayPal,377,No,4.8,No,718.62,Yes
+CAS-00080,7,Basic,18.73,8,0,1,No,Debit Card,203,Yes,3.5,No,558.54,No
+CAS-00081,27,Deluxe,47.68,8,1,3,No,Credit Card,198,No,3.9,Yes,1135.85,No
+CAS-00082,5,Curated,31.66,6,1,1,No,Credit Card,29,Yes,5.0,No,97.54,No
+CAS-00083,41,Basic,21.89,6,1,0,No,Credit Card,1382,Yes,4.6,No,1300.24,No
+CAS-00084,16,Basic,22.92,3,0,3,No,Credit Card,192,Yes,3.8,Yes,306.46,No
+CAS-00085,25,Basic,22.01,7,0,0,No,Credit Card,26,No,4.6,Yes,565.82,No
+CAS-00086,12,Deluxe,47.72,6,1,3,No,Credit Card,764,No,3.5,Yes,888.8,No
+CAS-00087,39,Basic,18.69,3,1,2,No,PayPal,178,Yes,3.5,No,703.27,No
+CAS-00088,14,Deluxe,52.91,2,0,1,No,Credit Card,111,Yes,3.9,No,878.16,Yes
+CAS-00089,44,Basic,18.93,5,0,4,No,PayPal,471,No,3.8,No,1345.73,Yes
+CAS-00090,27,Curated,37.35,8,2,1,No,PayPal,322,No,4.4,No,985.57,No
+CAS-00091,9,Basic,22.78,7,2,1,No,Buy Now Pay Later,380,Yes,4.0,Yes,327.94,No
+CAS-00092,12,Curated,28.04,2,1,0,No,Credit Card,317,Yes,5.0,No,392.89,No
+CAS-00093,1,Basic,23.12,3,0,1,No,Buy Now Pay Later,201,Yes,4.7,No,142.68,Yes
+CAS-00094,28,Basic,18.45,3,2,1,No,Credit Card,288,No,4.9,No,565.53,Yes
+CAS-00095,39,Curated,36.14,6,0,0,No,Credit Card,260,Yes,4.1,No,2477.84,No
+CAS-00096,21,Curated,34.97,3,0,1,No,Credit Card,302,Yes,4.6,Yes,1022.48,No
+CAS-00097,11,Curated,31.91,6,1,2,No,Debit Card,636,Yes,4.1,No,564.22,No
+CAS-00098,0,Basic,19.89,2,0,2,No,Buy Now Pay Later,15,Yes,4.8,No,0.0,No
+CAS-00099,4,Curated,38.34,2,0,2,No,Credit Card,540,No,3.4,No,237.23,No
+CAS-00100,2,Basic,18.24,6,0,1,No,Credit Card,496,No,4.2,No,61.46,No
+CAS-00101,8,Curated,35.8,8,0,2,Yes,Credit Card,252,No,4.6,No,297.14,No
+CAS-00102,8,Basic,17.85,3,0,1,No,Credit Card,368,Yes,3.9,Yes,420.51,No
+CAS-00103,42,Deluxe,53.42,3,2,1,No,Debit Card,210,No,5.0,No,2783.41,No
+CAS-00104,31,Deluxe,44.88,5,1,3,No,Debit Card,613,Yes,3.6,No,1693.83,No
+CAS-00105,36,Curated,37.31,6,1,1,Yes,Credit Card,438,No,3.3,No,1978.17,No
+CAS-00106,36,Basic,21.19,7,3,1,No,Buy Now Pay Later,73,Yes,4.1,No,577.41,No
+CAS-00107,13,Deluxe,53.36,5,0,2,No,Credit Card,456,Yes,3.7,Yes,788.06,No
+CAS-00108,41,Curated,36.43,6,1,1,Yes,Debit Card,57,No,4.5,No,2907.34,No
+CAS-00109,39,Basic,19.05,7,0,3,No,Debit Card,106,Yes,3.4,No,860.41,Yes
+CAS-00110,15,Basic,21.35,2,1,1,No,Debit Card,381,No,3.6,No,527.3,No
+CAS-00111,15,Deluxe,54.14,4,0,0,No,Credit Card,286,No,4.4,No,1168.08,No
+CAS-00112,4,Curated,34.94,2,0,0,No,PayPal,614,No,3.9,No,517.36,Yes
+CAS-00113,4,Curated,35.18,7,2,1,No,Credit Card,124,No,5.0,No,247.1,No
+CAS-00114,5,Deluxe,53.17,8,1,0,No,Credit Card,83,Yes,4.1,No,551.53,No
+CAS-00115,14,Basic,19.09,2,0,1,No,Debit Card,186,No,3.7,No,185.22,Yes
+CAS-00116,24,Basic,23.16,2,0,3,Yes,Credit Card,264,No,4.9,Yes,627.17,No
+CAS-00117,12,Curated,37.82,10,1,0,No,Credit Card,428,Yes,3.8,No,657.46,Yes
+CAS-00118,5,Basic,19.57,5,1,0,No,PayPal,173,No,4.0,Yes,123.5,Yes
+CAS-00119,16,Curated,40.39,5,1,1,No,Credit Card,338,Yes,3.3,Yes,938.27,Yes
+CAS-00120,46,Basic,19.05,7,0,1,No,Credit Card,454,No,3.5,No,1177.96,Yes
+CAS-00121,7,Basic,17.72,3,1,1,No,PayPal,237,Yes,5.0,No,230.08,Yes
+CAS-00122,21,Basic,20.14,3,0,1,No,Credit Card,495,Yes,4.1,No,306.46,Yes
+CAS-00123,13,Basic,18.23,5,1,0,No,Credit Card,100,Yes,4.6,No,274.25,Yes
+CAS-00124,22,Curated,32.07,6,0,3,No,Credit Card,212,No,3.1,No,591.3,No
+CAS-00125,46,Deluxe,49.86,2,1,2,No,Credit Card,616,Yes,4.3,No,3350.26,No
+CAS-00126,25,Curated,34.48,7,0,0,Yes,Credit Card,141,Yes,4.7,No,982.03,Yes
+CAS-00127,47,Basic,22.36,5,1,1,Yes,Credit Card,169,Yes,3.2,No,2188.15,Yes
+CAS-00128,43,Deluxe,58.77,7,0,1,No,Credit Card,726,No,3.7,No,1858.22,Yes
+CAS-00129,45,Deluxe,46.83,8,0,1,No,Debit Card,909,Yes,3.8,No,2582.18,No
+CAS-00130,39,Deluxe,52.9,7,1,1,No,PayPal,63,Yes,4.7,No,1182.93,No
+CAS-00131,7,Curated,33.96,6,0,1,No,Buy Now Pay Later,110,No,3.0,No,330.91,Yes
+CAS-00132,24,Deluxe,51.28,6,0,0,No,Credit Card,703,Yes,5.0,No,2113.49,No
+CAS-00133,12,Basic,20.4,8,1,1,No,Credit Card,58,No,5.0,No,266.49,No
+CAS-00134,13,Basic,22.92,7,0,1,No,Credit Card,1171,Yes,3.9,No,999.04,Yes
+CAS-00135,39,Basic,18.47,2,0,2,No,Credit Card,254,Yes,4.0,No,946.84,No
+CAS-00136,1,Deluxe,53.45,4,0,1,No,Buy Now Pay Later,31,No,3.0,Yes,65.39,No
+CAS-00137,37,Curated,31.66,6,1,2,No,Debit Card,451,Yes,3.5,No,571.67,Yes
+CAS-00138,26,Deluxe,58.76,7,1,1,No,Credit Card,47,Yes,3.3,No,1300.78,No
+CAS-00139,19,Basic,21.97,7,1,2,No,Credit Card,230,No,4.3,No,595.7,No
+CAS-00140,33,Basic,19.41,6,0,0,No,PayPal,282,Yes,3.7,No,923.56,No
+CAS-00141,47,Deluxe,53.22,9,0,1,No,PayPal,177,No,5.0,Yes,4053.2,No
+CAS-00142,2,Basic,17.61,8,1,0,No,Buy Now Pay Later,269,No,3.2,No,118.93,No
+CAS-00143,33,Basic,18.33,5,0,1,No,Debit Card,388,No,4.9,No,783.97,No
+CAS-00144,31,Deluxe,49.08,6,0,0,No,Debit Card,557,Yes,3.9,No,2166.81,No
+CAS-00145,33,Curated,31.43,5,1,5,No,PayPal,88,Yes,5.0,Yes,604.37,No
+CAS-00146,29,Curated,35.14,8,1,3,No,Credit Card,320,No,4.8,Yes,519.32,No
+CAS-00147,44,Curated,40.52,4,0,1,No,Credit Card,322,Yes,4.0,No,671.42,No
+CAS-00148,12,Deluxe,50.66,8,1,2,No,Credit Card,524,Yes,5.0,No,624.94,No
+CAS-00149,2,Basic,20.98,6,0,1,No,Credit Card,133,No,4.5,No,150.49,Yes
+CAS-00150,43,Curated,34.71,11,2,3,No,PayPal,33,Yes,4.1,No,1897.98,No
+CAS-00151,31,Curated,30.95,2,0,3,No,PayPal,189,No,4.8,No,1173.13,No
+CAS-00152,44,Curated,34.13,4,1,1,No,Debit Card,498,Yes,4.0,Yes,2075.32,Yes
+CAS-00153,23,Basic,19.81,7,2,1,No,Debit Card,308,No,3.5,No,868.27,No
+CAS-00154,36,Basic,21.52,6,0,2,No,Buy Now Pay Later,271,Yes,4.3,No,947.17,Yes
+CAS-00155,41,Deluxe,64.65,2,0,2,No,PayPal,292,Yes,3.1,No,3615.0,Yes
+CAS-00156,7,Curated,32.58,3,1,2,No,PayPal,842,Yes,3.8,No,548.01,No
+CAS-00157,32,Curated,28.75,4,1,2,No,Debit Card,304,No,3.5,No,1077.55,Yes
+CAS-00158,48,Basic,22.59,4,0,1,No,Credit Card,496,Yes,4.0,No,1120.58,Yes
+CAS-00159,31,Deluxe,47.29,5,0,0,No,Credit Card,459,Yes,4.2,No,2707.43,No
+CAS-00160,8,Curated,30.16,2,2,3,No,Debit Card,151,Yes,4.1,No,260.17,No
+CAS-00161,12,Basic,22.78,9,0,1,No,Credit Card,86,Yes,4.0,No,333.44,Yes
+CAS-00162,46,Curated,31.68,2,1,0,No,Credit Card,1272,No,5.0,Yes,1953.38,No
+CAS-00163,9,Basic,20.99,4,2,1,No,PayPal,90,Yes,4.4,No,282.32,Yes
+CAS-00164,27,Basic,19.15,2,0,0,No,Credit Card,826,Yes,4.3,No,697.98,Yes
+CAS-00165,35,Basic,22.97,11,1,1,No,Credit Card,302,No,4.1,No,615.95,Yes
+CAS-00166,27,Curated,31.74,5,0,1,No,Debit Card,251,No,3.9,No,786.69,Yes
+CAS-00167,13,Basic,23.77,4,0,2,No,Debit Card,150,Yes,3.8,Yes,254.11,Yes
+CAS-00168,12,Basic,17.44,12,0,1,No,PayPal,680,Yes,2.5,No,472.58,Yes
+CAS-00169,1,Basic,22.75,7,1,4,No,Credit Card,404,Yes,4.4,No,175.45,Yes
+CAS-00170,28,Basic,19.14,5,0,2,No,Credit Card,464,Yes,4.2,No,898.92,Yes
+CAS-00171,11,Basic,15.13,5,0,0,No,PayPal,267,Yes,2.3,Yes,364.16,Yes
+CAS-00172,40,Deluxe,52.52,12,0,3,No,Credit Card,530,Yes,4.3,No,4173.22,No
+CAS-00173,27,Basic,18.97,2,0,1,No,PayPal,433,No,3.0,Yes,556.16,No
+CAS-00174,0,Curated,32.33,2,0,1,No,Credit Card,406,Yes,4.0,No,97.36,No
+CAS-00175,1,Deluxe,53.23,4,0,2,No,Credit Card,547,Yes,3.8,No,225.14,No
+CAS-00176,24,Basic,18.97,4,0,1,No,Debit Card,113,Yes,4.1,No,344.28,No
+CAS-00177,38,Basic,24.18,3,1,2,No,Credit Card,383,No,3.9,No,844.69,Yes
+CAS-00178,35,Basic,15.76,9,0,0,No,Credit Card,368,Yes,3.5,No,384.18,No
+CAS-00179,17,Basic,21.15,8,0,2,No,Credit Card,400,Yes,4.2,Yes,260.54,Yes
+CAS-00180,29,Curated,28.07,4,1,3,No,PayPal,518,No,4.9,No,924.84,No
+CAS-00181,40,Deluxe,62.18,3,0,0,No,Credit Card,317,Yes,3.7,No,2180.89,No
+CAS-00182,23,Basic,19.89,6,0,1,No,PayPal,227,Yes,4.0,Yes,1105.06,No
+CAS-00183,31,Curated,35.52,2,1,2,No,Credit Card,158,No,3.2,No,1527.75,Yes
+CAS-00184,15,Basic,19.8,5,0,1,No,Debit Card,390,Yes,4.2,No,472.35,Yes
+CAS-00185,4,Deluxe,58.72,4,0,3,No,Credit Card,440,Yes,4.4,No,499.6,No
+CAS-00186,32,Curated,31.66,5,0,1,No,Credit Card,172,Yes,4.8,Yes,1248.98,Yes
+CAS-00187,10,Curated,32.6,4,2,1,No,Credit Card,1324,Yes,4.2,No,721.01,No
+CAS-00188,46,Curated,39.56,11,0,0,No,Credit Card,138,Yes,3.9,No,1698.43,Yes
+CAS-00189,34,Curated,34.29,8,1,0,No,PayPal,237,No,3.9,No,755.62,No
+CAS-00190,32,Curated,35.53,8,1,1,No,PayPal,378,No,5.0,Yes,1003.09,No
+CAS-00191,10,Basic,19.21,6,0,1,No,Debit Card,560,Yes,3.0,No,509.05,Yes
+CAS-00192,44,Curated,40.52,2,0,1,No,PayPal,572,Yes,3.3,No,815.32,Yes
+CAS-00193,33,Curated,39.36,7,1,0,No,Credit Card,603,No,5.0,No,782.77,No
+CAS-00194,48,Curated,39.64,5,0,0,No,Debit Card,585,Yes,3.8,No,2434.15,No
+CAS-00195,4,Curated,29.78,3,2,1,No,Buy Now Pay Later,564,Yes,2.9,No,404.53,No
+CAS-00196,3,Basic,23.39,4,0,1,No,Credit Card,456,No,3.8,No,198.43,Yes
+CAS-00197,33,Deluxe,47.28,6,1,2,No,Buy Now Pay Later,55,Yes,4.5,No,2049.82,No
+CAS-00198,35,Basic,23.63,6,0,1,No,Credit Card,117,No,5.0,No,517.52,Yes
+CAS-00199,30,Curated,35.07,8,1,1,No,Buy Now Pay Later,393,No,3.6,No,865.2,No
+CAS-00200,4,Curated,33.29,6,0,2,No,Debit Card,919,No,3.2,No,475.43,No
+CAS-00201,37,Curated,35.02,7,0,1,Yes,Credit Card,660,No,3.8,No,1407.86,No
+CAS-00202,33,Curated,32.76,5,2,2,No,Credit Card,251,No,3.9,No,1210.44,No
+CAS-00203,45,Deluxe,56.37,4,0,2,No,Debit Card,285,No,5.0,No,3235.4,No
+CAS-00204,16,Basic,17.62,4,2,1,No,PayPal,386,No,3.6,No,883.82,No
+CAS-00205,4,Basic,15.77,2,0,1,No,Credit Card,13,No,3.3,Yes,0.0,Yes
+CAS-00206,15,Deluxe,46.38,7,0,0,No,PayPal,305,Yes,4.2,No,637.95,No
+CAS-00207,25,Curated,40.28,6,0,1,No,PayPal,176,No,4.0,No,2301.68,Yes
+CAS-00208,5,Curated,39.06,6,0,0,No,PayPal,283,Yes,3.8,No,376.76,Yes
+CAS-00209,26,Deluxe,56.78,2,1,1,No,Credit Card,896,Yes,4.5,No,1659.57,No
+CAS-00210,9,Deluxe,55.9,4,0,5,No,Credit Card,295,No,3.2,No,651.21,No
+CAS-00211,17,Curated,33.06,3,0,1,No,Credit Card,49,Yes,4.4,No,744.65,Yes
+CAS-00212,26,Deluxe,66.31,6,0,1,No,Credit Card,851,No,3.6,No,2413.02,Yes
+CAS-00213,42,Deluxe,53.52,9,1,1,No,Credit Card,498,Yes,3.5,No,1772.6,No
+CAS-00214,36,Basic,19.62,6,1,2,No,Debit Card,525,No,4.5,No,1618.44,Yes
+CAS-00215,23,Basic,18.92,5,1,1,No,Credit Card,238,Yes,4.5,No,158.22,No
+CAS-00216,23,Curated,31.62,4,0,2,No,Credit Card,514,No,3.8,Yes,691.26,No
+CAS-00217,32,Basic,21.43,2,0,2,No,Debit Card,89,No,5.0,Yes,666.92,Yes
+CAS-00218,15,Basic,19.32,9,1,3,No,Credit Card,492,No,4.4,No,724.36,No
+CAS-00219,11,Basic,19.48,6,1,1,No,Credit Card,154,Yes,3.5,No,227.74,Yes
+CAS-00220,1,Deluxe,69.39,3,0,1,No,Debit Card,276,Yes,3.4,No,106.13,Yes
+CAS-00221,7,Curated,38.66,4,2,0,No,Credit Card,398,Yes,4.7,No,477.42,No
+CAS-00222,12,Curated,37.83,6,1,1,Yes,Credit Card,636,Yes,4.8,No,1049.01,No
+CAS-00223,17,Curated,37.67,2,2,1,No,Buy Now Pay Later,587,Yes,4.7,No,1134.4,Yes
+CAS-00224,12,Deluxe,48.15,5,0,2,No,PayPal,148,Yes,3.6,Yes,587.0,No
+CAS-00225,43,Curated,30.74,6,0,1,No,Buy Now Pay Later,503,Yes,4.1,No,2434.04,No
+CAS-00226,27,Deluxe,53.66,2,1,1,No,Credit Card,55,No,3.4,Yes,1512.07,No
+CAS-00227,29,Curated,31.73,2,0,0,No,Credit Card,302,No,4.8,No,721.05,Yes
+CAS-00228,38,Curated,36.35,7,1,2,No,Debit Card,285,Yes,4.9,No,1023.62,Yes
+CAS-00229,34,Curated,37.05,4,2,1,No,PayPal,397,Yes,3.9,No,2049.55,No
+CAS-00230,34,Basic,21.78,4,1,0,No,Buy Now Pay Later,566,No,4.2,No,1108.67,Yes
+CAS-00231,29,Basic,20.85,2,0,1,No,Credit Card,418,Yes,3.9,No,432.65,Yes
+CAS-00232,28,Curated,32.88,8,1,2,No,Credit Card,1128,No,4.9,No,1448.88,Yes
+CAS-00233,2,Basic,17.61,6,1,1,Yes,PayPal,152,Yes,3.9,No,82.17,No
+CAS-00234,10,Basic,17.98,6,2,0,No,Credit Card,559,Yes,2.9,No,632.84,No
+CAS-00235,41,Curated,37.27,5,0,1,No,Debit Card,245,No,2.7,No,1562.85,Yes
+CAS-00236,20,Curated,36.13,3,2,2,No,PayPal,268,Yes,3.8,Yes,1112.88,Yes
+CAS-00237,31,Curated,32.37,2,1,6,No,Credit Card,1089,No,3.5,No,1459.33,No
+CAS-00238,28,Deluxe,55.37,5,1,1,No,Debit Card,30,Yes,3.9,No,1269.59,No
+CAS-00239,45,Deluxe,59.25,7,0,1,No,Credit Card,537,Yes,5.0,No,3118.79,Yes
+CAS-00240,32,Curated,34.33,5,1,1,No,Credit Card,1055,Yes,3.4,Yes,2268.39,No
+CAS-00241,35,Curated,37.26,7,0,2,No,Credit Card,162,Yes,3.3,No,1403.51,No
+CAS-00242,3,Deluxe,61.74,2,0,1,No,Credit Card,285,No,4.4,No,165.06,No
+CAS-00243,18,Basic,23.17,3,0,1,No,Credit Card,649,No,4.6,No,600.24,Yes
+CAS-00244,18,Basic,20.55,6,0,2,No,PayPal,498,Yes,5.0,No,582.59,Yes
+CAS-00245,40,Deluxe,55.97,7,0,0,Yes,Debit Card,60,Yes,4.0,No,1364.66,No
+CAS-00246,30,Basic,26.0,7,0,3,No,Debit Card,90,Yes,3.1,No,880.2,Yes
+CAS-00247,38,Deluxe,51.85,2,2,2,No,Credit Card,112,No,2.7,No,1617.19,No
+CAS-00248,13,Deluxe,59.48,5,0,1,No,Debit Card,1011,No,3.9,No,1738.83,No
+CAS-00249,20,Curated,31.83,7,0,0,No,Debit Card,805,Yes,3.4,No,1138.22,No
+CAS-00250,26,Basic,21.3,6,0,1,No,Debit Card,138,Yes,4.8,Yes,328.32,No
+CAS-00251,42,Curated,36.19,5,0,3,No,PayPal,167,No,3.9,No,2691.53,No
+CAS-00252,27,Curated,33.84,7,0,4,No,Credit Card,254,No,4.9,No,1440.09,Yes
+CAS-00253,36,Curated,37.96,3,1,2,No,PayPal,101,No,3.8,No,4042.82,No
+CAS-00254,10,Basic,23.38,6,1,0,No,Credit Card,262,Yes,4.1,No,287.12,No
+CAS-00255,44,Deluxe,54.94,8,1,1,Yes,PayPal,217,Yes,3.0,Yes,5182.7,No
+CAS-00256,24,Basic,20.37,10,1,1,No,Credit Card,498,No,4.4,Yes,527.68,No
+CAS-00257,40,Basic,20.24,6,2,1,Yes,Credit Card,87,No,4.6,Yes,1126.65,Yes
+CAS-00258,8,Deluxe,64.71,4,1,0,No,PayPal,328,Yes,4.4,No,459.72,No
+CAS-00259,46,Basic,22.48,12,0,1,No,Debit Card,660,No,3.9,No,1467.81,No
+CAS-00260,42,Curated,31.76,8,0,0,No,PayPal,140,No,3.7,Yes,910.92,No
+CAS-00261,38,Deluxe,54.76,3,0,1,No,Credit Card,453,No,4.4,No,1350.08,Yes
+CAS-00262,25,Basic,21.71,5,1,4,No,Buy Now Pay Later,178,Yes,4.4,No,1421.49,Yes
+CAS-00263,14,Basic,17.56,7,1,2,No,Debit Card,360,Yes,3.9,No,420.89,Yes
+CAS-00264,1,Curated,38.25,6,0,2,No,Debit Card,312,No,3.5,No,13.36,Yes
+CAS-00265,42,Basic,18.39,2,1,1,No,Buy Now Pay Later,345,Yes,4.6,Yes,1557.93,Yes
+CAS-00266,35,Curated,37.48,6,0,3,No,Credit Card,103,Yes,4.5,Yes,1598.0,No
+CAS-00267,4,Curated,32.84,5,1,2,No,Credit Card,319,No,4.5,No,255.38,No
+CAS-00268,29,Basic,17.23,4,1,3,No,Credit Card,603,Yes,4.5,No,516.8,Yes
+CAS-00269,39,Basic,18.26,9,1,1,No,PayPal,229,No,3.9,Yes,977.98,No
+CAS-00270,47,Deluxe,53.27,5,0,1,No,PayPal,75,Yes,4.0,No,1436.32,No
+CAS-00271,9,Basic,19.41,3,0,1,No,Credit Card,206,Yes,3.5,Yes,214.36,No
+CAS-00272,42,Deluxe,64.63,8,0,2,No,Debit Card,138,No,4.0,No,3379.45,No
+CAS-00273,28,Curated,32.12,6,0,3,No,Credit Card,560,Yes,3.3,No,1805.58,No
+CAS-00274,7,Curated,33.96,7,1,1,No,Credit Card,165,Yes,4.4,No,199.75,No
+CAS-00275,48,Deluxe,58.02,10,1,0,No,Credit Card,250,Yes,3.7,Yes,3057.65,No
+CAS-00276,40,Curated,35.1,5,0,0,No,Debit Card,278,Yes,4.1,No,1165.08,No
+CAS-00277,27,Deluxe,57.28,6,1,2,No,Credit Card,492,No,4.8,Yes,1868.07,No
+CAS-00278,42,Curated,33.0,6,0,1,No,Credit Card,572,No,3.9,No,787.78,No
+CAS-00279,12,Deluxe,52.34,4,0,2,No,PayPal,527,No,4.3,No,583.44,No
+CAS-00280,5,Curated,38.35,6,0,1,No,Credit Card,246,Yes,3.9,No,267.33,No
+CAS-00281,20,Basic,22.03,5,1,1,No,Credit Card,765,No,4.7,No,709.22,Yes
+CAS-00282,4,Basic,22.16,6,0,2,No,Debit Card,319,Yes,4.3,No,167.98,Yes
+CAS-00283,36,Curated,37.27,9,1,2,No,Credit Card,342,No,4.8,No,1088.09,No
+CAS-00284,19,Curated,34.37,6,3,1,Yes,PayPal,327,No,2.6,No,953.34,No
+CAS-00285,28,Basic,18.99,2,0,2,No,Credit Card,491,Yes,3.9,No,1212.76,No
+CAS-00286,11,Deluxe,59.81,8,0,0,No,PayPal,53,No,4.6,No,1352.96,Yes
+CAS-00287,9,Basic,20.59,2,1,0,No,Credit Card,550,No,4.7,No,516.05,No
+CAS-00288,6,Deluxe,60.41,2,2,2,No,Buy Now Pay Later,167,Yes,3.9,No,397.69,Yes
+CAS-00289,29,Curated,37.31,4,3,1,No,Credit Card,44,No,4.9,No,1694.92,No
+CAS-00290,42,Curated,41.64,7,0,0,No,Credit Card,1144,Yes,4.3,No,3083.03,No
+CAS-00291,30,Basic,19.93,5,0,0,No,Debit Card,483,Yes,5.0,No,553.8,Yes
+CAS-00292,44,Basic,20.67,6,0,1,No,Credit Card,322,No,3.4,Yes,855.7,No
+CAS-00293,21,Deluxe,50.14,9,0,1,No,Credit Card,266,Yes,4.7,No,619.61,No
+CAS-00294,26,Basic,18.46,4,0,1,No,Credit Card,562,Yes,3.7,Yes,617.29,Yes
+CAS-00295,29,Curated,29.0,3,0,2,No,PayPal,317,No,3.7,No,533.15,No
+CAS-00296,13,Curated,38.77,6,0,2,No,Debit Card,1384,No,2.8,No,992.12,No
+CAS-00297,20,Curated,33.7,6,0,1,No,PayPal,252,Yes,3.6,Yes,800.65,Yes
+CAS-00298,18,Basic,17.77,7,0,1,No,PayPal,147,Yes,4.1,No,280.42,No
+CAS-00299,26,Basic,23.35,2,0,1,No,Credit Card,947,Yes,3.7,No,894.82,No
+CAS-00300,0,Basic,17.69,6,0,3,No,PayPal,498,No,4.8,No,194.65,Yes
+CAS-00301,2,Deluxe,45.71,3,2,0,No,Debit Card,94,No,4.0,Yes,218.88,No
+CAS-00302,3,Deluxe,54.58,4,0,1,No,PayPal,538,No,4.2,No,458.07,No
+CAS-00303,4,Deluxe,58.01,10,1,3,No,Credit Card,535,No,3.9,Yes,464.05,No
+CAS-00304,32,Basic,19.74,3,2,1,No,Debit Card,116,No,5.0,No,670.46,Yes
+CAS-00305,24,Curated,38.25,7,1,0,No,Buy Now Pay Later,780,No,4.9,No,1095.4,No
+CAS-00306,3,Basic,19.38,4,3,1,No,Credit Card,103,No,4.9,No,102.98,No
+CAS-00307,5,Deluxe,49.54,7,0,0,No,Credit Card,220,No,4.3,No,452.41,No
+CAS-00308,32,Curated,37.95,2,1,2,No,PayPal,363,Yes,3.7,No,3712.09,No
+CAS-00309,44,Basic,21.77,4,0,0,No,Credit Card,292,No,4.2,No,1198.3,Yes
+CAS-00310,12,Curated,39.65,5,0,2,No,PayPal,351,No,4.1,No,1225.94,No
+CAS-00311,29,Curated,33.67,4,2,1,No,Debit Card,174,Yes,4.0,No,714.89,No
+CAS-00312,3,Curated,33.44,5,1,2,No,Buy Now Pay Later,431,Yes,4.2,No,402.1,Yes
+CAS-00313,38,Curated,36.96,3,0,1,No,Debit Card,436,Yes,4.1,No,772.9,Yes
+CAS-00314,21,Basic,19.59,5,2,0,No,Debit Card,158,No,4.0,Yes,786.02,Yes
+CAS-00315,20,Curated,36.1,5,0,0,Yes,Credit Card,267,Yes,5.0,No,1562.7,No
+CAS-00316,2,Curated,35.87,5,1,1,No,Credit Card,146,Yes,5.0,No,134.76,No
+CAS-00317,28,Basic,19.61,5,0,0,No,Credit Card,160,Yes,4.6,No,668.29,No
+CAS-00318,27,Basic,18.11,5,0,1,No,Debit Card,284,No,4.1,No,535.46,Yes
+CAS-00319,6,Curated,40.27,3,1,4,No,Credit Card,301,Yes,3.9,Yes,442.96,Yes
+CAS-00320,8,Curated,34.22,2,0,3,No,Debit Card,431,Yes,3.9,No,364.87,No
+CAS-00321,42,Curated,42.04,7,2,1,No,Credit Card,384,Yes,4.2,Yes,1294.88,No
+CAS-00322,5,Curated,34.8,6,0,0,No,Credit Card,320,No,3.2,No,384.09,No
+CAS-00323,29,Basic,19.93,4,3,1,No,Debit Card,268,No,4.7,Yes,634.76,No
+CAS-00324,6,Curated,38.04,6,0,0,No,Credit Card,324,No,3.7,No,713.82,No
+CAS-00325,36,Curated,31.69,3,1,0,Yes,Credit Card,173,No,5.0,No,1030.4,No
+CAS-00326,29,Deluxe,54.75,6,0,1,No,Credit Card,776,No,5.0,No,1626.54,No
+CAS-00327,45,Deluxe,55.22,6,1,1,No,Credit Card,65,No,3.3,No,3299.27,No
+CAS-00328,33,Deluxe,53.54,5,1,3,No,Debit Card,249,Yes,2.8,Yes,1863.62,No
+CAS-00329,30,Basic,17.72,7,0,1,No,Credit Card,32,No,3.4,No,618.91,No
+CAS-00330,47,Curated,34.81,2,0,0,No,Credit Card,737,Yes,3.9,No,1175.7,No
+CAS-00331,33,Curated,34.81,4,0,0,No,Credit Card,560,Yes,4.2,No,1288.92,Yes
+CAS-00332,27,Curated,33.41,5,0,0,No,Credit Card,1044,No,4.4,No,2517.96,No
+CAS-00333,6,Curated,33.47,3,2,2,No,Debit Card,54,Yes,3.0,No,220.81,No
+CAS-00334,1,Basic,17.55,4,2,3,No,Credit Card,641,Yes,3.7,No,271.48,Yes
+CAS-00335,26,Basic,21.94,2,0,2,Yes,Credit Card,453,No,3.3,No,1092.98,Yes
+CAS-00336,32,Curated,36.37,6,0,1,No,PayPal,120,Yes,4.7,No,1139.55,No
+CAS-00337,13,Deluxe,53.94,6,0,0,No,Debit Card,156,No,4.4,No,475.4,No
+CAS-00338,34,Curated,35.18,5,0,1,No,Credit Card,187,Yes,5.0,No,1861.23,No
+CAS-00339,13,Basic,16.31,4,0,0,No,PayPal,47,Yes,4.5,No,194.6,Yes
+CAS-00340,40,Curated,36.24,9,0,3,No,PayPal,61,Yes,3.1,No,1511.26,No
+CAS-00341,44,Deluxe,59.57,7,0,3,Yes,PayPal,476,Yes,3.4,No,4191.94,No
+CAS-00342,3,Curated,37.55,5,0,1,No,Credit Card,197,Yes,4.8,No,224.53,Yes
+CAS-00343,37,Basic,19.55,8,0,0,No,Debit Card,558,No,4.6,No,932.11,No
+CAS-00344,40,Curated,34.72,3,0,1,No,Credit Card,239,No,3.9,No,1190.34,No
+CAS-00345,9,Basic,20.76,5,1,2,No,PayPal,422,Yes,3.7,Yes,309.84,No
+CAS-00346,31,Basic,20.52,5,0,0,No,PayPal,433,Yes,4.2,No,1302.08,No
+CAS-00347,15,Basic,18.07,5,1,2,No,PayPal,810,Yes,5.0,No,1484.03,No
+CAS-00348,42,Curated,37.0,7,1,1,No,Debit Card,177,No,3.3,Yes,1640.53,No
+CAS-00349,18,Basic,18.93,6,1,1,No,Debit Card,343,No,4.1,No,411.4,Yes
+CAS-00350,1,Basic,23.89,4,2,0,No,Buy Now Pay Later,32,No,3.7,No,95.52,Yes
+CAS-00351,48,Curated,32.76,4,2,2,No,Credit Card,186,Yes,3.5,Yes,782.65,No
+CAS-00352,31,Deluxe,60.02,7,0,0,No,Credit Card,315,No,3.6,No,740.2,No
+CAS-00353,45,Deluxe,56.58,5,1,0,No,PayPal,83,No,3.7,No,3010.61,No
+CAS-00354,11,Basic,16.85,7,0,0,No,Credit Card,519,No,5.0,No,297.48,Yes
+CAS-00355,34,Deluxe,53.75,8,2,2,No,Debit Card,650,No,5.0,No,2464.84,Yes
+CAS-00356,11,Deluxe,50.2,3,1,3,No,Credit Card,229,Yes,4.5,No,492.98,No
+CAS-00357,19,Curated,36.01,7,0,2,Yes,Credit Card,83,No,3.7,No,627.3,No
+CAS-00358,42,Curated,37.54,10,1,2,No,Credit Card,287,Yes,3.9,No,1723.55,No
+CAS-00359,5,Curated,33.86,2,0,2,No,Credit Card,429,No,3.2,No,380.05,Yes
+CAS-00360,43,Curated,34.98,6,1,2,No,Debit Card,631,No,4.5,No,838.07,No
+CAS-00361,39,Deluxe,53.95,6,1,0,No,Credit Card,263,Yes,4.1,Yes,1596.32,No
+CAS-00362,13,Curated,31.33,8,1,1,No,Buy Now Pay Later,403,No,3.4,No,568.78,No
+CAS-00363,33,Deluxe,54.85,5,1,0,No,Credit Card,375,No,4.5,No,1892.26,No
+CAS-00364,3,Curated,37.43,6,2,0,No,PayPal,71,No,2.3,No,161.29,Yes
+CAS-00365,38,Deluxe,57.85,2,0,1,No,PayPal,337,Yes,4.0,No,2424.46,No
+CAS-00366,27,Curated,36.95,9,0,3,No,PayPal,31,Yes,5.0,No,2088.71,No
+CAS-00367,46,Basic,20.06,7,1,0,No,Debit Card,245,No,4.6,No,909.16,Yes
+CAS-00368,0,Basic,19.76,3,1,1,No,Debit Card,760,No,4.1,No,427.29,No
+CAS-00369,22,Basic,17.78,2,0,0,No,PayPal,220,Yes,4.6,Yes,349.02,Yes
+CAS-00370,12,Curated,38.53,3,0,1,No,PayPal,376,No,5.0,No,698.3,Yes
+CAS-00371,8,Curated,41.45,7,0,1,No,Credit Card,463,No,3.7,Yes,595.15,No
+CAS-00372,42,Basic,21.6,6,0,4,No,Credit Card,299,No,4.1,No,1422.98,Yes
+CAS-00373,43,Curated,33.02,6,2,1,No,Credit Card,264,Yes,3.6,No,2495.4,No
+CAS-00374,6,Curated,31.47,10,0,0,No,Credit Card,241,Yes,3.4,No,416.68,Yes
+CAS-00375,25,Basic,15.49,5,1,3,No,PayPal,429,No,3.8,No,686.88,Yes
+CAS-00376,38,Basic,21.26,5,1,0,Yes,Credit Card,468,No,3.3,No,3132.91,Yes
+CAS-00377,30,Basic,16.17,9,0,4,Yes,Debit Card,104,No,3.9,No,323.04,Yes
+CAS-00378,42,Deluxe,60.03,5,0,1,No,PayPal,894,No,4.4,No,2741.14,No
+CAS-00379,29,Curated,37.22,11,1,1,No,Credit Card,261,Yes,4.5,No,2455.14,No
+CAS-00380,31,Deluxe,51.76,4,1,1,No,Credit Card,481,No,4.5,No,1319.93,Yes
+CAS-00381,44,Deluxe,55.19,4,1,2,No,Credit Card,319,No,3.5,Yes,1727.71,Yes
+CAS-00382,48,Basic,18.97,9,0,1,No,Credit Card,270,No,5.0,No,1564.24,No
+CAS-00383,34,Basic,21.41,2,0,1,No,Credit Card,197,No,4.6,No,773.05,Yes
+CAS-00384,10,Deluxe,53.09,9,1,1,No,PayPal,169,No,4.6,No,474.5,No
+CAS-00385,14,Basic,17.4,4,2,1,No,PayPal,322,No,3.6,No,237.73,Yes
+CAS-00386,13,Deluxe,54.91,5,1,1,No,Debit Card,672,No,4.2,No,1295.74,No
+CAS-00387,15,Deluxe,51.49,7,0,0,No,Credit Card,462,No,3.4,No,593.68,No
+CAS-00388,7,Basic,20.17,2,0,0,No,PayPal,782,Yes,3.6,Yes,532.58,No
+CAS-00389,0,Curated,32.47,6,1,1,No,PayPal,241,No,5.0,No,51.74,Yes
+CAS-00390,12,Curated,32.29,4,1,2,No,Debit Card,527,No,3.3,Yes,441.83,Yes
+CAS-00391,26,Curated,35.11,6,1,1,No,Credit Card,61,No,3.4,Yes,2044.35,No
+CAS-00392,12,Deluxe,54.03,6,0,0,No,Credit Card,395,Yes,3.5,No,974.69,No
+CAS-00393,30,Deluxe,50.56,9,1,0,No,PayPal,413,No,4.1,No,1359.93,No
+CAS-00394,29,Curated,34.12,3,0,1,No,Credit Card,61,Yes,4.4,Yes,1056.07,No
+CAS-00395,28,Basic,20.57,7,1,2,Yes,Credit Card,202,Yes,2.5,No,585.41,Yes
+CAS-00396,30,Basic,19.3,10,0,1,No,Buy Now Pay Later,502,No,4.8,No,642.02,Yes
+CAS-00397,12,Basic,24.12,4,0,0,No,Debit Card,275,No,3.5,Yes,354.79,No
+CAS-00398,34,Basic,20.62,3,0,0,No,Credit Card,638,No,3.1,No,942.3,No
+CAS-00399,9,Curated,36.83,5,0,0,No,Credit Card,437,No,3.3,No,588.67,No
+CAS-00400,32,Basic,22.5,4,1,2,No,PayPal,366,No,5.0,No,840.39,Yes
+CAS-00401,20,Deluxe,55.19,4,0,1,No,Debit Card,363,No,3.3,No,610.08,No
+CAS-00402,23,Basic,21.59,7,0,1,No,Credit Card,258,Yes,4.4,No,458.02,Yes
+CAS-00403,43,Curated,34.49,7,0,0,No,Debit Card,453,Yes,4.1,No,1248.09,Yes
+CAS-00404,40,Deluxe,50.05,9,0,1,No,PayPal,239,Yes,3.9,No,1472.24,No
+CAS-00405,42,Curated,32.56,6,0,0,No,Credit Card,508,No,4.5,No,1468.86,No
+CAS-00406,13,Curated,36.4,6,0,0,No,Credit Card,571,Yes,3.6,No,542.59,No
+CAS-00407,26,Basic,18.04,8,0,1,No,Credit Card,157,Yes,5.0,Yes,251.73,Yes
+CAS-00408,9,Deluxe,52.9,8,0,2,No,PayPal,535,Yes,4.2,No,441.1,No
+CAS-00409,44,Deluxe,50.5,5,1,1,No,Credit Card,293,No,4.9,Yes,6550.62,Yes
+CAS-00410,35,Deluxe,50.17,6,1,2,No,Credit Card,186,Yes,4.1,No,2434.89,No
+CAS-00411,6,Basic,17.48,6,0,1,No,Credit Card,530,Yes,5.0,Yes,253.19,Yes
+CAS-00412,30,Deluxe,62.49,2,1,3,No,Credit Card,169,Yes,4.5,No,1078.53,No
+CAS-00413,27,Basic,23.24,4,1,2,No,Credit Card,630,Yes,5.0,No,1522.89,No
+CAS-00414,39,Curated,36.39,9,0,0,Yes,Credit Card,587,Yes,4.7,No,939.61,No
+CAS-00415,23,Basic,20.67,8,2,4,No,Credit Card,94,No,3.2,No,374.0,No
+CAS-00416,14,Basic,21.44,10,1,2,No,Debit Card,166,Yes,5.0,No,314.54,Yes
+CAS-00417,37,Curated,34.92,6,1,0,No,Credit Card,713,Yes,5.0,No,1376.21,Yes
+CAS-00418,28,Curated,34.3,5,0,1,No,Buy Now Pay Later,82,Yes,4.1,No,1291.79,Yes
+CAS-00419,7,Curated,34.62,2,1,1,No,Credit Card,56,No,4.9,No,347.27,No
+CAS-00420,36,Curated,34.96,5,0,3,No,Debit Card,580,No,4.9,No,2085.8,Yes
+CAS-00421,37,Deluxe,48.7,3,1,2,No,PayPal,158,Yes,4.7,No,951.81,Yes
+CAS-00422,11,Basic,21.12,6,0,1,No,PayPal,374,Yes,5.0,No,396.58,Yes
+CAS-00423,47,Basic,20.31,5,0,3,No,PayPal,497,No,4.3,No,567.36,Yes
+CAS-00424,45,Curated,34.17,7,1,1,No,PayPal,447,Yes,4.0,No,2069.05,No
+CAS-00425,35,Curated,37.59,5,0,2,No,PayPal,690,Yes,5.0,No,3092.88,No
+CAS-00426,3,Curated,33.7,6,1,1,No,Debit Card,701,Yes,3.9,No,425.63,No
+CAS-00427,7,Basic,21.72,2,0,1,Yes,Debit Card,222,No,4.1,No,185.91,Yes
+CAS-00428,37,Curated,30.47,3,0,1,No,Credit Card,160,Yes,3.7,No,1096.82,No
+CAS-00429,13,Deluxe,54.09,8,2,3,No,Credit Card,503,Yes,4.8,No,2431.0,Yes
+CAS-00430,15,Deluxe,59.18,6,0,1,No,PayPal,527,Yes,4.3,Yes,1414.93,No
+CAS-00431,39,Curated,43.94,3,2,0,No,Credit Card,201,Yes,3.9,No,1039.04,Yes
+CAS-00432,15,Curated,33.89,7,0,3,No,Credit Card,104,No,3.2,No,987.94,No
+CAS-00433,16,Curated,33.15,4,1,2,No,PayPal,602,Yes,4.4,No,1246.62,No
+CAS-00434,31,Basic,19.74,5,0,2,No,Debit Card,409,Yes,3.3,No,710.78,Yes
+CAS-00435,39,Curated,41.98,3,0,0,No,Buy Now Pay Later,191,No,5.0,Yes,1691.58,Yes
+CAS-00436,22,Basic,20.32,5,1,1,No,PayPal,418,Yes,4.6,No,514.75,No
+CAS-00437,19,Deluxe,44.07,6,1,0,No,Credit Card,232,No,3.3,No,866.71,Yes
+CAS-00438,10,Basic,20.5,9,0,2,No,PayPal,98,Yes,4.3,Yes,145.72,No
+CAS-00439,26,Basic,19.49,7,1,1,No,PayPal,251,Yes,3.5,No,388.57,No
+CAS-00440,44,Basic,18.12,5,0,2,No,Debit Card,959,No,4.4,No,735.8,Yes
+CAS-00441,21,Deluxe,57.25,2,0,0,No,Debit Card,672,No,5.0,No,924.34,No
+CAS-00442,5,Deluxe,54.58,9,3,1,No,Credit Card,174,Yes,2.9,No,524.39,No
+CAS-00443,23,Basic,21.45,10,1,3,No,Credit Card,265,Yes,4.8,No,913.8,No
+CAS-00444,6,Deluxe,53.3,8,0,1,No,Debit Card,188,Yes,5.0,No,564.8,No
+CAS-00445,41,Basic,18.57,8,2,0,No,PayPal,395,No,4.1,No,1035.71,Yes
+CAS-00446,36,Basic,19.08,6,0,2,No,PayPal,432,Yes,3.8,Yes,1031.0,No
+CAS-00447,10,Curated,31.41,3,1,0,No,PayPal,139,Yes,3.4,Yes,492.61,No
+CAS-00448,21,Basic,17.84,3,0,1,No,Credit Card,380,Yes,5.0,No,865.89,Yes
+CAS-00449,20,Deluxe,47.12,10,1,0,No,Credit Card,375,No,4.1,No,1054.45,No
+CAS-00450,48,Deluxe,50.51,2,2,1,No,PayPal,91,Yes,3.9,No,1953.98,No
+CAS-00451,2,Deluxe,51.8,8,0,2,No,Debit Card,205,Yes,4.9,No,155.64,No
+CAS-00452,47,Basic,21.72,7,1,1,No,PayPal,155,No,3.6,No,1098.93,No
+CAS-00453,26,Deluxe,57.45,6,1,0,No,PayPal,856,Yes,4.0,Yes,2208.57,No
+CAS-00454,36,Basic,20.96,2,0,0,No,Credit Card,279,Yes,4.1,No,1285.82,No
+CAS-00455,14,Basic,19.95,3,2,2,No,Credit Card,635,Yes,4.7,No,855.78,No
+CAS-00456,23,Deluxe,59.11,4,1,3,No,PayPal,224,Yes,4.4,No,1240.14,No
+CAS-00457,23,Basic,24.07,7,1,3,No,Credit Card,314,No,3.4,No,683.44,Yes
+CAS-00458,9,Curated,35.95,4,0,1,No,Buy Now Pay Later,564,Yes,4.1,No,626.47,No
+CAS-00459,10,Curated,35.76,5,0,0,No,Credit Card,196,Yes,4.7,No,422.46,No
+CAS-00460,39,Basic,20.55,3,1,2,Yes,Credit Card,480,Yes,4.9,Yes,855.46,No
+CAS-00461,0,Deluxe,47.97,3,0,1,No,PayPal,317,Yes,4.6,No,157.88,No
+CAS-00462,43,Basic,18.25,2,0,4,No,Credit Card,258,No,3.4,No,530.22,Yes
+CAS-00463,6,Basic,21.34,8,0,0,No,Credit Card,392,No,3.2,No,272.45,Yes
+CAS-00464,3,Basic,20.28,2,0,2,No,Debit Card,328,No,4.8,No,54.69,No
+CAS-00465,9,Curated,34.1,5,0,1,No,Credit Card,449,Yes,2.6,No,561.44,Yes
+CAS-00466,10,Curated,29.47,3,1,2,No,Credit Card,217,Yes,3.3,No,322.45,Yes
+CAS-00467,46,Basic,22.4,4,0,2,No,PayPal,655,No,4.2,No,2450.73,Yes
+CAS-00468,45,Basic,17.59,5,1,2,No,Credit Card,431,No,3.1,No,1000.87,Yes
+CAS-00469,18,Deluxe,54.93,2,0,5,No,Debit Card,224,No,4.1,No,905.62,No
+CAS-00470,46,Basic,19.77,5,1,2,No,Debit Card,206,No,3.2,No,635.8,No
+CAS-00471,31,Deluxe,51.6,5,1,4,No,Credit Card,185,Yes,4.8,No,3021.33,No
+CAS-00472,37,Deluxe,54.73,9,0,2,Yes,PayPal,163,Yes,3.8,No,2780.15,No
+CAS-00473,25,Basic,23.02,4,0,1,No,Buy Now Pay Later,264,No,4.1,No,450.73,No
+CAS-00474,2,Curated,32.45,3,1,3,No,Debit Card,518,Yes,3.9,Yes,286.38,No
+CAS-00475,47,Basic,18.7,5,2,0,No,Debit Card,85,No,4.1,No,1358.88,Yes
+CAS-00476,28,Deluxe,50.38,3,0,1,No,PayPal,467,Yes,4.0,No,1798.33,No
+CAS-00477,5,Curated,34.09,4,1,1,Yes,Buy Now Pay Later,134,Yes,4.4,No,304.98,No
+CAS-00478,14,Basic,20.13,5,1,2,No,Credit Card,515,Yes,3.7,No,437.23,Yes
+CAS-00479,4,Basic,25.09,7,0,2,No,Debit Card,352,No,3.5,No,211.5,Yes
+CAS-00480,5,Basic,17.6,9,0,0,No,Debit Card,327,Yes,4.4,No,268.26,No
+CAS-00481,34,Deluxe,48.04,7,3,1,No,Credit Card,271,No,4.7,No,1714.45,Yes
+CAS-00482,34,Curated,42.77,8,3,3,No,Credit Card,560,No,4.5,No,2002.62,No
+CAS-00483,42,Basic,21.06,5,1,0,No,PayPal,540,Yes,3.9,No,1478.02,No
+CAS-00484,39,Basic,19.08,2,0,3,No,Credit Card,33,Yes,3.6,No,1096.88,Yes
+CAS-00485,39,Basic,21.49,8,1,0,Yes,Credit Card,1057,No,5.0,No,1473.9,Yes
+CAS-00486,34,Basic,20.42,5,0,0,No,Credit Card,401,Yes,4.0,No,500.29,Yes
+CAS-00487,17,Basic,21.39,2,0,0,No,PayPal,271,Yes,4.1,No,435.35,Yes
+CAS-00488,29,Deluxe,46.55,7,0,1,No,Credit Card,220,Yes,3.5,No,1872.23,No
+CAS-00489,1,Curated,27.41,3,0,0,No,Credit Card,864,Yes,3.7,No,288.62,Yes
+CAS-00490,27,Deluxe,65.34,4,0,0,No,Credit Card,238,Yes,3.3,No,1933.73,No
+CAS-00491,7,Curated,37.25,3,1,0,Yes,Credit Card,438,No,5.0,No,378.44,No
+CAS-00492,19,Basic,23.82,8,0,1,No,Credit Card,1150,Yes,2.6,No,1147.12,Yes
+CAS-00493,28,Curated,36.27,6,2,1,No,Credit Card,914,No,4.4,No,1545.26,No
+CAS-00494,14,Deluxe,53.51,8,0,0,No,PayPal,85,No,4.8,No,807.79,No
+CAS-00495,41,Basic,17.05,2,0,0,No,Buy Now Pay Later,222,No,4.0,No,1160.83,No
+CAS-00496,5,Curated,35.19,6,0,3,No,Debit Card,124,Yes,3.3,No,308.85,Yes
+CAS-00497,14,Basic,18.49,7,0,1,No,Debit Card,203,Yes,4.6,No,376.54,No
+CAS-00498,33,Curated,34.88,2,0,1,No,PayPal,202,Yes,3.8,Yes,1483.13,No
+CAS-00499,9,Curated,32.34,12,0,1,No,Credit Card,464,No,5.0,No,364.86,No
+CAS-00500,40,Curated,34.51,6,1,2,No,Credit Card,25,No,3.6,No,1599.78,No
+CAS-00501,25,Curated,36.69,8,0,0,No,Credit Card,228,Yes,5.0,No,1568.37,No
+CAS-00502,19,Deluxe,51.08,3,0,3,No,Buy Now Pay Later,344,No,3.1,No,1668.92,No
+CAS-00503,10,Basic,21.16,4,1,2,No,Debit Card,292,No,3.8,No,298.35,Yes
+CAS-00504,41,Deluxe,61.38,6,1,0,No,Credit Card,218,Yes,5.0,No,5303.34,No
+CAS-00505,25,Basic,24.57,6,0,5,No,Credit Card,560,No,3.5,No,776.94,Yes
+CAS-00506,8,Curated,31.23,6,0,0,No,PayPal,732,No,4.6,Yes,856.42,No
+CAS-00507,5,Basic,19.29,8,0,1,No,Credit Card,385,Yes,3.9,No,314.61,Yes
+CAS-00508,22,Curated,30.39,6,2,2,No,Credit Card,454,No,5.0,No,904.04,No
+CAS-00509,46,Deluxe,56.61,5,0,2,No,Credit Card,293,Yes,3.8,Yes,1580.23,No
+CAS-00510,21,Curated,30.47,3,0,2,No,Credit Card,42,Yes,5.0,No,443.13,Yes
+CAS-00511,48,Basic,20.22,8,0,1,No,Credit Card,34,No,4.4,No,847.58,No
+CAS-00512,42,Deluxe,58.03,5,1,0,No,Buy Now Pay Later,66,Yes,4.9,No,2071.84,No
+CAS-00513,35,Basic,20.64,6,1,0,No,Debit Card,173,No,3.9,No,1104.07,No
+CAS-00514,5,Basic,19.6,9,1,2,No,Debit Card,683,Yes,4.2,Yes,326.67,Yes
+CAS-00515,16,Basic,20.72,4,0,1,No,Credit Card,500,Yes,3.0,No,509.7,Yes
+CAS-00516,36,Basic,19.36,4,2,2,No,Credit Card,196,Yes,4.0,No,1605.39,Yes
+CAS-00517,32,Curated,28.75,3,0,1,Yes,Credit Card,207,Yes,3.7,Yes,1191.02,No
+CAS-00518,38,Deluxe,47.57,8,0,3,No,PayPal,391,Yes,4.3,No,3422.67,No
+CAS-00519,4,Basic,17.64,6,0,2,No,Debit Card,388,Yes,4.4,No,166.68,Yes
+CAS-00520,12,Basic,19.01,8,0,0,No,Credit Card,140,No,4.0,No,490.91,Yes
+CAS-00521,13,Deluxe,55.19,4,1,4,No,Credit Card,434,Yes,4.7,No,778.87,No
+CAS-00522,23,Curated,32.43,4,0,1,No,PayPal,284,No,3.9,No,788.24,Yes
+CAS-00523,2,Curated,37.0,9,2,1,No,Credit Card,836,No,4.8,No,515.51,Yes
+CAS-00524,1,Basic,14.7,9,0,2,No,Credit Card,219,Yes,4.0,Yes,122.21,Yes
+CAS-00525,1,Curated,33.85,5,2,1,No,Debit Card,576,Yes,4.8,No,374.72,No
+CAS-00526,42,Basic,23.77,4,0,0,No,Debit Card,291,Yes,3.8,No,1686.43,No
+CAS-00527,25,Basic,18.86,7,0,0,No,Credit Card,176,No,2.5,No,179.36,No
+CAS-00528,30,Curated,35.58,7,0,2,No,Credit Card,305,No,4.2,No,1272.05,Yes
+CAS-00529,24,Deluxe,54.56,3,0,1,No,PayPal,96,No,5.0,No,2652.04,Yes
+CAS-00530,42,Basic,18.46,6,0,2,No,Credit Card,185,Yes,3.3,No,838.01,Yes
+CAS-00531,45,Curated,36.18,5,1,3,No,Credit Card,300,Yes,3.7,No,1698.37,Yes
+CAS-00532,22,Curated,29.62,4,1,0,No,PayPal,107,No,4.2,No,780.14,No
+CAS-00533,4,Basic,22.59,12,1,1,No,Credit Card,540,Yes,3.8,No,351.85,Yes
+CAS-00534,20,Curated,37.72,5,4,0,No,Debit Card,82,No,3.6,No,755.45,No
+CAS-00535,17,Deluxe,47.31,8,4,2,No,Credit Card,141,No,4.0,No,1271.44,No
+CAS-00536,47,Basic,19.87,3,0,0,No,PayPal,459,No,5.0,No,805.02,Yes
+CAS-00537,23,Deluxe,47.07,3,1,0,No,Debit Card,485,Yes,3.0,No,1874.79,Yes
+CAS-00538,35,Curated,40.56,7,1,2,No,Credit Card,147,Yes,4.1,No,1485.74,No
+CAS-00539,18,Curated,35.92,2,0,1,No,Debit Card,273,Yes,4.4,No,754.39,No
+CAS-00540,17,Basic,16.28,2,1,1,No,Credit Card,109,Yes,3.9,No,224.79,No
+CAS-00541,12,Curated,39.92,6,1,2,No,Debit Card,332,No,3.0,No,538.41,Yes
+CAS-00542,41,Curated,37.46,8,0,1,No,Credit Card,263,No,4.2,No,2260.53,No
+CAS-00543,44,Deluxe,48.15,3,0,1,No,Credit Card,93,No,5.0,No,3031.1,No
+CAS-00544,35,Deluxe,54.61,10,1,0,No,Credit Card,429,No,3.7,No,2954.23,No
+CAS-00545,22,Basic,18.67,6,0,1,No,Credit Card,361,Yes,5.0,No,493.47,Yes
+CAS-00546,16,Curated,35.83,11,0,1,No,Credit Card,319,Yes,2.7,No,418.21,No
+CAS-00547,31,Basic,18.76,5,0,1,No,Credit Card,231,No,4.9,No,731.36,Yes
+CAS-00548,32,Deluxe,54.64,8,1,2,No,PayPal,209,No,3.9,No,1262.24,No
+CAS-00549,2,Deluxe,54.07,6,0,2,No,Debit Card,166,Yes,3.2,No,209.51,Yes
+CAS-00550,12,Curated,34.61,6,1,2,No,PayPal,119,No,2.3,No,413.42,No
+CAS-00551,7,Basic,20.24,5,4,1,No,PayPal,59,No,4.7,Yes,190.32,Yes
+CAS-00552,2,Basic,21.6,3,0,0,Yes,Credit Card,198,No,4.8,No,108.8,Yes
+CAS-00553,12,Curated,40.5,8,0,2,No,Debit Card,485,Yes,3.4,No,590.73,No
+CAS-00554,39,Curated,32.96,4,0,0,No,Credit Card,138,Yes,3.7,No,1372.2,No
+CAS-00555,27,Basic,17.95,4,0,2,No,Credit Card,215,Yes,3.3,Yes,244.21,No
+CAS-00556,47,Deluxe,61.29,2,2,1,No,Debit Card,141,Yes,3.9,No,1857.97,No
+CAS-00557,28,Basic,20.73,6,0,1,No,PayPal,120,No,4.5,Yes,757.47,No
+CAS-00558,31,Basic,19.4,5,0,3,No,Credit Card,442,Yes,4.0,No,531.53,Yes
+CAS-00559,41,Curated,33.91,5,0,0,No,Credit Card,205,Yes,4.1,No,933.23,No
+CAS-00560,20,Curated,36.91,2,1,1,No,Credit Card,721,No,4.4,No,719.4,Yes
+CAS-00561,20,Basic,24.04,9,0,0,No,Credit Card,293,No,4.6,No,500.79,Yes
+CAS-00562,27,Deluxe,61.11,5,0,0,No,Debit Card,112,Yes,3.2,No,854.43,No
+CAS-00563,48,Deluxe,61.29,7,1,1,No,Credit Card,364,Yes,4.1,No,3164.42,No
+CAS-00564,18,Basic,16.45,5,2,1,No,Credit Card,65,Yes,3.2,Yes,178.26,Yes
+CAS-00565,16,Basic,19.28,5,1,2,No,Debit Card,561,Yes,3.5,No,914.54,No
+CAS-00566,38,Basic,22.08,5,2,2,No,Debit Card,185,No,4.1,No,1461.52,Yes
+CAS-00567,5,Curated,37.05,8,1,2,No,Credit Card,133,No,3.4,No,288.22,No
+CAS-00568,38,Deluxe,48.33,7,0,1,No,Debit Card,339,No,3.4,No,1423.0,No
+CAS-00569,14,Deluxe,57.62,8,0,2,No,Credit Card,148,No,3.8,No,907.17,Yes
+CAS-00570,12,Basic,22.75,5,0,1,No,Credit Card,236,Yes,5.0,No,320.62,Yes
+CAS-00571,16,Basic,20.31,5,0,1,No,Debit Card,128,No,3.2,No,382.16,No
+CAS-00572,14,Deluxe,57.96,2,2,0,No,Buy Now Pay Later,396,No,4.4,No,602.29,No
+CAS-00573,42,Basic,20.08,5,0,1,No,Credit Card,494,Yes,5.0,No,1432.44,No
+CAS-00574,1,Basic,19.44,4,1,3,No,PayPal,667,Yes,4.6,No,443.62,Yes
+CAS-00575,33,Deluxe,55.69,11,0,1,No,Credit Card,148,No,3.7,No,1481.91,No
+CAS-00576,12,Basic,16.93,2,1,2,No,Debit Card,290,No,3.3,No,978.46,Yes
+CAS-00577,34,Deluxe,56.61,4,0,2,Yes,PayPal,230,No,4.7,No,1409.07,No
+CAS-00578,21,Deluxe,52.26,6,2,1,No,PayPal,150,Yes,3.4,No,554.31,No
+CAS-00579,26,Deluxe,52.36,4,1,1,No,PayPal,313,No,3.8,No,895.58,No
+CAS-00580,1,Basic,22.64,9,0,0,No,PayPal,346,Yes,4.8,No,109.86,Yes
+CAS-00581,45,Deluxe,59.34,3,0,0,No,Credit Card,178,Yes,4.6,No,1411.63,No
+CAS-00582,8,Curated,32.12,7,3,3,No,Debit Card,582,Yes,3.3,No,611.85,Yes
+CAS-00583,17,Curated,32.24,5,0,1,No,Buy Now Pay Later,603,No,4.2,No,760.75,Yes
+CAS-00584,24,Basic,19.01,4,0,1,Yes,Debit Card,143,Yes,3.2,Yes,394.3,No
+CAS-00585,4,Deluxe,54.41,6,0,1,No,Credit Card,1285,No,4.7,No,765.38,No
+CAS-00586,32,Curated,32.8,3,0,2,No,Credit Card,943,No,3.5,No,1602.23,No
+CAS-00587,47,Curated,31.43,6,0,0,No,PayPal,674,No,5.0,No,1525.63,Yes
+CAS-00588,31,Curated,37.63,6,0,2,No,PayPal,556,Yes,3.2,No,796.63,No
+CAS-00589,45,Deluxe,55.73,9,0,1,No,PayPal,241,Yes,4.3,Yes,1626.64,Yes
+CAS-00590,20,Curated,38.94,5,1,0,No,Credit Card,501,Yes,4.3,No,617.68,No
+CAS-00591,31,Deluxe,57.9,6,0,1,No,Credit Card,1846,Yes,3.4,No,2641.89,No
+CAS-00592,21,Basic,19.53,8,0,2,No,PayPal,177,No,2.7,No,345.4,Yes
+CAS-00593,22,Basic,19.57,9,1,2,No,Credit Card,268,Yes,4.6,No,451.06,Yes
+CAS-00594,0,Deluxe,68.35,10,1,0,No,Credit Card,367,No,4.5,No,123.15,No
+CAS-00595,13,Basic,18.96,4,1,0,No,PayPal,1138,No,3.8,No,695.65,No
+CAS-00596,30,Basic,20.11,9,0,1,No,PayPal,706,Yes,4.2,No,1324.79,Yes
+CAS-00597,23,Basic,19.83,4,0,0,No,PayPal,111,Yes,5.0,No,684.72,Yes
+CAS-00598,27,Curated,34.18,5,0,2,No,Buy Now Pay Later,290,Yes,4.1,No,1108.74,Yes
+CAS-00599,31,Curated,39.24,3,0,1,No,Credit Card,186,Yes,4.0,No,1024.19,No
+CAS-00600,14,Curated,35.58,5,0,4,No,Debit Card,229,Yes,3.4,No,1051.07,No
+CAS-00601,45,Basic,21.87,7,1,0,No,PayPal,349,No,4.0,No,757.17,No
+CAS-00602,39,Deluxe,58.76,4,0,2,No,Credit Card,541,Yes,4.1,Yes,2387.55,No
+CAS-00603,8,Curated,33.56,8,1,1,No,Debit Card,839,No,5.0,No,744.47,No
+CAS-00604,39,Deluxe,56.42,6,1,1,No,Debit Card,345,No,3.5,No,1302.26,No
+CAS-00605,40,Basic,18.62,3,2,0,No,Debit Card,334,Yes,3.4,No,2502.39,Yes
+CAS-00606,17,Basic,21.63,9,0,0,No,Credit Card,219,Yes,3.3,No,255.15,Yes
+CAS-00607,7,Basic,18.53,7,0,1,No,Credit Card,297,No,3.6,No,420.98,Yes
+CAS-00608,25,Curated,34.62,2,0,2,No,Debit Card,93,Yes,3.3,Yes,635.54,No
+CAS-00609,41,Basic,20.01,3,1,0,No,PayPal,1327,No,5.0,No,1380.48,No
+CAS-00610,5,Curated,34.44,9,1,0,Yes,PayPal,27,No,3.6,No,810.68,No
+CAS-00611,14,Curated,35.74,10,0,1,No,Credit Card,261,Yes,4.5,No,374.53,Yes
+CAS-00612,29,Curated,33.61,5,0,0,No,Credit Card,316,No,4.5,No,884.74,No
+CAS-00613,24,Curated,42.27,5,0,3,No,Credit Card,470,Yes,4.3,No,897.87,No
+CAS-00614,40,Curated,32.59,5,0,1,No,Debit Card,231,Yes,4.8,No,1311.56,Yes
+CAS-00615,20,Basic,16.12,3,1,3,No,Debit Card,71,No,4.0,No,408.1,Yes
+CAS-00616,13,Deluxe,45.85,5,0,4,No,Debit Card,356,Yes,3.4,Yes,722.15,No
+CAS-00617,34,Basic,20.98,4,1,3,No,Debit Card,805,Yes,4.3,No,1834.33,No
+CAS-00618,25,Curated,35.66,2,2,2,No,Credit Card,984,No,5.0,No,1036.12,Yes
+CAS-00619,47,Deluxe,52.25,3,2,0,No,Debit Card,500,No,5.0,No,1702.92,Yes
+CAS-00620,7,Deluxe,51.81,2,0,1,No,Credit Card,350,Yes,3.6,No,712.83,No
+CAS-00621,5,Curated,34.6,7,0,2,No,Debit Card,457,Yes,5.0,No,442.4,No
+CAS-00622,29,Basic,19.19,12,0,2,No,Debit Card,73,Yes,4.2,No,537.44,No
+CAS-00623,27,Basic,16.97,4,0,0,No,Credit Card,453,No,4.5,No,383.01,Yes
+CAS-00624,37,Curated,29.0,3,2,0,No,Debit Card,280,Yes,4.8,No,1292.49,No
+CAS-00625,47,Curated,28.67,4,1,1,No,Credit Card,112,Yes,2.3,No,1657.12,No
+CAS-00626,23,Curated,33.91,7,1,0,No,Buy Now Pay Later,293,No,4.6,No,1030.76,No
+CAS-00627,17,Basic,21.22,4,1,1,No,Credit Card,222,Yes,4.5,No,544.36,No
+CAS-00628,35,Deluxe,51.89,3,1,0,No,Credit Card,25,Yes,2.3,No,2437.5,No
+CAS-00629,45,Basic,18.38,3,0,3,No,Credit Card,600,No,3.9,No,841.49,Yes
+CAS-00630,48,Deluxe,49.33,6,1,2,No,Credit Card,198,No,4.8,No,2532.52,No
+CAS-00631,4,Basic,17.56,9,0,2,Yes,Buy Now Pay Later,167,Yes,3.7,No,144.31,No
+CAS-00632,35,Deluxe,43.99,4,2,1,No,Credit Card,135,Yes,5.0,No,1453.94,No
+CAS-00633,44,Basic,19.36,5,1,0,No,PayPal,458,No,3.9,No,1298.57,Yes
+CAS-00634,41,Curated,26.0,4,1,1,No,Debit Card,288,Yes,4.6,No,1232.0,No
+CAS-00635,21,Deluxe,56.75,10,0,1,No,Debit Card,86,Yes,3.8,No,307.65,No
+CAS-00636,24,Basic,20.25,3,0,0,No,PayPal,407,Yes,4.8,No,441.32,Yes
+CAS-00637,10,Basic,19.08,4,0,3,No,Debit Card,715,Yes,3.3,No,648.19,No
+CAS-00638,25,Deluxe,52.26,6,2,2,No,Debit Card,297,No,4.7,No,2736.64,No
+CAS-00639,19,Curated,29.4,7,0,4,No,Credit Card,155,Yes,5.0,No,472.37,Yes
+CAS-00640,4,Curated,29.43,7,0,5,No,PayPal,973,Yes,3.5,No,396.22,No
+CAS-00641,35,Curated,35.14,5,1,0,No,Credit Card,233,Yes,4.6,No,2214.98,No
+CAS-00642,29,Curated,32.99,4,0,1,No,Debit Card,97,No,3.0,No,918.23,No
+CAS-00643,14,Basic,22.96,3,1,2,No,PayPal,435,Yes,3.9,Yes,374.41,Yes
+CAS-00644,25,Curated,35.11,2,1,2,No,Credit Card,174,No,3.9,No,1003.96,No
+CAS-00645,31,Basic,21.18,5,0,2,No,Debit Card,337,No,3.3,No,957.34,No
+CAS-00646,31,Basic,23.15,3,1,2,No,Credit Card,393,No,4.8,No,487.0,Yes
+CAS-00647,23,Deluxe,52.6,6,0,3,No,Debit Card,101,No,4.8,No,1135.42,Yes
+CAS-00648,3,Basic,21.96,4,0,0,Yes,Debit Card,357,Yes,3.7,No,168.64,Yes
+CAS-00649,42,Deluxe,46.86,7,1,0,No,Credit Card,109,No,4.1,Yes,2932.27,Yes
+CAS-00650,41,Deluxe,54.56,5,0,2,Yes,PayPal,211,No,3.6,No,536.1,No
+CAS-00651,31,Basic,21.78,7,0,0,No,Buy Now Pay Later,203,No,3.7,Yes,824.74,Yes
+CAS-00652,34,Curated,37.26,4,0,1,Yes,Debit Card,170,No,5.0,No,1957.43,No
+CAS-00653,33,Deluxe,64.18,6,0,0,Yes,Credit Card,490,No,3.8,No,3345.67,No
+CAS-00654,40,Curated,32.82,3,1,3,Yes,Debit Card,925,Yes,3.7,No,1477.06,No
+CAS-00655,33,Basic,16.43,6,1,3,No,Debit Card,136,Yes,4.0,No,582.12,No
+CAS-00656,34,Deluxe,56.57,10,0,0,Yes,PayPal,309,Yes,3.8,No,2252.28,No
+CAS-00657,19,Curated,31.99,3,0,1,No,Debit Card,77,Yes,5.0,No,584.75,Yes
+CAS-00658,23,Basic,21.1,2,2,1,No,Credit Card,283,Yes,3.6,No,815.97,Yes
+CAS-00659,15,Basic,19.18,6,1,0,No,PayPal,140,Yes,5.0,No,208.8,Yes
+CAS-00660,0,Deluxe,54.82,5,1,0,No,Debit Card,774,No,4.4,No,316.25,No
+CAS-00661,22,Curated,37.21,9,0,3,No,PayPal,641,No,3.9,No,1245.85,No
+CAS-00662,48,Curated,37.37,11,0,1,No,Buy Now Pay Later,78,Yes,3.9,Yes,1555.39,No
+CAS-00663,5,Basic,22.13,6,1,1,No,PayPal,290,Yes,2.5,No,171.59,Yes
+CAS-00664,17,Curated,35.78,5,0,1,No,PayPal,507,No,4.3,No,801.31,Yes
+CAS-00665,16,Deluxe,55.82,5,1,1,No,Credit Card,254,No,4.8,Yes,1382.88,No
+CAS-00666,13,Basic,20.06,9,0,1,Yes,Credit Card,613,No,4.5,No,412.11,Yes
+CAS-00667,0,Curated,32.87,4,0,1,No,PayPal,580,No,4.0,No,366.56,No
+CAS-00668,48,Basic,18.85,7,1,2,No,PayPal,323,No,3.2,No,692.3,Yes
+CAS-00669,33,Basic,19.79,7,1,0,No,Credit Card,360,Yes,3.6,No,731.63,Yes
+CAS-00670,18,Deluxe,54.97,2,0,4,Yes,Debit Card,237,Yes,3.7,No,2153.18,No
+CAS-00671,6,Basic,20.3,5,0,1,No,Credit Card,668,No,3.9,No,344.1,Yes
+CAS-00672,25,Deluxe,54.79,5,0,1,No,Credit Card,181,Yes,3.5,No,1496.98,No
+CAS-00673,24,Curated,39.59,5,0,0,No,Buy Now Pay Later,146,No,4.9,Yes,1893.81,No
+CAS-00674,2,Curated,38.89,2,1,3,No,Credit Card,242,No,3.6,No,146.91,Yes
+CAS-00675,12,Basic,19.08,10,0,1,Yes,Debit Card,388,Yes,3.3,No,344.39,Yes
+CAS-00676,7,Basic,19.94,4,2,0,Yes,Credit Card,435,No,3.6,Yes,418.76,No
+CAS-00677,18,Deluxe,58.88,5,0,1,No,Debit Card,89,Yes,4.5,No,2092.59,No
+CAS-00678,6,Deluxe,54.83,4,1,1,No,Debit Card,237,No,2.1,No,385.49,No
+CAS-00679,4,Curated,33.4,6,1,1,No,Credit Card,296,Yes,3.0,Yes,205.43,Yes
+CAS-00680,44,Deluxe,53.22,3,0,2,No,Credit Card,143,Yes,3.0,No,1468.64,No
+CAS-00681,12,Deluxe,54.37,4,0,0,No,Credit Card,547,No,2.7,No,892.49,No
+CAS-00682,38,Curated,38.99,11,0,0,No,PayPal,1167,Yes,3.9,No,917.64,No
+CAS-00683,23,Deluxe,50.92,5,0,0,No,Credit Card,127,Yes,3.3,No,1121.17,No
+CAS-00684,5,Basic,18.42,2,0,4,No,PayPal,239,No,3.2,Yes,290.79,Yes
+CAS-00685,43,Basic,19.01,5,1,1,No,Credit Card,256,Yes,3.6,No,581.58,Yes
+CAS-00686,41,Deluxe,52.91,6,0,1,No,Credit Card,660,Yes,3.7,No,1106.15,No
+CAS-00687,5,Curated,35.75,3,1,2,No,Credit Card,36,Yes,4.1,No,115.8,Yes
+CAS-00688,12,Curated,28.73,4,2,3,No,PayPal,302,Yes,2.9,No,721.3,No
+CAS-00689,14,Deluxe,53.84,6,1,4,No,Credit Card,305,Yes,4.1,No,1305.99,No
+CAS-00690,31,Curated,35.55,7,1,2,No,Credit Card,1086,No,4.8,No,1115.37,No
+CAS-00691,43,Basic,18.42,7,2,1,No,Debit Card,223,Yes,3.3,No,852.08,No
+CAS-00692,31,Curated,27.44,3,0,0,No,Debit Card,671,Yes,4.5,No,1014.63,No
+CAS-00693,9,Curated,33.45,6,0,0,No,Credit Card,836,No,4.4,No,1045.84,Yes
+CAS-00694,24,Deluxe,56.68,6,1,0,No,Credit Card,471,No,3.4,No,1191.2,No
+CAS-00695,1,Curated,33.32,4,3,1,No,Debit Card,106,Yes,4.1,No,106.13,No
+CAS-00696,10,Basic,17.79,9,0,2,No,PayPal,638,Yes,3.6,Yes,398.12,No
+CAS-00697,20,Basic,18.9,4,1,1,No,Credit Card,521,Yes,4.2,Yes,638.73,Yes
+CAS-00698,14,Deluxe,47.87,5,0,1,No,Debit Card,122,No,3.3,No,857.89,No
+CAS-00699,19,Curated,40.16,7,0,1,No,Credit Card,476,Yes,5.0,No,1520.16,No
+CAS-00700,47,Deluxe,52.19,9,1,1,No,PayPal,140,Yes,4.5,Yes,959.4,No
+CAS-00701,1,Curated,33.39,6,0,1,No,Credit Card,309,Yes,3.0,No,73.96,No
+CAS-00702,6,Curated,29.77,5,1,3,No,PayPal,1436,No,3.6,Yes,780.06,Yes
+CAS-00703,24,Deluxe,56.85,5,1,3,No,Credit Card,365,Yes,3.8,No,1776.79,No
+CAS-00704,24,Curated,33.49,7,0,4,No,Debit Card,71,Yes,4.6,No,274.68,Yes
+CAS-00705,22,Basic,17.62,7,1,1,No,Buy Now Pay Later,656,Yes,4.7,No,779.76,No
+CAS-00706,37,Deluxe,62.56,5,0,0,No,Debit Card,1055,No,3.5,No,1583.35,No
+CAS-00707,8,Basic,18.35,6,1,3,No,Credit Card,736,Yes,4.9,No,453.49,Yes
+CAS-00708,39,Basic,21.36,4,1,3,No,PayPal,146,No,5.0,No,959.51,Yes
+CAS-00709,28,Basic,20.19,4,2,1,No,Debit Card,201,Yes,2.8,No,577.14,Yes
+CAS-00710,12,Basic,21.48,3,1,2,No,Debit Card,586,No,4.6,No,716.02,Yes
+CAS-00711,44,Deluxe,60.29,3,1,2,No,Credit Card,1139,Yes,3.4,No,3243.02,No
+CAS-00712,45,Basic,18.49,4,0,1,No,Debit Card,307,Yes,3.9,No,956.42,Yes
+CAS-00713,14,Curated,38.54,5,0,4,Yes,Debit Card,97,Yes,4.9,No,384.98,No
+CAS-00714,29,Basic,20.8,2,0,3,No,Credit Card,118,No,5.0,No,779.93,No
+CAS-00715,45,Curated,31.07,3,1,1,No,PayPal,684,Yes,5.0,Yes,2192.93,No
+CAS-00716,8,Deluxe,52.47,3,1,1,Yes,PayPal,309,Yes,4.1,No,563.63,No
+CAS-00717,4,Curated,36.36,3,0,1,No,Debit Card,381,Yes,4.2,No,187.94,Yes
+CAS-00718,12,Deluxe,52.13,8,1,4,No,Credit Card,353,Yes,4.1,No,604.63,No
+CAS-00719,19,Basic,22.91,4,2,0,No,Debit Card,194,Yes,4.2,No,585.95,No
+CAS-00720,22,Basic,20.34,3,0,0,No,Debit Card,252,Yes,4.5,Yes,910.36,Yes
+CAS-00721,1,Curated,37.04,6,1,3,No,Debit Card,155,Yes,3.5,No,18.75,Yes
+CAS-00722,4,Deluxe,52.59,4,0,2,No,PayPal,200,No,2.5,No,516.47,No
+CAS-00723,37,Curated,41.27,7,0,1,No,Buy Now Pay Later,154,No,3.6,No,1037.61,No
+CAS-00724,4,Deluxe,54.11,6,0,0,No,PayPal,178,Yes,4.4,No,239.14,No
+CAS-00725,39,Curated,32.75,4,0,2,No,Credit Card,93,Yes,4.5,No,975.66,No
+CAS-00726,38,Curated,35.99,9,0,1,No,Credit Card,153,Yes,4.0,No,342.86,No
+CAS-00727,8,Deluxe,48.94,6,1,0,No,Credit Card,157,Yes,3.0,Yes,351.43,No
+CAS-00728,16,Basic,20.22,4,0,3,No,Credit Card,806,Yes,4.5,No,766.68,Yes
+CAS-00729,4,Deluxe,55.64,6,1,1,No,Buy Now Pay Later,471,Yes,4.1,No,479.42,No
+CAS-00730,38,Curated,38.89,5,1,3,No,PayPal,268,No,3.3,No,3466.84,Yes
+CAS-00731,39,Basic,22.01,9,1,0,Yes,Credit Card,227,Yes,4.1,No,959.48,No
+CAS-00732,28,Curated,36.94,7,1,1,No,Credit Card,320,Yes,5.0,No,927.35,No
+CAS-00733,43,Curated,34.7,5,1,3,No,PayPal,119,No,4.6,No,2814.28,No
+CAS-00734,2,Curated,30.63,7,0,1,Yes,PayPal,649,No,4.9,No,333.22,No
+CAS-00735,39,Curated,38.57,2,1,2,Yes,Debit Card,81,Yes,4.0,No,2296.23,Yes
+CAS-00736,18,Basic,18.89,7,1,0,No,Credit Card,155,Yes,4.2,No,381.12,No
+CAS-00737,2,Curated,34.93,5,0,2,No,PayPal,706,Yes,4.7,No,392.73,Yes
+CAS-00738,5,Basic,19.13,7,2,0,No,Debit Card,65,No,4.2,Yes,110.5,No
+CAS-00739,2,Basic,18.79,5,0,1,No,Credit Card,124,Yes,3.3,No,139.17,No
+CAS-00740,17,Basic,23.51,4,1,1,No,PayPal,515,No,3.1,No,470.43,No
+CAS-00741,43,Basic,22.37,4,1,2,No,Credit Card,245,No,4.8,No,1689.64,Yes
+CAS-00742,29,Deluxe,50.06,6,0,5,No,Debit Card,259,Yes,3.5,No,2271.98,No
+CAS-00743,9,Curated,29.21,4,1,1,No,Credit Card,328,Yes,5.0,No,706.39,Yes
+CAS-00744,37,Basic,20.26,6,1,0,Yes,Debit Card,304,Yes,3.3,No,599.08,No
+CAS-00745,47,Curated,36.09,4,1,1,No,PayPal,155,Yes,5.0,No,1583.43,No
+CAS-00746,8,Deluxe,48.42,5,0,3,Yes,Debit Card,200,Yes,3.6,No,391.66,No
+CAS-00747,32,Basic,21.22,7,1,2,No,PayPal,253,No,4.7,No,1300.82,No
+CAS-00748,7,Curated,33.99,4,1,2,No,PayPal,211,Yes,4.9,No,368.33,No
+CAS-00749,28,Deluxe,46.14,8,0,1,No,Credit Card,145,Yes,3.4,No,1710.6,No
+CAS-00750,8,Basic,24.27,4,1,2,No,PayPal,319,No,5.0,Yes,408.74,Yes
+CAS-00751,28,Curated,33.42,7,0,4,Yes,Credit Card,773,Yes,4.0,No,1204.34,No
+CAS-00752,7,Curated,35.81,5,0,2,No,Credit Card,491,No,3.8,No,499.79,Yes
+CAS-00753,31,Basic,16.16,8,0,2,No,Credit Card,1037,Yes,2.3,No,1014.26,Yes
+CAS-00754,26,Curated,33.77,5,1,1,Yes,Credit Card,651,Yes,4.8,No,882.21,No
+CAS-00755,40,Deluxe,54.13,6,1,2,No,Credit Card,432,Yes,4.3,No,2026.43,Yes
+CAS-00756,36,Basic,21.65,8,2,0,Yes,PayPal,178,Yes,4.1,No,783.79,No
+CAS-00757,17,Basic,21.42,8,0,3,Yes,Credit Card,364,No,5.0,No,558.29,Yes
+CAS-00758,45,Basic,20.49,5,1,0,No,Credit Card,719,No,4.8,No,1475.61,Yes
+CAS-00759,42,Curated,35.34,7,1,0,No,Debit Card,110,Yes,5.0,No,1169.18,No
+CAS-00760,11,Deluxe,60.79,4,2,2,No,Credit Card,382,No,4.3,No,651.63,Yes
+CAS-00761,29,Deluxe,54.89,3,0,3,No,Credit Card,157,Yes,5.0,No,1772.95,Yes
+CAS-00762,25,Deluxe,50.53,3,0,1,No,Credit Card,377,Yes,4.0,Yes,673.36,Yes
+CAS-00763,22,Curated,37.3,5,1,1,No,Debit Card,179,Yes,3.9,No,712.72,No
+CAS-00764,1,Curated,36.01,7,2,2,No,Credit Card,353,Yes,3.7,No,216.44,No
+CAS-00765,7,Curated,33.2,10,2,1,No,Credit Card,769,Yes,5.0,No,527.85,No
+CAS-00766,9,Basic,19.32,5,0,1,No,PayPal,289,No,4.7,Yes,368.91,Yes
+CAS-00767,9,Curated,30.75,5,0,0,No,PayPal,307,Yes,3.9,No,691.79,No
+CAS-00768,6,Curated,36.25,9,0,4,Yes,PayPal,160,No,4.5,Yes,222.98,No
+CAS-00769,4,Curated,37.68,4,0,0,No,Credit Card,37,No,3.2,No,188.53,No
+CAS-00770,0,Curated,34.28,3,0,0,No,PayPal,83,Yes,3.8,No,101.09,No
+CAS-00771,41,Curated,39.25,5,0,1,No,Debit Card,111,Yes,4.9,No,2597.71,No
+CAS-00772,48,Basic,18.67,8,0,4,No,Credit Card,684,Yes,4.5,No,1262.54,Yes
+CAS-00773,11,Basic,21.03,7,0,1,No,Credit Card,134,Yes,4.3,No,360.49,Yes
+CAS-00774,12,Deluxe,62.59,4,0,3,No,Credit Card,226,Yes,4.4,No,408.87,Yes
+CAS-00775,3,Deluxe,54.12,7,1,1,No,PayPal,185,Yes,4.4,No,203.83,No
+CAS-00776,28,Deluxe,48.57,5,2,1,No,PayPal,574,Yes,3.2,No,1690.75,No
+CAS-00777,16,Basic,18.51,6,0,1,No,Debit Card,232,Yes,5.0,No,355.43,Yes
+CAS-00778,48,Basic,18.21,5,2,0,No,Credit Card,84,No,4.6,Yes,698.0,No
+CAS-00779,7,Curated,31.62,3,1,0,No,Debit Card,761,No,3.4,No,527.01,No
+CAS-00780,45,Basic,20.03,6,0,0,No,Credit Card,226,No,2.8,No,809.83,Yes
+CAS-00781,3,Curated,35.79,6,0,1,No,Debit Card,71,Yes,3.3,Yes,103.17,Yes
+CAS-00782,42,Deluxe,45.71,8,0,2,No,PayPal,847,Yes,3.9,No,2234.56,No
+CAS-00783,48,Deluxe,59.25,3,0,1,No,Credit Card,23,No,4.2,No,4321.27,No
+CAS-00784,13,Basic,18.84,4,0,2,No,Credit Card,68,No,4.3,No,17.41,Yes
+CAS-00785,27,Deluxe,62.98,7,0,1,No,Debit Card,327,Yes,3.9,No,1254.24,No
+CAS-00786,40,Deluxe,57.07,8,0,0,No,Debit Card,83,Yes,5.0,No,1888.12,No
+CAS-00787,8,Deluxe,56.92,7,1,1,No,Credit Card,86,No,4.9,No,692.95,No
+CAS-00788,32,Deluxe,61.69,3,0,1,No,Debit Card,104,Yes,5.0,No,1794.77,No
+CAS-00789,29,Curated,37.5,4,0,1,No,PayPal,544,No,4.5,No,1606.47,No
+CAS-00790,34,Deluxe,45.66,7,0,3,No,PayPal,382,Yes,3.9,No,4814.87,No
+CAS-00791,43,Basic,16.44,9,1,4,No,Credit Card,135,Yes,4.8,No,731.26,Yes
+CAS-00792,25,Basic,23.23,6,1,1,No,Buy Now Pay Later,206,No,3.0,Yes,583.13,Yes
+CAS-00793,12,Deluxe,53.23,4,0,1,No,Debit Card,51,Yes,5.0,Yes,883.97,No
+CAS-00794,29,Basic,20.07,8,0,3,No,PayPal,540,Yes,3.0,No,1094.16,No
+CAS-00795,13,Deluxe,59.75,5,0,1,No,Credit Card,84,Yes,4.1,No,1569.42,No
+CAS-00796,44,Curated,35.87,5,1,4,Yes,Credit Card,442,Yes,4.5,No,1022.61,Yes
+CAS-00797,24,Curated,34.68,7,1,0,No,Credit Card,716,Yes,3.8,Yes,1520.51,No
+CAS-00798,17,Curated,34.03,3,0,4,No,PayPal,169,Yes,3.3,Yes,590.94,No
+CAS-00799,0,Curated,36.73,5,0,2,No,PayPal,199,Yes,4.4,No,69.57,No
+CAS-00800,44,Basic,21.34,10,0,1,No,Debit Card,320,Yes,4.0,No,665.05,Yes
+CAS-00801,8,Basic,20.04,2,1,0,Yes,Debit Card,568,No,4.3,Yes,533.98,No
+CAS-00802,23,Deluxe,57.57,9,1,0,No,Credit Card,129,No,5.0,No,1433.62,No
+CAS-00803,17,Basic,17.74,7,2,3,No,Credit Card,386,No,5.0,No,419.53,Yes
+CAS-00804,4,Curated,32.48,5,0,2,No,PayPal,661,Yes,4.2,Yes,409.6,No
+CAS-00805,35,Curated,30.63,4,1,1,No,PayPal,386,Yes,4.0,No,1411.99,Yes
+CAS-00806,24,Deluxe,58.8,5,1,1,No,Credit Card,477,No,3.9,No,3796.8,No
+CAS-00807,38,Curated,35.9,7,0,0,No,Credit Card,414,Yes,4.0,No,875.25,No
+CAS-00808,0,Basic,19.81,2,0,1,No,Credit Card,150,No,4.4,No,0.0,No
+CAS-00809,45,Deluxe,51.89,5,0,1,No,Credit Card,149,No,4.5,No,2048.98,No
+CAS-00810,9,Curated,36.72,3,0,2,No,Debit Card,1001,No,4.3,Yes,845.43,No
+CAS-00811,23,Curated,34.86,6,0,1,No,Debit Card,369,Yes,4.3,Yes,557.89,No
+CAS-00812,48,Basic,20.49,5,1,1,Yes,PayPal,254,No,3.3,No,476.46,No
+CAS-00813,5,Curated,38.15,6,3,3,No,Debit Card,67,No,4.9,No,127.29,No
+CAS-00814,26,Curated,36.3,5,0,2,No,Buy Now Pay Later,20,No,3.6,No,1030.03,No
+CAS-00815,27,Basic,23.46,3,2,2,No,Credit Card,166,Yes,4.4,No,501.95,Yes
+CAS-00816,47,Basic,17.36,3,0,0,No,Debit Card,351,Yes,3.0,No,2076.68,No
+CAS-00817,20,Basic,17.3,7,0,1,No,Credit Card,221,Yes,4.7,No,460.26,No
+CAS-00818,22,Basic,16.04,2,1,0,No,Debit Card,90,Yes,3.0,No,374.93,Yes
+CAS-00819,2,Basic,23.22,8,0,2,No,PayPal,178,Yes,3.9,No,134.64,No
+CAS-00820,3,Deluxe,55.39,8,0,0,Yes,PayPal,247,No,5.0,No,142.01,No
+CAS-00821,24,Basic,17.87,8,1,3,No,Credit Card,256,Yes,5.0,No,602.61,No
+CAS-00822,16,Basic,16.1,13,2,1,Yes,PayPal,268,Yes,2.9,No,246.78,No
+CAS-00823,45,Deluxe,54.2,11,1,2,No,Credit Card,314,No,4.7,No,3229.25,No
+CAS-00824,15,Basic,21.42,5,0,1,No,Credit Card,887,Yes,3.4,No,635.25,Yes
+CAS-00825,0,Basic,18.65,3,0,2,Yes,Credit Card,126,Yes,3.4,No,82.18,No
+CAS-00826,8,Curated,29.55,6,0,1,No,Credit Card,194,Yes,4.4,No,323.22,No
+CAS-00827,18,Curated,33.51,6,1,1,No,Buy Now Pay Later,233,No,4.0,No,854.13,Yes
+CAS-00828,29,Deluxe,57.56,6,0,1,No,Credit Card,726,No,5.0,No,1352.92,No
+CAS-00829,23,Basic,18.11,6,0,1,No,PayPal,79,Yes,4.3,No,400.99,No
+CAS-00830,7,Basic,20.85,5,1,1,No,Debit Card,506,No,5.0,No,331.8,Yes
+CAS-00831,8,Basic,22.54,4,1,2,No,Credit Card,290,No,3.8,No,160.48,No
+CAS-00832,10,Curated,35.45,5,0,2,No,Credit Card,299,No,4.1,No,246.65,No
+CAS-00833,40,Basic,17.91,3,1,0,No,PayPal,111,No,4.7,No,537.53,Yes
+CAS-00834,7,Basic,19.08,4,1,3,No,PayPal,1071,No,4.0,No,589.09,Yes
+CAS-00835,7,Basic,22.59,7,0,0,Yes,Credit Card,363,No,3.5,No,264.51,Yes
+CAS-00836,40,Basic,22.0,7,1,1,No,PayPal,345,Yes,5.0,No,1603.0,No
+CAS-00837,20,Curated,35.88,7,1,1,No,Credit Card,58,Yes,3.8,Yes,637.52,No
+CAS-00838,42,Basic,21.02,6,0,2,No,Debit Card,744,Yes,2.5,No,1156.23,Yes
+CAS-00839,37,Curated,36.57,9,2,2,No,Credit Card,46,Yes,4.5,No,717.24,No
+CAS-00840,2,Curated,38.31,11,0,0,No,Debit Card,151,No,5.0,No,157.85,No
+CAS-00841,25,Curated,30.48,5,0,1,Yes,Credit Card,351,No,3.7,No,1076.07,No
+CAS-00842,3,Basic,21.49,7,1,1,No,PayPal,242,Yes,2.8,No,128.06,Yes
+CAS-00843,28,Curated,33.39,3,0,0,No,PayPal,239,No,4.7,No,1417.11,No
+CAS-00844,1,Curated,37.48,5,1,1,No,Credit Card,934,Yes,4.4,No,459.01,No
+CAS-00845,26,Curated,32.03,2,1,2,No,PayPal,76,Yes,4.4,No,668.5,No
+CAS-00846,21,Curated,36.96,4,0,0,No,Credit Card,542,No,4.2,Yes,856.06,Yes
+CAS-00847,3,Curated,34.67,6,0,1,Yes,Credit Card,211,No,3.4,Yes,211.43,No
+CAS-00848,14,Curated,33.35,4,1,0,No,PayPal,272,Yes,4.7,No,329.04,Yes
+CAS-00849,41,Curated,34.45,5,1,1,No,Buy Now Pay Later,166,Yes,3.4,Yes,2610.22,No
+CAS-00850,8,Basic,18.8,2,0,1,No,Debit Card,283,No,3.4,Yes,213.79,Yes
+CAS-00851,10,Curated,37.08,7,1,1,Yes,Credit Card,272,No,4.3,Yes,297.74,No
+CAS-00852,40,Curated,28.82,4,0,2,No,Credit Card,340,Yes,4.2,No,556.13,No
+CAS-00853,39,Basic,19.94,6,1,0,No,Credit Card,163,Yes,4.2,No,989.37,No
+CAS-00854,14,Basic,21.55,5,0,0,No,Buy Now Pay Later,1052,No,3.5,Yes,647.79,No
+CAS-00855,46,Basic,19.62,5,0,0,No,Debit Card,379,Yes,4.3,Yes,1182.09,No
+CAS-00856,46,Curated,30.5,2,0,3,No,Debit Card,493,Yes,2.2,Yes,1363.09,No
+CAS-00857,10,Deluxe,49.47,6,0,3,No,Debit Card,1418,Yes,3.9,Yes,1070.51,No
+CAS-00858,32,Basic,19.86,9,1,0,No,Debit Card,754,Yes,4.5,No,1717.57,No
+CAS-00859,16,Basic,21.47,7,0,1,No,Credit Card,88,Yes,3.8,No,363.32,No
+CAS-00860,26,Curated,32.61,3,0,1,No,Debit Card,226,Yes,4.1,No,1358.15,Yes
+CAS-00861,44,Deluxe,52.96,8,0,0,No,Credit Card,423,Yes,3.6,No,2847.42,No
+CAS-00862,16,Deluxe,54.46,5,1,0,No,Credit Card,499,Yes,3.8,No,822.54,No
+CAS-00863,26,Curated,36.02,5,0,2,Yes,Credit Card,138,Yes,3.5,No,662.9,No
+CAS-00864,47,Deluxe,56.47,3,0,2,No,Credit Card,51,Yes,3.5,No,2422.28,No
+CAS-00865,35,Basic,16.95,6,2,0,No,Buy Now Pay Later,245,Yes,4.5,No,946.94,Yes
+CAS-00866,10,Curated,36.99,4,0,1,Yes,Credit Card,539,No,3.6,No,973.73,No
+CAS-00867,8,Basic,16.27,6,0,2,No,Credit Card,50,Yes,4.2,No,129.19,No
+CAS-00868,23,Curated,35.22,5,1,2,No,Credit Card,104,No,3.7,No,1831.63,No
+CAS-00869,33,Curated,32.1,9,1,5,No,Debit Card,621,No,4.3,No,1934.18,No
+CAS-00870,18,Curated,36.67,13,1,2,No,Debit Card,278,Yes,2.7,No,1569.55,No
+CAS-00871,9,Curated,36.26,5,0,1,No,Debit Card,713,Yes,5.0,No,684.36,No
+CAS-00872,5,Basic,16.87,6,1,0,No,Debit Card,656,No,3.9,Yes,434.94,Yes
+CAS-00873,17,Deluxe,55.07,3,1,4,No,Debit Card,748,Yes,4.3,Yes,1654.06,No
+CAS-00874,0,Curated,33.66,7,1,3,No,Credit Card,172,No,3.4,No,0.0,Yes
+CAS-00875,44,Deluxe,51.89,8,0,2,No,Credit Card,486,Yes,3.7,No,3215.01,No
+CAS-00876,39,Curated,38.43,4,0,0,No,PayPal,307,Yes,4.3,Yes,2554.26,Yes
+CAS-00877,24,Basic,18.14,4,1,1,No,Credit Card,234,Yes,3.9,No,498.72,No
+CAS-00878,25,Curated,34.58,6,3,0,No,Debit Card,63,No,2.7,No,599.77,No
+CAS-00879,9,Basic,23.03,10,0,0,No,Buy Now Pay Later,43,No,4.2,No,166.8,Yes
+CAS-00880,18,Basic,18.53,6,0,2,No,PayPal,189,No,3.9,No,427.88,Yes
+CAS-00881,1,Curated,34.63,4,0,1,Yes,Debit Card,362,No,4.1,No,195.06,No
+CAS-00882,40,Basic,19.79,6,0,1,No,Debit Card,614,Yes,4.4,No,516.97,Yes
+CAS-00883,7,Deluxe,55.18,4,0,1,No,Credit Card,185,No,4.0,No,648.32,No
+CAS-00884,37,Basic,24.19,6,0,1,Yes,PayPal,307,No,3.7,No,458.61,Yes
+CAS-00885,35,Deluxe,59.04,3,0,2,Yes,Credit Card,39,Yes,3.2,No,2744.53,No
+CAS-00886,33,Curated,37.97,4,0,1,No,PayPal,684,Yes,4.4,No,1569.97,No
+CAS-00887,31,Curated,38.96,5,0,2,No,Debit Card,308,Yes,4.1,No,2343.26,No
+CAS-00888,36,Deluxe,53.87,6,1,4,No,Credit Card,265,Yes,3.6,No,1106.66,No
+CAS-00889,25,Curated,36.91,5,1,1,No,PayPal,126,No,5.0,No,1125.36,Yes
+CAS-00890,21,Curated,35.68,8,0,3,No,PayPal,582,No,3.0,No,651.12,No
+CAS-00891,29,Curated,43.15,4,0,2,No,Debit Card,786,Yes,3.4,No,1742.06,Yes
+CAS-00892,24,Basic,19.35,3,1,1,No,Credit Card,505,Yes,4.4,Yes,759.64,No
+CAS-00893,22,Curated,35.44,7,1,2,No,Buy Now Pay Later,396,No,3.6,No,1652.51,No
+CAS-00894,8,Basic,20.5,5,0,1,No,Credit Card,749,Yes,4.5,No,485.75,Yes
+CAS-00895,13,Curated,34.82,6,1,2,Yes,PayPal,184,Yes,4.5,No,461.86,No
+CAS-00896,20,Basic,18.41,9,0,2,No,PayPal,698,No,4.2,No,797.28,No
+CAS-00897,15,Curated,37.18,3,0,1,No,Credit Card,26,Yes,4.9,No,375.76,No
+CAS-00898,17,Curated,30.26,6,1,0,No,Debit Card,60,No,4.3,No,1738.47,No
+CAS-00899,24,Curated,33.63,6,1,1,No,Credit Card,822,No,4.1,No,1431.82,No
+CAS-00900,1,Curated,34.56,4,0,0,No,Buy Now Pay Later,641,Yes,3.4,No,190.91,Yes
+CAS-00901,25,Curated,33.51,12,0,0,No,PayPal,354,No,2.8,No,463.02,No
+CAS-00902,17,Basic,24.51,4,0,1,No,Debit Card,589,No,4.4,Yes,560.44,Yes
+CAS-00903,19,Curated,34.87,5,1,1,No,Debit Card,42,Yes,5.0,No,1081.93,No
+CAS-00904,2,Deluxe,54.61,2,0,0,No,Buy Now Pay Later,338,Yes,2.7,No,262.65,No
+CAS-00905,19,Deluxe,58.52,5,0,3,No,Debit Card,211,Yes,3.5,No,567.42,No
+CAS-00906,21,Basic,19.94,10,0,3,No,Credit Card,181,Yes,2.1,No,483.06,No
+CAS-00907,26,Basic,17.68,11,0,2,No,Credit Card,491,No,4.2,Yes,580.2,No
+CAS-00908,14,Curated,33.9,4,0,1,No,Credit Card,416,Yes,4.4,No,377.31,No
+CAS-00909,4,Deluxe,56.53,2,0,1,No,Credit Card,102,Yes,3.9,No,536.98,No
+CAS-00910,7,Deluxe,50.5,8,1,0,Yes,Credit Card,143,Yes,4.1,No,602.18,Yes
+CAS-00911,28,Curated,36.01,6,0,1,No,PayPal,384,Yes,4.7,No,898.79,Yes
+CAS-00912,40,Curated,34.85,7,0,3,No,Credit Card,160,No,3.9,No,1205.62,Yes
+CAS-00913,23,Deluxe,66.09,5,0,3,No,Credit Card,57,No,4.6,No,819.33,No
+CAS-00914,42,Curated,35.17,2,2,2,No,Credit Card,201,No,3.5,No,1683.33,Yes
+CAS-00915,26,Curated,33.87,5,0,0,No,PayPal,114,No,4.0,No,1093.8,No
+CAS-00916,47,Basic,19.96,5,1,2,No,PayPal,713,Yes,3.7,Yes,1882.82,No
+CAS-00917,10,Basic,23.99,5,2,1,No,Credit Card,244,No,3.4,Yes,482.81,No
+CAS-00918,20,Basic,19.24,4,0,2,No,PayPal,99,Yes,4.9,No,312.44,No
+CAS-00919,41,Deluxe,57.6,8,1,1,No,Credit Card,315,No,4.3,No,1682.77,No
+CAS-00920,12,Basic,16.84,6,0,1,No,Credit Card,362,No,3.9,No,389.88,No
+CAS-00921,43,Curated,35.28,8,2,1,No,Debit Card,178,Yes,5.0,No,1932.39,No
+CAS-00922,24,Curated,32.71,4,2,1,No,Credit Card,673,No,4.4,No,736.64,No
+CAS-00923,22,Deluxe,59.45,6,1,1,No,Credit Card,204,No,3.1,No,2046.17,No
+CAS-00924,30,Curated,34.14,3,0,1,No,Debit Card,307,Yes,4.8,No,998.9,No
+CAS-00925,4,Basic,18.45,8,3,3,No,PayPal,184,No,4.8,No,283.6,No
+CAS-00926,32,Basic,24.07,6,1,2,No,Credit Card,126,No,5.0,No,582.3,Yes
+CAS-00927,27,Basic,21.55,2,0,1,Yes,PayPal,95,Yes,4.8,Yes,500.68,Yes
+CAS-00928,14,Curated,36.48,9,2,3,No,Credit Card,221,No,3.2,Yes,847.71,Yes
+CAS-00929,0,Curated,35.59,3,0,2,Yes,Debit Card,665,No,3.1,No,296.17,No
+CAS-00930,4,Curated,33.55,6,0,0,No,Buy Now Pay Later,232,No,3.1,No,232.89,No
+CAS-00931,21,Basic,20.03,2,0,2,No,PayPal,302,No,4.4,No,851.55,No
+CAS-00932,12,Basic,18.77,7,1,0,No,Credit Card,448,No,3.1,Yes,309.29,Yes
+CAS-00933,27,Curated,32.25,12,1,1,No,Debit Card,395,Yes,4.5,No,727.4,Yes
+CAS-00934,28,Deluxe,57.03,4,1,0,No,PayPal,546,Yes,3.2,No,1799.84,No
+CAS-00935,43,Curated,37.2,8,2,0,No,Buy Now Pay Later,248,No,3.2,No,1548.99,No
+CAS-00936,8,Curated,32.83,3,0,0,Yes,Credit Card,293,Yes,3.9,Yes,481.77,No
+CAS-00937,13,Basic,20.66,3,1,4,Yes,PayPal,406,Yes,5.0,No,379.76,Yes
+CAS-00938,23,Curated,31.42,2,1,4,No,Credit Card,115,No,3.1,No,673.57,No
+CAS-00939,30,Basic,19.17,3,0,1,No,PayPal,142,Yes,3.7,No,886.39,Yes
+CAS-00940,1,Curated,27.08,4,0,1,No,PayPal,1677,Yes,3.3,No,779.02,Yes
+CAS-00941,45,Deluxe,63.21,7,0,1,Yes,Credit Card,110,Yes,5.0,Yes,3226.08,No
+CAS-00942,19,Curated,37.36,2,0,2,No,Credit Card,747,No,4.0,No,860.83,Yes
+CAS-00943,44,Curated,30.3,4,0,4,No,PayPal,696,Yes,3.4,No,1038.84,Yes
+CAS-00944,4,Deluxe,60.6,5,0,1,No,Credit Card,73,Yes,4.4,No,434.72,No
+CAS-00945,44,Curated,33.3,9,1,1,Yes,Credit Card,206,Yes,3.2,No,2177.1,No
+CAS-00946,20,Deluxe,51.2,2,1,0,No,PayPal,377,No,3.0,No,1261.3,No
+CAS-00947,47,Deluxe,63.06,7,0,1,No,PayPal,415,Yes,4.8,Yes,2782.1,No
+CAS-00948,3,Deluxe,54.85,10,0,3,No,Credit Card,61,Yes,4.4,No,173.09,No
+CAS-00949,4,Curated,36.64,5,0,0,No,Credit Card,344,Yes,5.0,No,285.02,No
+CAS-00950,5,Deluxe,54.94,7,0,1,No,Credit Card,442,Yes,3.2,No,338.92,Yes
+CAS-00951,42,Deluxe,55.05,10,0,1,No,Credit Card,532,No,3.6,No,3302.84,Yes
+CAS-00952,18,Curated,37.99,2,0,1,Yes,PayPal,363,No,3.3,No,460.06,No
+CAS-00953,30,Curated,33.12,8,0,2,No,PayPal,850,No,3.0,No,1647.7,Yes
+CAS-00954,30,Basic,20.12,2,1,6,No,Credit Card,636,Yes,4.7,No,940.35,No
+CAS-00955,20,Basic,20.2,3,2,0,No,Debit Card,164,No,3.6,Yes,840.02,No
+CAS-00956,13,Curated,39.16,5,1,1,No,Debit Card,148,Yes,4.0,No,934.17,No
+CAS-00957,30,Basic,20.3,4,1,1,No,Buy Now Pay Later,670,No,4.6,Yes,1039.41,Yes
+CAS-00958,9,Curated,32.95,4,0,2,No,Credit Card,936,No,4.0,No,500.09,No
+CAS-00959,36,Curated,38.8,3,0,3,No,Credit Card,145,No,4.3,No,2371.09,No
+CAS-00960,24,Curated,35.56,3,1,0,No,Credit Card,178,Yes,3.7,No,455.92,No
+CAS-00961,47,Curated,35.6,7,1,1,No,PayPal,500,Yes,4.3,No,2122.79,No
+CAS-00962,35,Deluxe,53.52,5,2,1,No,PayPal,169,No,4.7,No,1952.04,Yes
+CAS-00963,8,Deluxe,64.32,7,1,0,No,PayPal,694,Yes,3.7,No,817.45,No
+CAS-00964,19,Curated,34.64,5,1,4,No,Debit Card,452,No,4.6,No,835.69,Yes
+CAS-00965,24,Deluxe,57.18,6,2,3,No,Debit Card,683,No,3.7,No,967.78,No
+CAS-00966,29,Deluxe,56.98,6,3,5,No,PayPal,542,Yes,4.4,No,2398.97,No
+CAS-00967,31,Basic,22.21,3,0,2,No,Credit Card,1084,Yes,2.1,No,1257.58,Yes
+CAS-00968,3,Deluxe,50.88,4,0,0,No,Credit Card,603,No,3.5,Yes,371.61,No
+CAS-00969,24,Deluxe,46.6,7,1,2,No,Debit Card,219,No,3.2,No,682.59,No
+CAS-00970,15,Deluxe,54.79,10,1,2,No,Credit Card,960,No,4.3,Yes,1161.86,No
+CAS-00971,5,Basic,21.81,5,1,3,No,Buy Now Pay Later,431,No,5.0,No,326.86,No
+CAS-00972,44,Curated,37.1,6,0,1,No,Credit Card,574,No,4.0,No,1840.95,Yes
+CAS-00973,17,Basic,21.94,7,0,0,No,Credit Card,428,No,5.0,No,547.2,No
+CAS-00974,2,Deluxe,52.75,6,0,1,No,Debit Card,350,No,4.9,No,256.41,No
+CAS-00975,29,Deluxe,61.89,4,1,1,No,PayPal,450,Yes,4.2,No,2517.52,No
+CAS-00976,40,Basic,19.31,4,2,1,No,Debit Card,274,Yes,3.7,No,850.89,Yes
+CAS-00977,39,Deluxe,62.88,8,0,0,No,PayPal,292,Yes,4.0,No,4295.16,No
+CAS-00978,29,Deluxe,49.23,3,2,0,No,Debit Card,326,Yes,5.0,No,1641.79,No
+CAS-00979,21,Curated,39.05,4,1,1,No,PayPal,764,Yes,5.0,No,745.28,No
+CAS-00980,32,Basic,18.2,3,0,0,No,Credit Card,744,Yes,3.8,No,438.8,Yes
+CAS-00981,27,Curated,33.41,9,1,1,No,PayPal,312,Yes,4.7,No,1321.43,No
+CAS-00982,41,Basic,19.09,5,0,1,No,Debit Card,287,No,4.3,No,866.55,Yes
+CAS-00983,38,Basic,24.17,3,0,3,No,Credit Card,391,Yes,3.6,No,1165.28,Yes
+CAS-00984,40,Basic,17.93,5,0,1,No,PayPal,631,Yes,5.0,No,1165.23,Yes
+CAS-00985,41,Curated,33.26,6,0,1,No,Credit Card,161,Yes,3.9,Yes,1285.24,Yes
+CAS-00986,28,Deluxe,58.94,9,1,0,No,PayPal,134,No,5.0,No,1794.43,No
+CAS-00987,6,Basic,18.89,8,0,0,No,Debit Card,172,Yes,4.2,No,277.65,Yes
+CAS-00988,21,Curated,35.77,8,2,1,No,Credit Card,171,Yes,4.4,No,637.31,Yes
+CAS-00989,35,Curated,34.6,7,0,1,No,Credit Card,261,Yes,3.7,No,964.77,No
+CAS-00990,5,Curated,36.11,5,1,2,No,PayPal,688,No,4.0,No,468.79,No
+CAS-00991,35,Basic,17.73,4,0,2,No,Credit Card,400,No,4.3,No,837.55,Yes
+CAS-00992,17,Curated,31.97,6,0,3,No,Debit Card,288,Yes,4.5,No,803.62,Yes
+CAS-00993,8,Basic,19.32,8,0,0,No,Credit Card,838,No,4.4,Yes,410.61,Yes
+CAS-00994,27,Curated,35.81,6,1,2,No,Credit Card,840,No,3.6,No,732.0,No
+CAS-00995,8,Basic,18.72,7,0,2,No,Credit Card,350,Yes,3.6,No,374.35,No
+CAS-00996,17,Curated,31.0,2,1,3,No,PayPal,573,No,3.4,No,353.04,No
+CAS-00997,19,Basic,21.85,4,0,3,No,Credit Card,307,No,3.4,No,645.44,No
+CAS-00998,14,Curated,30.74,13,0,4,No,Credit Card,442,Yes,4.7,No,671.64,No
+CAS-00999,41,Deluxe,58.0,6,1,0,No,PayPal,401,Yes,4.4,No,1113.92,No
+CAS-01000,26,Curated,39.42,5,2,2,Yes,Credit Card,329,Yes,4.6,No,1293.91,No
+CAS-01001,7,Basic,18.32,2,2,3,No,Debit Card,206,No,3.4,Yes,145.14,No
+CAS-01002,42,Curated,37.67,7,1,1,No,Buy Now Pay Later,366,Yes,3.9,No,1216.63,No
+CAS-01003,13,Deluxe,55.21,3,0,3,No,Credit Card,422,No,4.8,No,820.42,No
+CAS-01004,45,Curated,40.98,7,2,6,No,Credit Card,370,No,5.0,No,2628.19,No
+CAS-01005,28,Basic,18.26,4,1,1,Yes,Credit Card,781,No,4.3,No,658.86,Yes
+CAS-01006,18,Basic,18.97,6,1,0,No,PayPal,310,Yes,3.0,No,334.8,No
+CAS-01007,38,Basic,17.05,3,2,0,Yes,Debit Card,322,Yes,3.6,No,595.62,Yes
+CAS-01008,27,Curated,35.62,6,3,2,No,Credit Card,86,No,3.8,Yes,1307.84,No
+CAS-01009,16,Basic,21.3,8,0,0,No,Credit Card,342,Yes,3.9,No,1011.57,Yes
+CAS-01010,41,Basic,18.03,6,0,5,No,Credit Card,244,Yes,3.7,Yes,778.29,Yes
+CAS-01011,26,Curated,32.1,5,2,1,No,Buy Now Pay Later,286,Yes,4.5,Yes,1283.55,No
+CAS-01012,19,Deluxe,55.96,7,4,2,No,Buy Now Pay Later,718,No,5.0,Yes,1132.96,No
+CAS-01013,15,Deluxe,50.68,7,0,4,No,PayPal,306,No,3.6,Yes,713.39,No
+CAS-01014,14,Basic,18.83,10,2,0,No,Debit Card,354,No,5.0,No,364.46,Yes
+CAS-01015,15,Curated,31.43,12,0,2,No,Credit Card,153,Yes,1.9,No,475.5,No
+CAS-01016,8,Deluxe,61.03,8,1,0,No,Credit Card,530,No,5.0,No,663.96,No
+CAS-01017,35,Basic,21.17,7,0,1,No,PayPal,56,Yes,5.0,No,1403.3,No
+CAS-01018,26,Basic,19.83,2,0,1,No,Debit Card,229,Yes,5.0,Yes,305.76,No
+CAS-01019,46,Basic,20.17,5,1,1,No,PayPal,1391,Yes,2.6,No,1459.36,No
+CAS-01020,23,Deluxe,49.53,4,0,2,No,Credit Card,543,Yes,5.0,No,1621.63,No
+CAS-01021,45,Curated,35.58,2,0,2,Yes,Debit Card,464,Yes,4.3,No,1715.7,No
+CAS-01022,11,Deluxe,47.86,5,1,3,No,Credit Card,22,Yes,4.5,No,921.12,No
+CAS-01023,43,Curated,34.38,3,1,1,No,PayPal,366,Yes,5.0,No,2786.22,No
+CAS-01024,24,Basic,16.47,4,1,3,No,Credit Card,387,Yes,2.9,No,533.41,No
+CAS-01025,0,Curated,34.4,5,0,1,No,Credit Card,617,Yes,3.9,No,331.16,Yes
+CAS-01026,28,Curated,34.59,7,1,1,No,Credit Card,187,Yes,4.3,No,1474.61,No
+CAS-01027,48,Curated,37.14,3,1,0,No,Credit Card,138,Yes,4.6,No,1103.09,No
+CAS-01028,25,Deluxe,54.86,6,0,3,No,Debit Card,687,No,3.7,No,1633.1,No
+CAS-01029,34,Curated,32.69,2,0,0,No,Credit Card,725,Yes,4.4,No,1194.97,No
+CAS-01030,24,Deluxe,53.11,6,0,2,Yes,PayPal,443,Yes,4.0,Yes,2728.7,No
+CAS-01031,45,Basic,25.54,8,0,0,No,PayPal,54,No,5.0,No,1126.96,No
+CAS-01032,17,Curated,35.87,4,0,0,No,Credit Card,261,No,3.2,No,386.2,No
+CAS-01033,21,Curated,35.06,2,0,1,No,Credit Card,965,No,3.9,No,1209.14,Yes
+CAS-01034,21,Basic,17.09,5,1,0,No,Credit Card,116,Yes,5.0,Yes,548.3,Yes
+CAS-01035,48,Curated,33.81,5,0,4,No,Credit Card,908,Yes,3.1,No,1731.68,No
+CAS-01036,15,Basic,20.48,7,1,0,No,Debit Card,285,No,4.3,Yes,372.6,Yes
+CAS-01037,35,Deluxe,60.12,4,1,0,No,PayPal,466,Yes,3.3,Yes,2930.07,No
+CAS-01038,19,Deluxe,55.81,4,0,0,No,Credit Card,88,No,5.0,No,1231.0,Yes
+CAS-01039,42,Basic,23.34,2,0,2,No,Credit Card,777,Yes,4.4,No,1828.93,Yes
+CAS-01040,14,Basic,23.18,8,3,2,No,Debit Card,26,Yes,3.4,Yes,358.02,No
+CAS-01041,25,Basic,22.04,5,0,0,No,Debit Card,272,Yes,4.9,No,710.31,No
+CAS-01042,29,Deluxe,50.02,4,0,2,No,Credit Card,264,Yes,4.2,No,1053.49,Yes
+CAS-01043,21,Curated,31.21,6,1,4,No,PayPal,90,No,4.0,No,1051.61,No
+CAS-01044,24,Curated,34.6,4,0,3,No,Credit Card,590,Yes,4.9,No,974.2,Yes
+CAS-01045,38,Basic,16.7,7,0,4,No,Credit Card,161,Yes,5.0,No,589.6,No
+CAS-01046,6,Basic,19.07,3,1,1,Yes,PayPal,490,Yes,4.8,No,250.56,No
+CAS-01047,31,Basic,16.62,11,0,0,No,Credit Card,190,Yes,4.2,No,877.36,Yes
+CAS-01048,16,Deluxe,57.18,2,0,1,No,Debit Card,440,No,4.1,No,1178.36,No
+CAS-01049,34,Basic,21.11,5,1,0,No,PayPal,386,No,4.1,Yes,572.73,Yes
+CAS-01050,0,Deluxe,59.5,2,1,2,No,Credit Card,493,Yes,4.2,No,172.23,No
+CAS-01051,9,Basic,21.24,4,0,0,No,Debit Card,153,Yes,4.0,Yes,234.18,Yes
+CAS-01052,30,Basic,18.55,5,0,1,No,Credit Card,345,No,4.7,No,527.89,No
+CAS-01053,10,Curated,38.13,3,0,0,No,Credit Card,321,Yes,3.1,No,360.5,No
+CAS-01054,25,Curated,35.61,4,3,0,No,Credit Card,683,Yes,3.8,Yes,1278.4,Yes
+CAS-01055,0,Curated,32.57,4,0,2,No,Credit Card,276,No,4.7,No,113.87,Yes
+CAS-01056,43,Curated,30.64,8,1,1,No,Debit Card,871,Yes,3.7,No,1631.8,No
+CAS-01057,27,Deluxe,54.87,4,1,1,No,Credit Card,636,No,4.7,No,1577.48,No
+CAS-01058,20,Curated,33.61,3,2,1,No,Debit Card,97,Yes,3.9,No,581.58,No
+CAS-01059,24,Basic,21.13,7,1,1,No,Credit Card,262,Yes,4.6,No,743.94,Yes
+CAS-01060,16,Curated,29.86,4,1,1,No,PayPal,254,No,4.1,No,681.59,No
+CAS-01061,16,Basic,20.1,6,2,1,No,Credit Card,53,Yes,3.4,Yes,394.0,No
+CAS-01062,12,Curated,34.27,8,2,2,No,PayPal,532,Yes,3.5,No,1228.17,Yes
+CAS-01063,5,Curated,37.94,2,2,1,No,Credit Card,381,Yes,4.6,No,312.35,No
+CAS-01064,17,Curated,35.44,3,0,1,No,Credit Card,159,No,4.6,No,781.18,No
+CAS-01065,8,Curated,35.45,8,1,0,No,PayPal,119,No,3.8,Yes,194.81,No
+CAS-01066,5,Curated,32.54,6,0,1,No,Credit Card,657,No,3.2,No,625.59,No
+CAS-01067,46,Curated,31.02,2,1,4,No,PayPal,143,Yes,3.9,No,2115.11,No
+CAS-01068,4,Deluxe,52.33,7,0,0,No,Credit Card,65,Yes,4.4,No,211.91,No
+CAS-01069,33,Deluxe,60.89,7,1,2,No,Debit Card,428,Yes,4.5,No,1331.42,No
+CAS-01070,2,Curated,27.45,6,0,2,No,Buy Now Pay Later,511,No,3.7,No,328.89,No
+CAS-01071,4,Curated,34.87,4,1,1,No,Credit Card,227,No,3.1,No,208.55,No
+CAS-01072,21,Deluxe,53.41,6,0,1,No,Credit Card,716,No,3.8,No,902.46,No
+CAS-01073,11,Curated,32.84,5,0,1,No,Credit Card,297,No,2.6,No,1230.64,No
+CAS-01074,37,Curated,36.13,10,0,2,No,Debit Card,306,Yes,3.7,No,2104.23,No
+CAS-01075,3,Basic,21.62,2,0,1,No,Debit Card,628,Yes,5.0,No,374.04,Yes
+CAS-01076,7,Curated,33.44,5,0,1,No,Credit Card,112,No,4.4,No,259.7,Yes
+CAS-01077,23,Deluxe,52.06,2,1,0,No,Debit Card,1034,Yes,4.1,No,1491.89,No
+CAS-01078,16,Deluxe,54.48,3,0,2,No,Credit Card,280,No,4.9,No,439.73,No
+CAS-01079,41,Curated,32.22,2,0,2,No,PayPal,681,Yes,4.3,Yes,1347.12,No
+CAS-01080,42,Basic,20.76,4,1,1,No,Debit Card,111,Yes,3.1,No,1436.65,No
+CAS-01081,17,Curated,34.55,8,0,1,No,PayPal,508,Yes,3.8,Yes,1127.16,No
+CAS-01082,36,Basic,18.25,4,0,3,No,PayPal,420,No,4.0,No,770.65,No
+CAS-01083,2,Deluxe,52.78,8,1,1,No,Credit Card,1094,No,3.8,No,615.96,No
+CAS-01084,25,Deluxe,55.85,5,0,2,No,Credit Card,529,No,3.3,No,1363.58,No
+CAS-01085,24,Curated,39.39,4,2,2,Yes,Credit Card,225,Yes,4.2,No,1823.83,No
+CAS-01086,45,Deluxe,51.63,3,1,3,Yes,Credit Card,444,Yes,3.4,No,3274.82,No
+CAS-01087,3,Basic,23.23,10,0,1,No,Credit Card,46,Yes,3.7,No,164.58,No
+CAS-01088,11,Basic,18.87,8,2,1,No,Credit Card,67,Yes,4.8,No,182.07,No
+CAS-01089,23,Curated,36.84,5,0,0,No,Credit Card,318,Yes,4.6,Yes,1439.18,Yes
+CAS-01090,12,Basic,21.36,3,0,4,No,Debit Card,278,No,4.6,No,544.89,Yes
+CAS-01091,13,Basic,20.01,8,2,0,No,PayPal,235,Yes,3.7,No,156.89,No
+CAS-01092,10,Curated,34.98,5,0,2,No,PayPal,202,Yes,4.5,No,260.35,No
+CAS-01093,46,Basic,19.13,3,0,0,No,Buy Now Pay Later,425,Yes,3.9,No,1927.94,Yes
+CAS-01094,26,Curated,30.46,8,1,0,No,Debit Card,172,Yes,4.5,No,1023.18,No
+CAS-01095,47,Deluxe,53.27,4,0,1,No,Debit Card,79,No,3.9,Yes,4565.49,No
+CAS-01096,13,Curated,36.08,5,0,1,No,Debit Card,221,No,4.2,No,703.86,No
+CAS-01097,7,Basic,23.18,4,0,0,No,Credit Card,728,No,4.2,Yes,473.19,Yes
+CAS-01098,39,Basic,20.45,3,1,0,No,Credit Card,320,No,3.4,No,1360.78,Yes
+CAS-01099,18,Basic,22.18,7,1,2,No,Credit Card,333,No,3.9,No,354.55,Yes
+CAS-01100,17,Curated,32.04,4,0,0,No,Credit Card,130,Yes,3.9,No,361.85,No
+CAS-01101,14,Deluxe,57.66,11,2,3,No,PayPal,452,Yes,3.7,Yes,1267.81,No
+CAS-01102,12,Curated,38.98,7,0,0,No,Credit Card,951,Yes,4.9,Yes,532.29,No
+CAS-01103,1,Deluxe,57.39,7,0,2,No,Debit Card,460,Yes,3.9,No,273.99,Yes
+CAS-01104,30,Curated,35.76,2,0,2,No,PayPal,84,Yes,4.6,Yes,1212.74,Yes
+CAS-01105,18,Basic,18.65,6,1,1,Yes,Credit Card,94,Yes,4.3,No,442.55,No
+CAS-01106,3,Curated,30.04,6,0,0,No,Debit Card,156,Yes,3.2,No,171.19,No
+CAS-01107,30,Basic,24.04,4,0,0,Yes,Credit Card,221,Yes,3.5,No,537.75,Yes
+CAS-01108,27,Curated,35.11,6,0,2,No,Buy Now Pay Later,191,Yes,4.5,No,2748.06,No
+CAS-01109,28,Curated,35.4,2,0,2,No,Credit Card,472,Yes,5.0,No,860.19,No
+CAS-01110,21,Basic,19.7,5,0,1,No,Buy Now Pay Later,120,Yes,3.4,No,490.58,No
+CAS-01111,11,Curated,34.38,8,0,3,Yes,PayPal,427,No,3.8,No,510.3,No
+CAS-01112,35,Curated,29.35,5,1,0,No,Credit Card,782,Yes,5.0,No,752.01,No
+CAS-01113,42,Curated,31.93,5,1,1,No,PayPal,374,Yes,3.6,No,1037.64,No
+CAS-01114,41,Curated,37.8,2,1,0,No,Debit Card,843,No,4.8,No,2079.52,No
+CAS-01115,40,Basic,21.07,7,0,0,No,Credit Card,177,Yes,4.5,No,1432.65,No
+CAS-01116,8,Curated,37.99,5,0,3,No,PayPal,558,No,4.3,No,700.61,No
+CAS-01117,28,Curated,35.24,6,0,0,No,Credit Card,252,Yes,3.8,No,917.64,No
+CAS-01118,23,Curated,37.82,6,1,2,No,Debit Card,69,No,5.0,No,577.92,No
+CAS-01119,17,Curated,36.87,4,0,0,No,Buy Now Pay Later,134,No,3.4,No,815.82,No
+CAS-01120,11,Curated,38.76,6,1,1,No,Debit Card,687,Yes,3.7,No,485.48,Yes
+CAS-01121,11,Deluxe,54.05,5,0,2,Yes,PayPal,211,Yes,3.8,No,461.24,No
+CAS-01122,40,Basic,19.56,5,0,1,No,Credit Card,191,Yes,3.5,No,826.78,Yes
+CAS-01123,12,Basic,21.34,6,0,1,No,Credit Card,151,Yes,4.5,No,443.12,Yes
+CAS-01124,20,Basic,19.17,6,1,2,No,Credit Card,199,No,4.6,No,268.31,Yes
+CAS-01125,36,Deluxe,56.31,4,1,0,No,Credit Card,604,No,4.3,No,2630.54,Yes
+CAS-01126,22,Basic,21.25,5,1,1,No,Debit Card,83,No,4.3,Yes,355.9,No
+CAS-01127,43,Curated,36.87,2,0,2,No,Credit Card,98,No,4.7,No,1234.13,No
+CAS-01128,8,Curated,33.19,6,1,1,No,Credit Card,170,Yes,4.6,No,518.94,Yes
+CAS-01129,15,Basic,23.5,11,0,2,No,Credit Card,454,Yes,3.8,Yes,953.4,No
+CAS-01130,33,Basic,16.65,8,1,0,No,PayPal,364,No,4.2,No,659.67,No
+CAS-01131,22,Curated,39.78,6,0,0,No,Debit Card,98,Yes,4.4,Yes,1338.29,No
+CAS-01132,25,Basic,20.23,4,0,2,No,Debit Card,613,No,3.3,Yes,584.64,No
+CAS-01133,0,Curated,33.69,5,1,1,No,PayPal,1065,Yes,4.1,No,433.68,No
+CAS-01134,10,Basic,18.73,2,1,1,No,Credit Card,337,Yes,3.8,Yes,370.19,No
+CAS-01135,36,Basic,19.56,12,1,1,No,Debit Card,296,Yes,5.0,No,875.91,No
+CAS-01136,6,Basic,21.16,4,1,0,No,Buy Now Pay Later,82,No,4.1,No,108.96,No
+CAS-01137,26,Basic,19.07,2,0,3,No,Debit Card,381,Yes,2.7,No,498.82,Yes
+CAS-01138,28,Curated,33.45,4,1,0,No,Credit Card,299,Yes,2.9,Yes,1689.55,No
+CAS-01139,32,Curated,34.41,3,0,7,No,Credit Card,473,Yes,4.1,No,915.94,No
+CAS-01140,13,Curated,34.92,5,0,0,Yes,Credit Card,250,Yes,4.1,No,377.36,No
+CAS-01141,13,Curated,31.61,11,1,0,No,Credit Card,189,Yes,4.5,No,1787.41,No
+CAS-01142,12,Curated,37.83,6,1,2,No,Credit Card,238,No,4.4,No,585.43,Yes
+CAS-01143,0,Curated,31.9,7,0,1,No,Buy Now Pay Later,821,Yes,3.9,No,341.18,Yes
+CAS-01144,4,Basic,19.65,6,0,1,No,Credit Card,330,No,5.0,No,222.25,Yes
+CAS-01145,7,Curated,37.11,3,0,0,No,PayPal,335,Yes,3.2,No,324.05,No
+CAS-01146,34,Curated,35.45,7,0,2,No,Credit Card,225,No,3.7,Yes,2042.59,No
+CAS-01147,41,Basic,19.75,5,0,1,No,Credit Card,63,Yes,4.5,No,722.12,Yes
+CAS-01148,29,Basic,19.64,7,1,3,No,Debit Card,194,No,3.0,No,718.29,Yes
+CAS-01149,30,Basic,20.61,7,0,1,No,Credit Card,208,Yes,3.0,No,335.8,Yes
+CAS-01150,38,Deluxe,61.48,7,2,1,No,Debit Card,690,Yes,4.5,No,2178.71,No
+CAS-01151,9,Curated,41.06,10,0,1,No,Credit Card,267,Yes,3.8,No,407.39,No
+CAS-01152,35,Basic,19.31,10,0,2,No,Credit Card,200,Yes,3.9,No,606.24,Yes
+CAS-01153,22,Curated,30.94,5,0,0,No,Debit Card,205,Yes,4.5,Yes,3281.72,Yes
+CAS-01154,6,Curated,36.92,2,0,2,No,Debit Card,551,No,3.5,Yes,339.84,No
+CAS-01155,47,Curated,33.87,7,0,1,No,Credit Card,203,Yes,5.0,No,1543.13,No
+CAS-01156,29,Basic,19.77,4,0,1,No,Credit Card,216,Yes,4.6,No,596.97,No
+CAS-01157,42,Basic,20.53,9,1,1,Yes,Credit Card,443,No,4.9,Yes,1391.24,No
+CAS-01158,14,Curated,35.31,7,0,3,No,Credit Card,998,Yes,2.9,No,1105.44,Yes
+CAS-01159,47,Basic,19.12,6,1,0,No,Debit Card,331,No,5.0,No,1959.84,No
+CAS-01160,18,Basic,20.3,11,0,1,No,PayPal,287,No,4.3,No,966.46,Yes
+CAS-01161,41,Basic,19.68,6,1,0,No,Credit Card,309,No,4.0,No,1276.36,Yes
+CAS-01162,14,Basic,22.54,13,0,1,No,Credit Card,310,Yes,3.9,No,202.67,No
+CAS-01163,5,Curated,35.55,4,0,2,No,PayPal,688,Yes,3.8,No,501.45,No
+CAS-01164,0,Basic,18.55,6,1,0,No,Credit Card,69,Yes,4.5,No,0.0,Yes
+CAS-01165,45,Basic,17.45,7,0,0,No,Debit Card,816,Yes,5.0,No,650.25,Yes
+CAS-01166,21,Deluxe,55.25,10,0,0,No,Buy Now Pay Later,1306,Yes,3.3,No,1282.49,No
+CAS-01167,24,Basic,19.28,4,2,2,No,Debit Card,225,Yes,3.7,No,578.28,No
+CAS-01168,4,Basic,20.9,8,0,2,No,PayPal,246,Yes,4.0,No,190.36,Yes
+CAS-01169,7,Basic,21.13,3,0,0,No,Credit Card,223,Yes,3.4,Yes,180.04,No
+CAS-01170,6,Curated,33.47,3,1,0,No,Debit Card,641,Yes,3.5,Yes,489.45,No
+CAS-01171,4,Deluxe,56.52,5,1,0,No,Credit Card,672,No,4.1,No,427.05,No
+CAS-01172,6,Basic,20.52,2,0,3,No,Credit Card,158,No,2.9,No,200.39,Yes
+CAS-01173,16,Deluxe,53.5,9,1,1,Yes,PayPal,49,No,4.0,No,1609.64,No
+CAS-01174,33,Basic,17.35,7,1,0,No,Credit Card,266,No,4.3,No,544.4,No
+CAS-01175,38,Deluxe,52.44,12,0,2,No,Debit Card,344,Yes,4.5,No,1444.55,No
+CAS-01176,45,Curated,32.08,7,1,1,No,PayPal,161,Yes,3.6,No,1068.97,No
+CAS-01177,46,Basic,22.05,7,0,3,No,Debit Card,724,No,3.4,No,913.26,Yes
+CAS-01178,37,Basic,22.23,8,1,1,No,Debit Card,38,No,5.0,Yes,1069.05,Yes
+CAS-01179,39,Curated,39.57,6,0,0,No,Credit Card,186,Yes,3.2,No,2292.29,No
+CAS-01180,25,Basic,19.43,4,1,0,No,Credit Card,769,Yes,4.5,No,1068.88,No
+CAS-01181,9,Basic,21.85,4,1,1,Yes,Credit Card,541,No,4.2,No,423.61,Yes
+CAS-01182,43,Curated,33.52,8,1,1,No,Credit Card,286,Yes,3.4,No,1001.23,Yes
+CAS-01183,11,Basic,17.46,6,2,1,Yes,Credit Card,246,No,4.6,No,398.62,No
+CAS-01184,18,Basic,22.15,5,0,0,No,PayPal,147,Yes,4.1,No,379.68,No
+CAS-01185,24,Basic,21.01,4,0,1,No,Credit Card,569,No,3.8,No,928.97,No
+CAS-01186,14,Basic,15.95,7,2,2,No,PayPal,117,No,4.9,No,559.19,Yes
+CAS-01187,47,Basic,23.12,3,0,2,No,PayPal,877,Yes,5.0,No,958.6,No
+CAS-01188,10,Deluxe,59.59,2,1,1,No,Credit Card,416,Yes,3.1,No,590.51,No
+CAS-01189,26,Curated,35.39,4,0,3,No,PayPal,324,No,3.4,No,940.77,No
+CAS-01190,18,Deluxe,63.95,5,1,1,Yes,Buy Now Pay Later,501,No,4.2,No,1829.53,No
+CAS-01191,19,Curated,35.04,3,0,2,No,Credit Card,710,Yes,2.7,No,728.64,Yes
+CAS-01192,19,Basic,23.84,6,0,1,No,Debit Card,1074,Yes,4.2,No,882.24,Yes
+CAS-01193,30,Curated,34.89,6,1,1,No,Credit Card,401,No,2.8,Yes,1650.02,Yes
+CAS-01194,9,Basic,21.7,5,1,2,No,Debit Card,76,Yes,5.0,No,619.43,No
+CAS-01195,44,Curated,42.06,3,1,0,No,PayPal,123,Yes,5.0,No,6311.72,No
+CAS-01196,15,Basic,21.77,4,0,2,No,Debit Card,280,Yes,5.0,No,415.4,Yes
+CAS-01197,29,Curated,31.17,10,1,2,No,PayPal,53,Yes,3.1,No,581.92,No
+CAS-01198,38,Deluxe,63.48,7,1,0,No,PayPal,239,Yes,4.9,Yes,1606.69,No
+CAS-01199,21,Curated,38.03,6,1,2,Yes,Credit Card,955,No,3.3,No,1545.76,Yes
+CAS-01200,12,Curated,35.55,4,0,1,No,Credit Card,170,No,4.2,No,396.04,No
+CAS-01201,12,Deluxe,51.58,2,0,0,Yes,PayPal,359,No,4.6,No,768.12,No
+CAS-01202,38,Curated,33.06,10,0,3,No,Credit Card,52,No,4.2,No,1921.77,Yes
+CAS-01203,24,Basic,20.99,5,3,1,No,Credit Card,159,Yes,4.2,No,475.18,Yes
+CAS-01204,28,Deluxe,51.27,6,0,2,No,Debit Card,436,No,5.0,No,1838.92,No
+CAS-01205,21,Basic,20.92,2,1,0,No,PayPal,621,No,3.0,Yes,489.08,No
+CAS-01206,45,Basic,18.23,5,0,2,No,Debit Card,417,No,3.4,No,747.73,Yes
+CAS-01207,11,Basic,22.35,6,1,2,No,Credit Card,354,No,5.0,No,449.97,Yes
+CAS-01208,42,Basic,19.6,5,0,3,No,PayPal,360,Yes,4.0,Yes,1002.02,No
+CAS-01209,26,Curated,32.86,6,0,2,No,Credit Card,239,No,4.5,No,550.35,No
+CAS-01210,44,Basic,18.05,5,2,2,No,Credit Card,476,Yes,4.6,No,828.46,Yes
+CAS-01211,3,Curated,35.47,2,0,1,No,PayPal,689,Yes,3.4,No,549.12,Yes
+CAS-01212,33,Deluxe,58.26,4,0,3,No,Credit Card,77,Yes,2.7,No,933.59,No
+CAS-01213,18,Basic,20.32,5,1,2,Yes,Debit Card,408,No,4.4,No,392.39,Yes
+CAS-01214,16,Curated,33.63,5,0,3,Yes,Credit Card,542,Yes,3.7,No,1045.27,No
+CAS-01215,6,Deluxe,59.58,5,0,1,No,Debit Card,47,No,3.9,No,361.72,Yes
+CAS-01216,8,Basic,19.33,10,1,3,Yes,Credit Card,56,Yes,3.5,No,261.48,Yes
+CAS-01217,5,Deluxe,44.13,6,0,0,No,Buy Now Pay Later,354,No,3.2,No,313.23,No
+CAS-01218,22,Curated,31.05,5,0,1,No,Credit Card,1323,No,3.1,No,1151.4,No
+CAS-01219,20,Basic,20.65,5,0,0,No,Credit Card,230,Yes,2.9,Yes,318.81,Yes
+CAS-01220,23,Curated,37.42,3,0,0,No,PayPal,157,No,3.1,No,877.57,Yes
+CAS-01221,23,Curated,28.39,10,1,1,No,Debit Card,107,No,5.0,No,483.53,Yes
+CAS-01222,13,Basic,20.21,10,0,1,No,Buy Now Pay Later,463,Yes,3.2,No,584.47,No
+CAS-01223,7,Curated,35.71,5,1,1,No,Credit Card,267,No,5.0,No,363.98,No
+CAS-01224,18,Curated,41.09,6,0,2,No,Buy Now Pay Later,39,Yes,4.1,No,771.07,No
+CAS-01225,19,Basic,18.33,3,0,0,Yes,Debit Card,487,Yes,4.7,No,446.85,Yes
+CAS-01226,16,Curated,36.05,11,0,0,No,Credit Card,123,No,4.5,No,503.89,No
+CAS-01227,30,Curated,29.72,6,1,0,No,Debit Card,213,Yes,4.7,No,2291.98,No
+CAS-01228,19,Deluxe,49.67,4,1,2,No,Credit Card,1082,Yes,5.0,Yes,1182.68,No
+CAS-01229,38,Curated,34.13,2,1,0,No,PayPal,590,Yes,4.2,No,2115.39,No
+CAS-01230,32,Curated,32.54,7,0,0,No,PayPal,124,Yes,3.5,No,806.18,Yes
+CAS-01231,8,Curated,35.39,8,0,2,No,Debit Card,497,Yes,3.1,No,431.12,No
+CAS-01232,37,Basic,20.0,5,0,1,No,PayPal,375,Yes,3.9,No,1177.97,Yes
+CAS-01233,42,Curated,36.9,7,1,1,No,PayPal,376,No,4.6,No,2548.63,No
+CAS-01234,36,Curated,37.2,4,0,0,No,Debit Card,109,Yes,3.5,No,2488.83,No
+CAS-01235,29,Basic,17.97,4,0,3,No,PayPal,552,No,4.2,No,879.04,Yes
+CAS-01236,4,Curated,38.9,3,2,1,Yes,PayPal,395,Yes,4.8,No,327.33,No
+CAS-01237,7,Deluxe,67.14,2,0,3,No,PayPal,676,Yes,4.8,Yes,599.65,No
+CAS-01238,19,Basic,21.37,2,0,2,No,Debit Card,457,No,4.3,No,862.21,Yes
+CAS-01239,34,Basic,17.92,5,0,1,No,Credit Card,196,No,3.5,No,1096.25,Yes
+CAS-01240,46,Basic,23.37,2,0,2,No,Debit Card,1059,Yes,4.3,No,1396.37,No
+CAS-01241,5,Deluxe,52.73,6,0,0,No,PayPal,385,Yes,4.4,No,924.8,No
+CAS-01242,36,Basic,20.48,2,1,0,No,Credit Card,535,No,3.6,No,663.34,No
+CAS-01243,26,Curated,31.72,5,1,3,No,Buy Now Pay Later,38,No,4.5,No,254.93,No
+CAS-01244,39,Basic,22.32,7,1,0,No,PayPal,234,Yes,4.6,Yes,2550.15,Yes
+CAS-01245,33,Deluxe,47.89,2,0,1,No,Credit Card,335,No,5.0,No,2310.57,No
+CAS-01246,17,Curated,32.31,2,0,0,No,PayPal,312,Yes,4.1,No,1363.11,No
+CAS-01247,8,Basic,19.32,7,2,1,Yes,Buy Now Pay Later,857,No,5.0,Yes,666.97,No
+CAS-01248,15,Curated,34.55,2,0,2,No,Credit Card,524,No,5.0,No,492.52,No
+CAS-01249,37,Basic,19.92,2,0,1,No,Credit Card,431,Yes,4.3,Yes,802.33,No
+CAS-01250,29,Basic,20.13,7,0,1,No,Credit Card,225,No,3.8,Yes,710.3,Yes
+CAS-01251,21,Curated,36.47,3,0,3,No,Credit Card,1070,Yes,4.3,No,1234.16,No
+CAS-01252,40,Curated,29.69,9,0,2,No,Credit Card,394,No,3.8,No,1793.78,No
+CAS-01253,34,Curated,35.44,2,3,0,No,PayPal,272,Yes,5.0,No,826.26,No
+CAS-01254,15,Curated,37.26,6,0,2,No,Debit Card,584,No,2.7,No,849.82,Yes
+CAS-01255,38,Curated,40.15,8,1,0,No,PayPal,186,No,4.3,No,2057.89,No
+CAS-01256,43,Deluxe,53.31,10,3,0,No,Credit Card,235,Yes,5.0,No,2923.7,No
+CAS-01257,11,Basic,19.28,9,2,2,No,Buy Now Pay Later,598,No,3.1,No,317.78,Yes
+CAS-01258,12,Basic,19.22,7,0,3,No,Debit Card,778,No,4.3,Yes,788.52,Yes
+CAS-01259,4,Curated,35.41,4,0,0,No,PayPal,40,No,4.1,Yes,141.52,No
+CAS-01260,46,Basic,19.24,5,0,2,No,Credit Card,579,Yes,4.3,No,863.45,No
+CAS-01261,18,Basic,19.39,6,1,2,No,Debit Card,790,Yes,3.4,No,628.4,No
+CAS-01262,41,Curated,29.57,4,1,0,No,PayPal,167,Yes,3.8,No,941.93,No
+CAS-01263,28,Deluxe,62.98,7,0,1,No,PayPal,378,No,3.6,No,1848.23,No
+CAS-01264,12,Curated,37.16,7,0,0,No,Credit Card,304,No,4.9,Yes,330.73,No
+CAS-01265,36,Basic,20.83,3,2,4,No,Credit Card,607,No,4.7,No,1424.16,Yes
+CAS-01266,16,Deluxe,48.3,4,1,1,No,Credit Card,117,No,4.0,No,979.74,Yes
+CAS-01267,6,Curated,34.05,6,1,0,No,Credit Card,413,No,3.9,No,407.72,No
+CAS-01268,26,Basic,21.21,6,0,2,No,Credit Card,389,No,4.6,No,514.69,Yes
+CAS-01269,20,Curated,39.61,5,1,3,No,Debit Card,65,Yes,2.9,No,378.24,No
+CAS-01270,3,Basic,19.95,6,0,1,No,PayPal,431,Yes,4.7,No,223.04,Yes
+CAS-01271,36,Basic,19.28,2,1,3,No,Credit Card,810,No,4.2,Yes,809.3,No
+CAS-01272,4,Basic,17.64,8,0,1,No,PayPal,459,Yes,5.0,Yes,265.04,Yes
+CAS-01273,33,Curated,34.4,5,0,0,No,Debit Card,131,No,4.6,No,1710.9,No
+CAS-01274,35,Basic,19.16,6,1,0,Yes,PayPal,223,No,3.8,No,436.34,No
+CAS-01275,47,Curated,29.42,6,1,2,No,Credit Card,914,Yes,4.1,No,2455.23,No
+CAS-01276,20,Basic,20.17,8,0,0,No,Buy Now Pay Later,1502,No,4.4,Yes,911.63,Yes
+CAS-01277,32,Curated,30.93,7,0,0,No,Buy Now Pay Later,589,No,3.5,No,1272.56,Yes
+CAS-01278,14,Basic,21.1,7,1,0,No,Credit Card,382,No,3.0,No,387.14,Yes
+CAS-01279,30,Basic,20.32,8,1,0,Yes,PayPal,10,No,3.2,No,1032.29,No
+CAS-01280,46,Deluxe,54.49,9,0,1,No,PayPal,737,Yes,4.5,No,2217.49,No
+CAS-01281,32,Curated,33.12,5,0,2,No,PayPal,240,No,4.4,No,2263.29,No
+CAS-01282,5,Basic,20.08,4,1,1,No,Credit Card,271,Yes,3.9,No,234.48,No
+CAS-01283,8,Deluxe,47.83,9,0,0,No,PayPal,568,Yes,3.8,No,510.84,No
+CAS-01284,24,Curated,36.01,11,0,0,No,PayPal,324,No,4.4,No,500.41,No
+CAS-01285,23,Basic,18.64,7,3,1,No,Credit Card,441,Yes,4.2,No,658.8,No
+CAS-01286,47,Basic,20.34,2,1,0,No,Debit Card,642,Yes,3.8,No,1578.67,Yes
+CAS-01287,41,Deluxe,58.79,3,0,2,Yes,Credit Card,24,Yes,3.6,No,5165.28,No
+CAS-01288,5,Curated,37.55,7,1,0,No,Credit Card,206,No,3.7,Yes,237.79,No
+CAS-01289,48,Curated,34.06,6,2,2,No,Buy Now Pay Later,249,Yes,4.0,No,1189.51,No
+CAS-01290,17,Basic,18.22,6,0,1,No,Credit Card,384,Yes,4.6,No,532.39,Yes
+CAS-01291,1,Basic,20.52,8,1,4,No,Credit Card,275,Yes,4.1,No,140.9,No
+CAS-01292,13,Curated,33.74,5,2,1,No,Debit Card,86,No,4.2,Yes,544.37,No
+CAS-01293,45,Deluxe,61.5,7,1,1,No,Buy Now Pay Later,43,No,3.6,No,7807.33,No
+CAS-01294,39,Basic,16.8,10,1,3,No,PayPal,621,Yes,4.4,Yes,906.78,Yes
+CAS-01295,18,Basic,18.15,12,0,3,No,Credit Card,324,No,4.3,No,947.58,Yes
+CAS-01296,1,Basic,18.19,4,2,2,Yes,Credit Card,137,No,3.9,Yes,45.76,Yes
+CAS-01297,23,Basic,20.16,5,0,0,No,Credit Card,369,Yes,4.6,No,378.7,No
+CAS-01298,14,Deluxe,67.7,9,2,1,No,PayPal,125,No,5.0,Yes,935.26,No
+CAS-01299,39,Basic,17.06,6,0,3,No,Debit Card,395,No,5.0,No,525.65,Yes
+CAS-01300,48,Curated,36.02,8,0,1,No,Credit Card,475,Yes,3.1,No,3765.81,Yes
+CAS-01301,46,Curated,41.1,6,2,2,No,Credit Card,791,No,4.7,No,1818.65,Yes
+CAS-01302,38,Basic,19.22,7,0,1,Yes,Debit Card,389,Yes,3.9,No,932.77,No
+CAS-01303,5,Deluxe,59.33,5,0,0,No,Credit Card,203,Yes,4.7,Yes,428.62,No
+CAS-01304,43,Curated,34.62,6,1,4,No,PayPal,182,Yes,4.2,Yes,1448.2,No
+CAS-01305,7,Basic,20.63,3,0,1,No,Debit Card,493,Yes,4.4,No,496.4,No
+CAS-01306,45,Basic,20.35,5,1,1,No,Debit Card,441,No,4.2,No,1212.88,No
+CAS-01307,46,Curated,37.77,5,0,2,No,Debit Card,112,Yes,5.0,Yes,2545.13,No
+CAS-01308,33,Deluxe,56.55,2,1,1,No,Credit Card,593,Yes,4.7,No,1671.47,Yes
+CAS-01309,12,Basic,22.07,4,0,0,No,PayPal,268,No,4.2,No,276.77,Yes
+CAS-01310,36,Deluxe,51.62,13,0,0,No,PayPal,86,No,4.0,No,1379.85,Yes
+CAS-01311,40,Deluxe,62.49,7,1,2,No,Credit Card,407,Yes,4.7,No,4888.61,No
+CAS-01312,44,Curated,38.4,10,1,0,No,PayPal,264,No,3.7,No,1461.06,No
+CAS-01313,7,Basic,20.4,9,1,1,Yes,Credit Card,170,Yes,3.5,Yes,148.06,No
+CAS-01314,1,Curated,34.43,3,1,0,No,Credit Card,411,No,4.6,No,246.79,Yes
+CAS-01315,21,Basic,14.49,6,2,2,No,Credit Card,155,Yes,4.3,No,151.73,Yes
+CAS-01316,0,Curated,33.96,9,0,1,No,PayPal,296,No,4.1,No,56.79,No
+CAS-01317,45,Curated,37.56,3,1,0,Yes,Debit Card,173,No,3.6,No,3352.0,No
+CAS-01318,2,Deluxe,50.82,2,0,0,No,PayPal,220,No,4.7,No,205.64,No
+CAS-01319,0,Deluxe,45.36,6,2,2,No,PayPal,505,Yes,2.1,Yes,89.76,No
+CAS-01320,13,Curated,39.85,3,1,2,No,Credit Card,502,No,3.8,No,853.26,No
+CAS-01321,43,Curated,32.91,5,1,0,Yes,PayPal,315,Yes,3.8,No,1361.43,No
+CAS-01322,26,Basic,20.9,5,2,0,No,Credit Card,362,No,3.7,No,653.66,No
+CAS-01323,13,Deluxe,51.95,7,1,0,Yes,PayPal,1160,No,4.2,Yes,1609.62,No
+CAS-01324,45,Curated,32.71,10,1,1,No,Credit Card,456,No,4.8,No,1571.33,No
+CAS-01325,1,Deluxe,59.47,5,0,2,No,Credit Card,448,Yes,4.8,No,291.03,No
+CAS-01326,42,Curated,29.84,5,0,1,No,PayPal,203,Yes,4.9,No,1670.1,Yes
+CAS-01327,0,Deluxe,46.93,9,0,0,No,PayPal,85,Yes,3.7,No,0.0,No
+CAS-01328,12,Curated,37.05,6,0,1,No,Credit Card,215,Yes,3.4,No,290.06,No
+CAS-01329,41,Basic,19.3,7,0,3,No,PayPal,147,Yes,3.0,No,1690.56,No
+CAS-01330,43,Curated,37.98,2,2,2,No,Credit Card,434,Yes,4.6,No,2345.51,No
+CAS-01331,0,Basic,18.84,4,2,0,No,Credit Card,806,Yes,4.2,No,333.44,No
+CAS-01332,5,Curated,34.93,8,0,2,No,Credit Card,353,Yes,4.8,No,357.58,No
+CAS-01333,24,Deluxe,53.16,3,1,2,No,Credit Card,108,Yes,4.6,Yes,1176.51,No
+CAS-01334,2,Curated,39.46,7,0,1,No,Debit Card,183,Yes,3.4,No,189.41,Yes
+CAS-01335,12,Curated,33.41,5,0,1,No,PayPal,321,Yes,4.0,No,669.87,No
+CAS-01336,28,Deluxe,59.92,7,0,1,No,PayPal,550,Yes,5.0,No,1572.99,No
+CAS-01337,38,Curated,33.45,12,0,1,No,Credit Card,171,Yes,3.6,No,2435.71,No
+CAS-01338,4,Curated,28.79,4,0,1,No,Credit Card,1026,No,4.2,No,450.82,No
+CAS-01339,8,Curated,36.03,5,1,1,No,PayPal,721,Yes,5.0,No,447.91,No
+CAS-01340,28,Curated,31.53,5,0,0,Yes,Credit Card,193,No,3.8,No,995.78,No
+CAS-01341,23,Deluxe,56.17,9,1,0,No,Credit Card,386,Yes,3.5,No,1147.42,No
+CAS-01342,36,Curated,37.47,3,3,0,No,PayPal,8,Yes,4.1,No,1231.4,No
+CAS-01343,36,Basic,23.33,8,0,2,No,Credit Card,20,Yes,4.8,No,560.65,Yes
+CAS-01344,37,Deluxe,54.02,3,1,0,No,Credit Card,301,No,3.4,Yes,807.88,No
+CAS-01345,47,Deluxe,55.35,6,1,1,No,PayPal,119,No,4.3,Yes,3994.18,No
+CAS-01346,32,Basic,25.81,5,1,1,No,PayPal,307,Yes,4.0,No,1496.83,No
+CAS-01347,44,Curated,35.02,12,0,2,No,PayPal,361,No,4.5,No,1522.43,No
+CAS-01348,15,Curated,37.49,2,1,1,No,Buy Now Pay Later,594,No,4.3,No,1161.79,No
+CAS-01349,31,Curated,35.96,8,0,2,No,Debit Card,452,Yes,5.0,No,1585.93,No
+CAS-01350,3,Curated,37.96,8,2,2,No,PayPal,351,Yes,3.6,Yes,196.76,No
+CAS-01351,39,Basic,22.38,2,1,2,No,Credit Card,580,No,4.7,No,725.83,No
+CAS-01352,22,Curated,34.82,4,0,0,No,Credit Card,409,No,2.9,No,1572.82,No
+CAS-01353,23,Curated,35.48,4,0,0,No,Debit Card,175,Yes,4.1,No,530.05,No
+CAS-01354,11,Curated,36.43,6,0,2,No,PayPal,81,Yes,3.9,No,290.07,No
+CAS-01355,28,Curated,32.04,6,2,2,No,PayPal,556,Yes,4.9,No,1080.94,No
+CAS-01356,19,Curated,38.72,7,1,3,No,Debit Card,193,Yes,4.2,No,535.35,Yes
+CAS-01357,25,Curated,32.9,3,0,1,No,Debit Card,165,No,4.8,No,1104.28,No
+CAS-01358,31,Curated,33.94,7,2,2,No,Credit Card,294,No,4.4,No,905.6,No
+CAS-01359,6,Curated,39.56,4,2,0,No,PayPal,434,Yes,3.9,No,720.94,No
+CAS-01360,22,Curated,34.46,6,0,3,No,Buy Now Pay Later,272,Yes,4.9,No,777.07,Yes
+CAS-01361,20,Basic,17.78,7,0,1,No,Debit Card,69,Yes,4.2,No,746.92,No
+CAS-01362,43,Deluxe,63.26,8,1,0,No,Credit Card,372,No,3.7,No,1159.2,No
+CAS-01363,0,Curated,35.76,4,2,3,No,Debit Card,440,Yes,3.1,No,82.11,Yes
+CAS-01364,24,Basic,23.31,7,1,1,No,Credit Card,374,No,4.8,No,1428.16,No
+CAS-01365,4,Basic,15.51,5,0,1,No,Debit Card,171,No,4.6,No,42.08,Yes
+CAS-01366,9,Curated,33.73,2,1,1,No,Debit Card,199,No,4.4,No,195.17,Yes
+CAS-01367,23,Curated,33.81,5,1,2,No,PayPal,196,No,4.0,No,1046.45,No
+CAS-01368,13,Curated,34.82,7,1,1,No,Credit Card,332,No,5.0,No,480.36,Yes
+CAS-01369,42,Basic,20.65,2,1,4,No,Debit Card,61,Yes,4.5,Yes,1030.12,Yes
+CAS-01370,6,Basic,19.78,8,0,1,No,Credit Card,41,No,5.0,No,166.85,No
+CAS-01371,36,Deluxe,53.17,7,0,1,No,Credit Card,232,Yes,3.7,No,1556.34,No
+CAS-01372,5,Deluxe,62.48,5,2,1,No,Credit Card,225,Yes,4.4,No,286.28,No
+CAS-01373,28,Curated,33.91,6,3,0,No,Debit Card,171,Yes,3.8,No,2717.99,No
+CAS-01374,43,Basic,18.27,5,0,0,Yes,Debit Card,343,No,3.8,No,1645.07,Yes
+CAS-01375,8,Basic,21.4,3,0,0,No,Debit Card,128,Yes,4.5,No,442.82,No
+CAS-01376,20,Deluxe,54.63,2,2,2,No,Debit Card,1316,No,4.8,Yes,2043.09,No
+CAS-01377,4,Basic,18.81,3,0,2,No,Buy Now Pay Later,172,No,4.1,No,136.64,Yes
+CAS-01378,33,Curated,33.37,9,0,2,No,PayPal,748,Yes,4.3,No,1912.74,No
+CAS-01379,22,Basic,21.53,3,0,2,No,Debit Card,123,Yes,2.9,Yes,635.42,No
+CAS-01380,11,Basic,18.87,9,1,1,No,Credit Card,105,No,4.5,Yes,312.23,No
+CAS-01381,12,Basic,19.89,5,1,0,No,Debit Card,812,Yes,3.8,No,529.75,Yes
+CAS-01382,27,Curated,29.3,4,0,0,No,Debit Card,85,No,4.9,No,2062.39,No
+CAS-01383,16,Basic,19.69,13,1,0,No,Credit Card,183,Yes,4.0,No,373.62,Yes
+CAS-01384,16,Basic,25.0,6,0,3,No,Credit Card,392,No,4.3,No,811.03,Yes
+CAS-01385,13,Curated,38.13,9,0,1,No,Debit Card,195,Yes,4.9,No,793.76,Yes
+CAS-01386,22,Basic,20.55,3,0,0,No,Debit Card,38,Yes,4.8,Yes,287.7,No
+CAS-01387,44,Curated,40.3,9,0,0,Yes,Credit Card,741,Yes,3.5,Yes,1650.66,No
+CAS-01388,15,Curated,42.37,7,3,1,No,Debit Card,442,Yes,5.0,No,1085.97,Yes
+CAS-01389,41,Curated,33.82,6,0,1,No,Buy Now Pay Later,729,Yes,4.8,No,1727.97,No
+CAS-01390,13,Curated,28.75,11,2,0,No,PayPal,190,No,3.9,No,367.2,No
+CAS-01391,38,Basic,19.12,4,1,0,No,Debit Card,339,Yes,3.1,Yes,589.48,No
+CAS-01392,45,Basic,21.77,5,2,2,Yes,Credit Card,297,Yes,3.8,No,1364.79,No
+CAS-01393,24,Deluxe,63.97,5,0,2,No,PayPal,236,Yes,4.7,Yes,1634.77,No
+CAS-01394,5,Curated,30.05,4,0,1,No,PayPal,298,Yes,4.2,No,235.55,No
+CAS-01395,10,Basic,21.3,3,0,0,Yes,Credit Card,193,Yes,3.8,No,463.89,No
+CAS-01396,13,Curated,35.34,8,0,2,No,PayPal,440,No,3.4,No,975.91,No
+CAS-01397,47,Basic,18.66,3,1,2,Yes,Credit Card,716,No,4.2,No,1643.73,No
+CAS-01398,32,Deluxe,58.92,5,1,1,No,Debit Card,123,Yes,4.0,No,943.42,No
+CAS-01399,16,Basic,20.42,8,0,1,No,Credit Card,238,Yes,4.0,No,384.25,No
+CAS-01400,6,Basic,20.71,3,1,2,No,PayPal,293,No,4.8,Yes,169.26,No
+CAS-01401,16,Curated,32.26,2,0,1,No,PayPal,281,No,3.0,No,527.63,Yes
+CAS-01402,32,Curated,34.95,6,0,2,No,Credit Card,176,No,4.4,No,1129.23,Yes
+CAS-01403,25,Curated,35.3,4,0,0,No,Credit Card,153,Yes,4.8,No,1157.46,No
+CAS-01404,46,Deluxe,66.53,6,1,2,No,Credit Card,646,Yes,3.7,No,6198.85,No
+CAS-01405,13,Basic,18.52,6,0,1,Yes,Credit Card,223,Yes,4.4,No,273.12,No
+CAS-01406,41,Deluxe,59.05,9,2,1,No,PayPal,184,No,4.3,No,4997.57,No
+CAS-01407,5,Curated,40.26,2,0,0,No,Credit Card,96,Yes,4.1,No,376.1,No
+CAS-01408,26,Basic,19.08,5,0,1,No,PayPal,62,Yes,4.3,No,292.03,Yes
+CAS-01409,47,Deluxe,58.82,4,1,2,Yes,Credit Card,308,No,4.7,No,3227.64,No
+CAS-01410,27,Basic,23.75,4,0,1,No,Credit Card,715,No,4.4,No,935.09,No
+CAS-01411,15,Basic,21.98,8,1,2,Yes,Credit Card,206,No,3.9,No,274.32,No
+CAS-01412,17,Basic,21.63,5,0,1,No,Credit Card,146,Yes,4.0,Yes,358.42,Yes
+CAS-01413,33,Basic,18.03,3,0,0,No,PayPal,1009,No,3.3,No,1128.42,No
+CAS-01414,8,Curated,32.99,5,0,1,No,Credit Card,803,Yes,3.8,No,566.79,No
+CAS-01415,20,Basic,19.46,5,0,3,No,Credit Card,504,Yes,2.8,No,652.51,Yes
+CAS-01416,8,Curated,32.7,3,1,0,No,Credit Card,152,No,3.3,No,519.97,No
+CAS-01417,7,Curated,34.74,7,0,2,No,Credit Card,65,Yes,3.3,No,208.36,Yes
+CAS-01418,44,Curated,39.21,6,2,0,No,Credit Card,163,Yes,3.5,No,1640.53,Yes
+CAS-01419,43,Curated,33.64,5,0,1,No,Credit Card,589,Yes,4.4,No,578.59,No
+CAS-01420,14,Deluxe,52.92,3,2,1,No,Credit Card,449,No,3.5,No,757.49,No
+CAS-01421,29,Curated,36.67,3,1,0,No,Credit Card,324,Yes,4.0,No,1766.59,No
+CAS-01422,3,Basic,23.43,5,1,1,No,Credit Card,273,No,4.4,No,188.88,Yes
+CAS-01423,36,Curated,26.61,5,0,1,No,Credit Card,113,No,5.0,No,679.06,No
+CAS-01424,27,Curated,35.3,8,0,0,No,Credit Card,369,Yes,3.5,No,1863.63,No
+CAS-01425,38,Curated,36.63,6,0,1,No,PayPal,319,No,3.3,Yes,1420.89,Yes
+CAS-01426,25,Deluxe,53.19,4,0,5,No,Credit Card,331,Yes,2.9,No,835.17,Yes
+CAS-01427,22,Deluxe,60.33,9,2,1,No,Credit Card,268,Yes,4.3,No,1888.2,No
+CAS-01428,5,Deluxe,53.14,8,1,0,No,Buy Now Pay Later,366,Yes,4.0,No,304.34,No
+CAS-01429,23,Curated,35.67,9,1,0,No,Credit Card,323,Yes,4.7,Yes,1132.09,Yes
+CAS-01430,35,Deluxe,52.58,4,0,2,No,Debit Card,195,No,4.5,No,1520.06,No
+CAS-01431,40,Basic,20.28,8,0,0,No,Credit Card,422,No,4.0,No,729.63,Yes
+CAS-01432,43,Curated,31.63,3,2,1,No,Debit Card,372,No,4.1,No,3276.17,No
+CAS-01433,1,Curated,31.11,10,1,0,No,Credit Card,359,No,3.6,No,216.96,No
+CAS-01434,36,Deluxe,54.88,6,2,2,No,Debit Card,734,Yes,4.8,No,2181.56,No
+CAS-01435,30,Deluxe,59.16,5,2,2,No,Debit Card,186,Yes,5.0,No,1113.62,No
+CAS-01436,5,Curated,36.62,2,1,3,No,Debit Card,1013,No,4.2,Yes,485.48,No
+CAS-01437,39,Deluxe,49.93,3,1,1,No,Credit Card,431,Yes,4.5,No,1525.13,No
+CAS-01438,1,Curated,41.78,4,0,1,No,PayPal,315,No,3.7,No,130.55,No
+CAS-01439,39,Basic,16.5,7,0,3,No,Credit Card,427,Yes,4.2,No,658.65,No
+CAS-01440,44,Deluxe,60.7,6,1,0,No,Credit Card,111,Yes,4.4,No,3273.73,No
+CAS-01441,10,Basic,22.1,4,2,0,No,Credit Card,551,No,5.0,No,532.44,Yes
+CAS-01442,28,Deluxe,61.42,14,0,1,No,PayPal,426,Yes,4.3,Yes,1849.54,No
+CAS-01443,31,Curated,36.88,7,0,2,No,Credit Card,287,No,4.9,No,881.28,No
+CAS-01444,36,Curated,41.16,3,1,1,No,PayPal,446,No,3.4,No,1816.29,Yes
+CAS-01445,16,Curated,39.47,5,1,0,No,Credit Card,471,No,4.0,No,449.4,No
+CAS-01446,44,Basic,15.69,7,0,1,No,Credit Card,99,Yes,3.0,No,1192.17,Yes
+CAS-01447,28,Basic,21.14,4,0,0,Yes,PayPal,674,Yes,4.5,No,756.52,Yes
+CAS-01448,19,Curated,35.74,2,3,0,No,PayPal,400,Yes,4.7,No,1055.22,No
+CAS-01449,23,Curated,32.75,4,0,2,No,Credit Card,148,No,3.8,No,917.28,No
+CAS-01450,40,Curated,40.14,6,0,2,No,Debit Card,653,No,3.7,No,1367.29,No
+CAS-01451,43,Basic,23.57,3,3,0,No,Credit Card,135,No,4.7,No,984.49,Yes
+CAS-01452,43,Basic,20.61,4,0,0,No,Credit Card,583,Yes,2.3,No,748.97,No
+CAS-01453,23,Deluxe,53.93,7,2,2,No,Credit Card,59,No,4.1,No,1891.7,No
+CAS-01454,41,Curated,34.66,5,0,2,No,Debit Card,103,No,3.4,No,572.42,Yes
+CAS-01455,8,Curated,38.84,5,1,1,No,Credit Card,661,No,2.7,No,1053.8,Yes
+CAS-01456,37,Basic,22.64,4,2,1,No,Credit Card,359,Yes,4.8,No,1256.91,No
+CAS-01457,47,Basic,20.94,7,1,0,No,Credit Card,345,Yes,4.3,No,1926.78,Yes
+CAS-01458,35,Basic,21.72,5,0,1,No,Credit Card,234,Yes,2.3,No,737.27,Yes
+CAS-01459,10,Deluxe,52.23,4,0,0,No,Buy Now Pay Later,202,No,4.0,No,311.44,No
+CAS-01460,21,Curated,32.78,2,1,0,No,Credit Card,859,Yes,4.1,No,1014.68,No
+CAS-01461,40,Curated,29.6,7,0,2,No,Credit Card,246,Yes,5.0,Yes,1563.34,Yes
+CAS-01462,18,Basic,17.81,7,0,1,No,Buy Now Pay Later,29,Yes,4.6,No,406.02,No
+CAS-01463,37,Basic,18.94,7,0,2,No,Credit Card,450,Yes,4.8,No,892.97,Yes
+CAS-01464,10,Deluxe,52.19,5,0,1,No,Buy Now Pay Later,433,Yes,4.1,Yes,555.83,No
+CAS-01465,35,Curated,34.98,5,1,2,No,Credit Card,465,Yes,4.2,No,3305.06,No
+CAS-01466,8,Basic,19.37,4,0,3,No,Credit Card,900,Yes,3.8,No,543.98,Yes
+CAS-01467,38,Curated,37.79,3,1,2,No,Debit Card,406,Yes,4.7,No,1951.21,No
+CAS-01468,0,Deluxe,51.26,3,0,1,No,Credit Card,325,Yes,2.9,No,118.12,No
+CAS-01469,1,Basic,19.24,4,1,1,No,PayPal,153,No,4.1,No,118.93,Yes
+CAS-01470,30,Basic,22.9,3,0,3,No,Buy Now Pay Later,635,No,3.8,No,812.16,Yes
+CAS-01471,40,Basic,19.2,3,1,0,No,Credit Card,114,Yes,3.9,No,672.26,No
+CAS-01472,21,Basic,20.53,8,1,1,No,PayPal,96,No,3.3,No,332.73,No
+CAS-01473,25,Curated,34.52,6,1,3,No,Credit Card,693,No,5.0,No,1312.52,Yes
+CAS-01474,3,Deluxe,69.47,3,1,5,No,PayPal,446,No,4.7,No,635.82,No
+CAS-01475,39,Deluxe,61.83,6,0,2,No,Buy Now Pay Later,41,No,4.6,No,1568.5,Yes
+CAS-01476,16,Basic,20.62,6,0,0,No,PayPal,144,Yes,4.4,No,559.29,Yes
+CAS-01477,9,Curated,38.14,8,1,1,Yes,Credit Card,173,Yes,3.1,No,323.66,No
+CAS-01478,48,Curated,38.11,2,1,1,No,PayPal,266,Yes,3.6,Yes,1585.4,No
+CAS-01479,38,Basic,19.51,4,1,1,No,Credit Card,410,Yes,2.8,No,776.43,Yes
+CAS-01480,40,Curated,30.92,3,0,2,Yes,PayPal,78,Yes,4.1,No,1776.26,No
+CAS-01481,26,Basic,18.94,7,1,0,No,PayPal,463,Yes,4.2,Yes,646.57,No
+CAS-01482,7,Curated,28.18,7,0,1,No,PayPal,144,No,3.8,No,282.91,No
+CAS-01483,11,Basic,22.98,3,0,1,No,Credit Card,1121,No,5.0,Yes,1002.76,Yes
+CAS-01484,13,Curated,33.7,8,1,1,No,PayPal,772,No,4.2,No,1134.3,No
+CAS-01485,19,Basic,20.51,7,0,0,No,PayPal,238,Yes,4.2,No,639.85,No
+CAS-01486,31,Deluxe,54.35,7,0,1,No,Credit Card,1155,No,4.8,No,1970.62,No
+CAS-01487,1,Basic,16.57,2,0,0,No,Debit Card,370,No,5.0,No,71.88,Yes
+CAS-01488,5,Curated,33.47,6,2,2,No,Credit Card,88,Yes,3.9,No,225.26,No
+CAS-01489,40,Curated,44.05,4,0,2,No,Credit Card,25,No,3.7,No,4423.87,No
+CAS-01490,10,Curated,33.21,7,0,2,No,PayPal,294,Yes,3.7,Yes,805.45,No
+CAS-01491,7,Curated,37.97,6,0,0,No,Credit Card,201,No,4.0,No,345.31,No
+CAS-01492,18,Curated,35.87,2,0,0,Yes,Credit Card,206,Yes,3.9,No,467.72,No
+CAS-01493,48,Deluxe,57.53,5,1,0,No,PayPal,386,Yes,4.7,No,1847.03,No
+CAS-01494,36,Basic,20.83,6,0,1,No,Credit Card,484,No,1.9,No,719.72,Yes
+CAS-01495,37,Curated,39.31,6,2,0,No,Credit Card,313,Yes,3.8,Yes,1305.18,No
+CAS-01496,37,Basic,19.28,9,0,2,No,PayPal,539,No,3.9,Yes,1632.31,Yes
+CAS-01497,12,Basic,17.65,4,2,1,No,Credit Card,274,No,4.8,Yes,368.11,Yes
+CAS-01498,42,Basic,19.46,2,0,1,No,PayPal,154,Yes,3.7,Yes,1238.8,Yes
+CAS-01499,39,Basic,20.31,5,1,2,No,Credit Card,51,No,3.2,No,1016.24,No
+CAS-01500,22,Deluxe,60.33,4,0,1,No,Credit Card,175,No,5.0,No,1365.83,No
+CAS-01501,0,Curated,31.55,3,0,0,No,PayPal,206,No,3.5,Yes,97.83,No
+CAS-01502,17,Basic,20.73,9,3,0,No,Debit Card,264,Yes,4.8,No,376.01,No
+CAS-01503,22,Curated,32.83,3,1,3,No,Credit Card,704,Yes,3.1,No,1293.12,No
+CAS-01504,25,Curated,31.92,7,1,1,No,Debit Card,448,Yes,4.8,Yes,372.25,No
+CAS-01505,19,Basic,20.71,3,0,2,No,Credit Card,14,No,4.8,No,502.36,No
+CAS-01506,16,Basic,21.6,3,1,1,Yes,Debit Card,437,No,3.8,No,547.7,No
+CAS-01507,41,Curated,32.47,4,0,1,Yes,Buy Now Pay Later,604,No,4.7,No,1131.62,No
+CAS-01508,18,Basic,20.91,6,0,1,No,Credit Card,521,Yes,5.0,No,785.35,Yes
+CAS-01509,39,Deluxe,53.52,3,0,2,No,Credit Card,1263,Yes,4.7,No,2424.47,No
+CAS-01510,35,Curated,32.39,3,0,2,Yes,PayPal,536,No,3.7,No,1786.23,Yes
+CAS-01511,39,Curated,33.12,7,2,0,No,PayPal,429,Yes,4.7,No,982.51,No
+CAS-01512,4,Basic,18.43,4,1,1,No,Credit Card,435,Yes,3.9,No,309.8,Yes
+CAS-01513,11,Basic,17.82,2,1,0,No,Credit Card,278,No,4.4,No,271.55,Yes
+CAS-01514,40,Deluxe,57.63,3,0,1,No,Credit Card,783,No,3.5,No,2103.97,No
+CAS-01515,44,Curated,34.29,5,2,1,No,PayPal,202,No,4.8,No,1270.46,Yes
+CAS-01516,29,Curated,38.96,2,0,2,No,Debit Card,402,No,4.2,No,1294.58,Yes
+CAS-01517,10,Basic,22.17,3,1,2,No,Debit Card,291,Yes,3.5,Yes,559.28,Yes
+CAS-01518,4,Curated,33.53,3,0,2,No,PayPal,518,Yes,4.4,No,443.31,No
+CAS-01519,29,Curated,30.47,4,0,1,No,PayPal,72,Yes,5.0,No,952.4,No
+CAS-01520,18,Basic,22.09,5,1,0,No,PayPal,484,Yes,3.9,No,504.86,No
+CAS-01521,37,Curated,26.0,7,1,1,No,Credit Card,497,No,4.5,Yes,2346.36,No
+CAS-01522,31,Curated,32.16,5,0,2,No,PayPal,128,No,4.4,No,723.75,No
+CAS-01523,47,Curated,34.04,7,2,3,No,PayPal,337,Yes,4.5,No,1290.57,No
+CAS-01524,9,Curated,31.0,8,0,1,No,PayPal,404,Yes,4.1,No,667.58,Yes
+CAS-01525,2,Curated,39.38,2,1,0,No,Credit Card,329,No,3.4,No,250.73,No
+CAS-01526,42,Curated,35.43,7,0,1,No,PayPal,266,No,5.0,Yes,1044.42,No
+CAS-01527,2,Curated,36.61,7,0,1,No,Debit Card,417,No,4.7,No,326.13,No
+CAS-01528,46,Curated,33.46,3,0,4,No,Debit Card,372,Yes,4.6,No,2106.63,No
+CAS-01529,37,Deluxe,58.98,7,0,0,No,PayPal,922,No,5.0,No,1108.2,No
+CAS-01530,5,Curated,34.96,7,0,2,No,Debit Card,57,No,4.9,No,208.21,Yes
+CAS-01531,38,Basic,19.19,6,1,1,No,Credit Card,207,Yes,4.8,No,654.08,No
+CAS-01532,42,Basic,22.49,12,0,0,No,Credit Card,405,No,4.0,No,648.5,Yes
+CAS-01533,11,Curated,42.58,8,1,0,No,Buy Now Pay Later,119,Yes,3.9,No,539.96,No
+CAS-01534,2,Curated,37.04,2,0,2,No,Credit Card,301,No,3.1,No,148.2,No
+CAS-01535,31,Deluxe,53.77,6,0,3,No,Debit Card,393,No,4.1,No,1823.68,No
+CAS-01536,33,Deluxe,46.32,3,0,0,No,Credit Card,145,No,5.0,No,1590.87,No
+CAS-01537,43,Curated,36.74,5,0,3,Yes,Credit Card,119,No,3.8,No,2085.54,No
+CAS-01538,38,Curated,31.16,4,1,0,No,Credit Card,577,Yes,4.0,No,1309.79,No
+CAS-01539,11,Curated,36.58,6,0,1,Yes,Debit Card,247,Yes,2.8,No,280.78,Yes
+CAS-01540,44,Basic,21.53,5,1,3,No,Buy Now Pay Later,366,Yes,3.5,Yes,714.37,No
+CAS-01541,41,Curated,35.74,4,0,0,Yes,Credit Card,122,Yes,4.7,No,2930.83,No
+CAS-01542,7,Curated,31.52,7,1,1,No,PayPal,270,Yes,4.9,No,329.12,No
+CAS-01543,3,Deluxe,54.21,5,0,3,No,Credit Card,64,No,3.7,Yes,278.09,No
+CAS-01544,43,Curated,33.85,2,0,1,No,Debit Card,201,No,4.4,No,1734.49,No
+CAS-01545,31,Curated,34.72,4,0,2,No,Credit Card,528,No,3.9,No,1219.19,No
+CAS-01546,38,Deluxe,52.4,8,0,2,No,Credit Card,198,Yes,3.8,No,2218.34,No
+CAS-01547,42,Curated,33.62,9,0,1,No,Debit Card,276,No,4.7,Yes,4005.41,No
+CAS-01548,22,Curated,34.82,9,0,4,Yes,Credit Card,82,No,4.3,No,1316.85,No
+CAS-01549,20,Curated,37.39,8,1,2,No,Debit Card,201,Yes,5.0,No,1079.4,No
+CAS-01550,31,Deluxe,61.4,3,0,0,No,Credit Card,253,Yes,4.4,No,2310.33,No
+CAS-01551,5,Curated,37.0,7,0,2,No,Credit Card,100,No,3.5,No,186.74,No
+CAS-01552,12,Deluxe,54.64,4,0,2,No,Credit Card,344,Yes,4.1,No,1347.85,No
+CAS-01553,22,Basic,19.17,5,0,1,No,Credit Card,307,No,4.6,No,743.67,Yes
+CAS-01554,10,Curated,35.18,9,1,1,No,Credit Card,438,Yes,5.0,No,400.19,No
+CAS-01555,43,Basic,19.13,8,0,0,No,Credit Card,571,No,5.0,No,1108.03,No
+CAS-01556,33,Curated,36.32,4,1,3,No,PayPal,660,Yes,4.5,No,3101.0,Yes
+CAS-01557,28,Deluxe,54.23,7,1,4,No,PayPal,92,No,5.0,No,2608.38,No
+CAS-01558,37,Deluxe,49.79,8,1,1,No,Credit Card,347,Yes,5.0,No,2336.55,No
+CAS-01559,15,Curated,34.36,8,1,0,No,Credit Card,176,Yes,3.5,No,738.76,Yes
+CAS-01560,9,Basic,18.78,6,0,2,No,Credit Card,474,Yes,3.2,No,370.65,Yes
+CAS-01561,12,Basic,19.78,7,1,2,No,Credit Card,117,Yes,3.5,No,165.12,Yes
+CAS-01562,44,Basic,18.82,7,1,6,No,Credit Card,56,Yes,2.9,No,655.05,Yes
+CAS-01563,16,Deluxe,60.04,2,0,2,No,Debit Card,190,No,4.5,No,573.57,Yes
+CAS-01564,15,Basic,17.79,6,2,3,No,Credit Card,595,Yes,3.3,No,717.02,No
+CAS-01565,36,Curated,34.55,8,2,1,No,Credit Card,128,Yes,4.3,No,1856.31,No
+CAS-01566,39,Deluxe,52.78,3,2,0,No,Credit Card,436,No,3.9,No,1999.24,No
+CAS-01567,19,Basic,18.7,8,0,1,No,Debit Card,189,No,5.0,Yes,541.48,Yes
+CAS-01568,12,Basic,19.44,6,0,2,No,Credit Card,664,Yes,4.2,No,518.24,No
+CAS-01569,20,Deluxe,56.32,7,0,0,No,PayPal,245,Yes,4.2,Yes,689.74,No
+CAS-01570,40,Deluxe,46.62,5,0,3,No,Credit Card,372,Yes,4.5,No,2374.42,No
+CAS-01571,11,Deluxe,44.97,3,0,2,No,Credit Card,380,Yes,4.1,No,585.19,No
+CAS-01572,42,Basic,24.87,5,1,1,Yes,Credit Card,287,No,4.5,No,1082.98,No
+CAS-01573,5,Curated,30.72,4,1,3,No,Debit Card,219,No,4.8,No,343.83,No
+CAS-01574,34,Basic,18.09,3,0,3,No,Credit Card,269,Yes,4.1,No,1159.14,Yes
+CAS-01575,5,Basic,20.85,3,0,4,No,Credit Card,364,Yes,4.4,No,257.48,No
+CAS-01576,5,Basic,18.91,2,1,0,No,PayPal,186,No,4.5,No,215.17,Yes
+CAS-01577,5,Basic,20.97,7,0,1,No,PayPal,757,No,4.8,No,287.62,Yes
+CAS-01578,1,Curated,32.49,8,1,1,No,Credit Card,55,No,4.6,Yes,123.19,Yes
+CAS-01579,34,Basic,19.08,2,0,1,No,Credit Card,323,No,4.6,Yes,666.39,Yes
+CAS-01580,2,Deluxe,47.88,2,0,0,No,Debit Card,563,No,3.9,No,332.93,No
+CAS-01581,20,Basic,18.86,6,0,1,No,PayPal,472,No,5.0,No,477.02,Yes
+CAS-01582,44,Curated,33.89,6,1,1,No,PayPal,281,Yes,3.7,No,1718.89,Yes
+CAS-01583,26,Curated,38.75,8,2,1,No,Credit Card,861,No,4.4,No,2596.84,No
+CAS-01584,27,Basic,16.34,3,0,1,No,Credit Card,67,Yes,3.7,No,468.15,No
+CAS-01585,41,Deluxe,50.72,12,0,2,No,Credit Card,333,Yes,4.4,Yes,1835.59,No
+CAS-01586,39,Deluxe,55.45,6,0,0,No,Credit Card,268,No,3.4,No,3706.35,No
+CAS-01587,16,Deluxe,52.35,8,1,1,No,PayPal,364,Yes,4.3,No,1200.23,Yes
+CAS-01588,38,Deluxe,59.94,4,2,1,No,Credit Card,559,Yes,3.8,Yes,2144.39,No
+CAS-01589,4,Curated,34.18,4,1,0,No,Credit Card,142,Yes,3.9,No,354.4,No
+CAS-01590,17,Deluxe,58.6,4,0,1,No,Credit Card,340,No,3.9,No,1743.09,No
+CAS-01591,44,Curated,34.66,4,0,0,No,Buy Now Pay Later,217,Yes,4.0,No,918.09,No
+CAS-01592,13,Basic,23.38,10,2,0,Yes,Credit Card,748,Yes,4.2,No,755.91,No
+CAS-01593,33,Curated,37.55,5,0,2,No,Credit Card,242,Yes,4.7,No,1685.02,Yes
+CAS-01594,35,Deluxe,68.27,4,0,1,No,Credit Card,142,Yes,4.4,No,2664.52,No
+CAS-01595,0,Deluxe,53.24,9,0,0,No,Credit Card,95,No,3.6,No,0.0,No
+CAS-01596,39,Basic,20.99,8,1,4,No,Credit Card,199,Yes,4.1,No,632.49,Yes
+CAS-01597,41,Deluxe,55.45,6,0,0,No,Credit Card,79,Yes,3.9,Yes,3130.48,No
+CAS-01598,14,Curated,34.02,10,0,2,No,Debit Card,437,Yes,3.6,No,462.17,No
+CAS-01599,47,Curated,34.13,3,0,4,No,Credit Card,652,Yes,4.8,Yes,1898.39,No
+CAS-01600,33,Basic,22.44,6,1,0,No,Debit Card,238,No,3.7,No,1232.15,No
+CAS-01601,21,Basic,19.92,3,0,2,No,Credit Card,420,Yes,4.0,No,774.65,Yes
+CAS-01602,15,Deluxe,57.03,2,2,0,Yes,Credit Card,987,Yes,3.9,Yes,1006.01,No
+CAS-01603,25,Curated,36.21,6,0,1,No,PayPal,443,No,4.0,No,1143.37,No
+CAS-01604,0,Curated,33.79,3,3,1,No,Credit Card,763,Yes,4.5,No,325.31,Yes
+CAS-01605,12,Curated,31.31,3,0,0,No,Credit Card,337,No,3.7,No,393.6,No
+CAS-01606,44,Basic,19.49,5,0,0,No,PayPal,191,Yes,5.0,No,987.81,No
+CAS-01607,5,Curated,30.37,2,1,3,No,Credit Card,131,Yes,3.3,Yes,93.09,No
+CAS-01608,7,Curated,31.36,9,0,4,No,PayPal,108,No,4.0,No,243.21,No
+CAS-01609,3,Deluxe,52.55,7,0,2,No,Credit Card,94,No,4.0,Yes,523.72,No
+CAS-01610,25,Deluxe,57.42,2,0,1,No,Credit Card,517,Yes,3.7,No,940.08,No
+CAS-01611,37,Basic,18.32,6,0,0,No,Debit Card,225,Yes,3.8,No,728.33,Yes
+CAS-01612,25,Deluxe,51.34,6,0,1,No,PayPal,500,No,5.0,No,1565.2,No
+CAS-01613,41,Curated,34.77,9,1,2,No,Credit Card,172,No,4.0,No,1995.95,No
+CAS-01614,24,Basic,19.82,2,0,1,No,Credit Card,101,Yes,5.0,No,1491.27,Yes
+CAS-01615,24,Basic,19.97,2,0,1,No,PayPal,824,Yes,2.6,No,866.41,No
+CAS-01616,1,Basic,24.66,8,1,0,No,Credit Card,248,Yes,4.8,No,109.95,No
+CAS-01617,0,Deluxe,60.52,6,0,0,No,Buy Now Pay Later,452,No,4.3,No,318.59,No
+CAS-01618,7,Basic,21.24,7,0,1,No,Credit Card,224,No,3.7,No,358.93,No
+CAS-01619,6,Basic,21.38,3,0,2,Yes,Debit Card,541,No,5.0,No,350.49,Yes
+CAS-01620,45,Basic,21.25,3,1,1,No,Credit Card,747,Yes,4.5,No,2332.75,No
+CAS-01621,30,Curated,39.38,5,2,2,No,Debit Card,6,No,2.8,No,1307.46,No
+CAS-01622,20,Deluxe,60.02,2,1,3,No,PayPal,236,No,4.4,No,881.38,No
+CAS-01623,19,Curated,29.08,7,0,0,No,Debit Card,452,No,3.0,Yes,715.49,Yes
+CAS-01624,10,Curated,33.55,5,0,0,No,Buy Now Pay Later,473,Yes,3.6,No,1129.94,No
+CAS-01625,27,Basic,17.97,6,2,0,No,Debit Card,318,Yes,5.0,Yes,542.54,No
+CAS-01626,11,Deluxe,58.0,6,1,3,No,Debit Card,529,Yes,4.7,No,679.07,No
+CAS-01627,29,Curated,37.22,5,0,1,No,PayPal,165,No,3.3,No,716.91,Yes
+CAS-01628,17,Basic,21.37,7,2,1,No,Credit Card,111,No,3.8,No,444.66,Yes
+CAS-01629,24,Basic,20.56,7,1,1,No,Credit Card,127,No,3.3,No,542.96,Yes
+CAS-01630,1,Curated,34.05,6,1,1,No,Debit Card,644,Yes,4.1,No,215.01,No
+CAS-01631,10,Basic,21.43,4,0,3,No,Credit Card,526,Yes,3.0,No,514.47,Yes
+CAS-01632,31,Curated,35.66,5,0,0,No,Debit Card,591,Yes,4.0,No,1170.98,No
+CAS-01633,31,Curated,33.95,5,0,0,No,Debit Card,385,No,3.9,No,1568.78,No
+CAS-01634,48,Basic,20.44,6,2,2,No,PayPal,333,Yes,3.6,No,814.38,Yes
+CAS-01635,33,Curated,33.51,3,1,1,Yes,Debit Card,62,Yes,4.0,No,1342.01,Yes
+CAS-01636,9,Curated,30.4,7,0,0,No,PayPal,147,Yes,4.4,No,263.42,No
+CAS-01637,38,Curated,35.24,5,0,1,No,PayPal,456,Yes,2.7,No,1405.87,No
+CAS-01638,24,Basic,19.52,6,0,1,No,Debit Card,154,Yes,3.1,Yes,392.55,Yes
+CAS-01639,30,Curated,32.57,4,0,0,No,Credit Card,194,Yes,3.9,No,1853.37,Yes
+CAS-01640,26,Curated,35.06,2,1,1,No,PayPal,224,No,3.8,No,627.51,No
+CAS-01641,38,Basic,18.03,4,0,0,Yes,PayPal,290,No,4.1,No,734.61,Yes
+CAS-01642,15,Basic,15.84,5,1,1,No,PayPal,288,No,3.3,Yes,706.3,No
+CAS-01643,32,Deluxe,55.97,2,1,1,No,PayPal,457,Yes,4.4,No,1588.95,No
+CAS-01644,26,Curated,32.9,4,0,1,No,Credit Card,584,Yes,4.7,No,1060.56,No
+CAS-01645,12,Basic,20.33,6,0,2,No,Debit Card,422,No,5.0,No,618.01,Yes
+CAS-01646,3,Basic,21.38,11,0,2,No,Credit Card,653,No,3.4,Yes,181.26,Yes
+CAS-01647,43,Curated,38.53,12,1,0,Yes,Credit Card,387,Yes,2.3,No,1331.46,No
+CAS-01648,44,Basic,19.48,7,1,1,No,Buy Now Pay Later,617,No,4.5,No,684.95,No
+CAS-01649,38,Basic,20.15,7,0,3,No,Credit Card,657,No,4.2,Yes,1479.72,Yes
+CAS-01650,43,Deluxe,59.81,3,2,3,No,PayPal,824,Yes,3.9,No,2414.52,Yes
+CAS-01651,45,Basic,20.08,5,1,0,Yes,Credit Card,356,No,3.7,No,793.04,No
+CAS-01652,5,Basic,23.75,5,1,4,No,PayPal,230,No,4.2,Yes,149.25,Yes
+CAS-01653,39,Curated,38.14,2,2,2,No,Debit Card,421,No,4.4,No,1511.57,No
+CAS-01654,45,Basic,17.81,7,0,1,No,Debit Card,591,Yes,4.5,No,855.75,No
+CAS-01655,37,Curated,37.44,7,0,2,Yes,PayPal,230,No,4.5,No,1934.05,No
+CAS-01656,11,Basic,18.92,4,0,2,No,PayPal,460,No,4.2,No,301.31,Yes
+CAS-01657,6,Curated,28.86,7,2,1,No,PayPal,40,No,3.5,No,314.29,Yes
+CAS-01658,15,Curated,34.94,10,2,2,No,Credit Card,129,Yes,3.7,No,634.35,No
+CAS-01659,28,Basic,20.15,5,0,0,No,Credit Card,183,No,4.2,Yes,620.2,Yes
+CAS-01660,39,Curated,39.33,3,1,2,No,Credit Card,185,No,3.6,No,1207.06,No
+CAS-01661,48,Curated,35.91,4,0,2,No,Credit Card,159,Yes,3.2,No,772.86,No
+CAS-01662,34,Curated,34.73,8,0,1,No,Credit Card,360,Yes,5.0,No,1155.58,No
+CAS-01663,30,Basic,21.26,9,0,1,No,PayPal,380,No,3.9,No,853.63,No
+CAS-01664,41,Curated,36.99,6,1,0,No,Credit Card,158,No,5.0,No,1293.11,Yes
+CAS-01665,34,Deluxe,62.12,5,0,1,No,Debit Card,61,Yes,3.2,Yes,2091.37,No
+CAS-01666,16,Basic,19.1,7,0,4,No,PayPal,270,Yes,3.1,Yes,545.1,No
+CAS-01667,18,Curated,37.65,2,1,1,No,Credit Card,581,No,5.0,No,696.04,No
+CAS-01668,25,Deluxe,56.27,9,1,3,No,Debit Card,393,No,4.4,No,2316.67,No
+CAS-01669,48,Basic,22.83,8,0,1,No,Credit Card,385,No,3.5,Yes,1227.76,No
+CAS-01670,45,Curated,37.89,8,0,1,No,Credit Card,483,No,3.9,No,2234.58,No
+CAS-01671,41,Curated,36.81,7,0,1,No,PayPal,360,Yes,1.9,No,794.14,Yes
+CAS-01672,45,Curated,31.24,2,1,1,No,Credit Card,214,Yes,4.2,Yes,1460.66,No
+CAS-01673,2,Basic,15.29,2,0,1,No,Debit Card,151,Yes,2.8,No,134.73,Yes
+CAS-01674,28,Basic,22.08,5,1,3,No,Credit Card,163,No,3.7,Yes,491.21,Yes
+CAS-01675,37,Curated,34.67,4,2,3,No,Credit Card,384,No,3.2,No,1765.01,No
+CAS-01676,15,Basic,20.3,6,1,1,No,PayPal,284,Yes,5.0,No,378.14,Yes
+CAS-01677,17,Basic,18.64,2,0,1,No,PayPal,243,Yes,3.9,No,676.94,No
+CAS-01678,21,Curated,33.96,3,0,3,No,PayPal,411,Yes,3.7,No,614.8,Yes
+CAS-01679,13,Deluxe,53.01,5,0,1,No,Credit Card,302,No,5.0,No,1267.79,Yes
+CAS-01680,41,Basic,19.03,5,2,0,No,Debit Card,233,Yes,5.0,No,547.22,No
+CAS-01681,38,Deluxe,57.13,5,1,1,No,Credit Card,168,Yes,4.4,No,2293.85,No
+CAS-01682,37,Deluxe,53.26,6,0,1,No,Debit Card,179,No,4.4,Yes,1282.56,No
+CAS-01683,17,Curated,36.93,8,0,0,No,PayPal,439,No,3.8,No,583.66,No
+CAS-01684,6,Basic,18.4,4,1,4,No,PayPal,651,No,4.8,Yes,291.12,Yes
+CAS-01685,6,Deluxe,48.67,6,3,0,No,Credit Card,133,Yes,5.0,No,599.0,No
+CAS-01686,24,Basic,22.73,8,2,4,No,Credit Card,358,No,5.0,No,765.73,Yes
+CAS-01687,2,Curated,33.42,6,0,0,No,PayPal,169,Yes,4.1,No,43.77,No
+CAS-01688,6,Basic,20.87,8,1,3,No,Credit Card,270,No,3.8,No,142.75,Yes
+CAS-01689,22,Deluxe,55.83,11,0,1,No,Debit Card,321,Yes,3.8,No,897.56,No
+CAS-01690,48,Curated,39.39,6,1,2,No,PayPal,600,Yes,3.6,No,3573.23,No
+CAS-01691,43,Deluxe,61.2,4,0,2,No,Credit Card,719,No,5.0,Yes,1876.02,No
+CAS-01692,43,Deluxe,49.54,9,0,1,No,Debit Card,176,Yes,4.4,Yes,2344.59,No
+CAS-01693,3,Basic,17.21,6,0,0,No,PayPal,86,Yes,4.0,No,194.23,Yes
+CAS-01694,8,Basic,17.39,3,0,2,No,PayPal,322,No,4.5,No,440.16,No
+CAS-01695,23,Basic,20.12,7,1,1,No,Credit Card,146,No,4.0,No,572.35,Yes
+CAS-01696,35,Basic,18.0,4,1,0,No,Buy Now Pay Later,196,No,3.9,No,636.45,No
+CAS-01697,43,Deluxe,57.89,7,0,2,No,Debit Card,280,Yes,4.5,No,1312.52,Yes
+CAS-01698,30,Deluxe,58.03,9,2,0,No,Credit Card,121,No,3.7,Yes,2638.1,No
+CAS-01699,15,Curated,27.95,4,0,1,No,Credit Card,727,No,4.2,No,701.78,No
+CAS-01700,30,Curated,36.0,4,0,2,No,Buy Now Pay Later,363,Yes,5.0,No,1399.22,No
+CAS-01701,40,Basic,17.22,5,1,2,No,Debit Card,1475,Yes,3.8,No,1057.02,Yes
+CAS-01702,4,Basic,21.25,7,0,0,No,Credit Card,136,Yes,4.1,No,73.74,No
+CAS-01703,24,Curated,37.38,7,0,0,No,PayPal,1489,Yes,3.5,No,1233.73,No
+CAS-01704,16,Curated,39.74,4,1,1,No,Credit Card,326,Yes,4.2,Yes,1644.71,No
+CAS-01705,38,Basic,23.32,7,0,1,No,Credit Card,883,No,2.5,No,1008.39,Yes
+CAS-01706,31,Curated,29.07,2,0,2,No,Credit Card,411,No,3.4,No,489.7,No
+CAS-01707,43,Curated,33.05,5,1,1,No,Credit Card,46,Yes,5.0,No,1455.48,No
+CAS-01708,46,Curated,31.14,2,0,3,No,Credit Card,157,No,4.8,No,2845.38,No
+CAS-01709,4,Basic,20.37,2,0,2,No,Credit Card,163,Yes,4.6,No,177.62,No
+CAS-01710,24,Basic,20.64,6,0,0,No,Credit Card,226,Yes,4.5,No,701.76,No
+CAS-01711,2,Curated,30.51,8,0,0,No,Credit Card,211,No,3.8,Yes,67.28,Yes
+CAS-01712,15,Deluxe,59.21,3,1,2,No,Debit Card,199,Yes,3.8,No,1098.21,Yes
+CAS-01713,7,Curated,36.74,7,1,2,No,Debit Card,77,Yes,4.3,No,246.11,No
+CAS-01714,14,Deluxe,58.7,3,1,2,Yes,Debit Card,398,No,3.5,No,646.6,No
+CAS-01715,18,Deluxe,48.81,5,0,2,Yes,Debit Card,420,No,3.7,Yes,786.15,No
+CAS-01716,17,Basic,16.44,4,1,1,Yes,Debit Card,135,No,4.5,No,423.8,No
+CAS-01717,41,Deluxe,55.7,2,0,0,No,Credit Card,269,No,3.5,No,2097.19,No
+CAS-01718,31,Basic,23.23,7,0,2,No,Buy Now Pay Later,230,Yes,3.6,Yes,570.42,No
+CAS-01719,26,Basic,18.83,5,1,2,No,Credit Card,1157,Yes,4.7,Yes,860.37,No
+CAS-01720,12,Basic,18.21,6,1,1,No,Credit Card,91,Yes,4.1,No,381.34,No
+CAS-01721,36,Basic,19.8,8,0,2,No,Buy Now Pay Later,1192,Yes,4.5,No,1647.6,Yes
+CAS-01722,47,Basic,17.68,4,1,0,No,Debit Card,537,Yes,4.6,No,1053.01,No
+CAS-01723,12,Deluxe,50.22,5,0,2,No,Credit Card,386,No,2.9,No,1357.74,No
+CAS-01724,5,Basic,21.29,10,1,0,No,Credit Card,164,Yes,3.3,No,77.02,No
+CAS-01725,0,Deluxe,53.89,2,2,2,No,Buy Now Pay Later,542,Yes,4.4,No,255.58,Yes
+CAS-01726,3,Curated,33.62,6,0,1,Yes,Credit Card,242,No,4.5,No,219.85,No
+CAS-01727,27,Curated,32.92,4,0,2,No,Debit Card,133,Yes,3.2,No,554.01,No
+CAS-01728,43,Curated,30.47,6,2,1,No,Debit Card,282,No,4.5,No,1570.39,No
+CAS-01729,36,Deluxe,56.19,3,0,3,No,Credit Card,503,No,3.2,No,1712.61,No
+CAS-01730,32,Basic,20.64,3,0,2,No,PayPal,117,Yes,3.2,No,842.63,Yes
+CAS-01731,19,Curated,32.94,6,0,2,No,PayPal,549,Yes,3.9,No,660.01,Yes
+CAS-01732,0,Curated,36.18,2,0,1,No,Buy Now Pay Later,59,Yes,3.8,No,28.13,No
+CAS-01733,10,Deluxe,48.81,5,1,0,No,Debit Card,702,No,4.0,Yes,468.97,No
+CAS-01734,22,Curated,35.78,6,1,3,No,Credit Card,80,Yes,3.6,No,776.76,No
+CAS-01735,44,Curated,37.64,5,0,0,No,Credit Card,52,No,5.0,Yes,1952.2,No
+CAS-01736,37,Basic,19.69,5,1,1,No,Debit Card,286,No,4.4,No,1481.29,Yes
+CAS-01737,18,Basic,21.18,6,1,2,No,Credit Card,447,Yes,3.0,No,689.37,No
+CAS-01738,36,Basic,14.6,9,1,1,No,Credit Card,832,Yes,4.9,No,926.87,No
+CAS-01739,47,Basic,20.58,5,0,1,No,Debit Card,140,Yes,3.3,Yes,1502.5,Yes
+CAS-01740,25,Basic,19.21,4,1,2,No,Debit Card,209,Yes,4.5,No,606.66,No
+CAS-01741,35,Curated,39.12,2,1,1,No,Debit Card,273,No,3.9,No,740.1,No
+CAS-01742,21,Deluxe,56.5,8,1,3,Yes,Credit Card,324,Yes,3.9,No,2018.99,No
+CAS-01743,6,Curated,30.04,5,0,1,No,Credit Card,60,No,4.4,No,337.75,Yes
+CAS-01744,17,Curated,35.74,5,2,2,No,PayPal,558,Yes,2.5,No,508.34,No
+CAS-01745,6,Basic,20.08,8,1,1,No,PayPal,206,No,3.0,No,173.48,No
+CAS-01746,44,Curated,37.25,8,0,3,No,PayPal,107,No,4.6,No,1613.97,No
+CAS-01747,7,Basic,19.68,11,2,1,No,Buy Now Pay Later,58,No,3.7,No,313.13,No
+CAS-01748,19,Basic,15.8,9,2,0,No,Credit Card,390,No,3.5,No,393.84,Yes
+CAS-01749,46,Curated,35.85,7,2,2,No,Credit Card,386,Yes,4.3,No,2513.24,No
+CAS-01750,18,Deluxe,59.14,3,0,3,No,PayPal,149,No,5.0,Yes,2114.6,No
+CAS-01751,32,Curated,33.82,4,1,2,No,Credit Card,590,Yes,3.6,Yes,3438.64,No
+CAS-01752,8,Basic,18.92,7,0,1,No,Credit Card,441,Yes,4.4,No,128.87,Yes
+CAS-01753,31,Basic,19.07,2,1,2,No,Debit Card,308,Yes,3.9,Yes,333.56,Yes
+CAS-01754,48,Deluxe,57.06,2,0,3,No,PayPal,114,No,4.7,No,11056.88,No
+CAS-01755,9,Basic,20.28,4,1,1,No,Debit Card,78,Yes,3.6,No,368.44,Yes
+CAS-01756,0,Basic,22.64,5,1,2,No,Credit Card,156,No,3.7,Yes,113.07,Yes
+CAS-01757,42,Deluxe,58.97,6,3,0,No,Debit Card,504,No,3.6,No,1481.13,No
+CAS-01758,1,Curated,26.01,6,1,4,No,Credit Card,152,Yes,3.5,No,24.77,Yes
+CAS-01759,6,Deluxe,54.45,4,1,2,No,Credit Card,294,Yes,4.0,No,384.86,No
+CAS-01760,14,Deluxe,46.87,9,1,1,No,Credit Card,317,Yes,3.6,No,723.17,No
+CAS-01761,48,Curated,35.77,10,0,0,No,PayPal,140,No,3.1,Yes,1817.2,Yes
+CAS-01762,36,Basic,18.71,9,0,2,No,PayPal,670,Yes,3.4,Yes,601.1,Yes
+CAS-01763,36,Deluxe,61.67,2,0,0,No,Credit Card,87,No,4.4,Yes,1696.1,Yes
+CAS-01764,32,Curated,33.32,9,0,1,Yes,Debit Card,370,Yes,3.0,No,1732.06,No
+CAS-01765,17,Basic,15.04,3,2,2,No,PayPal,71,Yes,3.5,No,231.55,Yes
+CAS-01766,30,Deluxe,58.57,5,0,1,No,Credit Card,1262,No,3.4,No,3398.93,Yes
+CAS-01767,38,Basic,21.72,6,0,1,No,Credit Card,167,No,4.4,No,1282.59,No
+CAS-01768,29,Basic,19.75,5,0,0,No,Buy Now Pay Later,422,Yes,3.6,No,586.84,Yes
+CAS-01769,6,Basic,20.48,6,2,0,No,PayPal,81,Yes,3.3,No,293.87,Yes
+CAS-01770,16,Curated,37.14,5,0,1,Yes,Credit Card,306,Yes,5.0,No,825.55,No
+CAS-01771,43,Basic,16.25,2,0,0,No,Credit Card,244,Yes,2.8,No,685.87,No
+CAS-01772,14,Curated,33.79,6,2,3,No,Credit Card,380,Yes,5.0,Yes,461.64,No
+CAS-01773,28,Curated,34.81,7,0,1,No,Credit Card,198,Yes,5.0,No,1228.76,No
+CAS-01774,45,Curated,33.38,4,2,4,No,Debit Card,457,Yes,4.0,No,1485.78,No
+CAS-01775,30,Curated,35.47,7,0,1,No,PayPal,119,No,4.0,Yes,743.3,No
+CAS-01776,23,Basic,18.89,6,1,2,No,PayPal,336,No,5.0,No,737.03,Yes
+CAS-01777,15,Basic,15.78,5,0,1,Yes,Credit Card,707,No,5.0,No,497.56,Yes
+CAS-01778,27,Curated,31.88,9,2,2,No,PayPal,201,No,3.3,No,977.83,Yes
+CAS-01779,40,Curated,31.86,5,0,1,No,Credit Card,353,No,4.9,No,697.78,No
+CAS-01780,18,Basic,20.86,5,0,3,No,PayPal,103,No,4.4,No,203.1,Yes
+CAS-01781,14,Deluxe,59.65,5,1,2,No,PayPal,150,Yes,3.9,No,749.04,No
+CAS-01782,13,Curated,35.8,10,0,1,Yes,Debit Card,456,No,3.6,No,560.48,No
+CAS-01783,38,Basic,20.08,2,0,2,No,Credit Card,313,Yes,4.0,Yes,767.69,No
+CAS-01784,33,Curated,31.91,4,0,1,No,Buy Now Pay Later,694,No,5.0,No,1537.37,No
+CAS-01785,44,Curated,33.2,5,0,2,No,Credit Card,682,Yes,4.0,Yes,1923.87,No
+CAS-01786,4,Curated,33.7,5,0,0,No,PayPal,143,Yes,5.0,No,222.95,No
+CAS-01787,35,Curated,36.82,3,3,1,No,PayPal,151,No,3.9,No,1600.91,Yes
+CAS-01788,35,Basic,19.17,4,0,1,No,PayPal,129,No,4.3,No,494.74,Yes
+CAS-01789,9,Curated,32.88,6,0,3,No,PayPal,1157,No,3.9,Yes,1294.39,Yes
+CAS-01790,7,Curated,35.18,9,0,1,No,Credit Card,677,No,4.9,No,558.6,Yes
+CAS-01791,23,Basic,19.36,8,0,1,No,PayPal,338,No,4.1,No,266.93,Yes
+CAS-01792,17,Basic,17.81,4,3,1,No,Credit Card,147,Yes,4.4,No,395.64,Yes
+CAS-01793,34,Curated,40.92,7,1,1,No,Debit Card,497,Yes,4.5,No,1676.49,No
+CAS-01794,44,Basic,23.51,4,0,1,No,Credit Card,557,Yes,3.8,No,1575.77,No
+CAS-01795,40,Curated,30.83,7,1,0,No,Credit Card,739,Yes,3.6,Yes,1653.24,No
+CAS-01796,9,Deluxe,52.61,6,0,1,No,Buy Now Pay Later,254,No,3.3,No,351.36,No
+CAS-01797,9,Curated,33.72,4,2,1,Yes,Debit Card,96,No,3.3,No,191.85,No
+CAS-01798,5,Curated,36.04,6,0,1,No,Credit Card,198,No,4.8,Yes,172.31,Yes
+CAS-01799,27,Deluxe,68.07,7,1,0,Yes,PayPal,292,Yes,3.3,No,4526.33,No
+CAS-01800,8,Basic,18.7,5,0,1,No,Credit Card,607,Yes,5.0,No,336.3,No
+CAS-01801,40,Deluxe,52.96,4,0,1,No,Credit Card,76,Yes,3.8,No,2661.16,No
+CAS-01802,30,Basic,20.36,5,0,2,No,Credit Card,170,Yes,4.0,No,406.78,Yes
+CAS-01803,27,Basic,20.63,6,2,0,Yes,Credit Card,87,Yes,4.0,No,474.99,Yes
+CAS-01804,2,Curated,30.87,3,0,0,No,Debit Card,325,Yes,4.5,No,96.12,Yes
+CAS-01805,31,Basic,25.15,7,0,4,No,Credit Card,391,No,3.0,Yes,719.48,Yes
+CAS-01806,8,Curated,26.0,6,0,2,No,PayPal,287,No,4.3,No,454.79,No
+CAS-01807,15,Curated,32.72,7,0,2,No,Debit Card,377,Yes,3.9,No,1232.62,No
+CAS-01808,38,Curated,36.33,4,0,3,No,Credit Card,323,No,2.1,Yes,2515.58,Yes
+CAS-01809,10,Deluxe,63.06,5,0,1,No,Debit Card,35,Yes,4.2,No,836.4,No
+CAS-01810,22,Curated,30.95,4,0,3,No,PayPal,293,No,4.5,No,944.26,Yes
+CAS-01811,3,Basic,17.69,7,0,3,No,Buy Now Pay Later,153,Yes,3.8,No,113.95,Yes
+CAS-01812,40,Deluxe,59.2,3,0,1,No,Buy Now Pay Later,345,Yes,3.7,Yes,2920.47,No
+CAS-01813,45,Basic,18.52,11,1,0,No,PayPal,165,No,3.8,No,864.6,No
+CAS-01814,36,Curated,32.48,7,1,1,Yes,Credit Card,89,Yes,3.2,No,551.78,No
+CAS-01815,44,Basic,17.49,6,0,3,No,Credit Card,408,No,5.0,No,467.28,Yes
+CAS-01816,27,Basic,14.0,7,0,1,No,Credit Card,365,No,4.9,No,703.36,No
+CAS-01817,44,Basic,21.88,7,1,3,No,Credit Card,135,No,3.3,No,1643.42,Yes
+CAS-01818,44,Curated,35.09,6,0,2,No,Credit Card,438,No,4.8,No,1203.19,No
+CAS-01819,43,Deluxe,52.66,4,1,1,No,PayPal,562,Yes,5.0,No,1948.16,No
+CAS-01820,24,Curated,40.17,8,0,1,No,Credit Card,627,No,4.9,No,1676.37,Yes
+CAS-01821,8,Deluxe,52.71,4,1,2,No,Credit Card,413,Yes,3.9,Yes,1212.56,Yes
+CAS-01822,33,Deluxe,58.74,5,0,3,Yes,Credit Card,1038,Yes,5.0,Yes,1456.61,No
+CAS-01823,23,Curated,35.9,3,1,1,No,PayPal,224,Yes,4.3,Yes,965.63,No
+CAS-01824,11,Basic,18.91,5,0,1,No,Debit Card,30,Yes,4.8,Yes,131.86,Yes
+CAS-01825,45,Basic,21.1,10,0,3,No,Debit Card,673,Yes,4.9,No,1393.73,Yes
+CAS-01826,48,Curated,33.79,3,2,3,No,PayPal,534,Yes,3.6,No,1462.03,No
+CAS-01827,20,Basic,19.45,5,0,3,No,Credit Card,157,Yes,3.6,No,640.52,Yes
+CAS-01828,10,Deluxe,64.77,5,0,2,No,PayPal,200,Yes,4.4,No,569.66,Yes
+CAS-01829,37,Basic,22.1,5,0,1,No,Credit Card,461,Yes,5.0,No,1197.96,Yes
+CAS-01830,48,Curated,36.23,5,2,2,No,Debit Card,1111,Yes,3.8,No,1216.17,No
+CAS-01831,6,Curated,37.54,8,0,1,No,Credit Card,476,Yes,5.0,No,396.03,No
+CAS-01832,26,Curated,36.78,7,0,1,No,PayPal,246,No,3.8,No,997.89,No
+CAS-01833,30,Basic,16.28,8,0,1,No,Credit Card,235,Yes,4.4,No,1337.67,Yes
+CAS-01834,36,Curated,32.3,5,0,3,No,Credit Card,389,Yes,5.0,Yes,1609.12,No
+CAS-01835,17,Curated,33.01,2,2,3,Yes,PayPal,113,Yes,4.0,No,453.82,No
+CAS-01836,4,Basic,17.84,9,0,2,No,PayPal,117,Yes,4.1,No,236.46,No
+CAS-01837,37,Curated,33.78,6,0,0,No,Credit Card,455,Yes,4.6,Yes,1776.8,Yes
+CAS-01838,16,Basic,19.86,7,0,2,No,Debit Card,177,Yes,2.9,Yes,335.86,No
+CAS-01839,33,Deluxe,48.57,9,0,3,No,Credit Card,183,Yes,4.1,No,1049.42,Yes
+CAS-01840,36,Curated,34.76,4,2,1,No,PayPal,196,Yes,5.0,No,1088.77,No
+CAS-01841,27,Basic,16.54,3,0,1,No,Credit Card,75,No,3.9,No,85.54,No
+CAS-01842,46,Basic,20.08,6,0,1,No,Credit Card,529,No,3.3,No,880.64,Yes
+CAS-01843,2,Curated,31.97,2,0,1,No,Credit Card,201,Yes,4.5,No,71.0,No
+CAS-01844,8,Curated,37.67,2,0,1,No,Credit Card,52,No,3.9,Yes,378.66,No
+CAS-01845,38,Curated,36.8,7,1,1,No,Debit Card,177,Yes,4.5,No,2125.37,No
+CAS-01846,7,Basic,21.89,5,0,0,No,PayPal,309,Yes,2.8,No,338.76,Yes
+CAS-01847,3,Curated,40.23,5,0,0,No,Debit Card,690,No,4.1,No,423.79,Yes
+CAS-01848,2,Basic,19.49,2,0,0,No,Credit Card,203,No,4.0,No,234.78,No
+CAS-01849,24,Curated,30.89,2,2,1,No,Debit Card,547,Yes,4.7,No,956.27,No
+CAS-01850,24,Basic,18.9,6,0,1,No,Credit Card,724,Yes,4.7,No,447.96,Yes
+CAS-01851,43,Basic,23.47,5,1,3,Yes,Buy Now Pay Later,628,Yes,3.7,No,1046.34,No
+CAS-01852,25,Deluxe,58.59,2,0,1,No,PayPal,1023,No,3.0,No,2034.51,No
+CAS-01853,16,Curated,36.7,6,0,1,No,Credit Card,160,Yes,4.4,No,476.15,No
+CAS-01854,17,Basic,18.03,4,1,3,No,Debit Card,144,No,3.9,No,470.08,No
+CAS-01855,6,Basic,19.05,12,1,2,No,Credit Card,1127,Yes,4.5,No,476.8,No
+CAS-01856,7,Basic,19.94,4,1,1,No,PayPal,192,No,3.9,No,271.09,Yes
+CAS-01857,37,Curated,37.53,5,0,1,No,Debit Card,176,Yes,3.9,No,2433.2,Yes
+CAS-01858,3,Curated,38.6,5,1,1,No,Credit Card,629,No,4.5,No,466.03,No
+CAS-01859,14,Deluxe,56.68,3,2,2,Yes,Credit Card,896,No,2.9,No,1031.15,No
+CAS-01860,7,Basic,19.45,4,3,0,No,Debit Card,184,Yes,4.1,No,107.79,Yes
+CAS-01861,36,Deluxe,59.81,6,0,0,No,PayPal,671,Yes,4.4,No,6536.73,No
+CAS-01862,2,Basic,20.58,4,0,2,No,PayPal,378,No,3.3,Yes,240.63,No
+CAS-01863,46,Deluxe,47.52,12,0,1,No,PayPal,619,No,3.1,No,3776.5,No
+CAS-01864,9,Basic,19.68,6,0,1,No,PayPal,370,Yes,3.5,No,232.91,No
+CAS-01865,18,Basic,20.79,7,0,0,No,Debit Card,182,No,4.0,No,459.95,No
+CAS-01866,41,Curated,34.45,4,1,3,No,Credit Card,381,Yes,4.6,Yes,2326.29,Yes
+CAS-01867,26,Curated,30.77,2,1,1,No,Credit Card,1001,Yes,3.8,No,1166.12,Yes
+CAS-01868,20,Basic,19.82,5,1,4,No,PayPal,116,Yes,4.8,No,1022.99,Yes
+CAS-01869,30,Curated,33.47,4,1,0,No,Credit Card,193,Yes,3.7,No,754.05,No
+CAS-01870,46,Curated,40.66,3,0,1,No,Debit Card,386,No,3.4,Yes,905.77,Yes
+CAS-01871,26,Curated,37.37,8,0,0,No,Credit Card,668,No,3.7,No,1444.38,No
+CAS-01872,37,Basic,23.51,3,1,1,No,Credit Card,798,Yes,3.6,No,1007.35,Yes
+CAS-01873,44,Deluxe,56.33,4,1,1,No,Debit Card,174,No,4.7,No,3373.23,No
+CAS-01874,39,Basic,18.14,4,0,1,No,Credit Card,119,Yes,4.0,No,411.47,Yes
+CAS-01875,35,Deluxe,58.16,4,0,3,No,Credit Card,360,Yes,5.0,No,2422.68,No
+CAS-01876,14,Basic,21.51,5,1,2,No,Credit Card,411,Yes,3.9,No,398.04,No
+CAS-01877,27,Deluxe,56.48,3,0,0,No,Debit Card,304,No,4.4,No,2679.69,No
+CAS-01878,31,Curated,31.87,5,0,0,No,Credit Card,157,Yes,3.8,No,1565.78,No
+CAS-01879,10,Curated,34.94,10,1,2,No,Credit Card,361,Yes,4.6,No,437.79,Yes
+CAS-01880,10,Curated,32.67,3,0,4,No,Credit Card,425,Yes,5.0,Yes,620.33,No
+CAS-01881,23,Curated,32.95,5,1,0,No,PayPal,252,Yes,3.5,No,1060.29,No
+CAS-01882,12,Deluxe,52.54,5,2,1,No,Credit Card,179,Yes,5.0,No,1038.64,No
+CAS-01883,23,Basic,17.81,4,0,2,No,PayPal,273,No,4.1,No,478.8,No
+CAS-01884,4,Curated,36.6,5,0,1,No,PayPal,196,Yes,4.7,No,429.42,Yes
+CAS-01885,34,Basic,21.73,5,0,4,No,Debit Card,455,No,3.4,No,1642.25,Yes
+CAS-01886,24,Curated,33.69,5,1,0,Yes,Credit Card,121,No,3.0,No,711.02,No
+CAS-01887,5,Basic,19.26,8,0,2,No,Credit Card,308,Yes,4.5,No,140.54,No
+CAS-01888,14,Deluxe,60.34,6,1,1,No,Credit Card,180,No,4.3,Yes,1196.29,No
+CAS-01889,43,Basic,17.76,3,0,2,No,Credit Card,272,Yes,2.6,No,709.6,No
+CAS-01890,10,Basic,22.91,6,0,1,Yes,Credit Card,109,Yes,2.7,No,294.53,Yes
+CAS-01891,28,Curated,31.11,9,0,0,No,Credit Card,328,Yes,5.0,No,1455.14,No
+CAS-01892,15,Basic,20.54,3,3,2,No,PayPal,294,No,4.5,Yes,557.87,No
+CAS-01893,3,Basic,22.0,10,1,1,No,Buy Now Pay Later,376,No,3.4,No,325.86,Yes
+CAS-01894,26,Curated,35.06,5,0,0,No,Credit Card,208,Yes,3.9,No,459.0,No
+CAS-01895,29,Basic,21.51,6,1,1,No,Credit Card,373,Yes,3.6,No,611.58,Yes
+CAS-01896,30,Basic,17.65,7,1,1,No,PayPal,177,Yes,4.3,No,582.66,Yes
+CAS-01897,34,Curated,38.18,5,1,0,No,PayPal,474,Yes,4.6,No,3120.61,No
+CAS-01898,31,Curated,38.54,3,0,2,No,Credit Card,652,Yes,4.9,No,1763.57,No
+CAS-01899,2,Basic,24.55,5,0,0,No,PayPal,231,Yes,4.3,No,119.91,No
+CAS-01900,41,Deluxe,56.78,9,0,2,No,PayPal,57,Yes,4.2,No,2137.16,No
+CAS-01901,6,Curated,32.47,9,1,5,No,Buy Now Pay Later,423,No,4.7,No,413.87,No
+CAS-01902,28,Deluxe,45.36,4,1,0,No,PayPal,155,No,3.9,No,2772.86,Yes
+CAS-01903,25,Basic,19.69,5,1,0,Yes,Credit Card,156,No,3.4,No,611.63,No
+CAS-01904,46,Curated,31.96,11,0,1,No,Credit Card,67,No,3.8,No,1005.03,No
+CAS-01905,1,Basic,20.36,7,0,1,No,Credit Card,181,Yes,4.3,No,32.31,No
+CAS-01906,10,Deluxe,66.59,12,0,0,No,Debit Card,588,No,4.2,No,1270.46,Yes
+CAS-01907,24,Deluxe,52.38,7,1,0,No,Credit Card,1189,Yes,5.0,No,2152.29,No
+CAS-01908,18,Curated,32.3,11,1,0,No,Credit Card,116,Yes,3.6,Yes,518.44,No
+CAS-01909,1,Basic,21.27,2,0,0,No,Credit Card,163,No,3.2,No,39.61,No
+CAS-01910,5,Basic,19.45,5,1,1,No,Debit Card,145,No,4.8,No,203.76,No
+CAS-01911,26,Curated,33.84,7,1,2,No,Credit Card,257,Yes,4.0,No,2416.81,Yes
+CAS-01912,38,Basic,23.07,3,0,1,No,PayPal,1024,No,3.3,No,1396.31,Yes
+CAS-01913,24,Basic,19.54,2,1,2,No,Debit Card,520,No,5.0,No,526.15,Yes
+CAS-01914,39,Curated,38.82,11,0,1,No,Credit Card,301,No,3.4,Yes,1284.66,No
+CAS-01915,39,Basic,19.33,4,0,2,Yes,Credit Card,640,No,3.9,No,971.51,No
+CAS-01916,45,Deluxe,48.1,3,0,2,No,Buy Now Pay Later,214,No,4.3,No,1962.48,No
+CAS-01917,38,Deluxe,51.19,8,1,3,Yes,Credit Card,244,No,4.2,No,2080.95,No
+CAS-01918,22,Basic,18.33,7,1,0,No,Debit Card,460,No,4.8,No,565.02,Yes
+CAS-01919,10,Basic,19.72,7,1,0,No,Credit Card,94,Yes,3.7,No,258.81,Yes
+CAS-01920,5,Deluxe,49.94,4,0,1,No,Debit Card,493,No,4.4,No,443.46,No
+CAS-01921,31,Curated,34.19,3,0,0,No,Credit Card,441,No,3.5,No,1456.72,Yes
+CAS-01922,20,Deluxe,45.34,4,1,2,Yes,Debit Card,159,Yes,4.7,No,724.1,No
+CAS-01923,27,Curated,38.51,4,0,0,No,Debit Card,476,No,4.9,No,1077.68,Yes
+CAS-01924,9,Curated,31.88,7,1,0,No,PayPal,110,Yes,4.8,No,453.34,Yes
+CAS-01925,6,Deluxe,60.08,7,0,1,Yes,Debit Card,88,Yes,3.7,No,287.05,No
+CAS-01926,6,Deluxe,53.45,7,1,0,No,PayPal,239,No,3.2,No,593.43,Yes
+CAS-01927,43,Curated,33.3,6,0,1,No,Credit Card,301,No,4.8,No,1811.03,Yes
+CAS-01928,10,Curated,37.22,2,1,1,No,Credit Card,984,No,4.0,No,552.02,No
+CAS-01929,38,Curated,33.74,3,0,2,No,Debit Card,199,Yes,2.8,No,909.55,No
+CAS-01930,35,Deluxe,56.06,11,0,0,Yes,PayPal,61,No,3.8,No,1771.19,No
+CAS-01931,23,Basic,22.08,5,0,2,No,Credit Card,306,Yes,3.7,Yes,676.69,No
+CAS-01932,16,Deluxe,51.71,5,1,4,No,Debit Card,48,Yes,4.6,No,467.67,No
+CAS-01933,30,Curated,34.91,6,0,3,No,Debit Card,557,Yes,4.4,No,808.11,No
+CAS-01934,31,Basic,21.14,5,1,3,No,Credit Card,1959,Yes,4.4,No,2283.54,No
+CAS-01935,28,Curated,35.01,10,1,0,No,Credit Card,583,Yes,2.8,No,1598.56,Yes
+CAS-01936,13,Curated,30.92,5,1,2,No,Credit Card,286,No,3.7,No,530.73,No
+CAS-01937,17,Curated,35.78,3,0,1,No,PayPal,896,No,3.8,No,766.77,Yes
+CAS-01938,46,Basic,18.42,5,1,2,No,Credit Card,502,No,4.4,Yes,914.29,Yes
+CAS-01939,3,Basic,21.28,7,1,2,No,PayPal,65,Yes,4.0,No,0.0,Yes
+CAS-01940,39,Basic,21.0,6,1,0,No,Credit Card,54,No,5.0,No,1074.87,No
+CAS-01941,39,Basic,21.77,2,2,1,No,Debit Card,198,Yes,3.9,No,486.85,No
+CAS-01942,27,Curated,35.18,5,0,2,No,PayPal,484,Yes,3.3,No,2160.32,Yes
+CAS-01943,2,Basic,21.59,9,1,0,No,Credit Card,390,Yes,3.4,No,185.64,No
+CAS-01944,1,Curated,35.76,3,0,1,No,Debit Card,269,Yes,4.1,No,148.31,No
+CAS-01945,1,Deluxe,56.68,6,1,1,No,Credit Card,177,No,3.9,No,182.04,No
+CAS-01946,30,Curated,31.36,5,0,0,No,PayPal,324,No,3.7,No,953.48,No
+CAS-01947,46,Curated,26.71,7,1,0,No,Credit Card,129,Yes,4.5,Yes,997.16,No
+CAS-01948,25,Basic,19.1,12,0,0,No,Credit Card,314,No,3.6,No,603.58,No
+CAS-01949,15,Deluxe,49.97,5,0,0,No,Credit Card,223,Yes,4.8,No,566.67,No
+CAS-01950,34,Curated,35.25,2,1,1,No,Buy Now Pay Later,458,No,3.4,No,994.05,No
+CAS-01951,38,Curated,33.6,4,0,1,Yes,Credit Card,215,Yes,4.0,No,932.07,No
+CAS-01952,29,Basic,19.51,2,1,1,No,Buy Now Pay Later,566,Yes,4.3,No,828.72,Yes
+CAS-01953,36,Curated,33.47,8,1,3,No,Credit Card,52,Yes,3.1,No,497.8,No
+CAS-01954,7,Deluxe,56.22,7,1,0,No,Credit Card,904,No,4.6,No,864.33,No
+CAS-01955,2,Basic,19.63,6,2,1,No,Credit Card,594,No,3.2,No,342.09,No
+CAS-01956,4,Basic,23.19,6,0,1,No,Credit Card,711,No,3.6,No,348.67,Yes
+CAS-01957,23,Basic,19.15,8,1,0,No,Credit Card,333,Yes,3.4,No,480.96,Yes
+CAS-01958,20,Basic,20.12,7,1,2,No,Credit Card,544,Yes,4.4,No,979.54,Yes
+CAS-01959,17,Curated,31.69,2,1,2,No,PayPal,416,No,4.1,No,927.85,Yes
+CAS-01960,16,Curated,33.9,3,1,1,No,Debit Card,171,Yes,4.2,No,668.72,Yes
+CAS-01961,45,Deluxe,52.59,5,0,1,No,PayPal,636,Yes,3.8,Yes,1683.05,No
+CAS-01962,48,Curated,31.27,3,0,4,No,Credit Card,229,Yes,3.3,No,927.0,No
+CAS-01963,25,Basic,19.34,4,0,2,No,Debit Card,1089,Yes,3.1,No,682.31,Yes
+CAS-01964,29,Basic,22.54,8,1,0,No,Credit Card,342,No,5.0,No,1393.27,Yes
+CAS-01965,15,Basic,19.7,6,1,0,No,PayPal,1255,Yes,3.8,No,755.25,No
+CAS-01966,45,Curated,36.88,2,0,1,No,Credit Card,372,Yes,3.8,No,3292.02,Yes
+CAS-01967,30,Basic,16.02,3,0,3,No,PayPal,318,Yes,3.8,No,707.89,Yes
+CAS-01968,43,Deluxe,54.35,6,1,3,No,Credit Card,438,No,3.9,No,3030.17,No
+CAS-01969,41,Deluxe,56.78,6,0,1,Yes,Credit Card,289,Yes,4.0,Yes,3761.41,No
+CAS-01970,47,Deluxe,52.84,4,0,0,No,Debit Card,395,Yes,4.1,No,7348.77,No
+CAS-01971,42,Basic,16.62,9,1,5,No,Credit Card,323,Yes,4.2,No,938.17,Yes
+CAS-01972,43,Deluxe,53.77,9,0,1,No,Buy Now Pay Later,183,Yes,5.0,Yes,2601.68,No
+CAS-01973,12,Basic,21.08,6,3,3,No,PayPal,116,No,4.4,No,672.53,Yes
+CAS-01974,18,Curated,33.0,7,0,1,No,Debit Card,465,Yes,3.6,Yes,867.83,No
+CAS-01975,25,Curated,31.76,3,0,1,No,Credit Card,689,Yes,4.3,Yes,1421.78,Yes
+CAS-01976,41,Basic,22.3,4,0,1,No,Credit Card,180,Yes,4.5,No,960.4,No
+CAS-01977,2,Deluxe,56.61,10,0,0,No,Credit Card,450,No,4.6,No,290.22,No
+CAS-01978,6,Curated,37.39,10,0,1,No,Buy Now Pay Later,68,Yes,3.1,No,492.1,No
+CAS-01979,15,Basic,16.76,5,3,0,No,Debit Card,238,Yes,4.7,No,260.6,No
+CAS-01980,5,Curated,38.8,6,0,3,No,PayPal,224,No,5.0,No,368.65,No
+CAS-01981,44,Curated,32.21,7,1,1,Yes,Credit Card,312,Yes,4.1,No,2690.02,Yes
+CAS-01982,25,Basic,21.26,5,0,0,No,Credit Card,255,Yes,3.3,No,976.64,No
+CAS-01983,28,Curated,31.75,9,1,1,No,Credit Card,331,No,5.0,No,1159.09,No
+CAS-01984,11,Basic,18.37,2,1,1,No,Debit Card,257,Yes,3.6,No,157.36,No
+CAS-01985,35,Curated,40.35,7,0,2,No,PayPal,107,Yes,3.9,Yes,981.56,Yes
+CAS-01986,6,Basic,20.9,6,0,2,No,Credit Card,568,No,4.4,No,389.95,Yes
+CAS-01987,36,Basic,22.78,3,1,0,No,Credit Card,306,Yes,4.5,No,616.09,Yes
+CAS-01988,13,Basic,24.48,4,0,1,No,Credit Card,100,No,3.8,Yes,254.34,No
+CAS-01989,45,Basic,20.23,5,0,2,No,PayPal,107,Yes,3.6,No,1621.83,No
+CAS-01990,44,Curated,32.48,7,2,1,No,Debit Card,193,Yes,4.0,No,2576.38,No
+CAS-01991,24,Basic,20.71,3,1,0,No,Credit Card,33,Yes,4.0,No,795.06,Yes
+CAS-01992,34,Basic,20.4,3,0,0,No,Credit Card,405,No,4.6,No,1465.69,No
+CAS-01993,10,Basic,20.06,5,1,0,No,Buy Now Pay Later,447,Yes,4.5,No,529.07,Yes
+CAS-01994,29,Basic,20.29,2,1,3,No,Credit Card,385,Yes,5.0,No,501.0,Yes
+CAS-01995,1,Curated,34.14,6,1,1,No,Credit Card,175,No,4.0,No,121.04,Yes
+CAS-01996,27,Curated,34.27,5,0,2,No,Credit Card,274,Yes,4.4,Yes,527.92,Yes
+CAS-01997,1,Curated,28.83,12,0,1,No,Credit Card,545,Yes,3.7,No,279.99,Yes
+CAS-01998,48,Basic,20.83,6,4,1,No,Credit Card,346,No,3.0,Yes,1153.21,No
+CAS-01999,27,Deluxe,53.11,7,0,0,Yes,PayPal,370,No,4.9,No,978.15,No
+CAS-02000,41,Basic,21.03,5,2,1,No,Credit Card,239,Yes,3.7,No,969.87,No
+CAS-02001,47,Basic,18.91,6,0,2,No,Buy Now Pay Later,494,No,3.4,No,1377.16,Yes
+CAS-02002,21,Basic,21.12,7,0,1,No,Credit Card,171,Yes,4.3,No,418.61,Yes
+CAS-02003,44,Curated,32.71,5,0,0,No,Credit Card,131,No,3.3,No,1418.35,No
+CAS-02004,38,Basic,22.81,7,0,2,No,PayPal,110,Yes,3.8,No,1798.71,No
+CAS-02005,35,Deluxe,57.06,12,0,1,No,Credit Card,366,Yes,3.1,Yes,2437.48,No
+CAS-02006,29,Curated,37.71,6,0,1,No,Credit Card,374,Yes,4.2,No,1368.89,No
+CAS-02007,34,Basic,23.19,6,1,0,No,Credit Card,194,No,4.7,Yes,818.29,No
+CAS-02008,41,Basic,22.17,3,0,2,No,Debit Card,82,No,4.4,Yes,1459.91,Yes
+CAS-02009,34,Deluxe,61.25,9,0,1,No,Credit Card,809,Yes,4.0,No,7113.22,No
+CAS-02010,17,Basic,20.46,4,0,2,No,Credit Card,203,Yes,3.3,Yes,487.06,Yes
+CAS-02011,43,Curated,32.97,7,0,4,No,Buy Now Pay Later,198,Yes,4.1,No,1583.84,No
+CAS-02012,34,Curated,34.95,10,0,2,No,PayPal,677,Yes,3.5,No,1529.22,No
+CAS-02013,21,Curated,35.59,7,0,1,No,Debit Card,296,No,3.7,No,1103.08,No
+CAS-02014,6,Curated,36.1,8,1,2,No,Credit Card,440,Yes,4.8,No,681.09,No
+CAS-02015,1,Basic,19.94,10,0,2,No,Debit Card,722,No,2.9,No,344.83,No
+CAS-02016,45,Deluxe,56.34,6,0,3,No,Debit Card,474,No,3.3,Yes,2898.63,No
+CAS-02017,17,Curated,34.0,6,2,0,No,Debit Card,264,Yes,4.2,Yes,698.71,No
+CAS-02018,34,Basic,22.78,8,0,2,No,PayPal,463,Yes,4.1,No,768.79,No
+CAS-02019,6,Deluxe,61.46,6,0,2,No,Debit Card,426,Yes,4.2,No,491.58,Yes
+CAS-02020,45,Curated,38.45,3,1,1,No,PayPal,484,No,3.5,No,3394.28,No
+CAS-02021,17,Deluxe,52.77,5,1,2,No,PayPal,301,No,3.4,No,391.75,No
+CAS-02022,24,Deluxe,47.35,4,0,0,No,Debit Card,194,Yes,4.2,No,828.46,No
+CAS-02023,12,Curated,33.55,9,1,0,Yes,Credit Card,559,No,3.7,No,598.41,No
+CAS-02024,20,Deluxe,51.32,5,0,2,No,Credit Card,872,Yes,5.0,No,935.0,No
+CAS-02025,7,Basic,19.63,4,0,0,No,PayPal,215,No,5.0,No,369.28,Yes
+CAS-02026,15,Deluxe,60.62,3,0,3,Yes,PayPal,244,No,4.0,No,742.63,No
+CAS-02027,41,Deluxe,59.04,6,0,2,No,PayPal,277,No,4.7,No,2053.16,No
+CAS-02028,16,Curated,34.09,9,1,2,Yes,Credit Card,953,Yes,2.9,No,855.64,No
+CAS-02029,20,Curated,38.1,2,1,2,No,Credit Card,192,No,3.7,Yes,1378.07,No
+CAS-02030,0,Basic,17.0,5,1,2,No,Buy Now Pay Later,934,Yes,3.5,No,388.06,Yes
+CAS-02031,24,Deluxe,64.06,7,1,0,No,Buy Now Pay Later,87,Yes,4.5,No,1365.68,No
+CAS-02032,8,Deluxe,66.56,6,0,2,No,Debit Card,173,Yes,4.6,No,543.67,No
+CAS-02033,23,Basic,19.08,4,0,0,No,Credit Card,107,Yes,3.5,Yes,364.88,Yes
+CAS-02034,47,Curated,33.85,7,2,1,No,Credit Card,347,No,4.0,No,1714.09,No
+CAS-02035,20,Basic,17.75,6,1,0,No,PayPal,700,Yes,4.6,No,624.79,Yes
+CAS-02036,24,Basic,23.93,5,0,3,No,Debit Card,541,No,3.8,No,994.11,No
+CAS-02037,40,Curated,35.9,6,1,1,No,Credit Card,196,Yes,3.9,No,923.92,No
+CAS-02038,47,Basic,19.56,6,0,3,No,Credit Card,163,Yes,3.6,No,1383.08,Yes
+CAS-02039,4,Basic,20.62,4,2,1,No,Credit Card,326,Yes,4.5,No,111.56,No
+CAS-02040,20,Curated,35.91,10,1,0,No,Credit Card,394,Yes,3.9,No,1408.01,No
+CAS-02041,6,Curated,33.45,2,0,1,No,Credit Card,159,Yes,4.0,No,288.93,No
+CAS-02042,22,Deluxe,66.64,7,0,0,No,PayPal,243,No,3.8,No,669.81,No
+CAS-02043,8,Deluxe,56.27,3,0,1,No,PayPal,106,No,3.2,No,292.86,No
+CAS-02044,19,Deluxe,58.19,3,1,0,No,Buy Now Pay Later,224,No,3.9,Yes,661.89,No
+CAS-02045,0,Curated,31.26,11,1,2,Yes,Debit Card,186,Yes,3.4,No,97.22,No
+CAS-02046,32,Curated,38.42,6,0,1,No,PayPal,85,Yes,3.7,No,986.35,No
+CAS-02047,34,Curated,33.29,4,0,0,No,Credit Card,477,No,3.5,Yes,796.54,No
+CAS-02048,19,Deluxe,50.21,7,0,1,No,Credit Card,358,No,3.9,No,1256.02,Yes
+CAS-02049,27,Basic,19.49,5,0,1,No,PayPal,124,Yes,3.6,No,720.45,No
+CAS-02050,25,Basic,21.02,5,1,2,No,PayPal,359,No,3.7,No,476.78,No
+CAS-02051,16,Curated,33.87,6,0,1,No,PayPal,557,No,4.2,Yes,598.24,Yes
+CAS-02052,9,Basic,19.74,8,1,1,No,Credit Card,194,Yes,2.9,No,268.12,No
+CAS-02053,35,Curated,32.57,4,0,1,No,Credit Card,42,Yes,3.2,No,728.82,No
+CAS-02054,39,Basic,21.42,2,1,1,No,Debit Card,828,No,2.8,No,1860.19,Yes
+CAS-02055,21,Basic,20.17,5,0,0,No,Credit Card,406,Yes,5.0,No,695.86,Yes
+CAS-02056,34,Basic,20.0,6,0,1,No,Credit Card,90,Yes,4.3,No,685.83,Yes
+CAS-02057,28,Deluxe,58.86,7,1,3,No,Credit Card,1073,Yes,4.5,No,1355.55,No
+CAS-02058,8,Deluxe,54.16,5,0,0,Yes,Credit Card,288,Yes,4.2,No,1379.63,No
+CAS-02059,22,Deluxe,46.62,4,2,2,No,Credit Card,78,Yes,3.6,No,891.37,No
+CAS-02060,30,Curated,33.81,7,0,0,Yes,PayPal,429,Yes,3.9,No,871.57,No
+CAS-02061,40,Basic,15.42,2,3,0,No,Credit Card,592,Yes,2.6,No,1062.77,No
+CAS-02062,4,Curated,35.34,6,2,0,No,PayPal,186,Yes,4.4,No,311.44,No
+CAS-02063,5,Basic,19.46,7,0,1,No,Credit Card,112,No,4.9,No,96.29,Yes
+CAS-02064,41,Deluxe,63.95,7,1,2,No,Credit Card,425,No,4.0,No,7005.21,No
+CAS-02065,3,Deluxe,47.55,7,0,1,No,Credit Card,806,No,2.9,No,725.86,No
+CAS-02066,13,Deluxe,45.66,2,1,2,No,PayPal,751,Yes,3.3,No,958.36,No
+CAS-02067,28,Deluxe,59.5,12,0,3,No,PayPal,1332,No,5.0,No,3790.41,No
+CAS-02068,35,Curated,36.01,8,0,4,Yes,Credit Card,219,No,3.1,No,1582.29,No
+CAS-02069,19,Deluxe,52.91,6,0,1,No,Credit Card,679,Yes,3.7,No,1932.81,Yes
+CAS-02070,33,Curated,33.81,3,0,1,No,Credit Card,635,Yes,3.5,No,2322.19,No
+CAS-02071,43,Deluxe,50.2,4,1,2,No,Credit Card,214,No,3.6,No,1526.61,No
+CAS-02072,15,Deluxe,60.25,8,0,1,No,Debit Card,305,Yes,3.9,No,353.39,No
+CAS-02073,23,Curated,32.64,10,2,2,Yes,Credit Card,289,No,3.5,No,913.61,No
+CAS-02074,38,Curated,34.18,4,0,0,No,Credit Card,252,No,3.3,Yes,1149.67,No
+CAS-02075,47,Basic,19.65,2,0,0,No,PayPal,1389,No,3.3,Yes,1414.61,No
+CAS-02076,46,Basic,21.57,4,1,0,No,PayPal,747,Yes,3.7,No,1135.63,Yes
+CAS-02077,7,Curated,31.75,5,0,1,No,Credit Card,297,Yes,5.0,No,386.03,No
+CAS-02078,37,Basic,19.91,3,0,1,No,Credit Card,369,Yes,4.1,No,729.48,Yes
+CAS-02079,23,Curated,35.61,6,0,1,No,Debit Card,53,No,4.1,No,522.59,No
+CAS-02080,10,Deluxe,62.23,6,1,1,No,Debit Card,88,Yes,3.3,No,611.45,No
+CAS-02081,38,Basic,24.46,7,3,1,No,Credit Card,476,Yes,3.2,No,1477.86,No
+CAS-02082,5,Curated,31.51,7,0,2,No,PayPal,24,No,2.8,No,183.84,No
+CAS-02083,25,Deluxe,48.14,5,1,2,Yes,Credit Card,528,No,3.7,No,1599.01,No
+CAS-02084,40,Basic,21.19,7,3,0,No,Credit Card,160,No,4.5,No,936.38,No
+CAS-02085,17,Basic,18.64,7,2,1,No,PayPal,778,No,3.7,No,791.08,Yes
+CAS-02086,43,Curated,38.49,8,1,3,No,Credit Card,594,Yes,3.3,No,2472.85,No
+CAS-02087,0,Deluxe,50.68,4,0,0,No,Credit Card,1710,No,4.9,No,638.11,Yes
+CAS-02088,0,Curated,31.32,8,0,1,No,PayPal,514,Yes,3.8,No,252.69,No
+CAS-02089,9,Curated,36.5,7,0,0,No,PayPal,593,No,4.7,No,463.69,Yes
+CAS-02090,45,Basic,17.04,7,0,3,No,PayPal,589,Yes,4.1,No,1115.82,Yes
+CAS-02091,9,Deluxe,52.43,5,0,0,No,Credit Card,333,No,3.3,No,795.26,No
+CAS-02092,1,Basic,22.87,7,0,2,No,Credit Card,185,No,3.3,No,111.57,Yes
+CAS-02093,15,Basic,18.66,3,0,2,No,Debit Card,610,Yes,3.3,No,409.15,Yes
+CAS-02094,13,Basic,22.95,5,1,0,No,Credit Card,229,No,3.4,No,280.06,No
+CAS-02095,0,Curated,33.96,3,2,2,No,Debit Card,516,Yes,4.3,No,217.75,No
+CAS-02096,39,Curated,34.31,8,1,4,No,PayPal,531,Yes,4.4,No,1650.73,No
+CAS-02097,33,Basic,19.9,10,0,3,No,Credit Card,410,Yes,4.1,Yes,705.73,No
+CAS-02098,36,Curated,36.49,7,0,0,No,Debit Card,289,Yes,3.8,Yes,1262.51,No
+CAS-02099,2,Basic,21.99,7,1,0,No,Debit Card,701,Yes,3.9,No,330.2,No
+CAS-02100,41,Deluxe,55.92,6,1,0,No,Buy Now Pay Later,178,No,4.4,No,4770.05,No
+CAS-02101,43,Basic,17.96,3,0,3,No,Debit Card,508,Yes,4.4,No,1798.98,Yes
+CAS-02102,31,Basic,24.36,4,0,1,Yes,Credit Card,663,Yes,3.6,No,1547.42,No
+CAS-02103,9,Deluxe,57.44,4,1,1,No,Credit Card,294,Yes,4.5,No,371.12,No
+CAS-02104,39,Curated,37.41,6,0,1,No,PayPal,248,No,4.9,No,1041.23,Yes
+CAS-02105,29,Curated,40.91,5,0,1,Yes,PayPal,195,Yes,3.9,No,1211.33,Yes
+CAS-02106,45,Basic,20.79,4,1,2,No,Buy Now Pay Later,301,Yes,4.0,No,1014.99,Yes
+CAS-02107,43,Deluxe,57.96,5,0,0,No,PayPal,200,No,4.4,Yes,2949.33,No
+CAS-02108,39,Deluxe,54.48,4,1,1,Yes,Credit Card,527,Yes,3.1,No,970.55,No
+CAS-02109,21,Basic,22.52,6,0,1,No,Debit Card,339,Yes,3.5,No,316.12,Yes
+CAS-02110,21,Basic,22.31,8,1,1,No,Credit Card,231,Yes,3.0,No,486.05,Yes
+CAS-02111,2,Curated,40.41,9,0,1,No,Credit Card,373,Yes,3.2,No,247.71,Yes
+CAS-02112,7,Curated,35.17,5,0,0,No,Credit Card,283,Yes,4.2,Yes,196.33,No
+CAS-02113,37,Curated,33.62,4,0,0,No,Credit Card,240,Yes,4.2,No,2285.3,Yes
+CAS-02114,0,Basic,19.15,6,1,2,Yes,Credit Card,353,No,4.9,No,150.94,Yes
+CAS-02115,21,Basic,17.43,2,1,3,No,Buy Now Pay Later,492,Yes,4.1,Yes,555.86,Yes
+CAS-02116,21,Basic,18.99,2,0,3,Yes,PayPal,850,No,4.2,Yes,559.58,No
+CAS-02117,12,Basic,18.51,6,0,1,No,Credit Card,612,No,5.0,No,451.09,Yes
+CAS-02118,16,Basic,22.59,6,0,2,No,Credit Card,330,No,4.8,No,432.28,Yes
+CAS-02119,21,Curated,35.8,8,1,0,No,Debit Card,130,Yes,4.0,No,616.44,No
+CAS-02120,22,Curated,40.25,2,0,1,No,Credit Card,666,Yes,3.6,No,1115.36,No
+CAS-02121,26,Curated,34.2,6,0,0,No,Debit Card,404,No,3.6,No,3627.57,No
+CAS-02122,14,Basic,15.74,7,0,1,No,PayPal,176,Yes,3.4,Yes,402.79,Yes
+CAS-02123,3,Deluxe,46.61,6,0,0,No,PayPal,477,Yes,4.6,Yes,385.11,No
+CAS-02124,17,Curated,35.62,5,0,1,No,Credit Card,156,Yes,3.2,No,479.97,No
+CAS-02125,31,Curated,31.45,6,1,2,No,PayPal,610,No,5.0,No,1145.12,No
+CAS-02126,46,Deluxe,50.35,7,0,0,No,PayPal,85,Yes,5.0,No,3692.5,No
+CAS-02127,17,Basic,20.17,5,0,0,No,Credit Card,943,Yes,4.1,No,459.26,No
+CAS-02128,36,Basic,19.76,5,2,0,Yes,Credit Card,225,Yes,4.0,No,594.4,No
+CAS-02129,37,Deluxe,53.54,4,0,0,No,PayPal,95,Yes,3.1,Yes,1307.15,No
+CAS-02130,16,Basic,19.72,9,0,2,No,Credit Card,415,Yes,4.2,Yes,397.61,Yes
+CAS-02131,4,Curated,36.04,9,0,4,No,Credit Card,210,Yes,5.0,No,273.62,No
+CAS-02132,18,Basic,18.71,8,1,1,No,Credit Card,189,No,4.7,No,453.35,Yes
+CAS-02133,6,Basic,21.15,12,2,1,No,Credit Card,450,Yes,2.8,No,352.95,Yes
+CAS-02134,40,Curated,33.37,6,0,1,No,Credit Card,639,Yes,3.4,No,896.64,Yes
+CAS-02135,19,Curated,34.24,3,1,2,No,PayPal,752,Yes,4.7,Yes,829.05,Yes
+CAS-02136,10,Deluxe,58.99,5,2,2,No,PayPal,461,No,4.0,No,988.19,No
+CAS-02137,10,Basic,19.94,7,1,3,Yes,Credit Card,777,No,4.5,No,834.54,No
+CAS-02138,48,Curated,34.99,4,1,1,No,Credit Card,554,No,3.0,No,1697.03,Yes
+CAS-02139,23,Basic,21.61,6,0,2,No,Credit Card,115,Yes,3.4,Yes,671.81,Yes
+CAS-02140,44,Basic,23.45,2,0,2,No,Credit Card,783,Yes,4.5,No,1109.36,No
+CAS-02141,44,Basic,23.7,3,1,2,No,Credit Card,777,No,5.0,No,1009.05,No
+CAS-02142,36,Deluxe,56.55,7,1,1,No,Debit Card,52,Yes,5.0,No,1858.26,No
+CAS-02143,45,Deluxe,54.34,4,0,1,Yes,PayPal,502,Yes,3.7,No,2921.78,No
+CAS-02144,42,Basic,22.42,4,1,1,No,PayPal,773,No,3.7,No,2001.35,Yes
+CAS-02145,25,Curated,30.8,7,0,1,No,PayPal,564,Yes,4.3,No,1367.15,No
+CAS-02146,14,Curated,36.61,3,2,1,No,Debit Card,242,Yes,3.8,No,567.23,No
+CAS-02147,38,Basic,18.29,6,0,1,No,Debit Card,205,Yes,5.0,No,785.59,Yes
+CAS-02148,44,Basic,18.88,6,0,1,No,Credit Card,383,Yes,4.5,Yes,871.09,No
+CAS-02149,47,Basic,19.62,5,1,2,No,Credit Card,244,No,3.4,Yes,686.33,No
+CAS-02150,25,Deluxe,60.41,2,0,1,Yes,Credit Card,528,Yes,4.0,No,3326.89,No
+CAS-02151,5,Curated,32.13,6,0,1,Yes,Credit Card,181,No,3.8,No,145.35,No
+CAS-02152,29,Deluxe,63.08,8,0,1,No,Credit Card,89,No,4.4,No,1309.09,No
+CAS-02153,36,Curated,42.06,5,1,1,No,PayPal,102,No,4.7,No,2016.59,Yes
+CAS-02154,17,Curated,33.99,8,0,3,No,Debit Card,362,Yes,4.5,No,492.43,Yes
+CAS-02155,3,Curated,28.34,5,0,1,No,PayPal,456,Yes,3.7,No,251.28,Yes
+CAS-02156,14,Deluxe,58.36,6,0,1,No,Credit Card,257,No,3.1,Yes,468.51,No
+CAS-02157,38,Basic,19.07,5,1,2,No,PayPal,132,No,3.8,No,1436.32,No
+CAS-02158,24,Curated,35.01,6,0,2,No,Debit Card,65,No,4.4,No,1157.92,Yes
+CAS-02159,1,Curated,35.54,9,1,2,No,Credit Card,98,Yes,4.8,No,179.7,No
+CAS-02160,19,Deluxe,54.16,6,0,3,No,Debit Card,213,Yes,4.6,No,1194.78,No
+CAS-02161,17,Curated,37.53,8,0,1,No,Credit Card,221,No,3.8,No,648.98,No
+CAS-02162,20,Basic,19.81,5,0,2,No,Credit Card,200,No,3.6,No,475.25,Yes
+CAS-02163,45,Basic,23.61,3,0,1,No,Debit Card,17,Yes,3.8,Yes,463.73,No
+CAS-02164,41,Basic,24.39,8,0,2,Yes,Credit Card,326,Yes,4.9,No,1116.67,Yes
+CAS-02165,29,Curated,33.83,5,0,2,No,PayPal,225,Yes,3.4,No,983.17,Yes
+CAS-02166,15,Basic,22.32,4,0,2,No,Debit Card,406,No,5.0,Yes,419.12,Yes
+CAS-02167,37,Basic,16.9,3,1,4,No,Credit Card,165,No,4.8,No,942.66,Yes
+CAS-02168,21,Basic,20.49,6,0,1,No,Credit Card,246,Yes,3.7,No,483.81,Yes
+CAS-02169,11,Curated,35.81,3,3,1,No,Debit Card,363,Yes,4.3,No,346.16,No
+CAS-02170,11,Basic,16.18,3,0,0,No,PayPal,191,Yes,4.6,No,360.99,Yes
+CAS-02171,9,Curated,35.92,5,1,0,No,PayPal,283,No,5.0,Yes,551.47,No
+CAS-02172,31,Curated,37.07,6,0,2,No,PayPal,335,Yes,4.3,Yes,1523.83,Yes
+CAS-02173,7,Basic,20.32,4,0,4,No,PayPal,222,Yes,3.6,No,171.64,Yes
+CAS-02174,39,Basic,22.38,2,0,0,No,Credit Card,689,No,4.0,No,1411.34,Yes
+CAS-02175,39,Basic,21.75,6,0,1,No,PayPal,268,Yes,4.6,Yes,1085.26,Yes
+CAS-02176,15,Deluxe,63.56,6,1,3,No,PayPal,240,Yes,3.6,Yes,1081.48,No
+CAS-02177,14,Basic,19.49,8,0,3,No,Credit Card,348,Yes,4.6,Yes,221.1,Yes
+CAS-02178,27,Basic,19.41,2,0,1,No,Debit Card,1222,Yes,4.2,No,808.64,No
+CAS-02179,47,Curated,39.96,7,0,0,No,Credit Card,237,No,4.4,No,1557.44,No
+CAS-02180,9,Curated,30.35,5,0,2,No,Credit Card,437,No,3.3,No,382.42,Yes
+CAS-02181,21,Basic,21.27,8,0,0,No,Debit Card,71,No,4.0,No,429.71,Yes
+CAS-02182,38,Basic,20.38,5,0,1,No,Debit Card,860,Yes,5.0,No,1073.17,Yes
+CAS-02183,27,Deluxe,53.15,2,1,1,No,Credit Card,260,Yes,5.0,No,2519.14,No
+CAS-02184,26,Curated,33.58,7,0,0,No,Credit Card,567,No,4.2,Yes,2030.55,No
+CAS-02185,40,Basic,19.52,4,1,3,No,Buy Now Pay Later,368,No,4.2,No,495.65,No
+CAS-02186,29,Curated,38.42,10,0,0,No,Debit Card,609,Yes,4.7,No,1553.78,No
+CAS-02187,26,Deluxe,59.03,4,0,3,No,Credit Card,245,Yes,4.6,Yes,1745.01,No
+CAS-02188,43,Basic,23.27,11,2,1,No,Debit Card,109,Yes,4.6,Yes,824.26,No
+CAS-02189,8,Curated,30.97,10,2,0,Yes,Buy Now Pay Later,257,Yes,3.6,No,673.17,No
+CAS-02190,19,Basic,20.18,10,0,0,No,Credit Card,289,No,3.7,Yes,505.07,No
+CAS-02191,0,Basic,21.07,6,2,0,Yes,Buy Now Pay Later,100,Yes,4.8,No,158.33,No
+CAS-02192,6,Basic,18.75,4,1,1,No,Debit Card,166,Yes,3.8,No,175.96,No
+CAS-02193,45,Deluxe,52.68,4,1,1,No,Buy Now Pay Later,192,Yes,4.0,No,1945.44,No
+CAS-02194,28,Curated,35.58,7,0,2,No,Credit Card,188,Yes,5.0,Yes,1128.45,No
+CAS-02195,24,Curated,31.75,9,0,1,No,Credit Card,128,No,3.8,No,1624.98,No
+CAS-02196,25,Basic,20.44,3,0,3,No,Credit Card,848,Yes,3.2,No,671.16,Yes
+CAS-02197,27,Basic,20.02,8,0,4,No,Credit Card,133,No,4.9,No,1560.55,Yes
+CAS-02198,30,Basic,18.4,6,2,3,No,PayPal,526,No,3.2,No,591.48,No
+CAS-02199,38,Deluxe,57.79,5,2,1,No,Buy Now Pay Later,614,No,4.6,Yes,2321.43,No
+CAS-02200,47,Deluxe,46.63,2,0,1,No,Buy Now Pay Later,496,No,2.6,No,1974.19,No
+CAS-02201,48,Basic,17.81,6,2,1,No,Buy Now Pay Later,534,Yes,4.8,Yes,908.56,No
+CAS-02202,47,Basic,22.27,7,1,3,No,Credit Card,650,Yes,4.0,No,1359.13,No
+CAS-02203,15,Curated,26.0,5,0,4,No,Credit Card,445,Yes,4.3,No,502.95,Yes
+CAS-02204,28,Curated,40.92,4,1,1,No,PayPal,208,Yes,5.0,No,1299.92,Yes
+CAS-02205,20,Deluxe,52.93,2,0,1,No,Debit Card,150,No,5.0,Yes,1424.35,No
+CAS-02206,2,Curated,35.99,4,1,0,No,Credit Card,252,Yes,5.0,No,111.16,Yes
+CAS-02207,0,Curated,34.75,10,0,1,No,Credit Card,616,Yes,2.5,No,240.62,No
+CAS-02208,43,Basic,21.08,2,1,3,No,Credit Card,484,No,3.3,No,434.46,Yes
+CAS-02209,2,Curated,34.96,5,0,1,No,Credit Card,511,No,3.4,No,361.01,No
+CAS-02210,9,Basic,19.23,7,2,0,No,Credit Card,420,No,3.8,No,324.21,Yes
+CAS-02211,30,Curated,37.9,9,0,2,No,Credit Card,355,Yes,2.9,Yes,1933.55,Yes
+CAS-02212,23,Basic,21.56,7,0,0,No,Debit Card,76,Yes,3.1,Yes,710.68,No
+CAS-02213,40,Basic,19.33,4,2,4,No,Credit Card,88,Yes,4.4,No,828.61,Yes
+CAS-02214,41,Basic,17.4,6,0,2,No,PayPal,336,No,2.7,No,504.48,No
+CAS-02215,44,Basic,19.12,4,0,3,No,Credit Card,126,Yes,3.6,No,406.95,Yes
+CAS-02216,24,Deluxe,56.14,7,0,1,No,PayPal,259,Yes,3.4,Yes,1550.12,No
+CAS-02217,43,Basic,21.48,8,2,0,No,Debit Card,377,No,4.0,Yes,684.78,No
+CAS-02218,2,Deluxe,51.13,2,1,0,No,PayPal,229,No,4.2,No,218.64,No
+CAS-02219,18,Basic,22.3,2,0,2,No,Buy Now Pay Later,385,No,3.9,No,663.77,Yes
+CAS-02220,15,Basic,16.85,8,2,0,No,PayPal,363,No,3.5,No,875.62,No
+CAS-02221,27,Deluxe,48.3,3,0,2,No,Credit Card,408,Yes,4.2,No,1606.71,No
+CAS-02222,3,Deluxe,51.7,3,1,0,No,Credit Card,387,Yes,4.7,No,413.29,No
+CAS-02223,15,Curated,40.61,10,0,2,No,Credit Card,1363,Yes,5.0,No,1060.04,No
+CAS-02224,43,Basic,22.2,7,0,1,No,Credit Card,270,No,5.0,Yes,629.91,Yes
+CAS-02225,29,Deluxe,52.39,6,0,1,No,Credit Card,772,Yes,5.0,No,1330.21,No
+CAS-02226,20,Deluxe,58.85,7,0,3,No,Debit Card,134,Yes,3.4,No,1062.73,No
+CAS-02227,30,Basic,19.17,8,0,1,No,Debit Card,172,No,4.2,Yes,870.03,Yes
+CAS-02228,42,Basic,20.35,5,0,1,No,Credit Card,940,No,5.0,Yes,1050.52,No
+CAS-02229,19,Basic,16.63,7,0,2,No,Debit Card,121,No,3.1,No,273.44,Yes
+CAS-02230,23,Curated,36.16,6,1,3,No,Credit Card,1137,No,3.8,Yes,1397.51,No
+CAS-02231,23,Curated,29.53,6,0,2,No,Debit Card,272,No,4.2,No,1139.0,No
+CAS-02232,25,Curated,30.5,9,0,0,No,Debit Card,284,No,3.9,No,473.96,No
+CAS-02233,40,Basic,19.19,8,0,1,No,Credit Card,528,Yes,5.0,No,1118.86,No
+CAS-02234,35,Basic,19.2,3,0,3,No,Credit Card,211,No,3.6,No,765.12,No
+CAS-02235,19,Basic,17.46,5,0,5,No,PayPal,459,Yes,5.0,No,406.93,No
+CAS-02236,32,Deluxe,53.18,7,0,2,Yes,Credit Card,617,Yes,4.0,No,1788.07,No
+CAS-02237,16,Curated,36.7,4,0,3,No,Debit Card,344,No,3.8,No,566.33,No
+CAS-02238,48,Deluxe,57.77,4,2,2,No,Buy Now Pay Later,389,Yes,4.2,No,2539.85,No
+CAS-02239,10,Basic,20.72,6,0,1,No,Debit Card,318,No,3.9,Yes,213.94,Yes
+CAS-02240,48,Curated,39.59,4,0,1,No,Debit Card,376,Yes,4.4,No,3931.62,No
+CAS-02241,24,Deluxe,62.59,4,1,3,No,Debit Card,357,No,3.6,No,3008.16,No
+CAS-02242,19,Curated,38.09,6,0,2,No,Credit Card,345,Yes,3.1,Yes,701.63,No
+CAS-02243,27,Basic,20.6,3,2,1,No,Credit Card,133,Yes,3.4,No,1234.24,Yes
+CAS-02244,43,Basic,19.43,6,0,2,No,Credit Card,424,Yes,4.7,No,1867.24,No
+CAS-02245,40,Deluxe,61.39,2,0,1,No,Buy Now Pay Later,210,Yes,4.1,No,1182.99,No
+CAS-02246,1,Deluxe,59.5,3,0,1,No,Credit Card,17,Yes,5.0,No,97.84,No
+CAS-02247,2,Curated,30.89,5,2,3,No,PayPal,181,Yes,4.6,No,134.58,No
+CAS-02248,14,Basic,20.53,5,1,0,No,PayPal,447,Yes,3.8,No,578.57,No
+CAS-02249,38,Curated,33.53,5,1,2,No,Credit Card,1039,No,3.8,No,1173.9,No
+CAS-02250,43,Curated,31.96,3,1,0,No,PayPal,786,No,3.3,No,1899.49,No
+CAS-02251,24,Deluxe,60.26,2,0,0,No,Credit Card,104,Yes,3.9,Yes,1637.14,No
+CAS-02252,31,Curated,37.59,2,2,1,No,Debit Card,64,No,4.4,No,2020.37,No
+CAS-02253,38,Basic,16.52,7,2,2,No,PayPal,250,No,4.0,No,668.25,No
+CAS-02254,8,Basic,21.13,7,1,2,No,Debit Card,733,No,4.9,No,632.86,Yes
+CAS-02255,15,Basic,18.41,6,2,3,No,PayPal,1015,Yes,4.8,No,607.59,Yes
+CAS-02256,24,Curated,31.17,4,1,1,No,Credit Card,734,Yes,4.7,No,618.81,No
+CAS-02257,22,Curated,33.89,9,0,3,Yes,PayPal,645,No,4.4,Yes,894.28,Yes
+CAS-02258,13,Curated,33.49,13,0,2,No,Debit Card,564,Yes,3.7,No,491.73,No
+CAS-02259,19,Deluxe,51.13,2,5,1,No,Credit Card,113,No,4.4,No,2018.85,No
+CAS-02260,26,Curated,32.64,5,0,7,No,Credit Card,943,Yes,4.6,No,1038.95,No
+CAS-02261,43,Basic,19.56,2,0,2,No,Credit Card,500,Yes,4.0,No,738.91,Yes
+CAS-02262,31,Basic,18.85,8,1,2,No,Credit Card,208,No,5.0,No,669.53,Yes
+CAS-02263,2,Curated,32.24,6,0,0,No,PayPal,462,No,3.7,No,235.05,Yes
+CAS-02264,21,Curated,37.28,6,1,2,No,Credit Card,555,Yes,3.8,No,1037.78,Yes
+CAS-02265,37,Deluxe,56.72,4,2,1,No,Debit Card,81,No,2.9,No,2826.65,No
+CAS-02266,1,Deluxe,51.48,5,1,0,No,PayPal,231,Yes,2.6,No,149.86,No
+CAS-02267,24,Curated,34.61,7,0,0,No,Debit Card,682,Yes,5.0,No,2103.32,No
+CAS-02268,8,Basic,21.01,5,0,1,No,PayPal,491,No,4.2,No,215.6,Yes
+CAS-02269,26,Deluxe,49.7,5,0,1,No,Debit Card,337,Yes,4.6,No,1431.68,No
+CAS-02270,47,Curated,37.08,7,0,3,No,PayPal,208,Yes,4.5,No,1023.1,No
+CAS-02271,33,Deluxe,56.15,5,0,2,No,PayPal,226,Yes,4.3,No,1647.6,Yes
+CAS-02272,10,Curated,32.3,5,2,1,No,PayPal,433,Yes,3.7,Yes,554.57,No
+CAS-02273,26,Curated,34.86,4,0,1,No,Credit Card,473,No,3.9,No,729.55,No
+CAS-02274,16,Curated,35.66,3,2,1,Yes,PayPal,136,No,4.1,No,598.24,No
+CAS-02275,1,Basic,18.52,5,0,1,No,Credit Card,865,Yes,2.6,No,392.35,No
+CAS-02276,35,Basic,19.83,10,0,2,No,Debit Card,282,Yes,4.2,No,865.6,No
+CAS-02277,28,Basic,18.86,6,1,0,No,PayPal,393,Yes,4.7,No,1048.94,No
+CAS-02278,32,Deluxe,54.64,3,1,2,No,Credit Card,390,Yes,3.7,No,1453.05,No
+CAS-02279,42,Basic,18.53,4,1,2,No,Credit Card,493,No,4.1,No,884.05,Yes
+CAS-02280,22,Curated,39.49,7,2,1,No,PayPal,559,Yes,3.9,No,504.05,No
+CAS-02281,47,Basic,18.97,3,1,1,No,Debit Card,266,Yes,3.3,Yes,648.65,No
+CAS-02282,23,Basic,14.77,3,0,0,No,Credit Card,680,Yes,4.7,No,622.21,No
+CAS-02283,4,Basic,18.87,3,0,0,No,Credit Card,304,No,4.6,No,137.14,Yes
+CAS-02284,3,Curated,38.11,3,1,0,Yes,Credit Card,366,Yes,4.3,No,425.13,No
+CAS-02285,25,Deluxe,50.46,5,1,3,No,Debit Card,342,Yes,3.6,No,1667.7,No
+CAS-02286,16,Basic,22.82,8,1,3,No,Debit Card,197,No,5.0,No,462.55,Yes
+CAS-02287,13,Curated,38.18,5,1,4,No,PayPal,36,Yes,4.4,Yes,440.16,No
+CAS-02288,21,Curated,35.98,8,1,1,No,PayPal,645,Yes,3.8,No,790.92,No
+CAS-02289,28,Curated,35.63,4,1,2,No,Credit Card,311,Yes,4.3,No,812.1,Yes
+CAS-02290,13,Curated,34.47,5,1,2,No,Credit Card,399,No,3.0,No,776.27,No
+CAS-02291,2,Curated,30.88,6,0,2,No,Credit Card,241,No,2.9,No,62.5,No
+CAS-02292,40,Basic,19.33,3,0,1,No,Credit Card,149,No,4.5,No,1027.13,No
+CAS-02293,1,Curated,34.21,10,0,1,No,PayPal,189,No,3.8,No,184.6,No
+CAS-02294,18,Curated,31.38,4,0,1,No,Credit Card,169,No,5.0,No,691.4,No
+CAS-02295,36,Basic,18.39,4,2,0,No,PayPal,65,Yes,3.6,No,424.78,No
+CAS-02296,29,Basic,24.02,7,1,1,No,Buy Now Pay Later,461,No,5.0,No,914.19,No
+CAS-02297,22,Curated,33.46,8,0,0,No,Credit Card,415,No,2.8,No,676.32,No
+CAS-02298,48,Basic,16.88,5,0,1,No,Credit Card,542,Yes,4.1,No,927.22,Yes
+CAS-02299,0,Basic,17.7,6,1,1,Yes,Credit Card,240,Yes,3.1,No,115.6,Yes
+CAS-02300,41,Basic,16.52,3,0,2,No,Credit Card,473,Yes,4.1,No,1098.45,Yes
+CAS-02301,15,Basic,20.29,3,0,0,No,PayPal,348,No,3.0,No,540.18,Yes
+CAS-02302,8,Basic,18.02,5,0,1,Yes,Credit Card,407,No,4.6,Yes,296.22,Yes
+CAS-02303,28,Curated,31.98,3,1,1,No,PayPal,523,No,3.5,No,1451.23,No
+CAS-02304,25,Basic,19.15,4,1,0,No,Buy Now Pay Later,727,Yes,4.6,No,666.2,No
+CAS-02305,14,Basic,21.68,2,0,3,Yes,Credit Card,223,Yes,5.0,Yes,363.05,Yes
+CAS-02306,26,Curated,38.46,5,0,1,Yes,Credit Card,658,Yes,2.8,No,1201.7,No
+CAS-02307,46,Basic,16.41,7,0,0,Yes,PayPal,347,No,4.5,No,1480.97,No
+CAS-02308,7,Deluxe,50.53,6,0,4,No,PayPal,1009,Yes,4.4,No,766.37,No
+CAS-02309,39,Deluxe,62.72,4,1,2,No,Credit Card,195,Yes,3.5,Yes,1182.21,No
+CAS-02310,42,Basic,23.32,10,1,1,No,Debit Card,158,No,3.0,No,433.51,Yes
+CAS-02311,23,Curated,38.51,6,0,0,No,PayPal,349,Yes,4.4,No,1086.16,No
+CAS-02312,40,Deluxe,56.46,5,0,2,Yes,PayPal,823,Yes,3.8,No,3880.06,No
+CAS-02313,36,Deluxe,47.19,4,0,0,No,Credit Card,213,No,3.4,No,739.41,No
+CAS-02314,4,Deluxe,59.06,4,2,2,No,Buy Now Pay Later,196,No,4.7,Yes,378.42,No
+CAS-02315,39,Curated,30.74,5,1,3,No,PayPal,173,Yes,3.5,No,1252.08,No
+CAS-02316,48,Basic,21.42,8,1,1,Yes,Credit Card,226,Yes,4.0,No,1107.39,No
+CAS-02317,14,Curated,37.45,2,1,3,No,PayPal,95,Yes,4.8,No,382.06,No
+CAS-02318,42,Basic,21.81,3,0,1,No,PayPal,369,No,4.3,Yes,756.17,Yes
+CAS-02319,32,Basic,17.08,3,1,3,No,Credit Card,1545,No,4.4,No,778.52,Yes
+CAS-02320,46,Basic,20.45,2,1,1,No,Credit Card,603,Yes,4.2,No,1563.48,No
+CAS-02321,42,Deluxe,53.14,6,0,1,No,Buy Now Pay Later,273,Yes,4.4,No,2670.47,No
+CAS-02322,6,Curated,34.23,2,1,2,No,Debit Card,473,Yes,4.7,No,315.22,No
+CAS-02323,6,Deluxe,46.21,3,1,0,No,Credit Card,376,Yes,3.5,No,477.21,No
+CAS-02324,33,Basic,19.59,4,1,1,No,Buy Now Pay Later,90,No,5.0,No,487.42,Yes
+CAS-02325,21,Curated,35.85,7,0,1,No,Buy Now Pay Later,107,Yes,3.0,No,1037.23,Yes
+CAS-02326,37,Basic,24.84,6,0,2,No,Debit Card,609,No,3.8,No,751.47,Yes
+CAS-02327,9,Basic,21.92,9,1,1,No,Credit Card,406,Yes,3.8,No,377.99,No
+CAS-02328,7,Basic,18.81,6,1,0,No,Credit Card,402,Yes,4.1,Yes,247.91,Yes
+CAS-02329,5,Curated,31.92,5,0,3,No,PayPal,209,Yes,3.9,No,123.56,Yes
+CAS-02330,41,Basic,19.64,9,0,0,No,Credit Card,105,Yes,4.8,No,1146.81,Yes
+CAS-02331,2,Basic,17.83,6,0,0,No,PayPal,307,No,5.0,No,9.35,Yes
+CAS-02332,26,Basic,20.43,5,0,2,Yes,PayPal,242,No,4.1,No,1068.44,Yes
+CAS-02333,29,Deluxe,47.1,4,2,2,Yes,Credit Card,425,Yes,4.1,No,1773.01,No
+CAS-02334,30,Curated,32.48,4,0,0,No,PayPal,222,Yes,4.8,No,747.36,No
+CAS-02335,41,Deluxe,53.59,7,1,1,No,PayPal,127,Yes,3.8,No,1929.63,No
+CAS-02336,12,Basic,15.71,9,1,0,No,PayPal,69,No,4.6,No,215.71,Yes
+CAS-02337,30,Deluxe,46.05,4,0,2,No,Credit Card,87,No,4.3,No,1363.81,No
+CAS-02338,14,Deluxe,58.22,7,2,0,No,Debit Card,545,No,4.1,Yes,1109.36,No
+CAS-02339,16,Curated,33.92,8,1,0,No,Debit Card,253,Yes,4.0,No,803.4,No
+CAS-02340,19,Basic,18.84,2,0,0,No,Debit Card,1223,Yes,2.5,No,752.18,Yes
+CAS-02341,29,Deluxe,55.71,8,0,1,No,PayPal,121,No,4.7,No,1982.72,Yes
+CAS-02342,43,Basic,20.84,2,1,1,No,Credit Card,191,Yes,4.2,No,396.86,No
+CAS-02343,27,Curated,35.5,9,1,3,No,Credit Card,184,No,3.9,No,569.23,Yes
+CAS-02344,37,Curated,36.01,2,0,1,No,Credit Card,100,Yes,5.0,No,1971.41,No
+CAS-02345,35,Deluxe,65.39,6,2,2,No,Credit Card,602,Yes,3.5,No,2483.77,No
+CAS-02346,8,Deluxe,48.08,2,1,0,No,Debit Card,751,Yes,4.7,No,466.29,No
+CAS-02347,41,Basic,20.66,5,0,1,No,Credit Card,160,Yes,3.6,No,1303.04,No
+CAS-02348,7,Deluxe,60.48,5,1,4,No,Credit Card,93,No,3.6,Yes,460.83,No
+CAS-02349,47,Deluxe,59.5,5,0,0,No,Debit Card,260,Yes,4.1,No,3644.81,No
+CAS-02350,37,Curated,29.36,2,0,3,No,Debit Card,95,No,3.7,No,2152.46,No
+CAS-02351,35,Deluxe,55.15,6,0,1,No,Credit Card,231,No,4.7,No,2341.27,Yes
+CAS-02352,14,Basic,15.99,6,1,0,No,PayPal,44,No,3.9,No,367.9,No
+CAS-02353,29,Curated,30.81,3,1,1,No,PayPal,159,Yes,2.5,No,1362.75,No
+CAS-02354,43,Deluxe,57.04,4,1,0,No,Debit Card,100,Yes,4.8,No,2167.84,Yes
+CAS-02355,24,Curated,38.59,3,0,0,No,PayPal,1107,No,3.7,No,1864.1,No
+CAS-02356,31,Deluxe,50.13,4,0,2,No,Credit Card,410,No,3.7,No,2131.69,No
+CAS-02357,21,Curated,32.5,5,1,2,No,PayPal,1232,Yes,2.3,No,1323.48,No
+CAS-02358,7,Curated,33.12,4,1,4,No,Credit Card,119,No,5.0,No,422.79,Yes
+CAS-02359,46,Basic,16.15,6,1,3,No,PayPal,144,Yes,3.1,No,563.5,No
+CAS-02360,46,Deluxe,59.46,2,0,0,No,PayPal,236,Yes,3.6,No,1800.79,No
+CAS-02361,28,Deluxe,44.07,9,1,0,No,PayPal,95,No,4.6,No,1231.27,Yes
+CAS-02362,44,Basic,23.25,7,0,2,No,PayPal,236,No,5.0,No,763.83,No
+CAS-02363,33,Deluxe,61.85,9,0,0,No,Credit Card,237,No,3.1,No,1693.42,No
+CAS-02364,39,Deluxe,50.87,5,0,1,No,PayPal,33,Yes,4.7,Yes,1803.47,No
+CAS-02365,29,Basic,20.49,5,0,4,No,Credit Card,258,Yes,4.7,No,1908.85,No
+CAS-02366,32,Deluxe,53.19,5,0,1,No,Credit Card,885,Yes,4.0,No,2830.98,No
+CAS-02367,42,Basic,21.7,4,1,0,No,Debit Card,267,Yes,3.7,No,361.27,No
+CAS-02368,27,Basic,17.67,8,0,0,No,PayPal,119,No,5.0,No,153.0,Yes
+CAS-02369,25,Deluxe,59.89,8,0,2,No,Debit Card,257,No,5.0,No,1573.16,No
+CAS-02370,6,Deluxe,60.1,6,1,1,No,Credit Card,70,No,4.3,No,411.53,No
+CAS-02371,46,Deluxe,62.17,5,2,0,No,Credit Card,308,No,3.5,No,3329.1,No
+CAS-02372,15,Deluxe,49.55,8,0,5,No,Credit Card,192,Yes,4.0,No,733.49,No
+CAS-02373,7,Deluxe,53.41,10,0,1,No,Credit Card,97,Yes,3.6,No,401.2,No
+CAS-02374,22,Curated,32.11,2,1,2,No,Credit Card,35,Yes,3.5,No,667.99,Yes
+CAS-02375,15,Deluxe,54.9,6,0,1,No,PayPal,81,Yes,4.3,No,1259.36,No
+CAS-02376,42,Curated,33.15,5,2,4,No,Debit Card,731,No,5.0,Yes,1306.98,No
+CAS-02377,4,Basic,20.61,4,0,2,No,Credit Card,420,No,4.3,No,335.25,No
+CAS-02378,28,Basic,19.87,8,0,5,No,Credit Card,245,Yes,4.0,No,836.86,No
+CAS-02379,29,Basic,15.2,5,0,1,No,PayPal,449,No,4.3,No,661.88,Yes
+CAS-02380,19,Basic,19.21,7,0,1,No,Credit Card,490,Yes,4.2,Yes,692.25,Yes
+CAS-02381,4,Basic,17.64,3,2,2,No,Credit Card,492,No,3.3,Yes,318.9,Yes
+CAS-02382,31,Curated,34.84,7,0,1,No,Credit Card,177,Yes,3.2,No,2689.39,No
+CAS-02383,39,Deluxe,44.76,7,1,3,Yes,Credit Card,46,No,3.6,No,2127.29,Yes
+CAS-02384,28,Basic,19.55,6,1,2,No,PayPal,202,Yes,5.0,No,1065.42,No
+CAS-02385,37,Deluxe,59.43,8,1,3,No,Credit Card,497,Yes,3.3,No,2454.1,No
+CAS-02386,20,Curated,37.91,5,0,2,No,Debit Card,558,Yes,3.3,Yes,820.86,No
+CAS-02387,19,Deluxe,56.83,9,1,2,No,Debit Card,456,No,5.0,No,1191.5,No
+CAS-02388,47,Basic,22.74,2,0,3,No,Credit Card,522,Yes,3.3,Yes,1913.9,Yes
+CAS-02389,14,Basic,21.47,6,1,1,No,Credit Card,433,Yes,3.8,Yes,572.43,Yes
+CAS-02390,2,Curated,39.45,7,1,3,No,PayPal,325,No,3.7,No,262.6,Yes
+CAS-02391,23,Basic,20.95,8,0,1,No,PayPal,49,No,4.4,No,280.52,No
+CAS-02392,39,Curated,35.92,5,1,1,No,Debit Card,220,Yes,3.9,No,1443.65,No
+CAS-02393,35,Basic,20.81,7,1,0,No,Debit Card,306,Yes,3.2,No,408.15,No
+CAS-02394,37,Basic,15.0,6,0,1,No,Debit Card,173,No,4.8,No,470.63,Yes
+CAS-02395,45,Curated,33.18,3,0,1,No,PayPal,229,No,4.4,No,633.41,No
+CAS-02396,6,Deluxe,55.25,4,0,1,No,Credit Card,156,Yes,4.5,No,714.97,Yes
+CAS-02397,39,Curated,35.44,8,1,2,No,Credit Card,99,No,3.6,No,1830.24,No
+CAS-02398,11,Deluxe,46.37,3,0,2,No,PayPal,219,Yes,2.9,No,816.71,No
+CAS-02399,39,Deluxe,51.5,6,2,0,No,Credit Card,503,Yes,4.0,No,2733.94,No
+CAS-02400,36,Deluxe,60.39,5,0,1,No,Credit Card,841,Yes,5.0,No,2890.27,Yes
+CAS-02401,14,Curated,34.55,2,1,1,No,Credit Card,175,Yes,4.4,No,1028.98,No
+CAS-02402,36,Curated,33.66,8,0,1,No,Debit Card,121,No,2.1,No,648.82,No
+CAS-02403,41,Deluxe,57.12,8,2,4,No,Credit Card,139,No,5.0,No,2531.19,No
+CAS-02404,2,Curated,37.7,8,0,1,Yes,Credit Card,223,Yes,4.2,Yes,186.49,Yes
+CAS-02405,15,Deluxe,50.17,9,1,2,No,PayPal,389,No,3.1,No,1277.28,No
+CAS-02406,17,Basic,24.07,5,1,2,No,Credit Card,841,Yes,3.3,Yes,1059.97,No
+CAS-02407,2,Deluxe,53.42,6,0,1,Yes,Debit Card,194,No,4.6,No,198.26,Yes
+CAS-02408,27,Curated,36.07,11,0,2,No,Credit Card,393,No,2.5,Yes,718.78,No
+CAS-02409,17,Deluxe,53.58,7,0,1,No,Credit Card,562,No,3.9,No,1318.63,Yes
+CAS-02410,9,Curated,34.19,7,0,4,No,Credit Card,218,Yes,4.7,Yes,214.91,No
+CAS-02411,17,Basic,19.77,6,0,1,No,Credit Card,171,Yes,3.4,No,181.27,Yes
+CAS-02412,31,Basic,20.63,6,0,2,No,Credit Card,800,No,3.6,Yes,998.09,No
+CAS-02413,13,Basic,18.77,8,0,4,No,Credit Card,197,Yes,3.8,Yes,444.93,Yes
+CAS-02414,15,Basic,17.88,5,0,2,No,Buy Now Pay Later,380,Yes,4.4,No,440.23,Yes
+CAS-02415,26,Basic,22.49,3,0,0,No,Debit Card,94,Yes,3.5,No,751.52,Yes
+CAS-02416,36,Deluxe,49.42,5,0,0,No,Buy Now Pay Later,792,No,3.2,No,1266.91,No
+CAS-02417,44,Curated,32.41,3,0,0,No,PayPal,695,Yes,4.6,No,1682.68,No
+CAS-02418,17,Basic,17.6,7,0,2,No,Debit Card,422,No,3.1,No,431.16,No
+CAS-02419,18,Curated,37.91,5,0,0,Yes,Debit Card,479,No,3.8,No,837.71,No
+CAS-02420,5,Curated,39.72,2,0,3,No,Credit Card,255,No,4.5,Yes,247.14,Yes
+CAS-02421,37,Deluxe,56.17,7,2,1,No,Credit Card,190,Yes,4.8,No,5975.41,Yes
+CAS-02422,31,Curated,39.67,5,0,0,No,Credit Card,180,Yes,4.0,No,2126.66,No
+CAS-02423,46,Deluxe,61.64,4,1,1,No,Credit Card,310,Yes,4.8,No,1833.25,No
+CAS-02424,40,Deluxe,48.34,7,0,1,No,Debit Card,367,Yes,4.7,No,1137.22,No
+CAS-02425,35,Deluxe,55.61,5,0,0,No,Buy Now Pay Later,146,No,4.2,Yes,5396.62,No
+CAS-02426,33,Deluxe,54.98,4,0,3,No,Buy Now Pay Later,248,Yes,4.1,No,2163.29,No
+CAS-02427,17,Deluxe,45.36,8,0,1,Yes,PayPal,361,No,3.9,No,1273.15,Yes
+CAS-02428,20,Basic,17.65,6,1,2,No,Credit Card,493,No,4.9,No,1297.46,No
+CAS-02429,48,Basic,19.05,7,0,1,No,Buy Now Pay Later,477,No,4.4,No,1367.58,No
+CAS-02430,28,Curated,33.7,2,1,1,No,Debit Card,63,Yes,2.9,No,749.28,No
+CAS-02431,31,Curated,36.22,2,1,1,No,Credit Card,263,Yes,5.0,No,2858.13,No
+CAS-02432,42,Curated,36.36,7,1,2,No,Buy Now Pay Later,577,No,3.1,No,837.31,Yes
+CAS-02433,19,Deluxe,58.66,6,2,4,Yes,Credit Card,129,No,5.0,No,1256.98,No
+CAS-02434,39,Curated,35.04,2,0,1,No,Buy Now Pay Later,309,No,5.0,No,1491.02,No
+CAS-02435,12,Deluxe,48.2,2,0,1,No,Debit Card,418,No,4.1,No,736.69,Yes
+CAS-02436,24,Curated,28.04,5,0,1,No,Credit Card,73,No,4.5,No,1256.47,No
+CAS-02437,13,Deluxe,56.15,2,0,0,No,Credit Card,199,No,2.8,No,730.71,Yes
+CAS-02438,32,Deluxe,55.31,9,0,0,No,Credit Card,155,Yes,4.0,No,4155.75,No
+CAS-02439,46,Curated,36.58,7,1,0,No,Debit Card,379,Yes,4.1,No,2546.34,No
+CAS-02440,35,Deluxe,49.54,5,1,0,No,Credit Card,807,Yes,4.2,No,1138.48,No
+CAS-02441,31,Deluxe,46.84,6,1,0,No,PayPal,230,No,3.8,No,945.49,No
+CAS-02442,19,Basic,22.19,5,1,0,No,Credit Card,302,Yes,4.1,No,684.45,Yes
+CAS-02443,6,Curated,35.4,5,1,4,No,Credit Card,275,Yes,4.8,No,361.2,No
+CAS-02444,39,Basic,19.88,7,1,0,No,Credit Card,93,Yes,5.0,No,739.47,Yes
+CAS-02445,41,Basic,17.1,3,1,1,No,Credit Card,262,No,3.2,Yes,904.41,No
+CAS-02446,33,Curated,36.6,6,1,1,No,Credit Card,210,Yes,3.3,No,1577.41,No
+CAS-02447,27,Curated,34.91,6,0,0,No,Debit Card,198,No,3.5,No,755.79,No
+CAS-02448,45,Curated,34.23,6,0,2,Yes,Debit Card,134,Yes,3.4,Yes,1830.99,Yes
+CAS-02449,38,Curated,40.93,8,1,1,No,Credit Card,386,No,2.7,No,1043.77,No
+CAS-02450,17,Basic,19.79,6,3,2,No,Credit Card,61,No,5.0,No,256.88,No
+CAS-02451,15,Curated,34.52,6,0,0,No,Debit Card,564,Yes,2.4,No,397.6,No
+CAS-02452,40,Curated,30.39,4,0,0,No,Credit Card,188,Yes,3.5,No,1674.9,No
+CAS-02453,11,Curated,29.4,5,0,0,No,Credit Card,21,No,5.0,Yes,282.12,No
+CAS-02454,35,Basic,17.03,4,2,1,No,Credit Card,277,Yes,4.2,No,2062.55,No
+CAS-02455,43,Basic,20.18,5,0,0,No,PayPal,537,No,5.0,No,1323.47,Yes
+CAS-02456,8,Curated,32.29,6,2,0,No,Credit Card,400,Yes,4.7,No,514.75,No
+CAS-02457,8,Deluxe,51.21,3,1,1,No,Debit Card,127,No,3.5,No,237.12,Yes
+CAS-02458,25,Curated,31.35,2,0,2,No,Credit Card,289,Yes,3.7,No,1005.51,No
+CAS-02459,30,Curated,33.62,8,1,1,No,PayPal,399,No,3.9,No,961.53,No
+CAS-02460,2,Curated,35.75,2,0,2,No,Buy Now Pay Later,571,Yes,4.8,No,311.24,Yes
+CAS-02461,23,Curated,32.1,2,0,0,Yes,Credit Card,407,Yes,4.6,No,709.72,No
+CAS-02462,25,Curated,30.42,6,0,1,No,Credit Card,470,Yes,3.2,No,575.3,Yes
+CAS-02463,21,Curated,32.83,8,1,1,Yes,Credit Card,733,Yes,5.0,No,1552.3,Yes
+CAS-02464,8,Curated,34.11,5,1,1,Yes,Credit Card,806,Yes,3.8,Yes,736.24,No
+CAS-02465,0,Basic,17.19,7,0,3,No,Buy Now Pay Later,261,No,4.9,No,88.59,Yes
+CAS-02466,33,Deluxe,58.08,3,2,2,No,Buy Now Pay Later,242,No,4.4,No,2693.1,Yes
+CAS-02467,45,Curated,33.84,5,2,2,No,PayPal,36,Yes,5.0,Yes,1269.57,No
+CAS-02468,42,Curated,33.61,4,0,1,No,Debit Card,631,No,4.1,No,2721.17,No
+CAS-02469,40,Curated,32.88,7,0,2,No,PayPal,227,Yes,3.8,No,975.68,No
+CAS-02470,9,Basic,21.33,6,0,1,No,PayPal,105,No,3.6,No,429.48,Yes
+CAS-02471,5,Basic,23.28,2,0,4,No,Credit Card,555,No,4.2,No,402.91,Yes
+CAS-02472,19,Curated,36.05,2,1,1,No,Credit Card,392,Yes,5.0,No,982.42,No
+CAS-02473,12,Curated,30.28,7,1,1,No,Credit Card,309,Yes,4.3,No,365.26,No
+CAS-02474,26,Curated,33.39,5,1,1,No,PayPal,337,Yes,4.7,No,1481.79,No
+CAS-02475,27,Basic,17.06,3,0,1,Yes,Debit Card,46,Yes,4.9,No,583.3,No
+CAS-02476,28,Curated,38.51,4,0,1,No,PayPal,81,Yes,3.6,No,1613.18,No
+CAS-02477,3,Basic,20.9,8,1,1,No,Credit Card,381,No,4.3,No,354.41,No
+CAS-02478,33,Deluxe,59.79,8,2,0,No,Credit Card,1102,Yes,3.5,No,3831.36,No
+CAS-02479,0,Curated,38.89,4,0,2,No,Debit Card,331,No,4.5,No,158.88,No
+CAS-02480,41,Deluxe,65.71,6,0,1,No,Debit Card,192,No,3.5,No,1587.91,Yes
+CAS-02481,15,Basic,21.89,5,0,2,No,Credit Card,278,Yes,4.2,No,439.99,No
+CAS-02482,14,Basic,17.18,9,0,0,No,Credit Card,117,No,3.3,No,291.92,No
+CAS-02483,33,Deluxe,57.73,8,0,1,No,PayPal,290,No,3.8,No,1767.58,No
+CAS-02484,26,Basic,19.1,3,1,0,No,Credit Card,197,Yes,3.5,Yes,935.96,Yes
+CAS-02485,17,Basic,19.18,8,0,2,No,PayPal,321,No,4.4,No,313.27,No
+CAS-02486,39,Deluxe,52.62,3,1,2,No,Buy Now Pay Later,563,Yes,4.9,No,2135.64,No
+CAS-02487,25,Deluxe,48.65,5,1,1,No,Debit Card,1159,Yes,4.7,No,1647.29,No
+CAS-02488,19,Curated,31.78,3,0,3,No,Credit Card,282,Yes,4.3,No,624.36,No
+CAS-02489,39,Basic,19.17,3,1,1,No,Credit Card,451,No,4.1,No,1083.35,No
+CAS-02490,15,Curated,32.05,3,1,1,No,PayPal,1005,Yes,4.3,No,1134.55,No
+CAS-02491,23,Deluxe,44.5,5,0,1,No,Credit Card,307,No,3.0,No,943.37,No
+CAS-02492,23,Deluxe,52.34,7,2,1,No,Credit Card,233,Yes,4.4,Yes,3495.04,Yes
+CAS-02493,20,Deluxe,47.44,2,1,1,No,Credit Card,298,No,3.1,No,698.04,No
+CAS-02494,34,Curated,35.73,2,0,2,No,Credit Card,172,Yes,2.7,No,711.99,Yes
+CAS-02495,2,Curated,35.92,5,0,1,No,Credit Card,380,Yes,4.6,Yes,399.24,Yes
+CAS-02496,27,Curated,35.48,6,0,2,No,Credit Card,481,No,3.1,No,1371.13,No
+CAS-02497,47,Curated,38.34,7,0,2,No,Debit Card,208,No,3.9,Yes,1338.72,No
+CAS-02498,36,Basic,20.66,8,1,0,No,Credit Card,752,No,4.6,No,659.07,No
+CAS-02499,41,Deluxe,59.42,11,0,0,No,Credit Card,426,No,3.7,No,1797.57,No
+CAS-02500,37,Deluxe,60.82,6,0,1,No,Debit Card,131,Yes,5.0,No,2738.11,Yes

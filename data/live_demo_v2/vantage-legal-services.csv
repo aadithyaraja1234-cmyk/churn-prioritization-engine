@@ -1,0 +1,1501 @@
+Client Reference Number,Months as Client,Service Tier,Monthly Retainer Fee,Primary Practice Area,Case Load Estimate,Number of Matters Filed,Preferred Contact Method,Has Dedicated Attorney,Average Response Time Hours,Referral Source,Billing Dispute Count,Uses Client Portal,Estimated Lifetime Client Value,Left Firm
+VLS-00001,66,Premier Retainer,2022.74,Corporate,3,1,Email,No,9.0,Referral,1,No,137904.73,No
+VLS-00002,57,Premier Retainer,2272.01,Family,6,0,Email,No,14.9,Repeat Client,1,Yes,331898.5,No
+VLS-00003,79,Signature Retainer,4915.93,Litigation,1,2,Email,Yes,35.5,Repeat Client,1,Yes,478111.38,No
+VLS-00004,81,Premier Retainer,1906.93,Corporate,3,1,Phone,Yes,11.0,Web Search,0,No,100746.0,No
+VLS-00005,59,Basic Retainer,779.86,Family,0,0,Phone,Yes,11.9,Repeat Client,1,No,29243.09,No
+VLS-00006,31,Signature Retainer,4760.84,Corporate,3,0,Phone,Yes,5.9,Referral,0,No,188393.45,No
+VLS-00007,50,Premier Retainer,2022.12,Corporate,2,0,Email,Yes,10.5,Repeat Client,0,Yes,64449.8,No
+VLS-00008,36,Signature Retainer,3218.55,Real Estate,2,3,Email,Yes,7.9,Web Search,0,Yes,152862.52,No
+VLS-00009,53,Basic Retainer,827.01,Real Estate,1,1,Email,Yes,15.3,Advertisement,0,No,67302.08,No
+VLS-00010,69,Premier Retainer,2390.94,Real Estate,3,2,Client Portal,Yes,4.8,Advertisement,0,Yes,250200.82,No
+VLS-00011,31,Basic Retainer,861.8,Litigation,2,2,Email,No,15.3,Web Search,0,No,18405.15,No
+VLS-00012,42,Signature Retainer,4950.86,Family,1,2,Phone,Yes,6.5,Repeat Client,0,Yes,315274.73,No
+VLS-00013,3,Premier Retainer,2362.28,Corporate,3,0,Phone,No,14.6,Referral,1,Yes,8009.33,Yes
+VLS-00014,62,Signature Retainer,4150.17,Corporate,3,3,Client Portal,Yes,12.1,Repeat Client,0,No,197289.33,No
+VLS-00015,41,Premier Retainer,1805.43,Corporate,5,2,Email,No,0.7,Referral,0,Yes,68547.74,No
+VLS-00016,39,Basic Retainer,928.62,Family,1,3,Email,Yes,14.9,Referral,0,Yes,46011.79,No
+VLS-00017,45,Premier Retainer,1843.34,Corporate,3,0,Client Portal,No,16.0,Advertisement,1,No,61411.05,No
+VLS-00018,18,Basic Retainer,990.51,Corporate,3,2,Email,No,3.9,Advertisement,0,Yes,20842.25,Yes
+VLS-00019,50,Signature Retainer,5139.98,Corporate,7,0,Phone,No,19.0,Repeat Client,0,Yes,492701.1,No
+VLS-00020,63,Premier Retainer,2132.61,Litigation,3,3,Email,No,19.8,Referral,1,No,207430.36,No
+VLS-00021,29,Premier Retainer,2617.84,Real Estate,4,1,Client Portal,Yes,16.0,Referral,0,Yes,79981.1,No
+VLS-00022,11,Basic Retainer,811.73,Estate Planning,3,0,Phone,No,4.6,Web Search,0,No,9651.18,No
+VLS-00023,32,Signature Retainer,3902.7,Litigation,1,1,Email,No,14.6,Repeat Client,1,Yes,98531.57,No
+VLS-00024,16,Signature Retainer,4821.0,Real Estate,3,2,Client Portal,Yes,14.0,Repeat Client,0,Yes,61540.86,No
+VLS-00025,31,Premier Retainer,1525.33,Corporate,3,0,Phone,Yes,4.6,Repeat Client,1,Yes,24445.62,No
+VLS-00026,53,Basic Retainer,790.7,Real Estate,3,1,Phone,No,5.4,Web Search,0,No,47144.99,Yes
+VLS-00027,9,Premier Retainer,2183.5,Corporate,1,0,Email,Yes,15.5,Repeat Client,0,Yes,28223.65,Yes
+VLS-00028,63,Basic Retainer,906.9,Family,1,1,Email,No,7.8,Referral,1,No,55561.06,No
+VLS-00029,19,Basic Retainer,929.41,Family,5,2,Phone,No,15.0,Repeat Client,0,Yes,12343.53,No
+VLS-00030,76,Premier Retainer,1687.19,Family,2,2,Email,No,7.5,Web Search,1,Yes,132628.49,No
+VLS-00031,62,Premier Retainer,1909.7,Corporate,1,0,Client Portal,Yes,6.6,Referral,0,No,218025.4,No
+VLS-00032,23,Signature Retainer,4601.79,Litigation,2,1,Email,No,4.8,Web Search,0,Yes,158552.01,No
+VLS-00033,47,Basic Retainer,793.55,Litigation,1,1,Phone,No,11.4,Advertisement,0,No,36354.04,No
+VLS-00034,9,Basic Retainer,952.75,Litigation,2,1,Email,No,4.7,Referral,0,No,21007.92,Yes
+VLS-00035,8,Premier Retainer,1990.67,Real Estate,2,3,Phone,Yes,6.3,Referral,0,No,55381.05,No
+VLS-00036,81,Basic Retainer,977.35,Real Estate,2,2,Email,Yes,19.0,Advertisement,1,No,65142.67,No
+VLS-00037,68,Basic Retainer,1017.92,Corporate,2,1,Email,Yes,33.4,Repeat Client,1,No,62932.82,No
+VLS-00038,13,Premier Retainer,1973.85,Litigation,2,1,Email,Yes,12.4,Web Search,0,Yes,35871.82,No
+VLS-00039,24,Basic Retainer,1081.18,Real Estate,3,0,Phone,No,19.5,Referral,1,No,17287.54,Yes
+VLS-00040,16,Premier Retainer,1939.86,Corporate,7,1,Email,Yes,6.9,Web Search,0,Yes,46656.3,No
+VLS-00041,33,Premier Retainer,2102.16,Family,3,2,Phone,Yes,7.6,Referral,0,Yes,74088.16,No
+VLS-00042,24,Signature Retainer,5012.17,Estate Planning,3,2,Email,No,10.6,Referral,0,No,142050.52,No
+VLS-00043,27,Premier Retainer,1939.42,Real Estate,2,0,Phone,Yes,5.3,Referral,0,Yes,40524.21,Yes
+VLS-00044,44,Basic Retainer,737.37,Family,4,1,Phone,No,6.5,Web Search,0,No,22530.12,No
+VLS-00045,16,Signature Retainer,4887.29,Real Estate,2,2,Email,No,14.6,Referral,1,Yes,31752.99,No
+VLS-00046,75,Signature Retainer,4621.39,Family,2,1,Email,Yes,9.3,Referral,0,Yes,676544.66,No
+VLS-00047,61,Basic Retainer,851.81,Family,2,2,Email,No,8.2,Referral,0,No,80437.37,Yes
+VLS-00048,64,Basic Retainer,851.47,Family,2,1,Phone,No,7.9,Web Search,0,No,72941.02,No
+VLS-00049,14,Premier Retainer,1661.26,Family,1,0,Client Portal,Yes,3.9,Referral,0,No,28315.81,No
+VLS-00050,60,Basic Retainer,837.25,Litigation,1,3,Email,No,10.3,Referral,0,Yes,18759.03,Yes
+VLS-00051,71,Basic Retainer,765.6,Corporate,0,0,Phone,No,5.3,Web Search,0,Yes,39212.12,Yes
+VLS-00052,14,Basic Retainer,656.88,Litigation,3,1,Phone,No,2.1,Advertisement,0,Yes,8500.1,Yes
+VLS-00053,63,Signature Retainer,3724.61,Family,1,0,Phone,No,3.4,Repeat Client,1,Yes,144835.75,No
+VLS-00054,30,Premier Retainer,2333.96,Litigation,0,2,Email,No,8.0,Web Search,0,Yes,33839.77,No
+VLS-00055,66,Premier Retainer,2325.86,Real Estate,3,2,Client Portal,No,13.8,Advertisement,2,No,99106.4,No
+VLS-00056,40,Signature Retainer,3765.95,Real Estate,2,1,Email,No,16.3,Repeat Client,0,Yes,154387.73,No
+VLS-00057,68,Premier Retainer,2352.95,Real Estate,1,0,Client Portal,Yes,2.7,Advertisement,1,No,165071.27,No
+VLS-00058,12,Premier Retainer,1637.78,Estate Planning,0,2,Email,No,12.9,Web Search,0,No,29538.37,No
+VLS-00059,33,Basic Retainer,862.05,Real Estate,5,2,Client Portal,Yes,27.2,Referral,1,No,73137.57,Yes
+VLS-00060,23,Basic Retainer,750.11,Litigation,3,2,Client Portal,No,16.9,Referral,2,Yes,23567.83,Yes
+VLS-00061,21,Premier Retainer,2189.68,Litigation,1,3,Client Portal,No,10.0,Referral,0,Yes,43237.94,No
+VLS-00062,26,Premier Retainer,2302.79,Corporate,3,0,Email,Yes,10.6,Referral,1,Yes,134653.59,No
+VLS-00063,32,Premier Retainer,1790.64,Family,0,0,Client Portal,Yes,9.8,Repeat Client,0,No,29665.26,No
+VLS-00064,10,Premier Retainer,2102.75,Family,1,3,Email,No,6.2,Referral,0,No,9031.35,No
+VLS-00065,60,Premier Retainer,2065.12,Corporate,1,0,Phone,Yes,17.4,Web Search,2,Yes,84303.93,No
+VLS-00066,46,Premier Retainer,2652.65,Family,3,0,Email,Yes,4.2,Repeat Client,1,Yes,175695.92,No
+VLS-00067,70,Premier Retainer,2677.35,Family,3,3,Phone,Yes,10.4,Web Search,0,No,203155.27,No
+VLS-00068,59,Basic Retainer,861.18,Real Estate,2,2,Email,No,2.1,Referral,0,Yes,31610.52,No
+VLS-00069,12,Basic Retainer,746.77,Corporate,2,0,Email,No,18.5,Repeat Client,0,Yes,6380.73,Yes
+VLS-00070,5,Premier Retainer,1600.69,Litigation,1,4,Email,No,10.1,Referral,1,Yes,4521.91,No
+VLS-00071,35,Basic Retainer,707.04,Family,2,0,Email,No,2.5,Referral,0,Yes,14253.79,No
+VLS-00072,40,Premier Retainer,2848.18,Litigation,2,2,Email,Yes,22.6,Web Search,0,Yes,230522.95,No
+VLS-00073,20,Signature Retainer,4391.28,Corporate,2,2,Client Portal,Yes,8.5,Referral,0,No,83835.08,No
+VLS-00074,66,Basic Retainer,880.46,Family,5,2,Phone,No,3.1,Repeat Client,0,No,129143.21,No
+VLS-00075,49,Basic Retainer,869.62,Corporate,4,1,Phone,Yes,28.7,Referral,0,No,30139.8,Yes
+VLS-00076,63,Basic Retainer,925.31,Litigation,0,0,Client Portal,No,7.5,Repeat Client,0,Yes,72396.68,No
+VLS-00077,9,Basic Retainer,1134.16,Family,5,1,Email,No,4.8,Referral,1,Yes,11728.71,Yes
+VLS-00078,69,Premier Retainer,1825.43,Estate Planning,4,4,Email,No,10.7,Repeat Client,1,No,187906.12,No
+VLS-00079,17,Premier Retainer,2394.2,Family,0,0,Email,No,3.4,Referral,0,Yes,45581.24,No
+VLS-00080,38,Signature Retainer,4794.2,Real Estate,1,1,Email,Yes,6.2,Repeat Client,1,Yes,284712.51,No
+VLS-00081,37,Premier Retainer,2391.15,Corporate,3,2,Phone,No,20.9,Referral,0,Yes,113736.99,No
+VLS-00082,69,Premier Retainer,1801.29,Real Estate,3,3,Phone,No,7.6,Repeat Client,0,No,76615.63,No
+VLS-00083,23,Signature Retainer,4374.23,Family,1,1,Phone,Yes,12.4,Repeat Client,0,Yes,140850.86,No
+VLS-00084,20,Basic Retainer,886.05,Family,3,3,Phone,No,21.6,Web Search,0,No,17787.5,No
+VLS-00085,28,Basic Retainer,913.06,Corporate,2,2,Email,No,7.5,Referral,2,Yes,18143.22,No
+VLS-00086,30,Basic Retainer,709.92,Corporate,0,2,Phone,No,4.7,Web Search,1,No,30169.99,No
+VLS-00087,15,Premier Retainer,2247.98,Corporate,3,1,Email,No,14.0,Web Search,0,Yes,50967.58,No
+VLS-00088,14,Premier Retainer,2067.74,Estate Planning,6,0,Client Portal,No,3.0,Web Search,0,No,23701.36,No
+VLS-00089,19,Basic Retainer,682.7,Family,4,1,Email,No,4.2,Web Search,1,Yes,11691.71,No
+VLS-00090,39,Premier Retainer,2266.3,Corporate,4,3,Email,Yes,2.5,Repeat Client,1,No,48861.76,No
+VLS-00091,29,Basic Retainer,1055.77,Estate Planning,0,2,Email,No,20.5,Repeat Client,0,No,13985.97,Yes
+VLS-00092,33,Premier Retainer,2169.2,Corporate,4,2,Email,No,9.5,Web Search,1,No,64220.67,Yes
+VLS-00093,61,Premier Retainer,2458.9,Family,2,0,Email,No,14.4,Referral,1,No,213989.24,No
+VLS-00094,20,Basic Retainer,729.95,Litigation,4,2,Email,Yes,4.5,Referral,0,No,12638.36,No
+VLS-00095,77,Basic Retainer,714.29,Estate Planning,3,1,Phone,No,12.1,Advertisement,0,Yes,104728.6,No
+VLS-00096,63,Premier Retainer,2122.62,Litigation,3,3,Client Portal,Yes,12.3,Repeat Client,1,Yes,123909.15,No
+VLS-00097,14,Basic Retainer,844.92,Family,2,1,Email,No,28.6,Web Search,0,No,10781.31,Yes
+VLS-00098,26,Basic Retainer,838.27,Estate Planning,1,2,Email,No,13.5,Referral,0,No,19319.03,Yes
+VLS-00099,15,Basic Retainer,732.67,Corporate,2,2,Client Portal,No,16.3,Referral,1,Yes,16704.52,Yes
+VLS-00100,23,Signature Retainer,5237.65,Estate Planning,1,1,Email,No,10.1,Referral,1,Yes,78715.56,No
+VLS-00101,31,Signature Retainer,4604.55,Litigation,3,5,Client Portal,Yes,0.5,Repeat Client,0,Yes,136742.21,No
+VLS-00102,11,Premier Retainer,2049.64,Estate Planning,2,0,Email,No,11.3,Advertisement,1,Yes,18063.34,No
+VLS-00103,1,Basic Retainer,810.35,Corporate,1,3,Email,No,8.0,Referral,0,Yes,1634.44,No
+VLS-00104,37,Signature Retainer,4124.49,Corporate,1,0,Email,No,7.7,Referral,0,No,155394.5,No
+VLS-00105,59,Premier Retainer,2428.82,Litigation,2,0,Email,No,6.4,Referral,0,Yes,136549.91,No
+VLS-00106,25,Premier Retainer,2274.12,Real Estate,4,1,Phone,No,7.7,Web Search,1,No,91715.31,No
+VLS-00107,73,Premier Retainer,2319.54,Real Estate,2,1,Client Portal,No,5.5,Advertisement,0,No,169031.29,No
+VLS-00108,31,Basic Retainer,1009.82,Estate Planning,0,1,Email,No,15.3,Referral,1,Yes,39536.84,No
+VLS-00109,76,Basic Retainer,745.22,Real Estate,1,3,Client Portal,No,3.9,Referral,0,Yes,61260.41,Yes
+VLS-00110,20,Signature Retainer,4605.33,Family,3,2,Email,No,26.2,Repeat Client,2,No,173024.67,Yes
+VLS-00111,45,Premier Retainer,1900.62,Family,1,1,Email,Yes,14.4,Repeat Client,0,Yes,76298.51,No
+VLS-00112,64,Basic Retainer,668.82,Corporate,3,0,Client Portal,No,18.1,Web Search,0,No,37053.84,No
+VLS-00113,5,Basic Retainer,972.54,Corporate,1,2,Client Portal,No,4.2,Web Search,0,No,6879.29,No
+VLS-00114,79,Premier Retainer,1786.42,Corporate,1,2,Phone,No,6.0,Repeat Client,1,Yes,122783.29,No
+VLS-00115,31,Basic Retainer,914.0,Litigation,2,1,Email,No,9.8,Advertisement,0,No,35077.98,No
+VLS-00116,42,Signature Retainer,4958.1,Litigation,6,3,Email,No,9.1,Repeat Client,0,Yes,597017.09,No
+VLS-00117,53,Premier Retainer,1929.68,Real Estate,2,5,Email,Yes,14.5,Referral,0,Yes,66674.07,No
+VLS-00118,54,Premier Retainer,1913.75,Family,4,2,Phone,Yes,9.2,Referral,1,No,206611.56,No
+VLS-00119,2,Premier Retainer,2335.86,Litigation,2,0,Email,No,27.1,Referral,0,Yes,3833.02,No
+VLS-00120,73,Premier Retainer,2392.8,Litigation,0,2,Phone,Yes,4.3,Repeat Client,0,Yes,319601.74,No
+VLS-00121,53,Premier Retainer,2053.46,Estate Planning,0,0,Email,Yes,3.5,Advertisement,0,Yes,149681.05,No
+VLS-00122,84,Premier Retainer,2529.28,Real Estate,3,1,Email,No,5.8,Referral,1,Yes,278556.28,No
+VLS-00123,40,Basic Retainer,769.33,Litigation,1,2,Email,No,7.7,Repeat Client,1,Yes,29621.53,No
+VLS-00124,52,Premier Retainer,2510.54,Real Estate,3,1,Email,Yes,19.1,Repeat Client,1,No,117872.06,No
+VLS-00125,37,Basic Retainer,644.32,Family,2,3,Phone,No,11.8,Referral,0,Yes,17761.23,No
+VLS-00126,75,Premier Retainer,2173.02,Estate Planning,1,1,Client Portal,Yes,0.7,Web Search,0,No,164068.98,No
+VLS-00127,70,Basic Retainer,753.2,Family,0,0,Client Portal,No,0.8,Advertisement,1,Yes,48954.35,No
+VLS-00128,77,Basic Retainer,842.89,Family,5,0,Phone,No,8.3,Referral,0,Yes,70926.8,No
+VLS-00129,42,Basic Retainer,1001.54,Family,5,0,Email,Yes,6.6,Advertisement,3,No,24134.23,No
+VLS-00130,67,Premier Retainer,1853.43,Real Estate,3,0,Client Portal,No,8.5,Referral,2,No,125824.49,No
+VLS-00131,30,Basic Retainer,715.24,Real Estate,1,1,Client Portal,No,7.7,Repeat Client,0,No,37874.76,Yes
+VLS-00132,39,Signature Retainer,5027.42,Litigation,0,3,Client Portal,No,24.6,Repeat Client,1,Yes,300522.66,No
+VLS-00133,64,Premier Retainer,2572.61,Family,0,1,Email,No,17.2,Repeat Client,0,No,166730.08,Yes
+VLS-00134,6,Basic Retainer,839.01,Corporate,6,1,Email,No,6.1,Advertisement,1,No,16651.04,No
+VLS-00135,60,Premier Retainer,2081.69,Estate Planning,4,4,Phone,No,9.0,Referral,0,No,97638.66,No
+VLS-00136,1,Basic Retainer,937.77,Family,6,5,Email,No,7.3,Referral,0,No,1729.01,Yes
+VLS-00137,49,Signature Retainer,6114.87,Estate Planning,3,0,Email,Yes,1.3,Advertisement,0,Yes,156346.16,No
+VLS-00138,40,Premier Retainer,2137.85,Corporate,4,0,Email,No,6.3,Referral,0,Yes,70476.32,No
+VLS-00139,39,Signature Retainer,4331.76,Real Estate,3,1,Phone,Yes,6.3,Advertisement,0,Yes,378248.96,No
+VLS-00140,42,Basic Retainer,540.44,Real Estate,1,2,Email,No,5.3,Referral,0,Yes,19349.87,Yes
+VLS-00141,41,Premier Retainer,1998.12,Litigation,2,2,Phone,No,6.1,Referral,0,Yes,42229.39,No
+VLS-00142,34,Premier Retainer,1833.06,Corporate,0,0,Phone,Yes,7.4,Web Search,0,Yes,93856.33,Yes
+VLS-00143,38,Signature Retainer,4748.56,Estate Planning,5,1,Email,No,12.5,Advertisement,1,Yes,215597.92,No
+VLS-00144,48,Premier Retainer,1659.41,Real Estate,5,3,Email,No,5.6,Web Search,0,No,116846.13,No
+VLS-00145,64,Premier Retainer,2289.86,Real Estate,2,2,Client Portal,No,21.0,Web Search,0,No,128255.68,No
+VLS-00146,46,Basic Retainer,984.39,Real Estate,3,1,Email,No,4.2,Web Search,0,No,28278.74,Yes
+VLS-00147,54,Basic Retainer,696.28,Corporate,5,1,Email,Yes,18.7,Advertisement,0,Yes,35244.24,No
+VLS-00148,71,Premier Retainer,1864.98,Real Estate,6,2,Email,Yes,11.2,Web Search,1,No,170312.38,No
+VLS-00149,84,Premier Retainer,3017.86,Corporate,1,1,Email,Yes,3.3,Web Search,0,No,245961.08,No
+VLS-00150,9,Basic Retainer,893.16,Family,4,1,Phone,No,7.2,Web Search,0,Yes,9524.06,Yes
+VLS-00151,60,Signature Retainer,5098.29,Real Estate,4,0,Email,No,25.2,Web Search,0,No,240325.37,No
+VLS-00152,19,Signature Retainer,4783.6,Real Estate,3,6,Client Portal,No,4.3,Referral,0,Yes,111189.97,No
+VLS-00153,16,Basic Retainer,882.07,Corporate,2,0,Email,No,25.7,Advertisement,1,No,13783.66,Yes
+VLS-00154,67,Premier Retainer,1774.18,Corporate,4,2,Client Portal,Yes,12.7,Referral,0,No,88037.07,No
+VLS-00155,5,Basic Retainer,991.0,Corporate,1,1,Phone,Yes,11.3,Repeat Client,0,No,6055.39,Yes
+VLS-00156,72,Premier Retainer,1722.79,Corporate,4,2,Email,No,12.2,Repeat Client,0,No,104594.49,No
+VLS-00157,65,Basic Retainer,921.62,Real Estate,1,2,Phone,No,7.1,Web Search,0,Yes,78942.8,Yes
+VLS-00158,84,Premier Retainer,2253.04,Corporate,2,3,Email,Yes,4.4,Repeat Client,0,No,282274.01,No
+VLS-00159,56,Premier Retainer,2558.79,Estate Planning,3,2,Client Portal,Yes,9.3,Advertisement,0,No,180841.72,No
+VLS-00160,74,Premier Retainer,2119.38,Corporate,2,1,Phone,No,11.6,Referral,0,No,75632.33,No
+VLS-00161,10,Basic Retainer,540.95,Corporate,3,1,Email,No,13.1,Advertisement,1,Yes,3137.08,Yes
+VLS-00162,75,Signature Retainer,4449.57,Estate Planning,2,2,Email,Yes,12.8,Repeat Client,0,Yes,251932.96,No
+VLS-00163,13,Basic Retainer,747.98,Family,4,3,Client Portal,Yes,15.1,Referral,1,No,8492.84,No
+VLS-00164,26,Basic Retainer,867.97,Family,1,1,Phone,No,32.1,Referral,0,No,16936.43,No
+VLS-00165,10,Premier Retainer,2271.67,Estate Planning,2,2,Email,No,10.9,Web Search,0,No,35334.03,No
+VLS-00166,34,Basic Retainer,824.65,Estate Planning,1,0,Email,No,20.3,Web Search,0,Yes,37833.97,No
+VLS-00167,63,Signature Retainer,3715.52,Litigation,4,3,Email,No,13.5,Web Search,1,No,194065.79,No
+VLS-00168,22,Signature Retainer,4442.42,Corporate,1,1,Phone,Yes,34.3,Web Search,0,No,129439.62,No
+VLS-00169,69,Basic Retainer,912.09,Real Estate,4,1,Phone,No,9.8,Advertisement,1,No,73581.2,Yes
+VLS-00170,51,Signature Retainer,4048.41,Estate Planning,2,2,Client Portal,No,9.1,Referral,1,No,203127.95,No
+VLS-00171,53,Basic Retainer,952.62,Estate Planning,2,2,Phone,No,19.5,Web Search,0,Yes,84923.85,No
+VLS-00172,79,Premier Retainer,1546.94,Corporate,1,1,Phone,No,19.5,Repeat Client,1,No,91488.2,No
+VLS-00173,36,Basic Retainer,929.1,Family,2,0,Email,No,7.5,Referral,0,No,33883.66,Yes
+VLS-00174,29,Signature Retainer,3591.38,Family,2,3,Phone,Yes,13.1,Web Search,0,Yes,66184.39,No
+VLS-00175,84,Basic Retainer,822.14,Corporate,3,0,Email,No,15.2,Referral,2,Yes,43801.89,Yes
+VLS-00176,47,Basic Retainer,609.98,Litigation,0,0,Client Portal,No,14.6,Referral,0,No,15797.4,Yes
+VLS-00177,52,Premier Retainer,1896.75,Corporate,1,4,Email,No,12.2,Web Search,0,Yes,63319.78,No
+VLS-00178,25,Signature Retainer,4243.02,Family,1,1,Phone,No,1.9,Referral,0,Yes,110579.07,No
+VLS-00179,18,Signature Retainer,4067.04,Corporate,4,2,Client Portal,Yes,14.8,Advertisement,0,No,64870.15,Yes
+VLS-00180,14,Premier Retainer,1777.92,Real Estate,1,0,Phone,Yes,15.2,Web Search,1,No,22939.32,No
+VLS-00181,19,Signature Retainer,5208.65,Corporate,2,0,Email,No,12.6,Repeat Client,0,No,86398.1,No
+VLS-00182,16,Signature Retainer,5220.76,Family,1,1,Phone,No,6.9,Repeat Client,0,Yes,185933.39,No
+VLS-00183,63,Premier Retainer,1531.49,Corporate,2,2,Email,Yes,23.6,Referral,0,Yes,59088.46,No
+VLS-00184,4,Basic Retainer,790.79,Estate Planning,4,1,Email,No,4.4,Referral,0,Yes,2635.31,No
+VLS-00185,53,Premier Retainer,2135.09,Corporate,2,2,Phone,Yes,19.7,Repeat Client,0,Yes,79056.79,No
+VLS-00186,80,Premier Retainer,1427.15,Real Estate,1,1,Client Portal,No,4.3,Referral,0,No,110359.45,No
+VLS-00187,65,Basic Retainer,904.13,Corporate,5,0,Email,No,18.1,Referral,0,Yes,74702.28,No
+VLS-00188,34,Basic Retainer,708.24,Corporate,0,0,Client Portal,No,4.5,Referral,0,Yes,31952.84,Yes
+VLS-00189,5,Premier Retainer,1703.34,Corporate,3,2,Email,Yes,17.4,Advertisement,0,No,14364.65,Yes
+VLS-00190,70,Basic Retainer,932.07,Corporate,3,2,Client Portal,No,27.0,Referral,1,Yes,62884.83,Yes
+VLS-00191,0,Signature Retainer,4167.28,Corporate,2,0,Phone,No,27.1,Referral,0,Yes,0.0,No
+VLS-00192,57,Basic Retainer,968.09,Real Estate,1,1,Client Portal,No,23.4,Web Search,1,No,114645.1,No
+VLS-00193,57,Basic Retainer,866.49,Real Estate,2,2,Client Portal,Yes,9.8,Advertisement,0,Yes,15380.79,No
+VLS-00194,16,Signature Retainer,4617.84,Corporate,4,1,Client Portal,Yes,6.1,Referral,1,Yes,76808.99,No
+VLS-00195,62,Basic Retainer,500.0,Family,1,1,Phone,No,8.7,Advertisement,1,No,38731.46,Yes
+VLS-00196,14,Basic Retainer,683.85,Real Estate,1,1,Email,No,18.7,Web Search,0,No,22082.86,No
+VLS-00197,19,Premier Retainer,1938.84,Corporate,3,1,Email,Yes,14.6,Web Search,0,No,18546.97,No
+VLS-00198,69,Signature Retainer,3499.23,Family,2,1,Phone,Yes,36.3,Referral,0,No,201020.47,No
+VLS-00199,83,Basic Retainer,1095.2,Corporate,3,0,Email,No,6.5,Referral,0,Yes,49899.89,No
+VLS-00200,22,Basic Retainer,778.95,Corporate,2,3,Client Portal,No,28.2,Referral,0,No,7721.85,No
+VLS-00201,78,Premier Retainer,1850.61,Family,1,1,Email,No,9.2,Repeat Client,0,No,131109.93,No
+VLS-00202,77,Signature Retainer,4453.96,Estate Planning,2,2,Client Portal,No,4.3,Referral,0,Yes,499930.17,No
+VLS-00203,65,Premier Retainer,2218.92,Estate Planning,4,2,Email,Yes,12.0,Repeat Client,0,Yes,249461.31,No
+VLS-00204,11,Basic Retainer,592.06,Estate Planning,0,1,Client Portal,No,14.4,Referral,0,No,5670.79,Yes
+VLS-00205,25,Basic Retainer,1010.58,Family,4,2,Client Portal,Yes,22.0,Referral,0,Yes,35746.87,No
+VLS-00206,57,Basic Retainer,851.74,Corporate,1,3,Email,No,6.5,Web Search,0,Yes,45419.69,No
+VLS-00207,84,Basic Retainer,993.64,Family,4,2,Phone,Yes,12.0,Repeat Client,1,Yes,108311.24,No
+VLS-00208,69,Premier Retainer,2191.67,Corporate,2,0,Email,Yes,9.9,Referral,0,No,254849.37,No
+VLS-00209,35,Basic Retainer,886.0,Corporate,3,1,Client Portal,Yes,7.5,Referral,2,Yes,28596.37,No
+VLS-00210,19,Premier Retainer,2368.14,Corporate,5,0,Client Portal,Yes,26.4,Web Search,0,No,73505.08,Yes
+VLS-00211,81,Premier Retainer,2325.72,Family,4,0,Email,No,14.5,Referral,1,Yes,109166.34,Yes
+VLS-00212,23,Premier Retainer,2442.24,Family,1,3,Email,No,1.1,Web Search,0,No,75702.25,No
+VLS-00213,29,Basic Retainer,909.61,Corporate,0,1,Email,No,12.1,Repeat Client,0,Yes,41668.27,Yes
+VLS-00214,81,Signature Retainer,5079.29,Litigation,7,2,Email,Yes,2.4,Referral,0,Yes,626572.22,No
+VLS-00215,47,Premier Retainer,2099.42,Family,1,1,Client Portal,No,11.3,Repeat Client,1,No,58674.58,No
+VLS-00216,22,Premier Retainer,2191.04,Litigation,0,1,Email,Yes,2.8,Referral,0,No,44993.86,No
+VLS-00217,0,Basic Retainer,897.19,Corporate,4,4,Client Portal,No,14.5,Repeat Client,0,Yes,210.23,Yes
+VLS-00218,36,Basic Retainer,940.67,Real Estate,3,2,Client Portal,Yes,2.4,Repeat Client,0,No,43168.42,No
+VLS-00219,83,Signature Retainer,5377.46,Corporate,2,0,Client Portal,Yes,4.5,Advertisement,1,No,470771.77,No
+VLS-00220,36,Basic Retainer,1146.07,Real Estate,2,1,Phone,Yes,16.8,Repeat Client,0,Yes,80237.31,Yes
+VLS-00221,59,Basic Retainer,976.23,Corporate,1,3,Email,No,9.8,Repeat Client,1,No,32572.47,Yes
+VLS-00222,21,Premier Retainer,2253.45,Corporate,0,1,Client Portal,No,3.1,Referral,0,Yes,42699.55,Yes
+VLS-00223,65,Premier Retainer,2142.5,Real Estate,4,0,Phone,Yes,25.3,Referral,0,No,66763.54,No
+VLS-00224,65,Signature Retainer,4300.87,Corporate,2,0,Client Portal,Yes,7.2,Referral,0,Yes,370019.44,No
+VLS-00225,51,Basic Retainer,644.56,Corporate,4,0,Email,No,8.1,Web Search,0,No,41718.88,No
+VLS-00226,65,Signature Retainer,5536.3,Estate Planning,1,1,Email,Yes,8.7,Web Search,1,No,1624831.83,No
+VLS-00227,49,Basic Retainer,908.07,Corporate,4,1,Client Portal,No,15.4,Web Search,0,No,70732.42,Yes
+VLS-00228,32,Premier Retainer,1980.84,Real Estate,0,0,Client Portal,Yes,7.6,Advertisement,1,Yes,75668.78,No
+VLS-00229,62,Premier Retainer,2000.27,Real Estate,0,1,Email,No,8.9,Web Search,0,No,138870.11,No
+VLS-00230,70,Basic Retainer,998.39,Corporate,1,4,Phone,No,20.6,Referral,0,Yes,60740.01,No
+VLS-00231,71,Basic Retainer,1006.35,Family,4,3,Email,Yes,18.9,Referral,1,Yes,76790.91,Yes
+VLS-00232,18,Premier Retainer,1854.73,Corporate,3,2,Phone,No,8.5,Repeat Client,0,Yes,38268.76,No
+VLS-00233,57,Signature Retainer,3739.02,Litigation,1,2,Email,Yes,8.8,Referral,0,No,89516.3,No
+VLS-00234,0,Premier Retainer,2226.49,Corporate,2,1,Email,Yes,0.7,Referral,0,No,761.81,Yes
+VLS-00235,48,Signature Retainer,3926.66,Corporate,0,0,Email,No,11.1,Referral,0,No,197254.05,No
+VLS-00236,48,Signature Retainer,5296.76,Family,2,3,Email,No,17.2,Repeat Client,1,Yes,561228.06,No
+VLS-00237,30,Premier Retainer,2071.8,Estate Planning,2,0,Email,Yes,7.3,Referral,1,No,59494.04,No
+VLS-00238,84,Signature Retainer,5969.78,Litigation,2,3,Email,Yes,22.9,Web Search,0,No,356908.95,No
+VLS-00239,75,Basic Retainer,794.54,Estate Planning,1,0,Email,Yes,2.1,Referral,0,No,68994.57,No
+VLS-00240,3,Basic Retainer,1001.44,Real Estate,1,2,Phone,No,4.8,Referral,0,No,3152.42,No
+VLS-00241,17,Signature Retainer,5145.4,Litigation,2,3,Phone,No,21.8,Advertisement,0,Yes,82675.67,No
+VLS-00242,17,Signature Retainer,4771.76,Real Estate,1,5,Phone,Yes,16.8,Web Search,1,No,47210.35,No
+VLS-00243,76,Basic Retainer,970.61,Estate Planning,1,0,Email,No,2.0,Advertisement,0,No,68527.38,No
+VLS-00244,44,Premier Retainer,1901.05,Real Estate,3,2,Email,Yes,2.4,Referral,0,No,64895.05,No
+VLS-00245,61,Premier Retainer,1901.33,Family,2,5,Client Portal,No,14.7,Repeat Client,0,Yes,106177.62,No
+VLS-00246,68,Signature Retainer,3263.37,Real Estate,3,1,Client Portal,No,12.7,Web Search,0,Yes,308782.32,No
+VLS-00247,65,Premier Retainer,1736.88,Real Estate,3,0,Client Portal,No,8.0,Repeat Client,0,Yes,83257.83,No
+VLS-00248,7,Premier Retainer,2393.65,Corporate,2,3,Client Portal,Yes,22.4,Referral,0,No,16719.16,No
+VLS-00249,11,Basic Retainer,1184.43,Family,3,3,Phone,No,5.8,Web Search,1,Yes,17277.68,Yes
+VLS-00250,33,Premier Retainer,2123.59,Family,2,3,Client Portal,Yes,1.2,Referral,0,No,62925.29,No
+VLS-00251,28,Premier Retainer,1841.16,Litigation,1,1,Email,No,15.4,Advertisement,0,Yes,167099.63,No
+VLS-00252,63,Signature Retainer,3384.29,Family,0,1,Phone,No,17.7,Advertisement,0,Yes,238907.36,No
+VLS-00253,13,Premier Retainer,2342.56,Litigation,2,2,Client Portal,Yes,6.1,Web Search,0,Yes,17956.45,No
+VLS-00254,31,Basic Retainer,752.5,Family,0,0,Phone,Yes,3.7,Referral,1,Yes,17548.13,No
+VLS-00255,20,Basic Retainer,784.04,Litigation,1,0,Email,No,1.3,Referral,1,Yes,9716.35,Yes
+VLS-00256,16,Premier Retainer,1931.87,Corporate,0,0,Email,No,9.6,Referral,2,No,20811.41,No
+VLS-00257,14,Signature Retainer,4890.59,Estate Planning,1,1,Email,Yes,12.3,Repeat Client,1,No,88353.97,No
+VLS-00258,16,Basic Retainer,810.2,Real Estate,3,0,Email,No,18.6,Referral,0,Yes,8119.49,Yes
+VLS-00259,47,Basic Retainer,786.27,Corporate,1,1,Client Portal,No,12.8,Referral,0,Yes,32367.62,No
+VLS-00260,34,Premier Retainer,1678.05,Corporate,2,3,Phone,Yes,6.5,Referral,1,No,97106.8,No
+VLS-00261,36,Basic Retainer,734.3,Corporate,1,0,Email,No,11.1,Referral,0,Yes,20687.77,No
+VLS-00262,40,Signature Retainer,4549.36,Family,1,2,Phone,Yes,19.2,Repeat Client,1,No,247481.96,No
+VLS-00263,62,Basic Retainer,500.0,Litigation,4,4,Email,Yes,12.1,Referral,0,No,16013.82,No
+VLS-00264,73,Basic Retainer,793.49,Estate Planning,5,3,Phone,No,17.4,Repeat Client,0,No,49645.28,No
+VLS-00265,44,Signature Retainer,4025.92,Litigation,1,2,Email,No,3.9,Advertisement,0,Yes,119289.01,No
+VLS-00266,54,Basic Retainer,898.02,Real Estate,1,4,Phone,No,15.0,Web Search,0,No,55989.18,No
+VLS-00267,62,Basic Retainer,785.88,Family,0,3,Phone,No,12.8,Web Search,1,No,30969.47,Yes
+VLS-00268,58,Basic Retainer,1101.6,Litigation,4,0,Phone,No,7.6,Advertisement,0,Yes,161321.44,No
+VLS-00269,11,Basic Retainer,851.74,Litigation,4,3,Phone,No,19.4,Advertisement,0,No,5393.89,Yes
+VLS-00270,83,Basic Retainer,1017.83,Family,4,1,Email,No,31.9,Referral,0,Yes,141152.57,No
+VLS-00271,14,Basic Retainer,883.98,Estate Planning,4,1,Phone,No,1.9,Repeat Client,0,Yes,17516.45,Yes
+VLS-00272,35,Basic Retainer,957.43,Family,1,3,Email,Yes,7.8,Referral,1,No,40320.98,No
+VLS-00273,55,Basic Retainer,886.3,Litigation,3,0,Email,No,9.1,Referral,1,Yes,49931.43,Yes
+VLS-00274,34,Premier Retainer,2406.37,Estate Planning,3,4,Phone,No,9.6,Web Search,1,Yes,188819.79,No
+VLS-00275,20,Premier Retainer,1938.87,Litigation,2,1,Phone,Yes,5.9,Advertisement,0,Yes,118510.84,No
+VLS-00276,78,Basic Retainer,1027.94,Corporate,2,2,Client Portal,No,2.3,Referral,1,No,73089.45,No
+VLS-00277,6,Basic Retainer,857.27,Real Estate,2,1,Email,Yes,8.1,Referral,0,No,6182.89,No
+VLS-00278,20,Premier Retainer,1977.33,Corporate,4,3,Client Portal,No,9.2,Referral,0,No,31023.95,No
+VLS-00279,84,Signature Retainer,4845.87,Litigation,1,1,Email,No,7.6,Web Search,0,No,241455.91,No
+VLS-00280,62,Signature Retainer,4880.59,Family,2,0,Phone,Yes,9.3,Referral,0,Yes,373777.23,No
+VLS-00281,7,Basic Retainer,914.5,Litigation,0,2,Client Portal,No,11.3,Repeat Client,1,No,8438.73,No
+VLS-00282,64,Basic Retainer,897.62,Estate Planning,1,1,Phone,No,8.4,Referral,0,Yes,28116.05,No
+VLS-00283,82,Basic Retainer,812.52,Corporate,3,0,Client Portal,No,5.9,Repeat Client,1,No,82062.97,Yes
+VLS-00284,8,Basic Retainer,902.65,Family,1,0,Client Portal,No,9.4,Advertisement,0,No,7806.14,No
+VLS-00285,35,Premier Retainer,2112.35,Real Estate,2,1,Email,Yes,11.9,Advertisement,2,No,57411.15,Yes
+VLS-00286,39,Premier Retainer,2442.78,Family,2,1,Client Portal,No,10.0,Repeat Client,0,No,70724.4,No
+VLS-00287,11,Basic Retainer,1140.47,Corporate,1,0,Client Portal,No,33.2,Referral,0,No,15459.92,No
+VLS-00288,17,Basic Retainer,814.85,Corporate,1,1,Email,No,12.5,Web Search,2,Yes,28730.64,Yes
+VLS-00289,14,Premier Retainer,2106.01,Family,2,2,Email,No,9.7,Referral,1,Yes,35791.55,No
+VLS-00290,15,Basic Retainer,904.53,Real Estate,3,1,Email,No,5.2,Referral,0,No,19599.29,No
+VLS-00291,34,Signature Retainer,5461.09,Real Estate,1,1,Client Portal,Yes,5.3,Referral,0,No,128622.87,No
+VLS-00292,39,Basic Retainer,1013.51,Corporate,4,3,Client Portal,No,7.6,Advertisement,0,No,33161.71,Yes
+VLS-00293,20,Signature Retainer,4895.62,Family,1,0,Client Portal,No,7.8,Repeat Client,1,No,128424.26,No
+VLS-00294,24,Basic Retainer,998.23,Family,2,1,Email,No,7.6,Referral,1,Yes,13668.05,No
+VLS-00295,16,Signature Retainer,5659.88,Corporate,5,3,Email,Yes,12.9,Advertisement,1,Yes,100711.86,No
+VLS-00296,67,Signature Retainer,4805.6,Litigation,4,1,Email,No,19.0,Referral,1,Yes,402353.25,No
+VLS-00297,17,Signature Retainer,4719.27,Family,1,4,Email,Yes,15.4,Referral,1,No,80397.96,No
+VLS-00298,77,Signature Retainer,5545.02,Real Estate,2,1,Email,Yes,14.2,Referral,0,No,494515.73,No
+VLS-00299,45,Premier Retainer,1740.26,Estate Planning,0,1,Email,No,4.7,Web Search,1,No,79661.39,No
+VLS-00300,68,Premier Retainer,2263.16,Real Estate,3,0,Email,Yes,20.9,Web Search,1,No,117350.76,No
+VLS-00301,54,Premier Retainer,1954.5,Real Estate,1,1,Email,No,5.1,Referral,0,No,61729.23,No
+VLS-00302,22,Basic Retainer,851.52,Corporate,0,1,Phone,No,11.7,Referral,2,Yes,18343.17,No
+VLS-00303,51,Premier Retainer,2666.38,Corporate,2,2,Email,No,13.6,Web Search,0,Yes,244882.03,Yes
+VLS-00304,23,Premier Retainer,2099.66,Corporate,0,3,Email,No,21.2,Repeat Client,1,Yes,76447.46,No
+VLS-00305,10,Signature Retainer,4115.09,Litigation,0,2,Phone,No,29.5,Referral,1,No,35740.12,No
+VLS-00306,21,Premier Retainer,1429.49,Litigation,3,1,Client Portal,No,7.4,Advertisement,0,Yes,25740.49,No
+VLS-00307,23,Basic Retainer,540.16,Corporate,0,1,Phone,No,11.1,Web Search,1,No,10269.28,Yes
+VLS-00308,11,Premier Retainer,2207.21,Corporate,2,2,Phone,Yes,20.0,Web Search,0,Yes,21134.69,Yes
+VLS-00309,2,Basic Retainer,917.17,Family,0,0,Phone,Yes,31.1,Referral,0,No,3060.61,No
+VLS-00310,80,Basic Retainer,561.47,Real Estate,4,1,Phone,No,8.0,Repeat Client,1,Yes,73000.96,Yes
+VLS-00311,43,Premier Retainer,2683.38,Real Estate,5,3,Phone,No,4.9,Web Search,1,No,319829.61,No
+VLS-00312,34,Premier Retainer,2572.78,Litigation,5,0,Email,Yes,3.0,Referral,0,Yes,61570.54,No
+VLS-00313,79,Basic Retainer,1041.09,Estate Planning,2,2,Phone,No,2.0,Repeat Client,0,No,110592.79,Yes
+VLS-00314,19,Basic Retainer,872.03,Family,1,0,Email,No,5.6,Repeat Client,0,No,21731.35,Yes
+VLS-00315,34,Basic Retainer,979.96,Real Estate,4,0,Email,No,17.5,Advertisement,0,Yes,28618.13,No
+VLS-00316,71,Basic Retainer,732.73,Real Estate,3,1,Email,No,18.2,Repeat Client,0,No,32666.03,No
+VLS-00317,53,Basic Retainer,648.17,Family,4,1,Email,Yes,12.5,Referral,0,No,39471.01,Yes
+VLS-00318,33,Premier Retainer,2649.29,Estate Planning,1,5,Email,No,7.7,Advertisement,1,Yes,227838.28,No
+VLS-00319,21,Basic Retainer,883.9,Corporate,2,0,Phone,No,12.9,Referral,0,No,20593.99,Yes
+VLS-00320,2,Signature Retainer,6770.11,Litigation,2,1,Email,Yes,10.1,Repeat Client,0,No,11213.15,No
+VLS-00321,7,Signature Retainer,5062.68,Litigation,2,1,Email,Yes,8.0,Referral,0,No,33705.41,No
+VLS-00322,13,Premier Retainer,1794.07,Estate Planning,4,0,Email,No,12.1,Referral,1,No,13651.75,No
+VLS-00323,66,Basic Retainer,845.63,Real Estate,2,1,Email,Yes,7.5,Web Search,1,No,57619.9,No
+VLS-00324,54,Premier Retainer,2373.65,Family,5,0,Phone,No,12.1,Advertisement,0,Yes,174862.99,Yes
+VLS-00325,36,Signature Retainer,5066.58,Litigation,7,0,Email,Yes,13.4,Web Search,2,Yes,134784.18,No
+VLS-00326,66,Premier Retainer,1883.4,Litigation,2,1,Email,Yes,15.7,Advertisement,0,Yes,30279.72,No
+VLS-00327,13,Signature Retainer,5167.57,Real Estate,3,0,Email,Yes,2.4,Referral,2,No,76956.3,No
+VLS-00328,17,Premier Retainer,2167.29,Litigation,3,0,Email,Yes,21.0,Referral,0,Yes,30270.17,Yes
+VLS-00329,33,Premier Retainer,1718.11,Corporate,3,1,Email,No,9.2,Web Search,1,Yes,41529.8,No
+VLS-00330,77,Basic Retainer,786.1,Real Estate,3,0,Email,No,29.7,Referral,0,No,43771.3,Yes
+VLS-00331,52,Premier Retainer,1906.66,Estate Planning,3,2,Phone,Yes,17.6,Advertisement,0,Yes,120294.54,No
+VLS-00332,72,Basic Retainer,861.01,Family,2,0,Client Portal,No,5.1,Repeat Client,0,Yes,52094.75,No
+VLS-00333,21,Premier Retainer,1897.13,Real Estate,5,0,Phone,No,14.4,Web Search,1,No,60942.14,No
+VLS-00334,72,Signature Retainer,6114.0,Estate Planning,2,1,Email,Yes,20.1,Web Search,0,No,676305.83,No
+VLS-00335,6,Basic Retainer,1209.77,Litigation,2,3,Email,Yes,8.3,Web Search,0,No,7848.5,No
+VLS-00336,19,Premier Retainer,2369.57,Estate Planning,2,3,Phone,Yes,4.8,Repeat Client,1,Yes,37728.22,No
+VLS-00337,44,Basic Retainer,958.49,Family,3,4,Email,No,4.1,Advertisement,0,No,45712.37,No
+VLS-00338,4,Premier Retainer,2340.22,Estate Planning,2,3,Client Portal,No,3.0,Repeat Client,0,No,9279.42,No
+VLS-00339,72,Basic Retainer,986.43,Corporate,1,0,Phone,No,1.4,Referral,0,Yes,32956.49,Yes
+VLS-00340,73,Signature Retainer,5354.76,Real Estate,2,0,Email,Yes,9.3,Advertisement,1,Yes,926064.59,No
+VLS-00341,46,Basic Retainer,959.71,Family,3,2,Email,No,4.3,Referral,1,Yes,61583.89,No
+VLS-00342,25,Signature Retainer,3676.46,Litigation,0,2,Client Portal,No,6.1,Advertisement,0,No,75137.3,No
+VLS-00343,8,Signature Retainer,5782.43,Estate Planning,4,0,Client Portal,Yes,30.1,Repeat Client,1,Yes,20672.38,No
+VLS-00344,52,Premier Retainer,2183.05,Litigation,2,1,Client Portal,No,13.5,Repeat Client,1,No,105121.5,No
+VLS-00345,45,Signature Retainer,4561.37,Real Estate,3,0,Email,Yes,4.9,Referral,1,No,159027.46,No
+VLS-00346,64,Signature Retainer,4875.01,Family,1,2,Phone,Yes,39.0,Repeat Client,0,No,305514.49,Yes
+VLS-00347,51,Signature Retainer,3904.52,Real Estate,0,1,Email,Yes,12.0,Referral,0,Yes,76082.09,No
+VLS-00348,10,Basic Retainer,1042.33,Real Estate,1,0,Email,No,36.9,Web Search,0,No,8587.75,No
+VLS-00349,10,Premier Retainer,1694.87,Corporate,1,0,Phone,No,25.6,Advertisement,0,No,14656.76,Yes
+VLS-00350,66,Basic Retainer,825.29,Real Estate,2,0,Client Portal,Yes,12.3,Web Search,0,Yes,50795.19,No
+VLS-00351,13,Premier Retainer,2006.51,Litigation,4,1,Email,No,9.3,Referral,0,No,23045.27,No
+VLS-00352,79,Basic Retainer,582.88,Litigation,6,1,Email,No,17.3,Advertisement,0,Yes,46914.17,Yes
+VLS-00353,9,Premier Retainer,1876.17,Litigation,2,0,Email,Yes,11.6,Advertisement,1,Yes,34003.48,No
+VLS-00354,61,Premier Retainer,2360.9,Family,3,0,Email,No,7.0,Web Search,0,Yes,114017.7,No
+VLS-00355,82,Premier Retainer,2453.46,Real Estate,2,2,Email,No,6.7,Web Search,1,Yes,133537.01,No
+VLS-00356,37,Premier Retainer,2416.92,Corporate,5,0,Client Portal,No,19.2,Advertisement,0,Yes,41567.42,No
+VLS-00357,4,Premier Retainer,1873.43,Family,3,2,Email,Yes,4.9,Web Search,0,No,7089.44,No
+VLS-00358,74,Signature Retainer,5168.34,Family,5,0,Phone,Yes,19.0,Referral,0,No,205046.41,No
+VLS-00359,15,Premier Retainer,1400.0,Corporate,3,0,Email,Yes,10.3,Web Search,0,Yes,32739.81,No
+VLS-00360,44,Premier Retainer,1569.91,Corporate,0,0,Email,No,2.5,Advertisement,1,No,65993.35,No
+VLS-00361,83,Signature Retainer,4344.04,Litigation,2,2,Email,Yes,20.0,Referral,2,No,551574.49,No
+VLS-00362,63,Basic Retainer,825.48,Family,4,2,Email,No,5.0,Referral,0,Yes,101300.24,No
+VLS-00363,3,Basic Retainer,955.53,Family,4,0,Phone,No,5.6,Repeat Client,0,Yes,2456.88,Yes
+VLS-00364,69,Basic Retainer,723.93,Corporate,4,1,Phone,Yes,8.6,Repeat Client,1,Yes,43560.61,No
+VLS-00365,13,Premier Retainer,2526.49,Real Estate,1,0,Client Portal,No,9.6,Web Search,0,No,60249.06,No
+VLS-00366,63,Premier Retainer,1979.62,Family,2,1,Email,No,12.4,Advertisement,0,No,135223.74,Yes
+VLS-00367,52,Premier Retainer,1874.78,Family,4,2,Phone,No,19.3,Repeat Client,0,No,124026.71,No
+VLS-00368,24,Premier Retainer,2592.8,Real Estate,1,1,Client Portal,No,18.9,Web Search,0,Yes,98627.25,No
+VLS-00369,36,Basic Retainer,827.07,Corporate,1,3,Email,No,6.6,Referral,1,No,45312.04,No
+VLS-00370,10,Signature Retainer,4870.12,Estate Planning,3,2,Client Portal,Yes,6.7,Web Search,0,No,60346.5,No
+VLS-00371,83,Premier Retainer,2479.55,Corporate,2,1,Client Portal,No,18.0,Repeat Client,0,Yes,386364.31,No
+VLS-00372,20,Basic Retainer,760.07,Family,3,2,Client Portal,Yes,4.3,Advertisement,0,Yes,15263.96,No
+VLS-00373,26,Basic Retainer,1045.26,Corporate,3,1,Phone,No,10.3,Referral,2,Yes,34311.46,No
+VLS-00374,42,Basic Retainer,947.43,Real Estate,1,1,Phone,No,24.4,Repeat Client,0,No,37252.17,No
+VLS-00375,57,Basic Retainer,934.7,Family,2,1,Email,No,7.3,Advertisement,1,No,84822.45,Yes
+VLS-00376,42,Basic Retainer,930.81,Estate Planning,1,1,Phone,No,2.9,Web Search,1,Yes,28824.73,No
+VLS-00377,42,Signature Retainer,4601.13,Family,3,0,Client Portal,Yes,5.0,Repeat Client,0,No,90530.3,No
+VLS-00378,49,Premier Retainer,2107.33,Real Estate,1,1,Email,No,5.3,Advertisement,0,Yes,139369.87,No
+VLS-00379,72,Basic Retainer,845.16,Corporate,1,0,Phone,No,4.7,Repeat Client,0,No,39069.92,Yes
+VLS-00380,33,Premier Retainer,2011.98,Corporate,3,1,Email,Yes,8.3,Repeat Client,1,No,41277.4,No
+VLS-00381,70,Premier Retainer,2060.37,Family,4,0,Email,No,36.4,Referral,0,No,254933.53,No
+VLS-00382,66,Signature Retainer,6147.51,Real Estate,4,2,Phone,Yes,14.1,Advertisement,0,Yes,628223.8,No
+VLS-00383,81,Signature Retainer,6187.58,Family,1,1,Phone,Yes,8.9,Referral,2,Yes,431342.93,No
+VLS-00384,77,Premier Retainer,2168.15,Estate Planning,1,0,Phone,No,9.5,Repeat Client,1,No,42515.84,No
+VLS-00385,67,Basic Retainer,875.68,Litigation,3,2,Client Portal,Yes,5.9,Repeat Client,1,No,75755.74,No
+VLS-00386,20,Signature Retainer,4832.56,Estate Planning,2,0,Email,Yes,9.4,Repeat Client,0,Yes,131293.05,No
+VLS-00387,65,Premier Retainer,2580.01,Family,4,1,Client Portal,No,23.7,Advertisement,1,No,211785.15,No
+VLS-00388,62,Signature Retainer,4844.78,Litigation,5,1,Phone,Yes,10.5,Advertisement,1,Yes,372346.67,No
+VLS-00389,24,Basic Retainer,695.93,Real Estate,4,0,Client Portal,Yes,18.8,Referral,1,Yes,15498.51,Yes
+VLS-00390,57,Signature Retainer,4538.59,Real Estate,4,1,Email,Yes,17.2,Web Search,0,No,216383.77,No
+VLS-00391,21,Premier Retainer,2226.74,Estate Planning,2,0,Email,No,35.4,Referral,0,Yes,28952.7,No
+VLS-00392,44,Basic Retainer,565.76,Real Estate,4,1,Client Portal,No,17.0,Repeat Client,1,Yes,18827.42,No
+VLS-00393,67,Premier Retainer,2317.81,Estate Planning,4,0,Email,Yes,33.8,Web Search,0,Yes,180793.54,Yes
+VLS-00394,16,Premier Retainer,2450.78,Litigation,1,2,Email,Yes,19.8,Web Search,1,No,46888.82,No
+VLS-00395,28,Basic Retainer,869.51,Corporate,1,1,Phone,No,12.4,Referral,1,Yes,34982.37,Yes
+VLS-00396,67,Premier Retainer,1749.1,Litigation,1,3,Phone,Yes,5.5,Web Search,0,Yes,64210.03,No
+VLS-00397,38,Signature Retainer,5574.2,Real Estate,2,2,Client Portal,No,18.8,Web Search,2,Yes,101142.4,No
+VLS-00398,81,Basic Retainer,892.12,Estate Planning,2,1,Phone,No,19.8,Repeat Client,2,Yes,61760.68,No
+VLS-00399,0,Premier Retainer,2326.46,Litigation,0,4,Client Portal,No,20.2,Repeat Client,0,Yes,417.28,No
+VLS-00400,61,Premier Retainer,2011.63,Corporate,3,5,Email,No,0.6,Web Search,0,Yes,134016.01,No
+VLS-00401,69,Basic Retainer,1007.2,Corporate,2,0,Phone,No,7.2,Repeat Client,1,Yes,38395.72,Yes
+VLS-00402,78,Signature Retainer,4569.76,Corporate,2,1,Client Portal,No,14.0,Referral,0,No,605994.44,No
+VLS-00403,13,Signature Retainer,4505.06,Real Estate,2,0,Phone,Yes,7.6,Referral,0,Yes,40761.69,No
+VLS-00404,83,Basic Retainer,1054.27,Corporate,1,1,Email,Yes,6.7,Web Search,0,Yes,180471.19,Yes
+VLS-00405,33,Signature Retainer,5485.02,Litigation,3,1,Email,No,5.9,Advertisement,0,No,229530.26,No
+VLS-00406,29,Signature Retainer,4423.19,Real Estate,2,0,Phone,No,2.6,Referral,0,Yes,79893.17,No
+VLS-00407,30,Basic Retainer,1054.1,Litigation,4,0,Phone,No,13.5,Referral,0,Yes,81327.09,No
+VLS-00408,54,Signature Retainer,4773.57,Corporate,3,1,Phone,Yes,6.3,Web Search,0,No,290900.55,No
+VLS-00409,56,Basic Retainer,720.26,Real Estate,2,1,Phone,No,7.3,Referral,0,No,43429.25,Yes
+VLS-00410,40,Signature Retainer,3693.08,Corporate,1,1,Client Portal,No,8.9,Web Search,0,No,143499.13,No
+VLS-00411,6,Premier Retainer,1400.0,Estate Planning,0,2,Email,Yes,15.0,Web Search,1,No,11644.19,No
+VLS-00412,83,Premier Retainer,1461.55,Corporate,0,1,Phone,No,12.1,Repeat Client,0,No,153188.49,Yes
+VLS-00413,18,Basic Retainer,804.21,Corporate,5,0,Phone,No,11.8,Referral,0,Yes,9390.89,Yes
+VLS-00414,7,Signature Retainer,5292.93,Corporate,4,4,Email,Yes,1.1,Referral,0,Yes,35079.34,No
+VLS-00415,50,Basic Retainer,912.44,Litigation,3,1,Email,Yes,19.1,Referral,0,No,49616.48,Yes
+VLS-00416,35,Basic Retainer,1179.15,Corporate,4,0,Phone,No,28.5,Referral,1,Yes,53762.14,No
+VLS-00417,52,Basic Retainer,1042.41,Real Estate,2,0,Client Portal,Yes,11.5,Advertisement,0,No,72356.82,No
+VLS-00418,74,Premier Retainer,1794.56,Litigation,2,1,Email,No,4.2,Web Search,2,Yes,143128.36,No
+VLS-00419,8,Basic Retainer,995.52,Litigation,2,0,Email,No,6.8,Referral,0,Yes,6217.56,Yes
+VLS-00420,24,Signature Retainer,6158.61,Corporate,1,1,Email,Yes,4.4,Repeat Client,0,No,114056.34,Yes
+VLS-00421,43,Premier Retainer,2259.37,Corporate,5,1,Client Portal,No,26.4,Advertisement,0,No,56933.21,No
+VLS-00422,66,Basic Retainer,799.59,Family,4,2,Phone,Yes,7.3,Referral,0,No,69879.76,Yes
+VLS-00423,51,Basic Retainer,735.18,Corporate,1,0,Email,No,11.9,Referral,0,Yes,27746.84,Yes
+VLS-00424,32,Basic Retainer,952.56,Litigation,4,2,Client Portal,Yes,8.6,Repeat Client,0,Yes,28952.87,Yes
+VLS-00425,51,Premier Retainer,2134.14,Family,1,1,Email,Yes,14.5,Advertisement,0,No,122587.47,No
+VLS-00426,83,Signature Retainer,5304.86,Family,2,0,Email,No,5.2,Repeat Client,1,Yes,441650.88,No
+VLS-00427,40,Basic Retainer,706.91,Corporate,2,1,Email,No,11.6,Referral,0,No,28037.17,Yes
+VLS-00428,75,Signature Retainer,5823.26,Real Estate,1,2,Phone,Yes,7.4,Advertisement,1,No,291128.57,No
+VLS-00429,66,Basic Retainer,819.0,Corporate,2,0,Client Portal,No,20.8,Referral,0,Yes,61422.94,No
+VLS-00430,25,Signature Retainer,4207.73,Litigation,2,3,Email,Yes,1.3,Referral,0,Yes,92851.15,No
+VLS-00431,21,Signature Retainer,4965.43,Corporate,6,2,Phone,Yes,8.0,Advertisement,0,No,100951.47,No
+VLS-00432,65,Premier Retainer,2155.31,Estate Planning,2,3,Phone,No,19.5,Advertisement,0,Yes,235040.07,No
+VLS-00433,17,Premier Retainer,2685.28,Litigation,1,1,Client Portal,No,18.0,Referral,0,Yes,57051.67,No
+VLS-00434,28,Signature Retainer,4139.79,Corporate,1,1,Client Portal,No,2.7,Referral,0,No,89628.3,No
+VLS-00435,20,Basic Retainer,835.08,Corporate,4,0,Phone,No,16.7,Advertisement,0,Yes,15100.84,Yes
+VLS-00436,51,Basic Retainer,1057.08,Family,2,1,Email,No,4.8,Referral,0,No,111220.01,No
+VLS-00437,25,Basic Retainer,803.89,Corporate,1,1,Email,Yes,6.0,Referral,2,Yes,18215.39,No
+VLS-00438,55,Premier Retainer,1719.27,Corporate,4,1,Client Portal,No,18.8,Referral,0,Yes,96457.77,No
+VLS-00439,79,Premier Retainer,2091.77,Estate Planning,0,1,Phone,Yes,7.9,Referral,1,No,224959.09,Yes
+VLS-00440,70,Premier Retainer,2191.33,Real Estate,0,1,Phone,No,2.6,Repeat Client,0,Yes,169222.95,Yes
+VLS-00441,80,Signature Retainer,4640.56,Corporate,1,0,Client Portal,No,3.8,Referral,1,No,313854.0,No
+VLS-00442,2,Basic Retainer,532.9,Real Estate,4,1,Client Portal,No,10.4,Web Search,0,Yes,900.94,Yes
+VLS-00443,38,Premier Retainer,1879.12,Corporate,3,1,Phone,No,7.7,Advertisement,0,No,71563.84,No
+VLS-00444,18,Basic Retainer,915.58,Estate Planning,0,2,Client Portal,No,7.6,Referral,0,No,22765.16,No
+VLS-00445,78,Basic Retainer,759.13,Corporate,3,4,Email,Yes,14.4,Web Search,0,No,108458.0,No
+VLS-00446,60,Premier Retainer,2108.5,Litigation,0,3,Phone,No,12.6,Referral,0,Yes,65780.48,No
+VLS-00447,27,Signature Retainer,5340.55,Litigation,4,0,Client Portal,No,8.1,Repeat Client,1,Yes,318453.32,No
+VLS-00448,47,Premier Retainer,1620.02,Corporate,4,1,Email,Yes,18.2,Advertisement,1,Yes,67826.26,No
+VLS-00449,51,Basic Retainer,855.54,Corporate,4,1,Email,Yes,14.4,Advertisement,0,No,68055.31,No
+VLS-00450,42,Premier Retainer,2522.97,Family,2,1,Phone,No,12.1,Referral,0,No,76494.51,No
+VLS-00451,40,Basic Retainer,838.73,Estate Planning,3,0,Phone,No,6.8,Repeat Client,0,No,16214.8,No
+VLS-00452,4,Signature Retainer,4871.27,Real Estate,0,0,Email,Yes,20.1,Web Search,0,Yes,12252.24,No
+VLS-00453,38,Premier Retainer,1895.52,Real Estate,4,4,Email,No,7.5,Referral,0,Yes,62867.74,No
+VLS-00454,29,Basic Retainer,814.42,Litigation,3,4,Email,No,8.0,Referral,0,Yes,29882.88,No
+VLS-00455,69,Basic Retainer,952.74,Litigation,4,1,Email,No,26.8,Referral,0,Yes,67597.1,Yes
+VLS-00456,73,Basic Retainer,650.73,Family,1,0,Client Portal,Yes,5.0,Referral,0,Yes,43273.95,Yes
+VLS-00457,63,Signature Retainer,3811.15,Real Estate,3,2,Phone,No,5.0,Referral,0,Yes,396440.05,No
+VLS-00458,2,Premier Retainer,2709.42,Litigation,6,0,Phone,No,8.2,Repeat Client,0,Yes,4703.85,Yes
+VLS-00459,71,Signature Retainer,3879.48,Corporate,2,1,Email,No,4.2,Repeat Client,0,No,313087.36,No
+VLS-00460,33,Premier Retainer,2090.26,Litigation,2,0,Email,No,4.3,Referral,1,No,278998.86,No
+VLS-00461,35,Premier Retainer,2408.42,Corporate,1,3,Email,Yes,26.3,Repeat Client,0,Yes,86037.48,Yes
+VLS-00462,80,Basic Retainer,782.79,Corporate,4,1,Client Portal,No,8.1,Advertisement,0,No,46003.71,No
+VLS-00463,73,Signature Retainer,3833.19,Litigation,2,2,Client Portal,No,12.4,Web Search,0,No,348120.11,No
+VLS-00464,4,Basic Retainer,938.92,Family,5,1,Email,No,3.0,Repeat Client,0,Yes,5290.24,Yes
+VLS-00465,30,Premier Retainer,2084.01,Corporate,2,0,Client Portal,Yes,4.7,Advertisement,0,No,72723.97,No
+VLS-00466,63,Premier Retainer,2090.78,Corporate,0,1,Email,Yes,28.6,Web Search,0,No,142578.6,No
+VLS-00467,45,Premier Retainer,1924.79,Real Estate,7,1,Email,No,4.2,Referral,2,No,168923.62,No
+VLS-00468,21,Signature Retainer,5144.02,Litigation,0,4,Phone,No,12.7,Referral,0,No,199203.49,No
+VLS-00469,44,Basic Retainer,770.17,Corporate,2,0,Email,No,0.5,Repeat Client,0,Yes,32309.33,No
+VLS-00470,73,Premier Retainer,2135.74,Corporate,5,1,Client Portal,No,2.8,Referral,0,No,116073.26,No
+VLS-00471,18,Premier Retainer,2195.4,Family,1,0,Email,No,8.0,Referral,0,Yes,48355.68,No
+VLS-00472,63,Premier Retainer,1864.72,Estate Planning,1,0,Phone,Yes,17.8,Referral,0,Yes,88703.45,No
+VLS-00473,62,Basic Retainer,640.86,Corporate,1,1,Email,No,10.0,Web Search,0,Yes,59564.7,No
+VLS-00474,75,Basic Retainer,936.91,Estate Planning,1,1,Email,No,8.6,Referral,0,Yes,84044.4,Yes
+VLS-00475,25,Basic Retainer,996.0,Estate Planning,2,1,Email,No,15.2,Repeat Client,0,Yes,82469.59,No
+VLS-00476,18,Basic Retainer,844.15,Family,1,3,Client Portal,No,11.5,Web Search,0,No,29798.84,No
+VLS-00477,46,Premier Retainer,2062.49,Litigation,4,2,Phone,No,2.1,Repeat Client,1,Yes,59051.84,No
+VLS-00478,45,Premier Retainer,1916.97,Litigation,1,1,Phone,Yes,9.5,Web Search,0,Yes,68958.72,No
+VLS-00479,34,Premier Retainer,2789.9,Real Estate,1,0,Email,No,6.9,Web Search,0,Yes,41235.07,No
+VLS-00480,66,Premier Retainer,2073.08,Family,2,0,Email,No,8.4,Referral,0,Yes,52166.23,No
+VLS-00481,67,Premier Retainer,2563.57,Litigation,0,0,Email,No,6.7,Referral,0,No,180329.08,No
+VLS-00482,20,Basic Retainer,595.09,Litigation,5,0,Client Portal,No,9.6,Repeat Client,0,No,6875.48,No
+VLS-00483,67,Premier Retainer,2041.31,Litigation,3,4,Email,No,13.0,Advertisement,0,No,286528.45,No
+VLS-00484,19,Basic Retainer,941.78,Estate Planning,1,0,Email,Yes,3.3,Web Search,0,No,30496.93,Yes
+VLS-00485,34,Basic Retainer,634.21,Family,1,1,Phone,Yes,5.7,Repeat Client,0,Yes,20618.23,No
+VLS-00486,2,Premier Retainer,2177.79,Litigation,2,3,Phone,No,14.9,Repeat Client,0,Yes,4528.32,Yes
+VLS-00487,28,Premier Retainer,1703.59,Estate Planning,4,1,Email,No,16.2,Referral,0,No,93483.03,Yes
+VLS-00488,81,Basic Retainer,890.14,Corporate,4,0,Email,No,23.9,Web Search,0,No,156541.77,Yes
+VLS-00489,37,Premier Retainer,1965.88,Corporate,5,0,Email,Yes,10.1,Advertisement,1,No,48926.8,No
+VLS-00490,60,Premier Retainer,2163.16,Family,4,0,Phone,Yes,5.4,Repeat Client,1,No,80929.74,No
+VLS-00491,9,Premier Retainer,2575.8,Litigation,4,1,Email,No,5.8,Referral,0,No,20743.6,No
+VLS-00492,54,Premier Retainer,2166.59,Family,1,0,Phone,No,9.9,Referral,0,Yes,141542.41,No
+VLS-00493,31,Premier Retainer,2515.12,Litigation,2,2,Email,No,4.7,Web Search,0,Yes,62022.31,No
+VLS-00494,63,Basic Retainer,734.63,Corporate,4,1,Client Portal,No,22.8,Referral,0,No,56886.0,No
+VLS-00495,78,Signature Retainer,6244.73,Family,4,2,Client Portal,Yes,6.7,Referral,0,No,1172741.64,No
+VLS-00496,45,Premier Retainer,2292.22,Real Estate,3,1,Email,Yes,20.8,Web Search,0,No,55061.86,No
+VLS-00497,8,Premier Retainer,2588.22,Corporate,5,0,Email,Yes,4.2,Web Search,0,No,17407.63,No
+VLS-00498,40,Premier Retainer,2082.29,Estate Planning,3,1,Email,No,8.4,Referral,1,Yes,44790.73,Yes
+VLS-00499,10,Basic Retainer,699.22,Corporate,3,0,Client Portal,No,7.5,Web Search,0,Yes,4523.83,Yes
+VLS-00500,38,Premier Retainer,2817.07,Estate Planning,3,2,Phone,Yes,2.9,Referral,0,No,95521.26,No
+VLS-00501,5,Premier Retainer,1954.38,Corporate,2,0,Phone,No,7.9,Referral,2,No,7628.5,No
+VLS-00502,54,Signature Retainer,5753.72,Estate Planning,1,2,Email,Yes,11.4,Advertisement,0,No,393367.32,No
+VLS-00503,26,Signature Retainer,3472.81,Real Estate,2,0,Email,Yes,1.2,Repeat Client,0,No,97566.72,No
+VLS-00504,17,Premier Retainer,1870.06,Corporate,3,1,Phone,No,13.8,Referral,0,No,37262.16,Yes
+VLS-00505,1,Premier Retainer,1736.98,Corporate,2,0,Phone,Yes,12.1,Repeat Client,1,Yes,2352.66,No
+VLS-00506,75,Signature Retainer,5794.75,Corporate,3,1,Client Portal,Yes,9.4,Repeat Client,1,Yes,395494.59,No
+VLS-00507,71,Basic Retainer,792.55,Real Estate,4,2,Client Portal,No,15.7,Web Search,1,Yes,48803.22,Yes
+VLS-00508,68,Signature Retainer,5455.48,Litigation,2,3,Phone,Yes,16.4,Repeat Client,0,Yes,333017.07,No
+VLS-00509,4,Premier Retainer,2799.31,Family,0,0,Phone,No,44.4,Referral,0,No,14092.59,Yes
+VLS-00510,29,Basic Retainer,826.17,Family,0,0,Client Portal,No,2.8,Referral,0,Yes,9814.55,Yes
+VLS-00511,82,Basic Retainer,766.25,Real Estate,1,1,Client Portal,Yes,25.0,Repeat Client,1,No,72391.36,Yes
+VLS-00512,49,Signature Retainer,3718.29,Real Estate,5,0,Client Portal,No,18.4,Web Search,1,Yes,123598.25,No
+VLS-00513,10,Basic Retainer,926.53,Litigation,7,1,Client Portal,Yes,12.1,Referral,0,No,9080.16,No
+VLS-00514,11,Basic Retainer,792.01,Family,1,3,Email,No,4.2,Referral,0,Yes,4903.47,Yes
+VLS-00515,22,Basic Retainer,977.42,Litigation,0,2,Phone,No,7.1,Referral,0,No,17798.98,No
+VLS-00516,82,Basic Retainer,886.55,Estate Planning,1,2,Phone,Yes,6.3,Referral,1,Yes,83481.51,No
+VLS-00517,14,Basic Retainer,759.32,Family,1,1,Email,No,8.8,Referral,0,No,13626.98,No
+VLS-00518,76,Premier Retainer,2345.83,Corporate,3,0,Phone,No,15.3,Repeat Client,0,Yes,104182.49,No
+VLS-00519,57,Basic Retainer,737.43,Corporate,0,2,Email,No,22.0,Referral,1,No,51199.1,No
+VLS-00520,78,Signature Retainer,4587.76,Real Estate,0,2,Email,Yes,29.7,Repeat Client,1,No,599027.41,No
+VLS-00521,70,Signature Retainer,5566.87,Family,4,4,Email,Yes,7.1,Referral,0,No,313581.45,No
+VLS-00522,28,Basic Retainer,635.83,Estate Planning,1,1,Phone,No,10.8,Referral,0,No,18601.55,No
+VLS-00523,70,Basic Retainer,887.8,Real Estate,3,0,Phone,No,4.9,Repeat Client,1,Yes,24346.27,Yes
+VLS-00524,14,Premier Retainer,1999.76,Real Estate,0,1,Phone,No,19.0,Referral,2,Yes,18756.48,Yes
+VLS-00525,24,Basic Retainer,803.9,Litigation,1,2,Email,Yes,12.7,Referral,1,Yes,22956.22,No
+VLS-00526,18,Basic Retainer,541.61,Corporate,1,2,Phone,No,8.2,Repeat Client,0,Yes,15382.33,No
+VLS-00527,11,Signature Retainer,5185.3,Litigation,1,2,Email,Yes,2.6,Referral,0,Yes,45161.15,No
+VLS-00528,7,Signature Retainer,3883.63,Corporate,4,1,Email,Yes,10.9,Referral,0,No,90786.61,No
+VLS-00529,15,Premier Retainer,2474.71,Real Estate,0,2,Email,No,11.7,Repeat Client,1,No,43502.95,Yes
+VLS-00530,10,Basic Retainer,780.36,Estate Planning,3,1,Client Portal,No,1.9,Web Search,2,Yes,4610.51,No
+VLS-00531,32,Premier Retainer,2306.31,Litigation,2,3,Email,No,3.4,Web Search,0,No,132501.22,Yes
+VLS-00532,6,Premier Retainer,2689.84,Litigation,2,0,Phone,No,10.7,Referral,0,No,10259.91,No
+VLS-00533,5,Basic Retainer,732.87,Family,1,0,Client Portal,Yes,28.0,Referral,0,Yes,4917.73,No
+VLS-00534,84,Premier Retainer,1635.65,Litigation,2,0,Email,No,20.3,Web Search,0,No,89889.98,Yes
+VLS-00535,7,Basic Retainer,1054.84,Real Estate,2,1,Client Portal,No,8.3,Advertisement,1,No,4275.86,No
+VLS-00536,6,Basic Retainer,628.64,Real Estate,0,2,Email,Yes,7.4,Referral,0,No,7234.0,No
+VLS-00537,2,Premier Retainer,2020.39,Corporate,1,1,Email,No,5.6,Repeat Client,1,No,4167.2,No
+VLS-00538,11,Basic Retainer,662.62,Corporate,4,2,Email,Yes,5.1,Advertisement,2,Yes,16863.37,No
+VLS-00539,44,Basic Retainer,994.3,Real Estate,3,1,Phone,No,7.9,Web Search,0,Yes,27477.96,No
+VLS-00540,70,Signature Retainer,5227.52,Corporate,3,0,Client Portal,No,33.4,Web Search,1,No,180690.1,Yes
+VLS-00541,62,Signature Retainer,3303.75,Litigation,3,1,Phone,Yes,7.4,Web Search,0,Yes,165530.25,No
+VLS-00542,49,Premier Retainer,1961.24,Litigation,3,0,Phone,No,9.6,Advertisement,0,Yes,352692.16,No
+VLS-00543,7,Signature Retainer,4644.02,Estate Planning,3,1,Email,No,3.6,Referral,0,Yes,47439.0,No
+VLS-00544,65,Signature Retainer,5596.57,Corporate,2,0,Client Portal,No,14.1,Repeat Client,0,No,467678.96,No
+VLS-00545,3,Basic Retainer,1026.38,Estate Planning,4,0,Email,No,9.5,Web Search,0,Yes,3248.26,Yes
+VLS-00546,53,Premier Retainer,1507.9,Corporate,1,0,Email,No,7.1,Repeat Client,1,No,64404.05,No
+VLS-00547,34,Basic Retainer,753.15,Family,0,1,Client Portal,Yes,4.4,Repeat Client,2,No,88204.21,Yes
+VLS-00548,74,Basic Retainer,767.83,Litigation,1,2,Email,Yes,5.3,Referral,1,Yes,71187.0,Yes
+VLS-00549,26,Premier Retainer,2418.1,Corporate,1,1,Email,Yes,6.7,Referral,0,Yes,74901.81,No
+VLS-00550,54,Premier Retainer,2018.88,Corporate,1,1,Email,No,7.1,Web Search,2,No,170461.89,No
+VLS-00551,37,Premier Retainer,2321.89,Corporate,3,1,Email,No,4.3,Web Search,1,No,49083.82,No
+VLS-00552,44,Basic Retainer,930.11,Real Estate,6,3,Client Portal,No,8.9,Repeat Client,1,No,28039.89,No
+VLS-00553,79,Basic Retainer,547.48,Litigation,3,0,Email,No,11.1,Referral,0,No,39374.61,Yes
+VLS-00554,60,Signature Retainer,4812.88,Corporate,0,2,Client Portal,Yes,15.9,Web Search,1,Yes,452724.1,No
+VLS-00555,35,Basic Retainer,608.04,Corporate,4,2,Email,No,27.0,Repeat Client,0,No,12853.04,Yes
+VLS-00556,38,Basic Retainer,813.5,Real Estate,3,0,Phone,No,1.9,Repeat Client,1,No,29970.69,Yes
+VLS-00557,59,Basic Retainer,1051.49,Corporate,1,1,Phone,No,12.3,Referral,0,No,57081.35,No
+VLS-00558,29,Premier Retainer,2807.93,Litigation,2,5,Phone,Yes,7.7,Repeat Client,1,No,41550.01,No
+VLS-00559,14,Premier Retainer,1994.03,Estate Planning,1,1,Phone,No,1.4,Referral,0,Yes,21990.95,No
+VLS-00560,39,Premier Retainer,1973.65,Litigation,2,1,Phone,No,5.9,Web Search,0,No,99405.47,Yes
+VLS-00561,5,Basic Retainer,793.36,Estate Planning,2,1,Phone,No,14.8,Referral,0,No,1726.34,Yes
+VLS-00562,14,Basic Retainer,863.12,Real Estate,5,2,Client Portal,No,13.5,Web Search,0,Yes,22968.22,No
+VLS-00563,35,Signature Retainer,4450.74,Litigation,8,2,Email,Yes,10.4,Referral,2,No,192702.48,No
+VLS-00564,67,Premier Retainer,2135.6,Corporate,2,0,Email,Yes,5.4,Referral,0,Yes,167711.43,No
+VLS-00565,66,Premier Retainer,2396.17,Corporate,5,1,Phone,No,22.6,Referral,2,No,158463.6,No
+VLS-00566,22,Premier Retainer,1929.99,Real Estate,1,1,Email,No,3.9,Repeat Client,0,No,25850.2,No
+VLS-00567,35,Premier Retainer,1910.71,Corporate,4,3,Email,No,7.2,Web Search,0,Yes,50596.83,No
+VLS-00568,13,Basic Retainer,997.39,Estate Planning,0,2,Client Portal,No,8.1,Advertisement,0,Yes,15862.48,Yes
+VLS-00569,64,Basic Retainer,1123.9,Litigation,3,3,Email,Yes,9.0,Advertisement,0,No,54634.87,Yes
+VLS-00570,20,Premier Retainer,2417.16,Estate Planning,2,2,Email,No,37.4,Referral,0,Yes,52633.41,No
+VLS-00571,67,Basic Retainer,775.01,Family,1,1,Phone,No,25.6,Referral,2,Yes,35318.24,Yes
+VLS-00572,71,Signature Retainer,5422.54,Real Estate,2,0,Email,No,13.2,Referral,0,No,472488.37,No
+VLS-00573,58,Premier Retainer,2213.59,Litigation,2,2,Email,No,9.5,Web Search,0,Yes,163606.76,No
+VLS-00574,28,Premier Retainer,1486.58,Corporate,2,1,Email,Yes,9.5,Repeat Client,0,No,20348.96,No
+VLS-00575,80,Signature Retainer,5482.33,Real Estate,3,4,Email,No,15.5,Referral,0,Yes,453329.14,Yes
+VLS-00576,58,Premier Retainer,1732.38,Real Estate,3,0,Email,Yes,19.8,Advertisement,1,Yes,52396.79,No
+VLS-00577,54,Signature Retainer,5717.03,Estate Planning,0,0,Client Portal,No,3.8,Repeat Client,1,Yes,132852.16,No
+VLS-00578,72,Premier Retainer,2550.37,Litigation,4,2,Email,No,27.2,Repeat Client,0,No,141409.83,No
+VLS-00579,74,Signature Retainer,5412.04,Corporate,2,1,Email,No,12.8,Referral,2,No,1410223.7,No
+VLS-00580,6,Basic Retainer,847.81,Family,4,0,Phone,No,6.3,Repeat Client,1,Yes,7063.63,No
+VLS-00581,74,Premier Retainer,2220.58,Real Estate,3,1,Email,No,8.6,Web Search,1,Yes,307667.9,No
+VLS-00582,65,Premier Retainer,1871.34,Corporate,1,3,Email,No,13.2,Web Search,0,No,160684.38,No
+VLS-00583,17,Basic Retainer,1086.87,Family,1,2,Email,Yes,13.7,Advertisement,1,No,22047.32,No
+VLS-00584,26,Basic Retainer,652.11,Family,1,1,Email,No,4.4,Referral,1,Yes,26045.51,No
+VLS-00585,63,Signature Retainer,5556.96,Corporate,0,1,Email,Yes,9.2,Repeat Client,1,Yes,262935.41,No
+VLS-00586,18,Premier Retainer,2048.88,Real Estate,1,0,Email,Yes,11.1,Web Search,0,No,46184.8,No
+VLS-00587,38,Basic Retainer,983.59,Corporate,2,2,Client Portal,Yes,20.0,Advertisement,0,No,64782.68,Yes
+VLS-00588,58,Basic Retainer,717.62,Real Estate,1,0,Client Portal,No,21.4,Repeat Client,0,No,57725.54,Yes
+VLS-00589,55,Basic Retainer,863.32,Corporate,4,0,Client Portal,No,3.4,Web Search,0,No,81836.87,Yes
+VLS-00590,77,Basic Retainer,818.46,Litigation,4,2,Email,No,9.9,Referral,0,No,68503.73,No
+VLS-00591,9,Signature Retainer,5313.04,Corporate,3,1,Phone,Yes,6.0,Referral,0,No,102786.13,No
+VLS-00592,25,Premier Retainer,2103.97,Estate Planning,5,2,Phone,No,13.0,Repeat Client,0,No,47638.13,No
+VLS-00593,83,Basic Retainer,725.46,Corporate,1,2,Email,No,36.2,Web Search,0,No,156959.17,Yes
+VLS-00594,48,Premier Retainer,2320.72,Real Estate,3,0,Client Portal,No,18.5,Repeat Client,0,Yes,143960.74,No
+VLS-00595,21,Basic Retainer,722.2,Family,3,0,Phone,No,13.8,Referral,0,No,11709.56,No
+VLS-00596,24,Basic Retainer,885.93,Corporate,1,2,Email,No,16.5,Web Search,0,Yes,12796.2,No
+VLS-00597,28,Premier Retainer,1692.52,Family,3,0,Client Portal,Yes,24.5,Repeat Client,0,No,34760.73,No
+VLS-00598,47,Premier Retainer,1847.72,Litigation,2,3,Email,No,17.4,Advertisement,2,No,56122.37,No
+VLS-00599,24,Signature Retainer,4985.87,Estate Planning,3,4,Email,No,4.0,Referral,1,No,115937.51,No
+VLS-00600,52,Premier Retainer,2181.89,Family,4,2,Email,Yes,28.5,Referral,1,Yes,65918.82,No
+VLS-00601,37,Premier Retainer,2070.05,Corporate,1,2,Email,No,10.6,Repeat Client,0,No,137372.16,No
+VLS-00602,51,Premier Retainer,2271.56,Litigation,3,1,Client Portal,No,12.7,Advertisement,0,Yes,122815.62,No
+VLS-00603,13,Signature Retainer,4862.66,Real Estate,2,0,Phone,No,21.4,Web Search,1,Yes,64945.01,No
+VLS-00604,53,Premier Retainer,1731.15,Corporate,2,1,Email,No,35.1,Web Search,0,No,55137.71,No
+VLS-00605,78,Signature Retainer,4633.92,Litigation,3,1,Phone,Yes,7.1,Referral,0,Yes,257334.74,No
+VLS-00606,11,Signature Retainer,3951.34,Real Estate,5,2,Client Portal,Yes,20.7,Web Search,1,No,17248.5,No
+VLS-00607,27,Signature Retainer,4131.28,Real Estate,2,2,Client Portal,Yes,6.8,Referral,1,No,231595.09,No
+VLS-00608,58,Basic Retainer,979.42,Family,2,1,Client Portal,No,12.0,Referral,1,No,29743.58,Yes
+VLS-00609,52,Premier Retainer,2207.14,Family,2,1,Client Portal,No,2.9,Repeat Client,0,No,61870.47,No
+VLS-00610,57,Premier Retainer,2427.48,Corporate,2,0,Phone,Yes,6.8,Referral,0,Yes,262510.17,No
+VLS-00611,47,Premier Retainer,2246.05,Litigation,4,0,Email,No,11.6,Repeat Client,0,No,125891.65,Yes
+VLS-00612,58,Premier Retainer,2141.73,Corporate,0,1,Client Portal,Yes,14.3,Web Search,0,Yes,132271.78,Yes
+VLS-00613,51,Signature Retainer,4602.59,Litigation,4,2,Email,No,13.8,Referral,0,No,273877.0,No
+VLS-00614,6,Signature Retainer,4969.02,Litigation,2,0,Email,No,19.0,Referral,0,No,46408.77,No
+VLS-00615,63,Basic Retainer,833.13,Litigation,2,1,Email,No,7.6,Referral,0,No,55213.99,No
+VLS-00616,37,Premier Retainer,2071.23,Corporate,4,1,Email,No,9.3,Advertisement,0,No,38192.89,No
+VLS-00617,4,Premier Retainer,1849.54,Corporate,2,0,Phone,No,9.6,Repeat Client,0,No,10356.19,No
+VLS-00618,34,Basic Retainer,859.11,Family,2,0,Client Portal,No,8.0,Advertisement,1,No,36245.18,Yes
+VLS-00619,36,Basic Retainer,924.25,Real Estate,2,0,Email,No,5.0,Advertisement,0,No,56650.44,No
+VLS-00620,7,Basic Retainer,723.69,Estate Planning,2,1,Phone,Yes,10.6,Repeat Client,0,Yes,3792.13,No
+VLS-00621,84,Premier Retainer,2078.4,Family,0,1,Email,No,17.0,Advertisement,1,Yes,125899.36,No
+VLS-00622,18,Premier Retainer,2477.91,Estate Planning,2,2,Phone,Yes,12.5,Web Search,1,No,54677.5,No
+VLS-00623,28,Signature Retainer,5808.57,Corporate,3,1,Email,No,7.3,Advertisement,0,Yes,106316.39,No
+VLS-00624,37,Premier Retainer,2064.29,Family,2,1,Email,No,10.8,Web Search,0,Yes,26444.89,No
+VLS-00625,70,Signature Retainer,4770.74,Corporate,4,1,Phone,Yes,7.0,Referral,1,No,366037.71,No
+VLS-00626,63,Premier Retainer,1833.06,Litigation,4,3,Phone,No,14.6,Advertisement,0,No,173978.67,No
+VLS-00627,65,Signature Retainer,5502.43,Corporate,4,2,Email,Yes,17.4,Advertisement,0,Yes,339113.32,No
+VLS-00628,20,Basic Retainer,946.16,Corporate,0,1,Email,No,17.6,Referral,1,Yes,24212.58,No
+VLS-00629,71,Premier Retainer,1952.33,Litigation,3,1,Email,Yes,8.6,Repeat Client,1,Yes,167675.53,No
+VLS-00630,70,Signature Retainer,5555.52,Real Estate,2,2,Phone,Yes,7.1,Referral,1,Yes,391991.28,No
+VLS-00631,39,Signature Retainer,4637.99,Corporate,2,3,Email,Yes,19.0,Advertisement,0,Yes,193889.2,No
+VLS-00632,46,Signature Retainer,5216.28,Corporate,1,0,Email,Yes,8.1,Repeat Client,1,No,441350.12,No
+VLS-00633,3,Basic Retainer,956.51,Real Estate,1,5,Client Portal,No,10.7,Referral,0,Yes,1809.75,Yes
+VLS-00634,64,Basic Retainer,1188.47,Family,0,2,Phone,No,12.4,Repeat Client,0,No,106696.24,Yes
+VLS-00635,81,Basic Retainer,801.11,Corporate,4,0,Email,No,10.1,Repeat Client,0,No,38243.26,No
+VLS-00636,40,Basic Retainer,790.45,Real Estate,4,2,Phone,Yes,16.0,Advertisement,0,Yes,22987.22,No
+VLS-00637,45,Premier Retainer,2160.26,Corporate,2,3,Email,Yes,3.2,Repeat Client,0,No,167212.08,No
+VLS-00638,42,Premier Retainer,1987.95,Real Estate,0,1,Email,Yes,13.7,Web Search,0,Yes,49151.24,No
+VLS-00639,7,Premier Retainer,2245.59,Family,3,0,Phone,No,5.6,Web Search,0,No,14515.91,No
+VLS-00640,52,Signature Retainer,4629.53,Corporate,2,0,Email,Yes,7.5,Advertisement,0,No,697726.44,No
+VLS-00641,61,Premier Retainer,2256.85,Corporate,3,0,Email,Yes,11.4,Web Search,0,No,219650.23,No
+VLS-00642,78,Signature Retainer,5725.5,Corporate,2,0,Client Portal,No,2.5,Referral,1,Yes,320713.2,No
+VLS-00643,79,Basic Retainer,949.97,Corporate,1,1,Phone,No,9.0,Referral,1,Yes,57944.2,No
+VLS-00644,41,Basic Retainer,956.48,Family,3,0,Client Portal,No,7.9,Referral,0,Yes,36675.11,No
+VLS-00645,81,Premier Retainer,2366.69,Estate Planning,3,3,Client Portal,Yes,9.3,Repeat Client,1,No,347661.25,No
+VLS-00646,44,Signature Retainer,5245.09,Litigation,3,0,Email,Yes,7.6,Repeat Client,0,Yes,147892.45,No
+VLS-00647,54,Basic Retainer,780.44,Family,0,3,Phone,Yes,10.7,Repeat Client,0,No,27597.17,No
+VLS-00648,51,Premier Retainer,2527.07,Real Estate,1,1,Email,Yes,6.8,Referral,0,Yes,179100.77,No
+VLS-00649,84,Premier Retainer,2398.76,Real Estate,1,2,Phone,No,9.8,Web Search,0,Yes,94584.88,No
+VLS-00650,62,Basic Retainer,797.59,Litigation,4,0,Email,No,11.4,Web Search,0,Yes,33307.94,No
+VLS-00651,10,Premier Retainer,1819.73,Corporate,0,0,Email,No,19.4,Referral,0,Yes,17767.99,No
+VLS-00652,6,Signature Retainer,3966.66,Family,3,0,Email,Yes,22.2,Web Search,0,No,24341.5,No
+VLS-00653,34,Premier Retainer,1828.94,Family,2,2,Phone,No,3.5,Referral,0,Yes,34699.23,No
+VLS-00654,43,Basic Retainer,920.35,Corporate,5,1,Email,No,20.4,Repeat Client,0,Yes,46001.38,No
+VLS-00655,56,Signature Retainer,4913.07,Family,1,2,Phone,Yes,5.0,Referral,0,No,354044.76,No
+VLS-00656,40,Basic Retainer,742.41,Estate Planning,2,4,Client Portal,No,9.9,Repeat Client,1,Yes,22454.02,Yes
+VLS-00657,43,Signature Retainer,5953.68,Estate Planning,2,1,Phone,Yes,2.7,Repeat Client,0,No,541771.29,No
+VLS-00658,78,Basic Retainer,796.63,Corporate,1,1,Email,Yes,1.6,Advertisement,0,No,74009.21,No
+VLS-00659,28,Premier Retainer,2077.27,Family,2,0,Email,No,34.9,Referral,1,No,36563.36,No
+VLS-00660,41,Basic Retainer,861.65,Family,3,0,Client Portal,Yes,10.0,Referral,0,Yes,75647.65,No
+VLS-00661,47,Basic Retainer,979.47,Real Estate,2,2,Phone,No,8.6,Repeat Client,1,Yes,36437.71,Yes
+VLS-00662,39,Signature Retainer,4673.14,Real Estate,5,1,Email,Yes,12.3,Referral,1,No,198771.41,No
+VLS-00663,82,Basic Retainer,771.4,Corporate,2,1,Client Portal,No,8.7,Referral,1,No,50992.54,Yes
+VLS-00664,81,Basic Retainer,610.49,Litigation,0,0,Email,No,17.2,Repeat Client,0,Yes,65506.0,Yes
+VLS-00665,43,Basic Retainer,600.84,Estate Planning,1,3,Email,No,11.8,Advertisement,0,Yes,20986.18,No
+VLS-00666,38,Premier Retainer,1964.65,Real Estate,3,2,Email,No,15.5,Advertisement,0,Yes,62616.4,No
+VLS-00667,50,Signature Retainer,5113.4,Litigation,4,1,Email,No,5.6,Referral,0,No,237706.96,No
+VLS-00668,15,Signature Retainer,5182.12,Real Estate,0,1,Email,Yes,3.1,Web Search,2,Yes,62299.64,No
+VLS-00669,36,Basic Retainer,686.28,Family,2,1,Phone,Yes,18.5,Repeat Client,0,No,40594.57,No
+VLS-00670,18,Premier Retainer,1758.5,Corporate,5,2,Email,No,12.6,Referral,1,Yes,18982.59,No
+VLS-00671,12,Basic Retainer,679.29,Real Estate,3,0,Phone,No,4.0,Referral,0,No,8579.06,No
+VLS-00672,8,Premier Retainer,1967.49,Corporate,5,1,Client Portal,Yes,4.0,Referral,0,Yes,16563.27,No
+VLS-00673,49,Signature Retainer,4074.36,Litigation,0,2,Client Portal,No,10.9,Web Search,0,Yes,189480.93,No
+VLS-00674,0,Premier Retainer,1957.65,Family,0,1,Email,Yes,14.7,Referral,0,Yes,188.13,No
+VLS-00675,54,Premier Retainer,1898.45,Family,2,1,Phone,Yes,5.0,Repeat Client,0,Yes,53171.93,No
+VLS-00676,36,Basic Retainer,829.9,Family,1,3,Email,No,25.2,Referral,0,No,38572.56,Yes
+VLS-00677,31,Signature Retainer,5157.5,Estate Planning,3,4,Phone,Yes,15.9,Referral,0,Yes,93326.32,No
+VLS-00678,65,Premier Retainer,2005.26,Corporate,1,5,Email,No,19.3,Repeat Client,0,Yes,104819.47,No
+VLS-00679,45,Basic Retainer,695.45,Corporate,1,4,Phone,Yes,10.7,Repeat Client,1,No,19125.4,No
+VLS-00680,62,Basic Retainer,758.64,Corporate,4,1,Email,No,10.1,Advertisement,1,Yes,40553.76,No
+VLS-00681,60,Basic Retainer,749.37,Real Estate,3,4,Phone,No,3.7,Repeat Client,2,Yes,35295.32,No
+VLS-00682,2,Basic Retainer,792.73,Estate Planning,3,0,Email,No,5.7,Referral,0,Yes,2639.14,Yes
+VLS-00683,18,Basic Retainer,1021.93,Corporate,0,5,Email,No,9.2,Web Search,0,No,20941.5,No
+VLS-00684,48,Premier Retainer,2453.54,Estate Planning,1,2,Phone,Yes,12.9,Referral,0,No,145230.12,No
+VLS-00685,82,Premier Retainer,2159.77,Corporate,3,0,Email,Yes,11.4,Web Search,0,Yes,108657.06,No
+VLS-00686,13,Basic Retainer,936.05,Real Estate,3,0,Phone,Yes,1.9,Advertisement,1,No,17924.6,No
+VLS-00687,8,Premier Retainer,2841.54,Corporate,4,0,Phone,Yes,4.7,Repeat Client,0,Yes,48980.29,No
+VLS-00688,79,Signature Retainer,3824.32,Real Estate,3,1,Phone,Yes,11.9,Referral,1,Yes,447373.84,No
+VLS-00689,82,Premier Retainer,2151.15,Real Estate,5,1,Phone,No,13.1,Referral,1,No,98244.58,No
+VLS-00690,14,Premier Retainer,2012.98,Real Estate,1,2,Phone,No,7.5,Repeat Client,0,No,22699.01,Yes
+VLS-00691,34,Basic Retainer,852.1,Corporate,2,0,Client Portal,Yes,15.1,Web Search,0,No,31985.94,Yes
+VLS-00692,53,Signature Retainer,4362.06,Litigation,0,4,Email,Yes,14.9,Referral,0,Yes,180173.11,No
+VLS-00693,16,Basic Retainer,790.07,Estate Planning,2,1,Phone,No,33.5,Referral,2,Yes,40133.79,No
+VLS-00694,27,Basic Retainer,793.68,Family,2,1,Phone,No,10.1,Referral,0,No,17112.97,Yes
+VLS-00695,33,Signature Retainer,5553.01,Real Estate,1,1,Email,No,7.3,Web Search,1,No,180871.07,Yes
+VLS-00696,54,Premier Retainer,2101.24,Litigation,5,0,Email,No,5.0,Web Search,0,Yes,87508.82,No
+VLS-00697,26,Premier Retainer,2176.95,Corporate,5,0,Email,No,3.3,Web Search,0,Yes,63014.02,No
+VLS-00698,35,Premier Retainer,2230.58,Estate Planning,8,1,Phone,Yes,14.5,Web Search,1,No,147034.85,No
+VLS-00699,24,Premier Retainer,2723.01,Family,5,1,Email,Yes,13.5,Web Search,0,Yes,69762.93,No
+VLS-00700,64,Basic Retainer,892.61,Litigation,3,1,Phone,No,3.7,Referral,2,No,51374.56,Yes
+VLS-00701,13,Basic Retainer,925.94,Corporate,4,2,Phone,No,14.6,Referral,0,No,8142.3,Yes
+VLS-00702,19,Basic Retainer,732.01,Family,1,0,Phone,No,11.1,Referral,1,Yes,23547.95,No
+VLS-00703,21,Basic Retainer,854.74,Real Estate,0,0,Email,No,8.1,Repeat Client,1,No,17415.21,No
+VLS-00704,76,Signature Retainer,5049.73,Real Estate,2,1,Phone,Yes,1.8,Advertisement,0,No,354405.68,No
+VLS-00705,80,Basic Retainer,585.89,Litigation,5,2,Phone,No,13.4,Referral,1,No,16826.54,No
+VLS-00706,42,Premier Retainer,1846.4,Estate Planning,0,1,Email,No,27.4,Web Search,0,No,73494.69,No
+VLS-00707,13,Signature Retainer,4586.87,Corporate,4,0,Email,Yes,5.5,Web Search,0,No,51127.01,No
+VLS-00708,64,Signature Retainer,5112.52,Corporate,4,1,Email,Yes,11.1,Web Search,1,Yes,145068.29,No
+VLS-00709,41,Premier Retainer,2357.71,Family,0,0,Client Portal,No,14.1,Advertisement,1,Yes,150713.56,No
+VLS-00710,72,Premier Retainer,2162.33,Family,2,3,Email,Yes,1.1,Repeat Client,0,No,123121.64,No
+VLS-00711,30,Signature Retainer,4757.94,Real Estate,3,2,Email,No,4.8,Referral,3,Yes,335753.87,No
+VLS-00712,84,Premier Retainer,1628.67,Litigation,4,1,Email,No,2.9,Web Search,0,No,258892.34,No
+VLS-00713,68,Signature Retainer,4808.8,Litigation,5,2,Email,Yes,27.3,Web Search,0,Yes,239011.98,No
+VLS-00714,19,Signature Retainer,5259.77,Corporate,3,1,Email,Yes,1.0,Web Search,0,Yes,186103.75,No
+VLS-00715,61,Signature Retainer,4290.84,Family,2,0,Phone,Yes,8.1,Referral,0,Yes,541322.86,No
+VLS-00716,24,Basic Retainer,877.52,Real Estate,4,1,Email,No,12.0,Web Search,0,No,16702.73,Yes
+VLS-00717,29,Premier Retainer,2331.21,Family,7,0,Client Portal,No,5.5,Referral,0,No,42770.84,No
+VLS-00718,21,Basic Retainer,949.08,Corporate,4,0,Email,Yes,1.2,Advertisement,0,No,8020.97,No
+VLS-00719,57,Premier Retainer,2480.29,Family,0,4,Email,No,8.3,Advertisement,0,Yes,168460.54,No
+VLS-00720,22,Signature Retainer,4828.24,Family,2,1,Phone,Yes,5.4,Referral,0,No,70000.01,No
+VLS-00721,54,Premier Retainer,1842.85,Corporate,2,1,Phone,Yes,12.9,Repeat Client,0,No,120633.91,No
+VLS-00722,49,Premier Retainer,2097.32,Litigation,2,3,Client Portal,No,16.1,Repeat Client,0,Yes,80490.3,No
+VLS-00723,63,Basic Retainer,813.59,Family,1,1,Email,Yes,3.7,Web Search,0,No,37211.39,Yes
+VLS-00724,84,Signature Retainer,4581.41,Real Estate,3,1,Email,Yes,5.8,Repeat Client,1,No,300173.84,No
+VLS-00725,0,Basic Retainer,1086.15,Real Estate,1,3,Phone,Yes,6.1,Repeat Client,1,Yes,1958.01,No
+VLS-00726,84,Basic Retainer,735.44,Estate Planning,3,1,Email,No,15.9,Referral,1,Yes,48051.32,No
+VLS-00727,9,Basic Retainer,878.27,Corporate,2,0,Client Portal,No,10.3,Web Search,2,No,5020.97,No
+VLS-00728,44,Basic Retainer,845.34,Corporate,0,2,Email,Yes,3.8,Web Search,0,Yes,38098.93,No
+VLS-00729,28,Premier Retainer,1582.39,Family,4,2,Email,No,19.3,Web Search,0,No,46423.66,No
+VLS-00730,54,Premier Retainer,1722.36,Family,1,2,Phone,Yes,5.5,Repeat Client,0,No,57738.24,No
+VLS-00731,61,Basic Retainer,836.96,Family,3,0,Phone,No,6.6,Web Search,2,Yes,83737.26,Yes
+VLS-00732,73,Basic Retainer,835.14,Litigation,2,2,Client Portal,Yes,4.6,Referral,0,Yes,58090.6,No
+VLS-00733,34,Basic Retainer,863.92,Corporate,3,0,Client Portal,No,10.8,Web Search,0,No,58212.79,Yes
+VLS-00734,79,Basic Retainer,960.23,Corporate,4,2,Email,No,7.5,Advertisement,0,Yes,84398.1,Yes
+VLS-00735,27,Basic Retainer,1029.11,Family,3,2,Phone,No,23.0,Referral,0,Yes,29063.44,No
+VLS-00736,17,Premier Retainer,2414.41,Litigation,5,0,Client Portal,No,10.4,Referral,0,Yes,33416.05,No
+VLS-00737,32,Basic Retainer,849.71,Litigation,5,0,Email,No,4.8,Referral,1,No,35598.93,No
+VLS-00738,44,Basic Retainer,955.99,Litigation,2,2,Email,No,9.6,Advertisement,1,Yes,43305.05,Yes
+VLS-00739,56,Basic Retainer,758.77,Real Estate,2,2,Client Portal,No,25.1,Referral,0,Yes,63606.36,No
+VLS-00740,70,Premier Retainer,1960.08,Litigation,2,1,Email,No,3.4,Referral,0,No,281813.68,No
+VLS-00741,19,Basic Retainer,949.57,Litigation,1,3,Client Portal,No,13.4,Referral,0,Yes,13671.27,No
+VLS-00742,25,Basic Retainer,750.94,Corporate,4,1,Email,No,1.8,Web Search,0,No,25445.37,No
+VLS-00743,79,Signature Retainer,3690.08,Real Estate,1,1,Client Portal,Yes,22.0,Referral,1,Yes,380249.04,No
+VLS-00744,37,Basic Retainer,991.79,Litigation,3,2,Phone,Yes,6.8,Referral,0,No,46981.43,Yes
+VLS-00745,20,Premier Retainer,1767.36,Family,4,1,Phone,No,4.7,Advertisement,0,Yes,29552.06,Yes
+VLS-00746,83,Premier Retainer,2168.84,Real Estate,2,2,Phone,No,24.2,Referral,0,Yes,150641.53,No
+VLS-00747,38,Basic Retainer,1137.38,Real Estate,4,1,Email,No,9.1,Referral,0,Yes,33675.88,No
+VLS-00748,83,Premier Retainer,1943.28,Real Estate,2,3,Phone,No,9.4,Web Search,0,No,124295.05,Yes
+VLS-00749,78,Signature Retainer,4155.68,Corporate,3,4,Client Portal,No,6.9,Referral,0,No,222955.26,No
+VLS-00750,77,Signature Retainer,5897.74,Litigation,2,0,Client Portal,Yes,7.1,Referral,1,Yes,433550.06,No
+VLS-00751,49,Basic Retainer,834.13,Estate Planning,2,2,Client Portal,No,1.6,Web Search,0,Yes,29138.18,No
+VLS-00752,67,Basic Retainer,564.97,Corporate,2,1,Phone,No,13.2,Referral,0,Yes,46689.27,Yes
+VLS-00753,81,Basic Retainer,778.75,Family,3,1,Phone,No,2.9,Web Search,0,Yes,65345.72,No
+VLS-00754,22,Premier Retainer,1958.75,Corporate,1,1,Phone,No,17.6,Repeat Client,0,Yes,46540.31,No
+VLS-00755,3,Premier Retainer,2321.8,Corporate,3,2,Phone,Yes,4.0,Web Search,1,No,8230.75,No
+VLS-00756,27,Basic Retainer,1010.14,Estate Planning,5,1,Phone,Yes,10.0,Web Search,0,Yes,29053.34,No
+VLS-00757,54,Basic Retainer,921.9,Real Estate,1,2,Email,No,6.0,Repeat Client,0,No,45107.12,Yes
+VLS-00758,46,Signature Retainer,5069.31,Family,3,1,Email,No,6.9,Web Search,0,Yes,331548.29,No
+VLS-00759,6,Basic Retainer,882.36,Corporate,4,1,Phone,No,7.9,Advertisement,0,No,3919.79,No
+VLS-00760,47,Premier Retainer,1751.48,Estate Planning,3,1,Email,Yes,11.9,Web Search,1,Yes,98505.16,No
+VLS-00761,14,Premier Retainer,1828.39,Corporate,4,1,Email,No,23.7,Web Search,1,Yes,15470.82,No
+VLS-00762,42,Basic Retainer,981.13,Litigation,0,1,Email,No,6.7,Repeat Client,0,No,56537.53,No
+VLS-00763,48,Basic Retainer,912.98,Family,1,2,Client Portal,No,1.3,Referral,1,Yes,34713.88,No
+VLS-00764,54,Basic Retainer,1008.3,Corporate,2,1,Client Portal,No,20.5,Repeat Client,1,No,35776.23,Yes
+VLS-00765,35,Signature Retainer,3873.49,Litigation,2,1,Phone,No,14.6,Web Search,0,No,80970.76,No
+VLS-00766,34,Basic Retainer,969.53,Corporate,3,3,Client Portal,No,3.9,Web Search,0,No,18959.0,Yes
+VLS-00767,57,Basic Retainer,1047.82,Litigation,2,1,Client Portal,No,3.3,Web Search,0,No,48694.77,Yes
+VLS-00768,63,Basic Retainer,896.64,Corporate,3,2,Email,No,12.2,Referral,0,Yes,110844.31,Yes
+VLS-00769,68,Basic Retainer,967.68,Litigation,1,1,Email,No,10.8,Referral,0,Yes,50012.65,Yes
+VLS-00770,28,Premier Retainer,2146.22,Litigation,2,2,Email,No,27.5,Repeat Client,0,No,22358.53,No
+VLS-00771,36,Basic Retainer,810.07,Litigation,2,3,Email,No,13.3,Web Search,0,Yes,34973.1,Yes
+VLS-00772,28,Premier Retainer,2390.82,Corporate,0,2,Phone,Yes,5.7,Repeat Client,1,No,41990.65,No
+VLS-00773,44,Premier Retainer,2471.45,Litigation,0,1,Email,Yes,4.7,Referral,0,Yes,157260.16,No
+VLS-00774,10,Signature Retainer,3721.75,Estate Planning,1,2,Client Portal,Yes,9.8,Referral,0,No,32144.86,No
+VLS-00775,36,Basic Retainer,771.81,Corporate,1,1,Phone,No,1.7,Referral,0,Yes,24899.4,No
+VLS-00776,16,Signature Retainer,4721.49,Corporate,5,3,Email,Yes,2.4,Referral,0,Yes,131429.98,No
+VLS-00777,45,Premier Retainer,1900.48,Litigation,2,0,Client Portal,Yes,3.5,Web Search,1,No,113395.86,No
+VLS-00778,72,Basic Retainer,1071.88,Corporate,2,2,Client Portal,No,5.6,Repeat Client,1,No,44037.28,Yes
+VLS-00779,83,Premier Retainer,2381.21,Litigation,4,1,Phone,Yes,9.0,Repeat Client,1,Yes,121892.85,No
+VLS-00780,37,Signature Retainer,5892.83,Litigation,1,1,Phone,No,13.9,Web Search,0,Yes,98531.62,No
+VLS-00781,4,Basic Retainer,878.11,Corporate,2,1,Client Portal,No,21.3,Referral,0,No,11246.84,Yes
+VLS-00782,19,Signature Retainer,4669.27,Real Estate,3,0,Phone,Yes,18.7,Web Search,0,Yes,60517.14,No
+VLS-00783,8,Premier Retainer,1864.76,Real Estate,4,2,Client Portal,Yes,16.8,Web Search,0,No,26371.6,Yes
+VLS-00784,64,Premier Retainer,2647.86,Family,4,2,Email,No,6.7,Advertisement,0,No,133271.88,No
+VLS-00785,83,Signature Retainer,5714.9,Estate Planning,5,1,Phone,Yes,4.8,Web Search,0,Yes,293033.84,No
+VLS-00786,47,Basic Retainer,954.63,Corporate,4,2,Email,No,12.1,Referral,0,Yes,45179.12,No
+VLS-00787,15,Signature Retainer,5046.35,Family,3,2,Email,Yes,12.6,Referral,1,Yes,67045.13,Yes
+VLS-00788,1,Basic Retainer,866.09,Litigation,1,1,Email,No,3.8,Repeat Client,1,Yes,1518.12,Yes
+VLS-00789,82,Signature Retainer,5129.88,Corporate,3,3,Email,No,7.9,Advertisement,0,No,607837.37,No
+VLS-00790,26,Premier Retainer,1759.87,Litigation,2,0,Email,No,4.5,Repeat Client,1,Yes,33994.49,No
+VLS-00791,9,Basic Retainer,773.75,Corporate,1,0,Email,No,2.3,Referral,2,No,2851.58,Yes
+VLS-00792,15,Premier Retainer,2498.54,Real Estate,2,0,Email,No,11.4,Web Search,0,No,22449.89,No
+VLS-00793,21,Basic Retainer,851.43,Corporate,3,0,Client Portal,No,16.6,Referral,0,Yes,6078.01,No
+VLS-00794,55,Basic Retainer,1036.68,Litigation,3,1,Phone,No,25.9,Repeat Client,0,No,49913.0,No
+VLS-00795,75,Basic Retainer,922.18,Litigation,4,0,Phone,No,8.3,Referral,0,Yes,68705.99,Yes
+VLS-00796,23,Basic Retainer,627.51,Litigation,3,1,Email,No,1.9,Advertisement,0,Yes,8918.9,Yes
+VLS-00797,58,Basic Retainer,822.02,Estate Planning,2,0,Client Portal,No,28.9,Referral,0,No,26928.15,Yes
+VLS-00798,5,Basic Retainer,1081.7,Litigation,3,0,Email,No,30.5,Referral,0,Yes,5580.1,Yes
+VLS-00799,0,Premier Retainer,1903.05,Litigation,3,0,Email,No,48.4,Referral,1,Yes,149.63,No
+VLS-00800,4,Premier Retainer,2703.97,Real Estate,0,3,Email,No,36.5,Web Search,1,Yes,10493.69,Yes
+VLS-00801,78,Premier Retainer,2277.4,Estate Planning,2,3,Client Portal,Yes,11.0,Repeat Client,0,Yes,152626.4,No
+VLS-00802,49,Basic Retainer,822.21,Real Estate,0,1,Client Portal,No,9.3,Repeat Client,0,No,45233.37,No
+VLS-00803,68,Signature Retainer,3865.0,Estate Planning,6,1,Phone,Yes,15.5,Web Search,1,No,204851.16,No
+VLS-00804,1,Premier Retainer,1795.2,Corporate,7,1,Phone,Yes,2.7,Web Search,0,No,2882.04,No
+VLS-00805,1,Basic Retainer,615.94,Real Estate,3,3,Phone,No,5.4,Advertisement,0,No,1052.8,No
+VLS-00806,72,Basic Retainer,1096.1,Litigation,1,1,Phone,Yes,8.4,Referral,0,No,77825.51,Yes
+VLS-00807,8,Premier Retainer,1943.33,Corporate,1,3,Email,No,19.2,Repeat Client,0,Yes,16678.22,No
+VLS-00808,13,Basic Retainer,938.71,Corporate,3,2,Email,No,19.7,Advertisement,0,No,11822.6,No
+VLS-00809,44,Premier Retainer,2334.35,Estate Planning,2,0,Client Portal,Yes,8.7,Web Search,0,Yes,243438.45,No
+VLS-00810,51,Signature Retainer,5456.27,Family,7,0,Client Portal,Yes,3.0,Referral,1,Yes,300075.63,No
+VLS-00811,19,Basic Retainer,840.9,Corporate,2,2,Email,No,16.4,Referral,0,No,14624.62,No
+VLS-00812,37,Basic Retainer,801.72,Family,3,2,Email,No,2.8,Referral,0,No,36196.91,Yes
+VLS-00813,57,Signature Retainer,4565.55,Family,2,0,Email,Yes,6.1,Repeat Client,1,No,674158.16,No
+VLS-00814,37,Premier Retainer,2415.79,Real Estate,3,3,Email,No,10.9,Web Search,0,Yes,100747.34,No
+VLS-00815,32,Basic Retainer,990.71,Estate Planning,5,3,Email,No,2.5,Web Search,0,No,11703.23,No
+VLS-00816,6,Signature Retainer,5404.16,Estate Planning,2,3,Phone,Yes,5.1,Web Search,1,Yes,41443.85,No
+VLS-00817,38,Signature Retainer,4230.08,Real Estate,3,2,Email,Yes,18.1,Advertisement,1,Yes,109007.35,No
+VLS-00818,68,Premier Retainer,2078.79,Litigation,2,1,Email,Yes,15.5,Referral,0,No,61002.75,No
+VLS-00819,53,Premier Retainer,2113.4,Family,3,0,Email,Yes,3.4,Referral,0,Yes,241533.67,No
+VLS-00820,75,Basic Retainer,779.54,Litigation,5,1,Phone,No,11.9,Advertisement,0,No,115032.8,No
+VLS-00821,10,Basic Retainer,999.27,Corporate,5,0,Email,No,1.8,Referral,0,No,6892.32,No
+VLS-00822,0,Premier Retainer,2327.51,Corporate,4,2,Email,No,14.4,Referral,0,No,0.0,No
+VLS-00823,46,Basic Retainer,920.49,Estate Planning,3,1,Phone,No,5.5,Web Search,0,Yes,46161.53,No
+VLS-00824,15,Premier Retainer,2139.54,Estate Planning,1,1,Phone,No,8.0,Referral,0,Yes,22492.51,No
+VLS-00825,50,Signature Retainer,4923.93,Family,3,1,Email,Yes,10.0,Repeat Client,0,No,231960.13,No
+VLS-00826,76,Basic Retainer,881.81,Litigation,3,1,Phone,No,3.6,Repeat Client,0,No,49087.01,No
+VLS-00827,28,Premier Retainer,1711.95,Family,3,1,Email,Yes,5.1,Repeat Client,0,No,41498.24,Yes
+VLS-00828,46,Basic Retainer,868.92,Family,1,0,Phone,No,26.5,Repeat Client,0,Yes,21150.41,No
+VLS-00829,57,Signature Retainer,5046.4,Family,1,0,Email,Yes,7.6,Referral,0,Yes,417120.66,No
+VLS-00830,12,Basic Retainer,827.25,Corporate,3,1,Client Portal,No,10.4,Referral,0,No,17110.69,No
+VLS-00831,76,Premier Retainer,1856.11,Real Estate,1,1,Client Portal,No,10.5,Advertisement,1,No,134763.31,No
+VLS-00832,17,Premier Retainer,2170.54,Family,0,3,Phone,Yes,21.7,Referral,0,No,38430.67,No
+VLS-00833,68,Basic Retainer,985.93,Real Estate,2,2,Client Portal,Yes,16.1,Repeat Client,1,Yes,90204.3,Yes
+VLS-00834,56,Premier Retainer,2464.64,Corporate,1,2,Email,No,3.7,Referral,0,Yes,138312.43,No
+VLS-00835,11,Premier Retainer,2584.79,Estate Planning,3,1,Phone,Yes,23.5,Web Search,0,No,62736.07,No
+VLS-00836,61,Premier Retainer,2333.86,Real Estate,3,3,Email,No,29.2,Advertisement,0,No,79417.36,No
+VLS-00837,16,Premier Retainer,2186.19,Estate Planning,0,2,Email,Yes,3.7,Repeat Client,1,Yes,52816.04,Yes
+VLS-00838,50,Signature Retainer,4692.18,Corporate,3,4,Phone,Yes,7.2,Web Search,0,Yes,224121.29,No
+VLS-00839,81,Premier Retainer,2324.64,Real Estate,1,0,Phone,No,8.6,Web Search,0,No,113808.04,No
+VLS-00840,81,Premier Retainer,1899.97,Litigation,2,0,Phone,No,7.4,Referral,1,Yes,422793.66,No
+VLS-00841,74,Basic Retainer,737.51,Family,3,0,Client Portal,No,14.4,Web Search,2,Yes,158474.82,Yes
+VLS-00842,41,Signature Retainer,5083.18,Corporate,4,2,Phone,Yes,8.0,Advertisement,0,No,191360.0,No
+VLS-00843,47,Premier Retainer,2054.03,Corporate,4,1,Client Portal,Yes,6.2,Web Search,0,Yes,119266.34,No
+VLS-00844,25,Premier Retainer,1852.76,Corporate,5,1,Client Portal,No,14.9,Advertisement,0,No,37739.05,Yes
+VLS-00845,78,Basic Retainer,639.15,Family,2,1,Client Portal,No,1.4,Referral,0,Yes,43337.54,Yes
+VLS-00846,40,Signature Retainer,4613.52,Family,2,2,Email,Yes,11.0,Referral,0,No,112085.11,No
+VLS-00847,65,Basic Retainer,929.88,Corporate,1,2,Phone,No,13.3,Repeat Client,0,No,34701.79,No
+VLS-00848,30,Premier Retainer,1725.38,Real Estate,3,2,Phone,No,22.5,Referral,1,No,118765.34,Yes
+VLS-00849,62,Basic Retainer,932.06,Corporate,2,2,Client Portal,No,9.9,Web Search,1,No,57535.17,Yes
+VLS-00850,19,Signature Retainer,4345.66,Family,4,0,Email,No,2.0,Web Search,1,No,83804.92,No
+VLS-00851,62,Basic Retainer,912.43,Litigation,3,1,Email,No,10.3,Repeat Client,1,Yes,39537.31,Yes
+VLS-00852,3,Basic Retainer,903.0,Corporate,2,0,Email,No,1.8,Referral,1,Yes,2962.36,No
+VLS-00853,8,Signature Retainer,5923.84,Corporate,1,1,Email,No,12.3,Referral,1,Yes,24719.33,No
+VLS-00854,29,Signature Retainer,5534.27,Corporate,4,0,Client Portal,Yes,20.0,Repeat Client,0,No,113790.33,No
+VLS-00855,40,Basic Retainer,808.33,Corporate,4,1,Email,No,8.9,Advertisement,0,Yes,18659.61,Yes
+VLS-00856,60,Premier Retainer,2200.06,Family,0,2,Email,Yes,8.0,Web Search,0,Yes,236820.23,No
+VLS-00857,30,Premier Retainer,2155.65,Corporate,4,0,Phone,No,15.9,Referral,0,No,30496.37,No
+VLS-00858,1,Signature Retainer,4267.39,Corporate,3,1,Email,No,12.0,Web Search,0,No,2805.12,No
+VLS-00859,27,Basic Retainer,952.37,Estate Planning,3,2,Email,No,15.1,Repeat Client,0,Yes,9783.99,No
+VLS-00860,37,Premier Retainer,2306.3,Estate Planning,4,2,Phone,Yes,36.0,Advertisement,1,Yes,58232.27,No
+VLS-00861,46,Premier Retainer,2263.83,Corporate,4,3,Phone,No,6.5,Repeat Client,0,No,85497.87,No
+VLS-00862,54,Premier Retainer,2172.79,Family,2,0,Client Portal,Yes,12.9,Repeat Client,1,No,183034.08,No
+VLS-00863,21,Signature Retainer,5197.91,Family,3,1,Phone,Yes,23.7,Web Search,1,No,99892.35,No
+VLS-00864,51,Premier Retainer,2266.98,Litigation,2,2,Client Portal,No,24.0,Web Search,0,Yes,95793.86,No
+VLS-00865,53,Basic Retainer,844.08,Litigation,6,1,Email,No,13.8,Web Search,0,No,51335.13,Yes
+VLS-00866,66,Signature Retainer,4280.12,Corporate,0,2,Phone,No,7.8,Repeat Client,1,Yes,231814.93,No
+VLS-00867,44,Signature Retainer,3970.72,Corporate,4,2,Phone,Yes,15.0,Web Search,1,Yes,517955.14,No
+VLS-00868,68,Signature Retainer,5523.67,Family,3,1,Phone,Yes,15.2,Referral,1,Yes,289044.58,No
+VLS-00869,18,Basic Retainer,786.68,Estate Planning,2,4,Email,No,16.9,Repeat Client,0,Yes,17638.71,No
+VLS-00870,60,Basic Retainer,809.45,Estate Planning,3,1,Email,Yes,3.9,Advertisement,0,No,71320.99,No
+VLS-00871,3,Premier Retainer,2087.2,Corporate,3,1,Email,No,28.7,Repeat Client,2,No,4449.86,No
+VLS-00872,8,Basic Retainer,1112.68,Real Estate,4,0,Client Portal,No,23.8,Web Search,1,No,10027.64,Yes
+VLS-00873,73,Signature Retainer,3607.13,Corporate,4,0,Client Portal,Yes,9.1,Web Search,0,No,210533.7,No
+VLS-00874,40,Basic Retainer,624.45,Litigation,1,0,Email,No,22.3,Advertisement,0,Yes,28327.05,Yes
+VLS-00875,52,Premier Retainer,2223.87,Estate Planning,1,0,Phone,No,8.7,Advertisement,1,No,121830.22,No
+VLS-00876,51,Signature Retainer,5448.8,Family,1,0,Phone,No,25.8,Referral,0,No,261384.3,No
+VLS-00877,59,Basic Retainer,914.97,Corporate,3,2,Phone,No,10.2,Web Search,1,No,32683.24,Yes
+VLS-00878,20,Basic Retainer,631.72,Real Estate,3,2,Email,Yes,4.7,Advertisement,1,Yes,30599.18,Yes
+VLS-00879,15,Premier Retainer,1882.16,Family,1,1,Client Portal,No,33.0,Repeat Client,0,No,36880.28,No
+VLS-00880,3,Premier Retainer,2210.91,Litigation,6,1,Phone,No,16.5,Referral,1,No,3019.44,No
+VLS-00881,73,Premier Retainer,2300.53,Family,2,3,Phone,Yes,8.3,Referral,0,Yes,140320.04,No
+VLS-00882,19,Premier Retainer,1899.1,Estate Planning,3,2,Phone,Yes,27.2,Web Search,0,No,19325.68,No
+VLS-00883,48,Signature Retainer,4623.09,Corporate,4,0,Phone,No,15.1,Referral,1,Yes,312861.82,No
+VLS-00884,38,Premier Retainer,2115.55,Corporate,3,1,Email,No,7.5,Referral,2,Yes,80141.67,No
+VLS-00885,13,Basic Retainer,835.93,Family,1,1,Client Portal,No,27.4,Web Search,0,No,11615.9,Yes
+VLS-00886,35,Basic Retainer,793.63,Corporate,2,3,Email,Yes,16.9,Web Search,0,No,20382.11,Yes
+VLS-00887,7,Basic Retainer,578.95,Family,3,2,Client Portal,Yes,12.2,Web Search,0,No,4862.49,Yes
+VLS-00888,15,Basic Retainer,900.57,Litigation,3,1,Client Portal,No,9.8,Referral,0,No,18576.28,No
+VLS-00889,11,Basic Retainer,800.6,Corporate,0,2,Phone,Yes,4.5,Repeat Client,0,No,16438.19,Yes
+VLS-00890,70,Premier Retainer,1912.92,Corporate,3,6,Phone,Yes,0.8,Web Search,0,Yes,197774.36,No
+VLS-00891,48,Basic Retainer,577.1,Corporate,2,1,Email,Yes,15.8,Advertisement,1,Yes,15150.06,Yes
+VLS-00892,78,Signature Retainer,4651.92,Corporate,5,1,Email,Yes,3.8,Referral,0,No,334591.55,No
+VLS-00893,37,Basic Retainer,959.14,Estate Planning,0,1,Phone,No,4.5,Repeat Client,0,Yes,39756.11,Yes
+VLS-00894,17,Basic Retainer,1036.55,Estate Planning,1,0,Email,No,8.6,Repeat Client,0,No,12553.54,No
+VLS-00895,51,Premier Retainer,1942.05,Corporate,4,0,Email,No,8.7,Referral,0,No,46386.39,No
+VLS-00896,79,Signature Retainer,5086.83,Litigation,0,3,Client Portal,Yes,5.1,Web Search,1,Yes,225553.2,No
+VLS-00897,45,Basic Retainer,1043.72,Litigation,1,0,Email,No,15.8,Advertisement,0,Yes,92758.03,Yes
+VLS-00898,1,Basic Retainer,896.66,Estate Planning,4,1,Email,No,2.1,Web Search,1,Yes,950.1,Yes
+VLS-00899,25,Basic Retainer,855.99,Family,2,3,Email,No,15.5,Advertisement,1,No,21990.56,Yes
+VLS-00900,78,Premier Retainer,1762.52,Family,1,0,Phone,Yes,7.8,Referral,2,No,129240.7,No
+VLS-00901,44,Premier Retainer,2479.73,Family,2,1,Email,Yes,4.8,Web Search,0,No,103263.75,No
+VLS-00902,80,Basic Retainer,1022.66,Litigation,1,2,Phone,No,2.3,Repeat Client,0,No,70893.26,No
+VLS-00903,43,Basic Retainer,1068.71,Litigation,2,0,Email,Yes,11.0,Referral,1,No,66632.11,No
+VLS-00904,1,Premier Retainer,2419.71,Family,4,1,Email,Yes,3.5,Referral,0,Yes,3991.86,Yes
+VLS-00905,74,Signature Retainer,5206.84,Corporate,1,3,Email,Yes,3.0,Referral,0,Yes,291551.42,No
+VLS-00906,64,Premier Retainer,2261.23,Litigation,0,1,Email,No,23.6,Repeat Client,0,Yes,148521.37,No
+VLS-00907,60,Premier Retainer,2691.66,Litigation,0,2,Client Portal,No,2.8,Referral,0,No,91410.14,No
+VLS-00908,82,Basic Retainer,997.36,Family,4,1,Email,No,2.1,Referral,0,Yes,102342.86,No
+VLS-00909,16,Basic Retainer,727.6,Litigation,2,2,Email,No,14.7,Advertisement,0,Yes,9179.66,Yes
+VLS-00910,77,Basic Retainer,876.17,Family,2,2,Email,No,11.6,Advertisement,0,Yes,51137.77,Yes
+VLS-00911,19,Premier Retainer,2043.23,Family,3,0,Email,Yes,6.2,Web Search,0,Yes,49670.34,No
+VLS-00912,82,Signature Retainer,4221.56,Real Estate,2,2,Phone,Yes,4.3,Repeat Client,0,No,290363.94,No
+VLS-00913,16,Signature Retainer,5302.41,Litigation,1,0,Email,Yes,5.3,Referral,1,No,73182.8,No
+VLS-00914,46,Signature Retainer,4879.36,Estate Planning,2,0,Client Portal,No,6.3,Web Search,0,Yes,379852.76,Yes
+VLS-00915,67,Signature Retainer,3920.76,Family,4,0,Email,No,13.6,Web Search,1,No,169425.06,No
+VLS-00916,6,Signature Retainer,4681.09,Family,2,1,Phone,No,11.2,Referral,0,Yes,35814.43,Yes
+VLS-00917,5,Basic Retainer,907.14,Family,1,0,Phone,No,7.2,Repeat Client,0,Yes,7462.44,Yes
+VLS-00918,72,Basic Retainer,614.75,Corporate,1,0,Email,No,7.1,Web Search,0,Yes,74820.65,Yes
+VLS-00919,5,Basic Retainer,911.02,Family,4,2,Phone,No,15.2,Referral,0,No,12306.95,No
+VLS-00920,52,Premier Retainer,3009.53,Corporate,4,2,Client Portal,No,4.8,Referral,0,No,117387.64,No
+VLS-00921,79,Basic Retainer,1145.49,Family,5,2,Phone,No,2.3,Referral,1,No,60817.14,No
+VLS-00922,52,Signature Retainer,5766.9,Corporate,2,3,Client Portal,Yes,21.9,Repeat Client,0,No,434653.12,No
+VLS-00923,40,Premier Retainer,2031.74,Family,5,2,Phone,Yes,7.2,Referral,0,Yes,125370.47,No
+VLS-00924,35,Premier Retainer,2176.56,Litigation,3,0,Email,Yes,30.8,Repeat Client,0,No,53903.51,No
+VLS-00925,54,Basic Retainer,933.19,Corporate,0,0,Client Portal,Yes,6.4,Referral,0,No,62751.65,No
+VLS-00926,48,Basic Retainer,1041.54,Real Estate,4,2,Email,No,9.4,Repeat Client,1,Yes,170792.5,Yes
+VLS-00927,42,Basic Retainer,873.78,Estate Planning,4,2,Phone,No,4.5,Repeat Client,0,Yes,38978.27,No
+VLS-00928,13,Signature Retainer,5973.62,Real Estate,4,0,Phone,No,11.3,Referral,0,Yes,117846.75,No
+VLS-00929,56,Premier Retainer,1980.67,Corporate,0,0,Client Portal,Yes,7.3,Referral,0,Yes,225954.2,No
+VLS-00930,62,Premier Retainer,2211.7,Family,0,1,Client Portal,Yes,8.0,Repeat Client,0,Yes,424347.14,No
+VLS-00931,60,Basic Retainer,840.48,Real Estate,7,0,Email,Yes,10.2,Referral,0,Yes,57144.01,No
+VLS-00932,6,Basic Retainer,899.57,Real Estate,2,2,Phone,No,6.5,Referral,0,No,10234.73,No
+VLS-00933,59,Premier Retainer,2350.68,Corporate,2,3,Email,No,11.1,Repeat Client,0,No,97364.44,No
+VLS-00934,62,Premier Retainer,2065.83,Family,2,0,Phone,No,5.4,Repeat Client,0,No,130041.16,No
+VLS-00935,15,Premier Retainer,2633.02,Real Estate,2,0,Phone,No,10.6,Advertisement,0,No,32986.3,No
+VLS-00936,72,Basic Retainer,743.94,Corporate,2,0,Email,No,1.9,Repeat Client,0,No,22982.74,No
+VLS-00937,44,Signature Retainer,5302.14,Real Estate,0,2,Client Portal,Yes,2.8,Web Search,0,Yes,114843.19,No
+VLS-00938,40,Basic Retainer,724.71,Corporate,8,1,Email,Yes,4.4,Advertisement,0,No,36610.38,No
+VLS-00939,61,Signature Retainer,3966.76,Family,3,0,Phone,Yes,3.3,Referral,0,No,296682.46,No
+VLS-00940,43,Basic Retainer,1014.62,Litigation,3,0,Client Portal,No,3.6,Advertisement,0,No,27083.77,No
+VLS-00941,46,Basic Retainer,1028.4,Corporate,0,1,Phone,No,13.0,Advertisement,0,No,95604.77,No
+VLS-00942,26,Signature Retainer,5143.42,Real Estate,1,1,Phone,Yes,7.4,Web Search,0,Yes,83144.03,No
+VLS-00943,78,Basic Retainer,721.16,Family,3,1,Email,No,6.5,Repeat Client,1,No,62796.35,No
+VLS-00944,82,Premier Retainer,2171.74,Family,0,1,Email,No,11.1,Web Search,0,Yes,148647.55,No
+VLS-00945,11,Premier Retainer,2181.15,Estate Planning,2,1,Email,No,11.7,Web Search,0,Yes,25268.62,No
+VLS-00946,62,Basic Retainer,975.84,Family,3,0,Email,No,6.0,Web Search,0,No,90635.57,Yes
+VLS-00947,1,Premier Retainer,1827.3,Corporate,4,1,Email,Yes,18.4,Referral,0,No,4197.45,No
+VLS-00948,31,Signature Retainer,5395.6,Estate Planning,3,1,Phone,Yes,7.7,Referral,0,Yes,231994.42,No
+VLS-00949,82,Signature Retainer,5308.0,Litigation,2,2,Phone,Yes,13.9,Repeat Client,0,Yes,566551.24,No
+VLS-00950,14,Basic Retainer,838.7,Litigation,0,2,Email,No,5.4,Referral,1,No,7506.29,No
+VLS-00951,32,Premier Retainer,2225.55,Corporate,2,1,Phone,No,10.8,Advertisement,0,Yes,118427.77,No
+VLS-00952,18,Basic Retainer,894.18,Corporate,3,1,Client Portal,No,14.8,Web Search,0,No,9929.83,No
+VLS-00953,61,Basic Retainer,909.83,Real Estate,4,2,Email,Yes,13.6,Repeat Client,1,Yes,53565.03,No
+VLS-00954,39,Basic Retainer,979.27,Corporate,4,0,Phone,No,12.8,Advertisement,2,No,32374.65,Yes
+VLS-00955,50,Signature Retainer,5349.47,Corporate,1,1,Email,No,5.2,Referral,0,Yes,313551.06,No
+VLS-00956,80,Signature Retainer,5054.28,Litigation,4,1,Phone,No,3.2,Referral,0,No,325377.86,No
+VLS-00957,44,Premier Retainer,2059.79,Family,5,2,Phone,No,2.9,Advertisement,1,No,85528.46,No
+VLS-00958,62,Premier Retainer,1917.53,Corporate,0,0,Email,No,6.3,Referral,0,Yes,247252.35,Yes
+VLS-00959,8,Premier Retainer,1867.06,Corporate,3,1,Email,No,5.9,Web Search,0,No,8457.57,Yes
+VLS-00960,18,Premier Retainer,2901.53,Family,2,0,Client Portal,Yes,11.9,Referral,1,No,52763.75,No
+VLS-00961,80,Premier Retainer,2020.96,Real Estate,1,0,Email,No,9.1,Referral,0,Yes,98450.95,No
+VLS-00962,73,Premier Retainer,1662.9,Estate Planning,0,1,Phone,No,2.9,Repeat Client,0,No,165178.06,No
+VLS-00963,55,Basic Retainer,860.75,Corporate,3,2,Phone,No,16.5,Repeat Client,0,No,34694.61,No
+VLS-00964,32,Basic Retainer,1033.32,Corporate,5,1,Email,No,10.4,Advertisement,1,No,34142.16,No
+VLS-00965,16,Signature Retainer,4749.31,Real Estate,3,4,Phone,Yes,4.9,Referral,0,No,43733.74,No
+VLS-00966,72,Premier Retainer,1890.53,Family,4,0,Phone,No,5.6,Repeat Client,1,Yes,242957.51,Yes
+VLS-00967,66,Signature Retainer,4374.14,Real Estate,2,1,Email,No,21.8,Web Search,0,No,297937.74,No
+VLS-00968,20,Basic Retainer,890.22,Estate Planning,3,2,Client Portal,No,3.3,Repeat Client,1,No,19280.2,Yes
+VLS-00969,50,Premier Retainer,2084.53,Real Estate,7,1,Email,No,22.6,Referral,1,Yes,151447.02,No
+VLS-00970,52,Basic Retainer,931.14,Family,0,0,Phone,Yes,7.3,Referral,0,Yes,28595.62,No
+VLS-00971,40,Basic Retainer,741.68,Estate Planning,2,3,Email,No,7.7,Advertisement,0,No,22975.7,No
+VLS-00972,78,Basic Retainer,1130.63,Corporate,3,0,Email,Yes,11.2,Repeat Client,0,No,95336.22,No
+VLS-00973,10,Basic Retainer,911.08,Estate Planning,2,1,Phone,No,2.2,Referral,0,Yes,3352.45,No
+VLS-00974,21,Signature Retainer,3471.45,Real Estate,3,4,Phone,No,10.4,Referral,1,Yes,35674.66,No
+VLS-00975,8,Basic Retainer,942.69,Real Estate,0,3,Email,Yes,14.6,Web Search,0,No,6353.18,No
+VLS-00976,58,Premier Retainer,2264.0,Estate Planning,2,1,Phone,No,6.2,Repeat Client,0,Yes,78656.33,No
+VLS-00977,54,Premier Retainer,2266.44,Real Estate,4,3,Email,No,8.6,Advertisement,0,No,105131.06,No
+VLS-00978,83,Premier Retainer,2302.98,Family,1,0,Email,Yes,31.3,Repeat Client,0,No,242295.92,Yes
+VLS-00979,46,Premier Retainer,1906.54,Corporate,3,3,Phone,No,15.6,Advertisement,0,No,123017.88,No
+VLS-00980,12,Basic Retainer,640.94,Real Estate,2,2,Phone,No,4.1,Repeat Client,0,Yes,18181.59,No
+VLS-00981,38,Signature Retainer,5037.75,Real Estate,1,0,Email,No,5.9,Web Search,0,No,189387.78,No
+VLS-00982,7,Signature Retainer,4930.24,Corporate,2,1,Phone,No,7.1,Referral,0,No,37459.77,Yes
+VLS-00983,57,Premier Retainer,2202.13,Litigation,1,2,Phone,Yes,16.3,Advertisement,0,No,125729.97,No
+VLS-00984,57,Premier Retainer,1837.18,Real Estate,2,1,Client Portal,Yes,4.1,Web Search,0,Yes,122175.66,No
+VLS-00985,72,Basic Retainer,743.05,Family,3,3,Client Portal,No,13.6,Web Search,1,No,64904.53,No
+VLS-00986,28,Signature Retainer,5190.3,Corporate,2,3,Email,Yes,13.7,Referral,1,No,221517.17,No
+VLS-00987,26,Basic Retainer,1010.92,Family,4,1,Email,Yes,9.0,Advertisement,1,No,41425.48,Yes
+VLS-00988,6,Basic Retainer,887.3,Corporate,1,1,Client Portal,No,16.7,Repeat Client,0,Yes,7276.0,No
+VLS-00989,35,Basic Retainer,601.21,Corporate,1,2,Client Portal,No,4.5,Referral,0,Yes,42307.89,No
+VLS-00990,40,Signature Retainer,3863.72,Family,2,1,Email,Yes,18.9,Repeat Client,0,Yes,157078.59,No
+VLS-00991,64,Premier Retainer,1914.11,Corporate,1,2,Email,No,1.8,Referral,1,Yes,93509.24,No
+VLS-00992,64,Premier Retainer,1824.69,Corporate,2,2,Email,No,4.1,Referral,0,No,94990.96,Yes
+VLS-00993,11,Signature Retainer,5251.51,Real Estate,2,1,Client Portal,Yes,1.8,Referral,0,No,56790.38,No
+VLS-00994,24,Basic Retainer,984.98,Family,2,1,Client Portal,Yes,4.7,Web Search,0,No,15315.98,Yes
+VLS-00995,43,Signature Retainer,6238.18,Estate Planning,4,1,Client Portal,Yes,13.9,Referral,1,Yes,204404.05,No
+VLS-00996,28,Premier Retainer,1743.48,Estate Planning,1,1,Email,No,11.5,Advertisement,0,Yes,28793.67,No
+VLS-00997,2,Premier Retainer,2419.26,Real Estate,2,1,Client Portal,Yes,10.3,Advertisement,0,Yes,6712.18,No
+VLS-00998,71,Basic Retainer,779.31,Estate Planning,2,1,Email,No,4.7,Web Search,0,Yes,64940.17,Yes
+VLS-00999,62,Signature Retainer,4854.92,Estate Planning,2,1,Email,No,8.5,Repeat Client,1,No,136790.98,No
+VLS-01000,44,Basic Retainer,1033.47,Family,5,2,Email,Yes,19.1,Repeat Client,0,Yes,35524.96,No
+VLS-01001,26,Basic Retainer,838.58,Litigation,2,2,Phone,No,4.8,Web Search,0,Yes,49698.43,Yes
+VLS-01002,71,Premier Retainer,2306.58,Corporate,2,1,Phone,No,5.0,Referral,0,No,216853.64,No
+VLS-01003,2,Basic Retainer,876.61,Litigation,3,1,Email,Yes,5.2,Referral,0,Yes,2203.29,No
+VLS-01004,37,Basic Retainer,1003.26,Real Estate,4,2,Email,No,9.9,Web Search,0,Yes,27427.7,Yes
+VLS-01005,68,Premier Retainer,2393.0,Corporate,2,1,Client Portal,Yes,13.0,Web Search,1,No,185661.76,No
+VLS-01006,81,Basic Retainer,733.33,Corporate,3,0,Email,No,15.1,Advertisement,0,Yes,59170.02,No
+VLS-01007,21,Signature Retainer,4756.83,Estate Planning,0,1,Email,Yes,7.1,Advertisement,0,No,70810.17,No
+VLS-01008,55,Basic Retainer,720.93,Family,2,0,Email,No,6.6,Web Search,0,No,31758.49,Yes
+VLS-01009,16,Premier Retainer,2111.79,Corporate,1,0,Email,No,5.7,Referral,0,No,26905.05,No
+VLS-01010,9,Premier Retainer,2333.04,Corporate,1,1,Email,No,12.5,Referral,0,Yes,10993.99,No
+VLS-01011,30,Premier Retainer,1571.61,Family,2,2,Phone,No,2.3,Referral,0,Yes,25710.32,No
+VLS-01012,75,Premier Retainer,2358.93,Litigation,2,0,Email,Yes,7.8,Repeat Client,0,No,162591.4,No
+VLS-01013,58,Premier Retainer,2153.14,Litigation,0,0,Email,No,7.9,Advertisement,0,Yes,85639.21,No
+VLS-01014,41,Signature Retainer,5016.3,Family,0,0,Client Portal,Yes,13.8,Web Search,1,Yes,180356.99,No
+VLS-01015,24,Basic Retainer,824.46,Corporate,2,2,Email,Yes,3.0,Advertisement,0,Yes,11066.56,No
+VLS-01016,12,Basic Retainer,957.53,Corporate,2,0,Phone,Yes,14.6,Web Search,1,Yes,16489.71,No
+VLS-01017,23,Premier Retainer,2288.13,Family,0,1,Email,No,12.0,Referral,0,Yes,133469.56,No
+VLS-01018,12,Signature Retainer,6222.64,Litigation,1,2,Client Portal,No,26.8,Referral,1,No,119068.42,No
+VLS-01019,15,Basic Retainer,676.99,Litigation,1,3,Email,Yes,23.6,Referral,1,Yes,18800.66,No
+VLS-01020,58,Premier Retainer,2214.01,Family,7,2,Phone,No,18.2,Referral,1,No,170457.78,No
+VLS-01021,11,Signature Retainer,4083.45,Real Estate,1,3,Phone,No,1.3,Referral,0,Yes,52125.56,No
+VLS-01022,4,Premier Retainer,1803.88,Family,2,1,Phone,Yes,3.2,Advertisement,1,Yes,7932.47,No
+VLS-01023,46,Signature Retainer,4942.24,Real Estate,3,0,Client Portal,Yes,16.7,Referral,0,No,151238.56,No
+VLS-01024,24,Premier Retainer,1650.59,Real Estate,3,1,Email,No,7.7,Referral,0,No,54282.35,No
+VLS-01025,38,Premier Retainer,1886.38,Litigation,2,1,Email,No,23.6,Referral,0,No,95597.03,Yes
+VLS-01026,11,Basic Retainer,633.16,Real Estate,5,2,Client Portal,No,9.2,Referral,0,Yes,5752.07,Yes
+VLS-01027,17,Signature Retainer,4240.24,Estate Planning,4,0,Client Portal,Yes,13.5,Referral,0,Yes,91758.42,No
+VLS-01028,37,Basic Retainer,957.08,Family,1,2,Email,Yes,12.9,Referral,0,No,27452.88,No
+VLS-01029,58,Premier Retainer,2269.48,Corporate,1,0,Phone,No,9.0,Referral,1,Yes,99184.68,No
+VLS-01030,35,Premier Retainer,2307.03,Corporate,2,1,Phone,Yes,16.9,Repeat Client,1,Yes,115371.3,No
+VLS-01031,46,Premier Retainer,1689.62,Real Estate,2,0,Phone,Yes,14.2,Referral,0,Yes,95462.31,No
+VLS-01032,44,Premier Retainer,1805.67,Real Estate,4,1,Client Portal,Yes,3.5,Referral,0,Yes,72593.68,No
+VLS-01033,22,Premier Retainer,1883.03,Real Estate,2,0,Client Portal,No,32.6,Web Search,0,No,35364.14,Yes
+VLS-01034,23,Signature Retainer,4417.1,Litigation,3,2,Email,Yes,3.2,Referral,0,No,111086.53,No
+VLS-01035,36,Premier Retainer,1992.81,Corporate,4,2,Phone,No,5.0,Web Search,1,No,31400.78,No
+VLS-01036,2,Premier Retainer,1691.38,Litigation,3,0,Email,Yes,13.4,Web Search,0,Yes,2890.12,No
+VLS-01037,58,Basic Retainer,771.61,Litigation,5,3,Email,No,11.7,Repeat Client,0,No,25630.35,Yes
+VLS-01038,52,Premier Retainer,1673.38,Family,3,2,Client Portal,Yes,15.0,Repeat Client,0,No,88755.56,No
+VLS-01039,26,Premier Retainer,1853.45,Family,2,1,Phone,No,7.5,Advertisement,0,No,77989.18,No
+VLS-01040,31,Basic Retainer,799.01,Corporate,1,0,Email,Yes,12.3,Referral,0,No,32027.1,No
+VLS-01041,27,Basic Retainer,608.61,Family,1,2,Phone,No,5.3,Web Search,1,No,13422.18,Yes
+VLS-01042,55,Premier Retainer,2125.88,Litigation,3,2,Email,No,9.2,Referral,0,Yes,84957.17,No
+VLS-01043,64,Premier Retainer,1745.82,Estate Planning,8,2,Email,No,21.8,Advertisement,1,No,80675.8,No
+VLS-01044,9,Premier Retainer,2065.26,Real Estate,5,1,Phone,No,3.2,Referral,1,No,45908.41,No
+VLS-01045,35,Basic Retainer,761.73,Family,6,2,Phone,No,17.6,Advertisement,0,No,27248.93,Yes
+VLS-01046,1,Basic Retainer,849.02,Litigation,1,1,Email,No,7.9,Referral,0,No,1816.15,Yes
+VLS-01047,38,Basic Retainer,970.95,Litigation,1,2,Email,No,4.4,Web Search,2,Yes,15238.81,No
+VLS-01048,21,Premier Retainer,2417.57,Family,2,2,Phone,No,4.6,Referral,0,No,29791.44,No
+VLS-01049,28,Signature Retainer,4765.29,Litigation,2,0,Email,No,7.7,Referral,0,Yes,130656.47,No
+VLS-01050,38,Basic Retainer,749.74,Corporate,2,0,Client Portal,No,18.1,Advertisement,0,No,22562.73,No
+VLS-01051,27,Premier Retainer,1709.47,Corporate,1,1,Email,No,12.3,Web Search,0,Yes,48333.47,Yes
+VLS-01052,33,Basic Retainer,1065.46,Corporate,6,0,Client Portal,No,3.0,Referral,0,Yes,37255.12,No
+VLS-01053,65,Basic Retainer,761.01,Corporate,1,1,Email,No,17.0,Referral,0,No,65371.75,Yes
+VLS-01054,68,Basic Retainer,761.2,Estate Planning,2,1,Email,Yes,15.2,Repeat Client,0,No,23696.55,Yes
+VLS-01055,0,Basic Retainer,1049.86,Family,3,1,Email,No,1.8,Web Search,0,No,194.74,Yes
+VLS-01056,32,Premier Retainer,2038.07,Corporate,1,1,Phone,No,4.2,Web Search,0,Yes,62963.32,No
+VLS-01057,71,Signature Retainer,5743.13,Family,2,2,Client Portal,Yes,19.4,Web Search,0,Yes,305456.74,No
+VLS-01058,45,Basic Retainer,877.49,Family,1,2,Phone,No,9.0,Web Search,0,Yes,35519.5,No
+VLS-01059,17,Premier Retainer,2407.43,Family,3,1,Email,Yes,16.9,Web Search,0,Yes,43716.89,No
+VLS-01060,50,Premier Retainer,1974.52,Corporate,1,3,Email,No,0.9,Referral,0,No,70849.49,Yes
+VLS-01061,12,Signature Retainer,6060.69,Real Estate,1,1,Phone,No,0.5,Web Search,1,No,79222.24,No
+VLS-01062,1,Premier Retainer,1927.9,Corporate,3,1,Email,Yes,14.0,Web Search,0,Yes,3250.95,No
+VLS-01063,53,Basic Retainer,778.24,Litigation,4,0,Client Portal,No,5.7,Referral,0,No,42385.79,Yes
+VLS-01064,43,Premier Retainer,2449.05,Corporate,1,2,Email,Yes,14.5,Advertisement,0,Yes,146808.96,No
+VLS-01065,64,Basic Retainer,829.83,Litigation,0,3,Phone,No,17.1,Referral,0,Yes,20574.21,No
+VLS-01066,29,Signature Retainer,5113.7,Litigation,2,0,Client Portal,Yes,5.8,Referral,1,Yes,114452.37,No
+VLS-01067,72,Basic Retainer,1025.9,Corporate,4,0,Email,No,8.4,Repeat Client,0,Yes,110439.12,No
+VLS-01068,35,Premier Retainer,2008.14,Corporate,1,1,Email,Yes,7.1,Repeat Client,1,No,48225.75,No
+VLS-01069,62,Basic Retainer,1040.61,Estate Planning,2,3,Client Portal,Yes,5.7,Referral,0,No,42906.9,Yes
+VLS-01070,8,Premier Retainer,2431.35,Family,3,2,Email,Yes,10.6,Advertisement,0,No,19960.44,No
+VLS-01071,8,Signature Retainer,4536.38,Real Estate,3,0,Phone,Yes,15.9,Referral,0,No,36906.7,No
+VLS-01072,66,Premier Retainer,2228.69,Corporate,2,0,Client Portal,No,5.0,Advertisement,2,No,115344.53,No
+VLS-01073,70,Premier Retainer,1997.15,Corporate,3,3,Email,No,5.0,Web Search,0,No,321161.54,Yes
+VLS-01074,80,Signature Retainer,6544.92,Real Estate,2,1,Client Portal,No,5.8,Advertisement,0,No,595420.67,No
+VLS-01075,27,Signature Retainer,4500.71,Estate Planning,4,1,Email,Yes,13.4,Referral,0,No,82040.93,No
+VLS-01076,1,Basic Retainer,743.82,Corporate,2,4,Phone,Yes,17.0,Referral,0,No,1940.85,No
+VLS-01077,83,Premier Retainer,2243.91,Litigation,4,1,Email,No,7.0,Repeat Client,1,Yes,224898.89,Yes
+VLS-01078,51,Premier Retainer,2196.13,Litigation,1,1,Phone,No,1.4,Referral,0,Yes,73442.82,Yes
+VLS-01079,21,Premier Retainer,2406.26,Corporate,4,0,Email,Yes,3.8,Referral,2,No,132822.88,No
+VLS-01080,64,Basic Retainer,844.48,Family,2,0,Email,No,6.7,Web Search,0,No,65237.52,Yes
+VLS-01081,76,Basic Retainer,861.72,Corporate,1,0,Email,No,4.5,Web Search,1,No,83487.05,Yes
+VLS-01082,24,Signature Retainer,4400.2,Family,3,0,Email,Yes,3.0,Referral,0,No,118682.59,No
+VLS-01083,65,Signature Retainer,3557.54,Real Estate,2,1,Phone,Yes,9.3,Web Search,0,No,383545.04,No
+VLS-01084,66,Signature Retainer,5777.26,Family,2,3,Email,Yes,37.8,Referral,1,No,130791.78,No
+VLS-01085,42,Signature Retainer,5477.77,Corporate,4,1,Email,Yes,4.0,Web Search,0,No,134474.41,No
+VLS-01086,53,Premier Retainer,1935.5,Litigation,0,0,Email,No,10.6,Repeat Client,0,Yes,163803.68,No
+VLS-01087,22,Premier Retainer,2112.36,Real Estate,2,1,Email,No,12.9,Web Search,1,No,91454.37,No
+VLS-01088,78,Premier Retainer,2081.55,Real Estate,3,1,Email,No,13.6,Web Search,0,Yes,93789.14,No
+VLS-01089,83,Premier Retainer,2311.24,Real Estate,3,3,Email,Yes,8.6,Web Search,0,Yes,86084.15,Yes
+VLS-01090,83,Premier Retainer,1792.45,Corporate,3,0,Phone,Yes,3.1,Referral,0,No,161740.02,No
+VLS-01091,62,Basic Retainer,721.79,Litigation,1,2,Phone,No,15.9,Advertisement,1,Yes,55900.02,No
+VLS-01092,3,Premier Retainer,2405.09,Family,0,0,Phone,Yes,2.1,Repeat Client,1,No,9327.58,No
+VLS-01093,31,Basic Retainer,842.76,Family,5,2,Email,No,8.0,Repeat Client,0,Yes,26005.79,No
+VLS-01094,37,Basic Retainer,850.69,Corporate,5,1,Client Portal,No,7.4,Repeat Client,0,No,13508.27,No
+VLS-01095,81,Premier Retainer,2239.9,Real Estate,2,0,Phone,No,3.3,Web Search,0,Yes,153537.08,No
+VLS-01096,46,Premier Retainer,1704.92,Real Estate,1,2,Phone,No,5.8,Web Search,1,No,71217.88,No
+VLS-01097,45,Basic Retainer,998.23,Family,6,1,Email,No,13.3,Referral,0,No,35188.23,No
+VLS-01098,12,Signature Retainer,6492.46,Litigation,2,0,Email,Yes,8.0,Repeat Client,0,No,33798.6,No
+VLS-01099,67,Signature Retainer,3827.33,Litigation,0,1,Email,No,2.5,Web Search,1,No,334134.35,No
+VLS-01100,28,Basic Retainer,1006.97,Corporate,1,0,Email,No,14.6,Referral,1,No,40673.89,Yes
+VLS-01101,7,Basic Retainer,807.2,Litigation,2,2,Phone,No,26.3,Repeat Client,0,No,4153.74,No
+VLS-01102,83,Basic Retainer,822.19,Family,3,1,Email,No,2.8,Web Search,0,No,63250.45,Yes
+VLS-01103,16,Signature Retainer,5820.72,Estate Planning,6,1,Email,Yes,8.5,Repeat Client,0,No,75662.16,No
+VLS-01104,1,Signature Retainer,4849.09,Corporate,7,0,Email,Yes,8.7,Advertisement,1,Yes,4287.59,No
+VLS-01105,6,Basic Retainer,936.36,Family,0,1,Email,Yes,2.7,Repeat Client,0,No,7028.65,No
+VLS-01106,38,Premier Retainer,2462.48,Family,4,3,Email,No,19.8,Web Search,0,Yes,119407.42,No
+VLS-01107,8,Basic Retainer,773.93,Corporate,3,0,Email,No,8.8,Web Search,0,Yes,9958.2,Yes
+VLS-01108,71,Basic Retainer,926.52,Litigation,0,3,Phone,No,16.2,Advertisement,1,Yes,106923.8,Yes
+VLS-01109,43,Signature Retainer,5364.27,Real Estate,1,1,Email,Yes,11.1,Referral,1,Yes,214940.05,No
+VLS-01110,27,Basic Retainer,838.57,Corporate,2,2,Phone,No,19.3,Referral,0,Yes,81350.09,No
+VLS-01111,0,Basic Retainer,723.98,Real Estate,0,2,Client Portal,No,11.0,Repeat Client,0,No,0.0,No
+VLS-01112,40,Premier Retainer,2770.23,Estate Planning,3,0,Client Portal,No,6.3,Repeat Client,0,No,82197.09,No
+VLS-01113,12,Premier Retainer,2400.55,Litigation,0,3,Phone,No,12.7,Repeat Client,0,No,31018.58,No
+VLS-01114,83,Signature Retainer,3646.56,Real Estate,7,3,Email,Yes,4.6,Referral,0,Yes,125485.08,No
+VLS-01115,24,Signature Retainer,5827.66,Family,5,0,Phone,No,13.5,Referral,0,No,141090.07,No
+VLS-01116,40,Basic Retainer,725.61,Corporate,3,1,Client Portal,Yes,4.0,Repeat Client,0,Yes,62799.39,Yes
+VLS-01117,1,Basic Retainer,1038.12,Estate Planning,1,1,Email,No,8.2,Referral,1,Yes,3889.09,No
+VLS-01118,11,Signature Retainer,5350.56,Litigation,4,0,Email,Yes,7.1,Web Search,0,Yes,57073.82,No
+VLS-01119,17,Basic Retainer,829.67,Real Estate,2,3,Phone,No,10.4,Referral,3,No,16800.33,No
+VLS-01120,4,Signature Retainer,4772.76,Estate Planning,2,3,Email,No,21.4,Repeat Client,0,No,25807.68,No
+VLS-01121,61,Premier Retainer,2528.1,Corporate,1,0,Phone,Yes,5.7,Web Search,0,Yes,376886.7,No
+VLS-01122,80,Basic Retainer,1063.25,Litigation,0,1,Email,No,15.6,Referral,1,Yes,55227.8,Yes
+VLS-01123,83,Signature Retainer,5251.58,Corporate,1,1,Email,Yes,19.7,Web Search,0,Yes,1440642.02,No
+VLS-01124,22,Basic Retainer,783.23,Corporate,4,0,Phone,No,15.2,Referral,2,Yes,13557.95,Yes
+VLS-01125,67,Premier Retainer,2125.61,Family,1,2,Phone,Yes,10.4,Advertisement,2,No,85268.18,No
+VLS-01126,42,Premier Retainer,1601.55,Family,2,3,Phone,Yes,10.0,Web Search,1,No,59704.43,No
+VLS-01127,3,Premier Retainer,1546.76,Estate Planning,3,1,Client Portal,Yes,5.4,Web Search,0,No,3782.57,No
+VLS-01128,7,Premier Retainer,2176.52,Family,5,1,Client Portal,No,2.1,Web Search,1,No,17900.49,No
+VLS-01129,46,Premier Retainer,1922.41,Litigation,4,2,Email,No,9.1,Referral,0,Yes,42142.31,Yes
+VLS-01130,36,Signature Retainer,4264.15,Litigation,3,2,Client Portal,No,20.9,Referral,1,No,163920.64,No
+VLS-01131,0,Signature Retainer,4394.39,Litigation,1,0,Email,No,22.8,Repeat Client,0,No,42.94,No
+VLS-01132,79,Premier Retainer,1825.63,Estate Planning,6,1,Email,No,2.6,Web Search,0,Yes,280234.13,No
+VLS-01133,62,Basic Retainer,887.86,Family,3,2,Client Portal,No,22.3,Web Search,0,No,74344.58,Yes
+VLS-01134,42,Premier Retainer,2081.18,Family,1,0,Email,Yes,13.1,Referral,0,No,167108.18,No
+VLS-01135,83,Signature Retainer,4475.59,Corporate,3,2,Client Portal,Yes,12.1,Repeat Client,0,No,284027.96,Yes
+VLS-01136,82,Basic Retainer,1161.05,Corporate,3,0,Email,No,20.8,Advertisement,1,No,113683.7,No
+VLS-01137,82,Premier Retainer,2284.68,Estate Planning,1,3,Email,No,17.0,Referral,0,No,68643.05,No
+VLS-01138,22,Premier Retainer,1664.17,Family,3,3,Email,No,3.9,Web Search,0,No,35319.13,Yes
+VLS-01139,74,Basic Retainer,712.54,Family,2,2,Phone,No,4.9,Web Search,0,No,62942.54,No
+VLS-01140,42,Premier Retainer,1965.34,Corporate,1,0,Client Portal,No,1.9,Advertisement,0,Yes,102040.06,Yes
+VLS-01141,61,Basic Retainer,603.28,Real Estate,2,1,Email,No,11.7,Repeat Client,0,No,17644.87,No
+VLS-01142,73,Signature Retainer,3503.09,Litigation,4,3,Email,No,4.3,Advertisement,0,No,214696.48,No
+VLS-01143,13,Signature Retainer,5403.23,Family,2,0,Email,Yes,6.2,Repeat Client,0,No,64533.99,No
+VLS-01144,38,Signature Retainer,5634.12,Litigation,4,2,Email,Yes,19.2,Web Search,0,No,177606.7,No
+VLS-01145,10,Premier Retainer,2552.96,Real Estate,1,1,Phone,Yes,12.8,Referral,0,Yes,36813.37,No
+VLS-01146,23,Basic Retainer,1017.26,Litigation,1,0,Phone,No,13.0,Web Search,0,Yes,21133.54,Yes
+VLS-01147,35,Premier Retainer,1777.41,Corporate,2,2,Email,No,32.2,Advertisement,0,No,65272.56,No
+VLS-01148,72,Signature Retainer,4309.06,Real Estate,3,2,Email,No,0.5,Referral,0,No,248975.26,No
+VLS-01149,73,Premier Retainer,2360.93,Corporate,2,1,Phone,No,4.5,Web Search,0,No,279081.74,No
+VLS-01150,33,Signature Retainer,5043.74,Family,1,1,Email,Yes,7.1,Referral,1,No,279161.63,No
+VLS-01151,27,Basic Retainer,742.51,Litigation,7,1,Email,No,4.8,Referral,0,Yes,17275.1,Yes
+VLS-01152,45,Signature Retainer,4614.12,Real Estate,2,2,Phone,No,16.1,Repeat Client,0,No,749040.23,No
+VLS-01153,77,Basic Retainer,847.31,Corporate,2,2,Email,No,7.7,Referral,0,Yes,47054.41,Yes
+VLS-01154,83,Basic Retainer,773.83,Litigation,2,1,Email,No,3.6,Repeat Client,0,No,99958.79,Yes
+VLS-01155,19,Premier Retainer,1954.58,Corporate,1,2,Email,No,11.0,Referral,0,No,24707.26,No
+VLS-01156,15,Basic Retainer,884.86,Real Estate,3,2,Phone,No,12.3,Advertisement,0,Yes,19396.82,No
+VLS-01157,60,Basic Retainer,726.43,Estate Planning,3,2,Email,No,3.8,Repeat Client,0,No,59612.34,Yes
+VLS-01158,25,Basic Retainer,826.61,Real Estate,3,2,Client Portal,No,8.0,Advertisement,0,No,13536.89,No
+VLS-01159,16,Premier Retainer,2263.74,Litigation,1,0,Email,Yes,12.5,Repeat Client,1,No,35278.54,No
+VLS-01160,2,Premier Retainer,2429.2,Real Estate,5,0,Email,No,19.9,Referral,0,Yes,10705.26,No
+VLS-01161,34,Basic Retainer,908.48,Litigation,2,2,Phone,No,5.2,Referral,1,No,22150.68,Yes
+VLS-01162,33,Premier Retainer,2322.38,Real Estate,0,0,Email,No,13.5,Advertisement,0,No,91963.87,No
+VLS-01163,47,Signature Retainer,5029.79,Litigation,5,2,Email,Yes,5.9,Advertisement,0,Yes,276114.86,No
+VLS-01164,17,Basic Retainer,718.92,Corporate,3,0,Email,No,9.6,Advertisement,1,No,12038.51,Yes
+VLS-01165,60,Basic Retainer,758.99,Litigation,2,0,Phone,Yes,4.1,Advertisement,1,Yes,22114.48,No
+VLS-01166,57,Signature Retainer,4360.7,Corporate,4,0,Email,Yes,13.2,Referral,0,No,362829.34,No
+VLS-01167,39,Signature Retainer,4181.6,Estate Planning,2,1,Client Portal,Yes,17.7,Referral,0,Yes,165291.59,No
+VLS-01168,15,Premier Retainer,2372.75,Corporate,3,0,Email,Yes,8.2,Repeat Client,0,No,59753.27,No
+VLS-01169,43,Signature Retainer,5536.45,Corporate,1,1,Email,Yes,7.5,Web Search,1,No,265403.65,No
+VLS-01170,57,Basic Retainer,804.84,Litigation,4,1,Email,No,7.0,Advertisement,0,No,48262.03,No
+VLS-01171,31,Basic Retainer,664.25,Corporate,4,0,Email,No,3.2,Web Search,0,Yes,23690.35,No
+VLS-01172,22,Premier Retainer,1754.52,Family,2,0,Client Portal,No,15.0,Repeat Client,1,Yes,23968.75,No
+VLS-01173,43,Basic Retainer,795.07,Litigation,5,3,Email,No,19.6,Repeat Client,0,No,69534.13,No
+VLS-01174,30,Premier Retainer,2434.1,Corporate,4,3,Client Portal,Yes,5.0,Referral,0,No,63409.56,Yes
+VLS-01175,34,Premier Retainer,1844.19,Corporate,1,4,Email,No,10.5,Repeat Client,0,Yes,52824.75,No
+VLS-01176,29,Premier Retainer,2177.86,Real Estate,5,1,Phone,No,12.9,Referral,0,Yes,113154.06,No
+VLS-01177,25,Premier Retainer,2177.47,Corporate,1,0,Email,No,5.8,Web Search,0,No,60764.62,No
+VLS-01178,60,Basic Retainer,865.44,Corporate,3,1,Phone,No,22.7,Repeat Client,0,Yes,47199.96,Yes
+VLS-01179,39,Basic Retainer,798.06,Corporate,3,1,Email,No,10.7,Referral,0,No,37867.99,Yes
+VLS-01180,39,Basic Retainer,814.72,Family,1,0,Phone,No,2.6,Referral,0,No,41298.76,Yes
+VLS-01181,55,Premier Retainer,2245.54,Family,2,0,Client Portal,No,18.4,Advertisement,0,Yes,116613.75,No
+VLS-01182,30,Basic Retainer,847.41,Corporate,1,1,Phone,No,8.5,Repeat Client,0,Yes,38317.6,No
+VLS-01183,8,Basic Retainer,764.75,Real Estate,1,1,Email,No,6.6,Referral,0,No,3966.36,Yes
+VLS-01184,72,Basic Retainer,939.84,Real Estate,1,3,Phone,Yes,14.2,Advertisement,0,Yes,77738.02,No
+VLS-01185,4,Basic Retainer,1036.68,Corporate,4,0,Email,No,5.9,Web Search,0,No,5665.01,No
+VLS-01186,48,Signature Retainer,4755.29,Family,2,2,Email,Yes,21.8,Web Search,0,Yes,303276.57,No
+VLS-01187,22,Basic Retainer,789.63,Estate Planning,3,2,Email,Yes,18.8,Advertisement,0,No,7120.73,No
+VLS-01188,18,Signature Retainer,6215.48,Real Estate,2,1,Client Portal,Yes,23.7,Web Search,0,No,107685.76,No
+VLS-01189,3,Basic Retainer,913.08,Family,2,0,Email,No,31.1,Advertisement,1,No,1844.7,Yes
+VLS-01190,76,Premier Retainer,2201.09,Family,3,3,Phone,No,12.8,Advertisement,1,Yes,299248.55,No
+VLS-01191,36,Premier Retainer,1846.86,Corporate,0,2,Phone,No,9.1,Repeat Client,1,No,56747.7,No
+VLS-01192,29,Basic Retainer,818.85,Litigation,0,1,Email,No,5.8,Repeat Client,0,No,40925.49,Yes
+VLS-01193,63,Signature Retainer,4832.42,Estate Planning,2,2,Email,Yes,13.7,Referral,1,Yes,177331.99,No
+VLS-01194,3,Signature Retainer,4151.75,Estate Planning,4,0,Phone,Yes,30.5,Advertisement,0,No,15665.75,No
+VLS-01195,47,Signature Retainer,5658.86,Corporate,3,2,Email,No,3.2,Web Search,1,No,267858.22,No
+VLS-01196,42,Basic Retainer,897.51,Family,0,2,Email,No,11.3,Referral,0,Yes,131132.75,Yes
+VLS-01197,47,Basic Retainer,1053.55,Corporate,3,1,Email,No,2.5,Web Search,0,No,83974.39,No
+VLS-01198,10,Premier Retainer,1695.04,Family,3,0,Client Portal,No,2.4,Advertisement,0,Yes,28866.37,No
+VLS-01199,80,Basic Retainer,916.13,Family,4,0,Email,No,20.0,Referral,0,Yes,182114.05,Yes
+VLS-01200,20,Premier Retainer,2361.7,Real Estate,4,2,Email,Yes,17.9,Web Search,0,Yes,54146.98,No
+VLS-01201,57,Premier Retainer,2155.75,Corporate,2,0,Email,No,5.5,Web Search,0,Yes,117943.67,No
+VLS-01202,63,Premier Retainer,2444.81,Estate Planning,3,2,Email,Yes,3.8,Web Search,0,Yes,140843.32,No
+VLS-01203,29,Signature Retainer,5241.56,Corporate,4,2,Client Portal,Yes,24.3,Repeat Client,0,Yes,177622.81,No
+VLS-01204,11,Premier Retainer,2086.58,Corporate,3,1,Phone,Yes,4.0,Referral,0,No,8496.4,No
+VLS-01205,25,Basic Retainer,619.46,Litigation,2,1,Phone,No,3.0,Advertisement,0,No,15064.04,Yes
+VLS-01206,68,Basic Retainer,909.02,Litigation,1,0,Phone,No,4.1,Advertisement,0,Yes,68436.53,No
+VLS-01207,77,Premier Retainer,1678.45,Family,4,0,Email,No,12.1,Web Search,0,No,121154.73,No
+VLS-01208,79,Premier Retainer,2389.84,Real Estate,3,0,Phone,Yes,33.8,Web Search,0,No,96006.51,No
+VLS-01209,19,Basic Retainer,1010.27,Corporate,3,3,Client Portal,No,5.8,Referral,1,No,18402.62,No
+VLS-01210,51,Premier Retainer,1988.89,Corporate,6,1,Phone,Yes,19.8,Referral,0,No,53023.41,No
+VLS-01211,12,Premier Retainer,2202.6,Family,4,1,Phone,No,9.9,Web Search,0,Yes,58854.51,No
+VLS-01212,60,Signature Retainer,5308.81,Family,1,2,Email,Yes,1.4,Referral,0,Yes,285135.0,Yes
+VLS-01213,35,Premier Retainer,1905.76,Real Estate,3,2,Client Portal,No,6.0,Repeat Client,0,Yes,27466.54,No
+VLS-01214,60,Basic Retainer,821.19,Corporate,4,0,Email,No,18.1,Web Search,1,Yes,45340.31,Yes
+VLS-01215,58,Basic Retainer,979.43,Litigation,3,2,Phone,No,17.4,Referral,1,No,85949.38,Yes
+VLS-01216,84,Premier Retainer,2593.29,Litigation,0,1,Email,No,5.3,Referral,2,Yes,235574.1,Yes
+VLS-01217,41,Basic Retainer,760.28,Corporate,2,1,Phone,No,14.9,Repeat Client,0,No,21394.1,Yes
+VLS-01218,29,Premier Retainer,1837.03,Corporate,2,0,Client Portal,No,8.4,Referral,0,No,39337.42,Yes
+VLS-01219,44,Premier Retainer,1998.77,Family,3,1,Phone,Yes,11.8,Advertisement,0,No,78040.26,No
+VLS-01220,13,Basic Retainer,656.88,Litigation,4,1,Email,No,20.5,Referral,0,No,7286.44,Yes
+VLS-01221,9,Basic Retainer,868.35,Real Estate,2,0,Phone,No,5.5,Repeat Client,0,No,4519.42,No
+VLS-01222,44,Basic Retainer,621.66,Litigation,4,2,Client Portal,No,6.8,Web Search,1,No,27734.16,Yes
+VLS-01223,70,Signature Retainer,5633.42,Family,2,1,Phone,Yes,20.8,Web Search,1,No,217630.59,No
+VLS-01224,45,Premier Retainer,2132.23,Corporate,1,1,Client Portal,No,31.6,Web Search,0,Yes,146897.52,Yes
+VLS-01225,66,Basic Retainer,818.83,Real Estate,4,2,Client Portal,No,16.6,Referral,1,Yes,87416.65,Yes
+VLS-01226,15,Signature Retainer,4343.04,Corporate,1,3,Client Portal,Yes,11.3,Advertisement,1,Yes,42897.8,No
+VLS-01227,38,Premier Retainer,1772.35,Litigation,3,2,Email,No,16.5,Referral,0,No,48538.15,No
+VLS-01228,52,Premier Retainer,2199.16,Corporate,0,0,Email,No,5.9,Referral,0,No,94212.99,No
+VLS-01229,29,Signature Retainer,4710.92,Family,1,0,Client Portal,Yes,9.5,Referral,0,Yes,135482.83,No
+VLS-01230,1,Basic Retainer,1017.29,Real Estate,2,1,Client Portal,No,2.4,Web Search,0,Yes,1132.09,Yes
+VLS-01231,6,Basic Retainer,601.73,Real Estate,2,1,Email,Yes,6.0,Repeat Client,2,No,5853.92,Yes
+VLS-01232,78,Premier Retainer,2583.57,Real Estate,1,0,Email,No,12.3,Referral,0,Yes,245280.66,No
+VLS-01233,51,Basic Retainer,683.67,Family,0,1,Email,No,10.5,Repeat Client,1,Yes,69228.99,Yes
+VLS-01234,22,Premier Retainer,1952.86,Estate Planning,0,0,Phone,Yes,0.9,Repeat Client,0,Yes,44287.35,No
+VLS-01235,21,Basic Retainer,715.84,Litigation,4,1,Client Portal,No,7.6,Referral,1,Yes,8537.41,No
+VLS-01236,3,Basic Retainer,841.77,Estate Planning,6,2,Phone,No,10.4,Referral,0,No,1320.07,Yes
+VLS-01237,80,Basic Retainer,802.46,Real Estate,7,0,Email,No,10.7,Referral,0,Yes,133472.67,Yes
+VLS-01238,9,Premier Retainer,2218.54,Real Estate,0,1,Email,No,2.9,Referral,0,Yes,26175.14,No
+VLS-01239,64,Basic Retainer,1031.89,Real Estate,1,0,Client Portal,No,15.1,Advertisement,0,No,72843.37,No
+VLS-01240,20,Basic Retainer,974.07,Family,2,3,Email,No,28.8,Web Search,0,No,24357.3,No
+VLS-01241,28,Signature Retainer,4679.99,Family,3,0,Email,Yes,16.4,Web Search,0,No,141844.56,No
+VLS-01242,23,Basic Retainer,914.39,Real Estate,3,1,Email,Yes,9.5,Advertisement,1,No,26518.19,No
+VLS-01243,70,Basic Retainer,868.93,Corporate,1,0,Client Portal,No,24.7,Referral,1,Yes,50871.75,Yes
+VLS-01244,2,Basic Retainer,901.12,Corporate,2,0,Email,No,6.0,Repeat Client,0,Yes,3361.38,Yes
+VLS-01245,29,Basic Retainer,737.94,Litigation,4,0,Email,No,13.8,Web Search,0,Yes,17281.41,Yes
+VLS-01246,23,Basic Retainer,961.44,Corporate,1,1,Email,No,8.8,Referral,0,Yes,14017.34,No
+VLS-01247,23,Premier Retainer,1400.0,Real Estate,2,1,Client Portal,Yes,24.9,Web Search,1,Yes,16227.51,No
+VLS-01248,16,Basic Retainer,705.43,Real Estate,1,1,Email,No,4.3,Referral,0,No,10473.37,No
+VLS-01249,77,Signature Retainer,3896.48,Corporate,2,3,Email,Yes,4.3,Repeat Client,2,Yes,532026.14,No
+VLS-01250,32,Signature Retainer,4615.49,Estate Planning,3,2,Email,Yes,21.1,Web Search,0,Yes,122426.53,No
+VLS-01251,35,Basic Retainer,958.6,Corporate,5,1,Email,Yes,13.2,Repeat Client,0,No,20017.26,No
+VLS-01252,32,Basic Retainer,1004.2,Estate Planning,1,1,Client Portal,No,22.2,Repeat Client,0,Yes,36538.88,No
+VLS-01253,83,Basic Retainer,877.41,Litigation,5,2,Phone,No,4.6,Web Search,1,No,54589.88,No
+VLS-01254,28,Premier Retainer,2088.32,Corporate,3,2,Email,Yes,5.4,Advertisement,0,Yes,118471.39,No
+VLS-01255,29,Basic Retainer,827.09,Corporate,2,1,Client Portal,No,11.6,Web Search,0,No,38806.02,No
+VLS-01256,27,Signature Retainer,5735.47,Family,1,1,Email,Yes,2.5,Referral,0,No,88075.15,No
+VLS-01257,27,Premier Retainer,2006.09,Family,0,3,Client Portal,No,11.1,Repeat Client,0,No,50855.6,No
+VLS-01258,7,Signature Retainer,4966.14,Corporate,3,2,Email,Yes,6.7,Web Search,0,No,26889.07,No
+VLS-01259,51,Premier Retainer,1854.45,Estate Planning,2,0,Email,No,8.8,Repeat Client,1,Yes,56800.39,No
+VLS-01260,2,Signature Retainer,3857.76,Corporate,3,1,Client Portal,No,15.1,Web Search,1,Yes,8058.87,No
+VLS-01261,19,Basic Retainer,902.04,Litigation,1,2,Client Portal,Yes,15.6,Referral,0,Yes,24944.67,No
+VLS-01262,17,Premier Retainer,2424.44,Corporate,1,2,Phone,No,27.9,Web Search,1,Yes,39248.53,No
+VLS-01263,24,Basic Retainer,500.0,Estate Planning,3,3,Phone,Yes,19.0,Referral,0,No,11431.68,Yes
+VLS-01264,64,Signature Retainer,3710.91,Corporate,1,0,Client Portal,Yes,1.4,Referral,2,Yes,89630.21,No
+VLS-01265,50,Premier Retainer,2002.13,Family,1,1,Phone,No,4.6,Advertisement,0,Yes,74618.32,No
+VLS-01266,84,Signature Retainer,5965.34,Real Estate,0,0,Email,Yes,4.9,Referral,0,No,643087.87,No
+VLS-01267,29,Basic Retainer,889.29,Corporate,1,0,Email,Yes,17.8,Repeat Client,0,Yes,15607.35,No
+VLS-01268,78,Signature Retainer,4736.78,Litigation,4,2,Phone,Yes,25.3,Web Search,0,No,659608.61,No
+VLS-01269,3,Premier Retainer,2046.76,Corporate,2,2,Phone,Yes,3.3,Web Search,0,Yes,6493.86,No
+VLS-01270,42,Premier Retainer,1986.84,Real Estate,1,0,Client Portal,No,18.1,Referral,1,No,90212.74,No
+VLS-01271,67,Signature Retainer,4346.81,Real Estate,4,1,Email,Yes,9.6,Referral,0,Yes,244589.74,No
+VLS-01272,45,Basic Retainer,835.26,Real Estate,3,1,Email,No,8.6,Web Search,1,No,23116.83,No
+VLS-01273,79,Basic Retainer,843.42,Corporate,2,1,Email,No,5.9,Referral,0,No,81647.86,No
+VLS-01274,26,Premier Retainer,1524.96,Corporate,2,1,Client Portal,Yes,7.7,Web Search,0,No,31800.99,No
+VLS-01275,2,Basic Retainer,941.85,Corporate,5,2,Email,Yes,11.1,Web Search,0,No,2571.19,No
+VLS-01276,65,Basic Retainer,840.28,Family,1,2,Client Portal,No,6.4,Referral,0,No,19155.98,Yes
+VLS-01277,5,Basic Retainer,701.77,Corporate,1,0,Email,No,12.7,Web Search,0,Yes,6937.11,Yes
+VLS-01278,65,Basic Retainer,831.62,Estate Planning,0,1,Email,No,8.6,Referral,0,No,54083.67,No
+VLS-01279,62,Signature Retainer,4608.21,Real Estate,2,2,Client Portal,Yes,7.9,Referral,2,No,471007.35,No
+VLS-01280,71,Premier Retainer,1760.4,Real Estate,5,2,Email,No,14.4,Advertisement,0,No,165369.69,No
+VLS-01281,40,Basic Retainer,858.78,Family,5,2,Client Portal,No,11.8,Referral,0,No,56886.99,Yes
+VLS-01282,76,Premier Retainer,2388.33,Corporate,2,4,Email,Yes,1.0,Referral,3,No,141712.65,No
+VLS-01283,14,Premier Retainer,1467.01,Real Estate,3,1,Email,No,13.1,Web Search,0,Yes,11583.85,No
+VLS-01284,36,Premier Retainer,1870.11,Family,3,0,Phone,No,11.4,Web Search,0,Yes,94817.01,No
+VLS-01285,10,Signature Retainer,3765.88,Family,4,1,Client Portal,Yes,19.8,Repeat Client,0,Yes,41395.29,No
+VLS-01286,65,Signature Retainer,5796.17,Family,3,6,Email,Yes,11.7,Repeat Client,0,No,306456.15,No
+VLS-01287,60,Basic Retainer,864.94,Real Estate,4,2,Email,No,7.4,Advertisement,0,No,73237.47,Yes
+VLS-01288,68,Basic Retainer,871.05,Estate Planning,4,0,Phone,No,5.7,Web Search,0,Yes,68642.61,Yes
+VLS-01289,64,Premier Retainer,1980.08,Corporate,1,0,Client Portal,No,2.1,Web Search,0,No,169137.18,No
+VLS-01290,26,Premier Retainer,2623.09,Real Estate,8,1,Client Portal,Yes,9.5,Referral,1,Yes,44143.93,No
+VLS-01291,5,Premier Retainer,2330.58,Corporate,1,2,Client Portal,No,5.0,Repeat Client,1,Yes,18841.57,Yes
+VLS-01292,78,Premier Retainer,1932.85,Family,3,4,Email,No,21.8,Web Search,1,No,151740.61,No
+VLS-01293,41,Premier Retainer,2491.35,Litigation,1,1,Phone,No,9.8,Referral,0,No,166847.58,No
+VLS-01294,8,Basic Retainer,985.12,Corporate,2,0,Client Portal,No,3.9,Web Search,0,Yes,12453.43,No
+VLS-01295,78,Basic Retainer,708.82,Real Estate,0,1,Client Portal,Yes,1.5,Advertisement,0,No,77118.78,No
+VLS-01296,84,Basic Retainer,872.84,Family,2,1,Client Portal,No,2.2,Web Search,2,No,70264.82,No
+VLS-01297,37,Basic Retainer,1017.69,Corporate,1,1,Client Portal,No,12.3,Referral,0,No,51639.01,Yes
+VLS-01298,65,Basic Retainer,624.5,Estate Planning,2,1,Client Portal,No,23.4,Repeat Client,0,No,67665.9,No
+VLS-01299,3,Premier Retainer,1877.85,Family,3,1,Email,Yes,14.1,Referral,0,Yes,8426.47,Yes
+VLS-01300,7,Basic Retainer,873.35,Litigation,1,0,Email,No,8.8,Repeat Client,0,Yes,6711.98,No
+VLS-01301,23,Basic Retainer,773.9,Family,0,0,Client Portal,No,32.0,Web Search,1,Yes,24568.7,Yes
+VLS-01302,55,Premier Retainer,2402.73,Estate Planning,2,0,Phone,Yes,16.3,Repeat Client,0,No,105646.46,No
+VLS-01303,11,Premier Retainer,1692.34,Family,1,4,Email,No,11.8,Repeat Client,0,Yes,38299.81,Yes
+VLS-01304,2,Basic Retainer,801.81,Family,7,0,Email,No,7.2,Web Search,0,No,763.34,Yes
+VLS-01305,56,Signature Retainer,4524.86,Litigation,0,0,Phone,No,24.2,Repeat Client,0,No,258124.57,No
+VLS-01306,65,Signature Retainer,5757.18,Family,2,1,Client Portal,Yes,7.8,Referral,0,No,312889.22,No
+VLS-01307,62,Premier Retainer,2421.98,Family,1,1,Client Portal,No,4.9,Referral,0,Yes,113352.08,No
+VLS-01308,67,Premier Retainer,1978.16,Estate Planning,4,1,Email,No,9.0,Referral,0,No,152317.55,No
+VLS-01309,68,Basic Retainer,732.38,Real Estate,2,1,Email,Yes,10.4,Web Search,0,Yes,30870.13,No
+VLS-01310,51,Signature Retainer,4836.16,Litigation,3,2,Email,Yes,17.2,Referral,0,No,651698.54,No
+VLS-01311,44,Basic Retainer,827.96,Real Estate,2,0,Client Portal,No,4.8,Web Search,0,No,19560.61,Yes
+VLS-01312,72,Signature Retainer,5800.67,Litigation,1,0,Email,No,5.6,Repeat Client,0,Yes,271914.0,No
+VLS-01313,29,Premier Retainer,1791.45,Estate Planning,2,0,Phone,Yes,5.9,Repeat Client,2,No,32786.83,No
+VLS-01314,8,Basic Retainer,1089.36,Real Estate,3,0,Phone,No,8.7,Referral,0,No,10099.43,Yes
+VLS-01315,63,Basic Retainer,685.62,Family,5,0,Phone,No,3.9,Web Search,0,No,68863.14,Yes
+VLS-01316,23,Premier Retainer,2034.86,Corporate,3,4,Phone,Yes,21.6,Referral,1,Yes,61088.8,No
+VLS-01317,83,Premier Retainer,2183.2,Real Estate,4,5,Phone,Yes,2.2,Referral,0,Yes,352849.35,No
+VLS-01318,35,Basic Retainer,697.95,Litigation,2,0,Phone,No,24.7,Repeat Client,1,Yes,16832.11,Yes
+VLS-01319,72,Premier Retainer,1951.58,Family,3,0,Email,Yes,16.1,Repeat Client,0,No,189760.62,No
+VLS-01320,3,Signature Retainer,4979.69,Corporate,3,1,Email,No,4.6,Referral,0,Yes,12748.04,No
+VLS-01321,56,Premier Retainer,2266.19,Family,4,0,Phone,No,8.2,Referral,0,No,140403.35,No
+VLS-01322,38,Premier Retainer,1925.1,Real Estate,1,0,Email,Yes,5.2,Referral,0,No,121605.99,No
+VLS-01323,39,Basic Retainer,680.75,Litigation,3,2,Phone,No,16.3,Web Search,0,Yes,12484.99,No
+VLS-01324,22,Signature Retainer,5397.26,Corporate,2,0,Email,No,23.0,Referral,1,No,291004.56,No
+VLS-01325,82,Basic Retainer,1074.56,Real Estate,2,1,Client Portal,Yes,50.7,Referral,0,Yes,82819.64,Yes
+VLS-01326,33,Signature Retainer,5303.37,Litigation,1,2,Email,No,13.5,Web Search,0,Yes,86049.05,No
+VLS-01327,72,Basic Retainer,789.9,Estate Planning,2,1,Phone,No,2.3,Referral,0,Yes,41642.81,No
+VLS-01328,36,Premier Retainer,2286.11,Corporate,0,3,Email,No,4.3,Repeat Client,0,No,87109.01,No
+VLS-01329,4,Basic Retainer,846.67,Estate Planning,0,3,Phone,No,13.1,Advertisement,1,No,3104.18,Yes
+VLS-01330,74,Basic Retainer,797.64,Real Estate,2,1,Email,No,8.4,Web Search,0,Yes,23847.38,Yes
+VLS-01331,15,Premier Retainer,2232.67,Litigation,1,0,Phone,No,15.9,Web Search,0,Yes,34471.71,No
+VLS-01332,22,Premier Retainer,2081.72,Corporate,1,2,Email,Yes,11.9,Repeat Client,1,Yes,34014.98,No
+VLS-01333,73,Premier Retainer,1967.59,Real Estate,3,5,Phone,Yes,4.7,Referral,0,No,194003.72,No
+VLS-01334,75,Signature Retainer,5236.3,Real Estate,2,0,Phone,Yes,7.5,Repeat Client,0,Yes,243733.47,No
+VLS-01335,77,Signature Retainer,5043.55,Family,3,0,Client Portal,Yes,16.5,Referral,1,No,1075989.47,No
+VLS-01336,36,Signature Retainer,4637.0,Family,1,1,Phone,Yes,12.4,Repeat Client,0,No,211613.78,Yes
+VLS-01337,64,Basic Retainer,727.23,Real Estate,2,1,Phone,Yes,16.1,Referral,1,Yes,51527.29,No
+VLS-01338,27,Premier Retainer,2145.46,Real Estate,0,0,Client Portal,No,3.1,Repeat Client,0,No,76715.89,No
+VLS-01339,62,Signature Retainer,6140.8,Corporate,5,0,Email,No,4.9,Referral,0,No,167702.66,No
+VLS-01340,42,Basic Retainer,819.43,Family,1,1,Phone,No,20.6,Repeat Client,1,No,27541.54,Yes
+VLS-01341,4,Basic Retainer,1169.57,Corporate,4,1,Email,No,3.2,Web Search,1,No,10609.36,No
+VLS-01342,35,Signature Retainer,4165.14,Estate Planning,4,1,Phone,Yes,15.4,Referral,1,No,127645.16,No
+VLS-01343,39,Premier Retainer,2265.08,Estate Planning,1,1,Email,Yes,2.9,Advertisement,0,No,86631.66,No
+VLS-01344,21,Premier Retainer,2718.54,Family,4,0,Email,No,10.3,Referral,0,Yes,46123.55,No
+VLS-01345,31,Signature Retainer,4803.02,Corporate,2,1,Phone,Yes,6.6,Web Search,0,No,289320.49,No
+VLS-01346,42,Premier Retainer,2381.83,Corporate,3,1,Email,No,4.6,Referral,0,Yes,89999.81,No
+VLS-01347,4,Premier Retainer,2392.8,Family,2,0,Email,Yes,10.9,Advertisement,0,Yes,6924.6,No
+VLS-01348,12,Basic Retainer,1030.97,Estate Planning,1,1,Email,Yes,20.0,Repeat Client,0,No,41209.27,No
+VLS-01349,65,Premier Retainer,3026.55,Real Estate,1,1,Client Portal,No,5.5,Web Search,0,Yes,105526.53,No
+VLS-01350,29,Basic Retainer,739.12,Corporate,3,1,Email,No,1.2,Advertisement,0,Yes,20825.21,No
+VLS-01351,51,Signature Retainer,4810.42,Corporate,1,3,Email,Yes,8.6,Repeat Client,0,Yes,169184.31,No
+VLS-01352,48,Signature Retainer,5081.71,Corporate,1,2,Client Portal,Yes,4.6,Advertisement,0,No,178603.99,No
+VLS-01353,46,Basic Retainer,934.18,Litigation,1,0,Client Portal,No,16.7,Referral,0,No,26317.3,Yes
+VLS-01354,35,Basic Retainer,741.9,Real Estate,3,3,Email,No,6.6,Web Search,0,Yes,20769.51,Yes
+VLS-01355,41,Signature Retainer,4499.37,Real Estate,3,3,Phone,No,5.7,Referral,1,No,287649.28,No
+VLS-01356,70,Basic Retainer,619.07,Family,3,1,Email,No,7.2,Web Search,0,No,18320.04,No
+VLS-01357,82,Premier Retainer,2254.79,Estate Planning,1,0,Client Portal,No,20.0,Referral,1,Yes,326072.8,No
+VLS-01358,21,Premier Retainer,2245.39,Family,1,1,Email,No,12.8,Repeat Client,0,No,78232.91,No
+VLS-01359,56,Premier Retainer,2311.2,Litigation,1,2,Email,No,4.0,Web Search,1,Yes,162330.39,Yes
+VLS-01360,82,Basic Retainer,982.54,Estate Planning,3,2,Email,No,3.1,Web Search,0,No,86146.76,Yes
+VLS-01361,0,Premier Retainer,1797.31,Real Estate,3,1,Phone,No,24.5,Referral,2,No,171.73,No
+VLS-01362,66,Basic Retainer,1000.81,Estate Planning,7,1,Email,No,5.6,Referral,0,Yes,125319.19,Yes
+VLS-01363,42,Premier Retainer,1966.83,Corporate,2,1,Phone,No,20.4,Advertisement,0,No,36927.7,No
+VLS-01364,82,Basic Retainer,985.99,Real Estate,4,0,Email,Yes,8.4,Web Search,1,Yes,113399.22,No
+VLS-01365,49,Premier Retainer,1948.15,Corporate,2,1,Phone,No,5.0,Repeat Client,0,No,67764.21,No
+VLS-01366,71,Premier Retainer,2294.28,Family,2,2,Client Portal,Yes,5.3,Web Search,0,Yes,237834.07,No
+VLS-01367,14,Basic Retainer,788.92,Corporate,2,0,Email,No,8.7,Referral,1,No,9163.59,Yes
+VLS-01368,12,Basic Retainer,828.32,Corporate,2,2,Email,Yes,1.2,Advertisement,1,No,14345.07,Yes
+VLS-01369,78,Basic Retainer,947.47,Corporate,2,1,Email,Yes,5.1,Advertisement,0,Yes,38421.68,No
+VLS-01370,44,Basic Retainer,900.89,Family,2,0,Phone,Yes,30.3,Referral,0,No,19418.64,No
+VLS-01371,47,Basic Retainer,798.83,Real Estate,0,1,Email,Yes,36.2,Advertisement,0,Yes,35820.17,No
+VLS-01372,14,Signature Retainer,5020.32,Family,2,0,Phone,Yes,5.6,Referral,0,No,134451.63,No
+VLS-01373,19,Premier Retainer,2047.75,Family,2,2,Email,Yes,14.9,Referral,0,No,50866.74,No
+VLS-01374,69,Signature Retainer,4681.81,Estate Planning,2,0,Phone,Yes,12.6,Referral,0,Yes,410972.16,No
+VLS-01375,25,Signature Retainer,3692.63,Estate Planning,4,1,Phone,Yes,3.5,Web Search,0,Yes,136320.7,No
+VLS-01376,49,Basic Retainer,639.52,Corporate,3,2,Email,No,15.0,Advertisement,1,Yes,26584.33,Yes
+VLS-01377,26,Premier Retainer,2141.47,Family,3,2,Email,No,7.1,Referral,0,No,74020.74,No
+VLS-01378,22,Signature Retainer,4806.69,Real Estate,0,0,Phone,Yes,10.0,Advertisement,0,No,82816.38,Yes
+VLS-01379,14,Premier Retainer,2426.24,Litigation,6,0,Email,No,17.1,Advertisement,0,Yes,29305.47,No
+VLS-01380,79,Premier Retainer,2358.95,Family,2,2,Phone,No,7.5,Web Search,0,Yes,171654.57,Yes
+VLS-01381,79,Premier Retainer,2051.48,Litigation,1,0,Client Portal,Yes,7.4,Referral,1,No,128171.29,No
+VLS-01382,9,Basic Retainer,864.8,Corporate,1,2,Email,No,13.9,Referral,0,Yes,8298.87,No
+VLS-01383,30,Premier Retainer,1899.0,Family,0,2,Email,No,20.8,Referral,2,Yes,51565.07,No
+VLS-01384,47,Signature Retainer,4029.6,Litigation,2,1,Email,Yes,13.4,Repeat Client,0,No,138870.75,No
+VLS-01385,32,Signature Retainer,3585.93,Real Estate,2,0,Email,Yes,7.7,Repeat Client,0,Yes,108571.84,No
+VLS-01386,61,Basic Retainer,990.27,Litigation,3,1,Client Portal,No,19.3,Referral,0,No,65080.45,No
+VLS-01387,22,Premier Retainer,2440.58,Corporate,2,2,Client Portal,Yes,12.2,Web Search,0,Yes,33647.85,Yes
+VLS-01388,5,Basic Retainer,694.31,Corporate,1,1,Email,No,23.7,Referral,0,No,4869.42,No
+VLS-01389,28,Signature Retainer,4895.81,Corporate,0,0,Client Portal,No,27.9,Referral,1,Yes,109085.81,Yes
+VLS-01390,50,Basic Retainer,933.04,Corporate,6,1,Email,No,13.2,Referral,2,Yes,50957.24,No
+VLS-01391,15,Signature Retainer,5141.52,Corporate,2,1,Client Portal,No,22.6,Referral,0,Yes,57332.89,No
+VLS-01392,69,Signature Retainer,5168.69,Real Estate,1,2,Client Portal,No,23.1,Referral,1,No,572748.54,No
+VLS-01393,1,Basic Retainer,893.1,Real Estate,2,2,Email,No,9.0,Referral,1,No,2029.16,Yes
+VLS-01394,5,Basic Retainer,947.52,Real Estate,1,2,Phone,Yes,23.1,Web Search,0,Yes,4884.47,Yes
+VLS-01395,43,Signature Retainer,5197.02,Family,3,1,Phone,No,10.3,Web Search,0,No,283239.96,No
+VLS-01396,43,Basic Retainer,963.36,Corporate,0,3,Email,No,16.0,Web Search,0,Yes,79632.46,Yes
+VLS-01397,25,Premier Retainer,2332.17,Litigation,1,0,Email,Yes,9.6,Referral,1,Yes,38888.29,No
+VLS-01398,21,Signature Retainer,3447.19,Corporate,2,0,Phone,Yes,2.6,Web Search,0,Yes,49718.66,No
+VLS-01399,5,Premier Retainer,1618.12,Estate Planning,3,1,Email,No,33.1,Web Search,0,No,11676.48,Yes
+VLS-01400,56,Basic Retainer,759.72,Corporate,2,3,Email,Yes,15.6,Repeat Client,1,Yes,24585.1,No
+VLS-01401,32,Premier Retainer,2006.05,Real Estate,4,0,Email,No,16.6,Referral,1,Yes,45162.91,No
+VLS-01402,10,Basic Retainer,639.8,Estate Planning,1,2,Phone,No,11.0,Web Search,1,No,5142.91,No
+VLS-01403,33,Signature Retainer,3847.29,Real Estate,2,2,Email,Yes,23.0,Referral,1,No,179067.19,No
+VLS-01404,79,Basic Retainer,780.64,Real Estate,3,1,Email,No,8.9,Referral,1,Yes,44866.25,Yes
+VLS-01405,22,Basic Retainer,965.59,Litigation,3,1,Email,Yes,9.3,Web Search,1,No,19616.47,No
+VLS-01406,76,Basic Retainer,779.54,Corporate,6,0,Email,No,4.0,Advertisement,0,Yes,41301.46,No
+VLS-01407,21,Signature Retainer,6181.47,Litigation,3,0,Phone,Yes,11.9,Repeat Client,2,No,218528.16,No
+VLS-01408,15,Basic Retainer,759.77,Estate Planning,4,2,Email,No,22.2,Web Search,0,Yes,8842.89,No
+VLS-01409,22,Signature Retainer,4066.95,Estate Planning,0,1,Phone,Yes,8.9,Referral,1,No,48035.87,No
+VLS-01410,27,Premier Retainer,2149.65,Family,0,0,Email,No,3.6,Advertisement,1,No,29612.61,No
+VLS-01411,10,Signature Retainer,5227.59,Family,3,1,Phone,No,19.2,Referral,0,Yes,71313.49,No
+VLS-01412,49,Signature Retainer,4319.14,Litigation,0,2,Email,Yes,14.0,Web Search,0,Yes,300397.35,No
+VLS-01413,28,Signature Retainer,4855.77,Real Estate,6,4,Client Portal,Yes,30.6,Repeat Client,1,Yes,240851.9,No
+VLS-01414,61,Signature Retainer,4356.72,Corporate,4,0,Email,Yes,5.3,Web Search,2,No,151781.24,No
+VLS-01415,41,Basic Retainer,613.22,Corporate,1,2,Client Portal,No,15.6,Web Search,1,No,22438.93,No
+VLS-01416,37,Signature Retainer,5193.08,Corporate,3,2,Email,No,3.4,Referral,0,No,573145.99,No
+VLS-01417,40,Premier Retainer,2333.65,Family,2,2,Email,No,9.8,Referral,0,No,82638.15,No
+VLS-01418,13,Premier Retainer,2373.03,Corporate,3,0,Phone,No,11.2,Repeat Client,0,No,23800.87,Yes
+VLS-01419,60,Signature Retainer,4895.74,Corporate,2,4,Email,Yes,2.3,Referral,0,No,292663.53,No
+VLS-01420,8,Signature Retainer,4486.2,Corporate,3,2,Email,Yes,21.1,Referral,0,No,46923.48,No
+VLS-01421,61,Premier Retainer,2185.17,Estate Planning,2,1,Client Portal,No,17.4,Web Search,0,Yes,167410.2,No
+VLS-01422,84,Premier Retainer,2275.57,Corporate,2,2,Phone,Yes,14.0,Referral,0,No,146682.92,Yes
+VLS-01423,64,Premier Retainer,2119.24,Corporate,1,3,Phone,No,3.6,Referral,1,Yes,105161.98,No
+VLS-01424,38,Basic Retainer,1077.84,Family,2,1,Client Portal,No,5.8,Referral,1,Yes,35125.54,Yes
+VLS-01425,26,Basic Retainer,957.34,Corporate,6,2,Email,No,18.8,Web Search,1,Yes,17681.99,No
+VLS-01426,74,Basic Retainer,950.09,Estate Planning,4,2,Email,No,9.7,Web Search,0,Yes,40258.78,Yes
+VLS-01427,21,Basic Retainer,975.8,Estate Planning,2,2,Client Portal,No,8.3,Advertisement,1,No,46925.56,No
+VLS-01428,41,Basic Retainer,924.97,Family,4,1,Email,No,22.6,Referral,1,Yes,31420.04,No
+VLS-01429,65,Premier Retainer,1897.84,Family,0,1,Email,No,10.9,Repeat Client,0,Yes,105732.32,No
+VLS-01430,78,Premier Retainer,2021.62,Family,1,0,Email,Yes,3.9,Referral,0,No,137413.02,No
+VLS-01431,78,Signature Retainer,4064.88,Corporate,1,1,Email,No,18.6,Referral,0,No,305991.31,No
+VLS-01432,7,Premier Retainer,2105.7,Family,1,2,Email,No,3.5,Repeat Client,1,Yes,18508.24,Yes
+VLS-01433,76,Basic Retainer,818.24,Corporate,2,3,Email,Yes,9.8,Repeat Client,0,Yes,52003.2,Yes
+VLS-01434,9,Basic Retainer,828.71,Corporate,2,1,Phone,No,12.0,Referral,0,Yes,12625.55,Yes
+VLS-01435,49,Basic Retainer,794.42,Real Estate,3,0,Phone,No,16.1,Referral,0,No,51089.53,Yes
+VLS-01436,79,Signature Retainer,4987.44,Corporate,2,1,Client Portal,Yes,2.8,Repeat Client,0,Yes,362751.46,No
+VLS-01437,55,Basic Retainer,1192.52,Corporate,0,2,Email,Yes,0.9,Referral,0,No,49764.33,No
+VLS-01438,80,Premier Retainer,2089.6,Real Estate,2,2,Email,No,1.0,Referral,0,Yes,272550.87,No
+VLS-01439,29,Signature Retainer,3951.1,Family,2,2,Phone,No,24.5,Web Search,0,No,107730.26,No
+VLS-01440,26,Signature Retainer,5099.24,Corporate,0,2,Email,Yes,2.3,Repeat Client,1,Yes,76849.54,No
+VLS-01441,27,Basic Retainer,922.27,Corporate,4,2,Email,Yes,28.7,Web Search,0,No,41300.09,No
+VLS-01442,30,Basic Retainer,789.71,Corporate,2,1,Phone,Yes,20.0,Web Search,1,Yes,17857.7,Yes
+VLS-01443,58,Basic Retainer,910.51,Corporate,4,0,Phone,No,4.6,Repeat Client,0,Yes,78427.72,No
+VLS-01444,38,Basic Retainer,718.59,Litigation,3,0,Email,No,1.4,Referral,0,No,9611.05,No
+VLS-01445,62,Basic Retainer,1045.59,Estate Planning,5,1,Phone,No,10.3,Advertisement,1,No,54944.83,Yes
+VLS-01446,35,Premier Retainer,1534.33,Family,2,0,Phone,Yes,6.5,Referral,1,Yes,91106.72,Yes
+VLS-01447,26,Signature Retainer,6638.54,Family,2,2,Client Portal,Yes,22.9,Advertisement,0,No,174067.86,No
+VLS-01448,16,Premier Retainer,1980.75,Litigation,4,0,Email,No,11.9,Web Search,0,Yes,41471.86,No
+VLS-01449,46,Premier Retainer,2116.86,Real Estate,1,3,Phone,No,9.8,Referral,1,No,65575.68,No
+VLS-01450,76,Basic Retainer,764.06,Corporate,0,2,Phone,Yes,8.3,Web Search,0,Yes,69145.78,No
+VLS-01451,73,Signature Retainer,5745.12,Corporate,0,0,Email,Yes,16.0,Repeat Client,1,Yes,420813.52,No
+VLS-01452,21,Premier Retainer,2015.59,Family,2,1,Phone,No,9.2,Web Search,0,Yes,48285.08,No
+VLS-01453,40,Signature Retainer,5302.84,Real Estate,2,0,Phone,Yes,32.4,Referral,1,Yes,531828.87,No
+VLS-01454,59,Signature Retainer,4740.07,Corporate,2,3,Email,Yes,2.3,Referral,0,No,504193.41,No
+VLS-01455,52,Basic Retainer,915.14,Family,2,3,Email,Yes,7.7,Web Search,1,Yes,69776.67,No
+VLS-01456,5,Basic Retainer,988.58,Family,5,1,Email,No,14.5,Advertisement,0,Yes,7660.44,No
+VLS-01457,50,Basic Retainer,900.02,Corporate,3,3,Phone,No,13.2,Web Search,0,No,31066.83,Yes
+VLS-01458,3,Premier Retainer,2025.95,Family,2,2,Email,No,32.3,Referral,0,Yes,6144.04,No
+VLS-01459,9,Signature Retainer,3442.87,Real Estate,1,0,Email,Yes,5.4,Advertisement,0,Yes,16602.83,No
+VLS-01460,55,Basic Retainer,862.28,Real Estate,4,2,Email,No,0.5,Referral,0,No,27015.35,Yes
+VLS-01461,8,Premier Retainer,2246.4,Corporate,0,1,Phone,No,19.0,Referral,0,Yes,11383.22,No
+VLS-01462,28,Premier Retainer,1776.31,Corporate,7,0,Phone,No,11.5,Web Search,0,No,48667.05,No
+VLS-01463,50,Basic Retainer,851.4,Litigation,0,0,Email,Yes,19.1,Web Search,0,No,25523.83,No
+VLS-01464,55,Basic Retainer,842.66,Family,0,0,Phone,No,12.7,Repeat Client,0,Yes,45005.11,Yes
+VLS-01465,37,Premier Retainer,1611.59,Corporate,3,0,Email,No,0.8,Web Search,0,No,54922.44,Yes
+VLS-01466,7,Premier Retainer,1995.55,Corporate,2,1,Email,No,13.3,Referral,1,Yes,8594.48,Yes
+VLS-01467,67,Premier Retainer,2329.23,Litigation,2,0,Phone,Yes,5.4,Repeat Client,0,No,311302.91,No
+VLS-01468,80,Basic Retainer,775.03,Litigation,2,1,Email,No,7.7,Referral,1,No,34231.86,Yes
+VLS-01469,75,Premier Retainer,2606.27,Estate Planning,1,1,Phone,No,9.0,Repeat Client,1,No,323761.91,No
+VLS-01470,63,Basic Retainer,791.57,Real Estate,2,0,Phone,Yes,3.5,Referral,0,No,19260.48,No
+VLS-01471,34,Signature Retainer,3874.4,Family,1,1,Client Portal,Yes,5.2,Repeat Client,0,No,125159.57,No
+VLS-01472,74,Basic Retainer,1042.35,Family,6,0,Email,No,16.8,Repeat Client,0,Yes,45975.76,Yes
+VLS-01473,41,Basic Retainer,835.89,Corporate,6,0,Email,No,16.8,Repeat Client,1,No,26705.16,No
+VLS-01474,11,Premier Retainer,2334.64,Real Estate,1,1,Email,No,2.0,Referral,1,Yes,58502.26,No
+VLS-01475,72,Premier Retainer,1659.52,Real Estate,2,1,Client Portal,No,11.6,Repeat Client,1,No,102186.09,No
+VLS-01476,27,Premier Retainer,2030.29,Corporate,4,0,Phone,No,18.0,Advertisement,1,No,33374.85,No
+VLS-01477,79,Premier Retainer,2176.99,Estate Planning,1,1,Phone,No,10.8,Referral,0,Yes,215070.19,Yes
+VLS-01478,31,Signature Retainer,5697.95,Family,2,0,Phone,No,12.1,Web Search,1,Yes,150104.74,No
+VLS-01479,73,Premier Retainer,2153.28,Corporate,0,1,Email,No,2.2,Web Search,1,No,169051.44,No
+VLS-01480,45,Premier Retainer,2261.79,Family,5,1,Phone,No,22.3,Repeat Client,0,No,67548.67,No
+VLS-01481,39,Premier Retainer,1824.89,Estate Planning,3,2,Client Portal,No,3.8,Advertisement,0,No,48680.28,No
+VLS-01482,25,Basic Retainer,747.85,Estate Planning,1,0,Email,No,7.4,Web Search,0,Yes,12752.98,No
+VLS-01483,71,Premier Retainer,2119.48,Real Estate,3,2,Client Portal,No,18.2,Web Search,0,No,215304.12,No
+VLS-01484,5,Basic Retainer,782.88,Estate Planning,5,1,Client Portal,Yes,27.5,Referral,0,Yes,4489.08,No
+VLS-01485,39,Premier Retainer,2226.1,Estate Planning,5,1,Client Portal,No,7.9,Web Search,1,No,54934.65,No
+VLS-01486,31,Basic Retainer,993.05,Litigation,1,1,Client Portal,Yes,37.6,Advertisement,0,Yes,33874.0,No
+VLS-01487,46,Signature Retainer,4247.17,Litigation,1,1,Email,No,11.1,Web Search,0,No,203389.47,No
+VLS-01488,21,Premier Retainer,2347.7,Family,5,4,Phone,No,10.2,Advertisement,0,No,64283.05,No
+VLS-01489,56,Signature Retainer,4310.52,Litigation,4,1,Email,Yes,4.3,Web Search,0,Yes,194937.45,No
+VLS-01490,32,Premier Retainer,1858.28,Real Estate,2,2,Phone,Yes,7.5,Referral,0,No,58799.15,Yes
+VLS-01491,15,Basic Retainer,937.83,Litigation,0,3,Email,No,11.8,Advertisement,2,Yes,17852.48,No
+VLS-01492,16,Signature Retainer,4684.04,Corporate,1,1,Client Portal,Yes,14.6,Referral,1,Yes,48750.75,No
+VLS-01493,59,Premier Retainer,1996.45,Litigation,4,3,Email,No,14.1,Repeat Client,1,Yes,176120.09,No
+VLS-01494,22,Signature Retainer,4056.57,Estate Planning,0,2,Email,Yes,6.9,Repeat Client,1,Yes,91888.7,No
+VLS-01495,26,Premier Retainer,1400.0,Family,4,3,Email,No,24.3,Repeat Client,0,Yes,22760.98,Yes
+VLS-01496,53,Premier Retainer,1913.56,Estate Planning,3,2,Phone,Yes,10.4,Repeat Client,0,No,62636.33,No
+VLS-01497,28,Signature Retainer,3941.26,Family,5,1,Email,Yes,9.9,Web Search,0,No,106098.09,No
+VLS-01498,32,Premier Retainer,1942.68,Corporate,3,1,Email,No,4.0,Web Search,0,Yes,49284.14,No
+VLS-01499,20,Basic Retainer,922.84,Corporate,4,2,Email,No,15.7,Repeat Client,0,No,26088.21,Yes
+VLS-01500,29,Premier Retainer,1794.12,Litigation,4,1,Email,No,9.5,Referral,0,No,45763.16,No

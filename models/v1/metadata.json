@@ -1,6 +1,6 @@
 {
   "run_id": "v1",
-  "timestamp": "2026-07-10T21:27:35.593826",
+  "timestamp": "2026-08-06T15:43:32.043125",
   "config_used": {
     "split": {
       "test_size": 0.2,
@@ -11,12 +11,88 @@
       "max_depth": 3,
       "learning_rate": 0.05,
       "random_state": 42
+    },
+    "tenants": {
+      "telco": {
+        "data_path": "data/raw/telco.csv",
+        "target_column": "Churn",
+        "target_positive_value": "Yes",
+        "revenue_column": "MonthlyCharges",
+        "id_column": "customerID",
+        "duration_column": "tenure",
+        "duration_leakage_column": "TotalCharges",
+        "segment_feature_column": "Contract",
+        "clv_column": "CLTV",
+        "clv_excluded_columns": [
+          "City",
+          "State",
+          "Zip Code",
+          "Latitude",
+          "Longitude",
+          "Churn Score",
+          "Churn Reason"
+        ],
+        "tuning_enabled": false,
+        "model_dir": "models/v1",
+        "clv_model_dir": "models/v1_enriched",
+        "clv_data_path": "data/raw/telco_enriched.csv",
+        "unavailable_reason": "not yet trained for this tenant",
+        "feature_flags": {
+          "business_impact_core": true,
+          "priority_ranking": true,
+          "backtest": true,
+          "survival": true,
+          "segments": true,
+          "anomalies": true,
+          "clv": true,
+          "scenario_simulator": true,
+          "budget_optimizer": true,
+          "customer_timeline": true
+        }
+      },
+      "banking": {
+        "data_path": "data/raw/bank_churn.csv",
+        "target_column": "Exited",
+        "target_positive_value": 1,
+        "revenue_column": "Balance",
+        "id_column": "CustomerId",
+        "tuning_enabled": false,
+        "model_dir": "models/banking_v1",
+        "clv_model_dir": null,
+        "clv_data_path": null,
+        "unavailable_reason": "not yet trained for this tenant",
+        "unavailable_reasons": {
+          "priority_ranking": "revenue-weighted prioritization was only validated for the Telco tenant; banking's revenue-proxy column (Balance) has not been backtested",
+          "backtest": "revenue-weighted prioritization was only validated for the Telco tenant; banking's revenue-proxy column (Balance) has not been backtested"
+        },
+        "feature_flags": {
+          "business_impact_core": false,
+          "priority_ranking": false,
+          "backtest": false,
+          "survival": false,
+          "segments": false,
+          "anomalies": false,
+          "clv": false,
+          "scenario_simulator": false,
+          "budget_optimizer": false,
+          "customer_timeline": false
+        }
+      }
     }
   },
   "n_train": 5634,
   "n_test": 1409,
   "churn_rate_train": 0.2653532126375577,
   "churn_rate_test": 0.2654364797728886,
-  "roc_auc": 0.8471014492753624,
-  "pr_auc": 0.6686762670776025
+  "roc_auc": 0.8421956134232348,
+  "pr_auc": 0.6607384136110945,
+  "final_test_roc_auc": 0.8421956134232348,
+  "cv_score_during_tuning": null,
+  "best_hyperparameters": {
+    "n_estimators": 200,
+    "max_depth": 3,
+    "learning_rate": 0.05
+  },
+  "tuning_seconds": 0.0,
+  "tuning_skipped_reason": "tuning available but not applied - this is a reference tenant (Telco/Banking), fixed to its originally validated hyperparameters (tenant_config['tuning_enabled'] is explicitly False) rather than the tuned alternative; a real comparison found tuning scored slightly WORSE on the held-out test set for both reference tenants despite a higher cross-validation estimate - see this module's tuning_enabled comment for the full write-up. Self-registered tenants are unaffected and use tuning by default."
 }

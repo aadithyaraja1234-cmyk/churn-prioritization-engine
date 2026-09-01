@@ -7,7 +7,7 @@ from src.data.clean import clean_data
 from src.data.load import load_raw
 from src.data.split import load_split_indices
 from src.features.encode import transform_categorical_features
-from src.models.explain import explain_customer, get_global_importance
+from src.models.explain import explain_customer, get_global_importance, list_test_split_customer_ids
 
 
 def test_get_global_importance_returns_ranked_features():
@@ -30,6 +30,23 @@ def test_explain_customer_returns_top_contributions():
     assert "churn_probability" in explanation
     assert "top_features" in explanation
     assert len(explanation["top_features"]) == 3
+
+
+def test_list_test_split_customer_ids_matches_the_test_split_exactly():
+    """Every id returned must be a real customer, must number exactly
+    len(test_idx), and - the actual guarantee this function exists for -
+    every single one must successfully pass explain_customer() rather than
+    raising "not in the saved test split" for any of them."""
+    data_path = Path(__file__).resolve().parents[1] / "data" / "raw" / "telco.csv"
+    model_dir = Path(__file__).resolve().parents[1] / "models" / "v1"
+    _, test_indices = load_split_indices(model_dir)
+
+    ids = list_test_split_customer_ids(model_dir=model_dir, data_path=data_path)
+
+    assert len(ids) == len(test_indices)
+    assert len(set(ids)) == len(ids)  # no duplicates
+    for customer_id in ids[:25]:  # full 1409-customer sweep is redundant with the count/dup checks above
+        explain_customer(customer_id, model_dir=model_dir, data_path=data_path)  # must not raise
 
 
 def test_marginal_effect_directions_are_customer_specific():

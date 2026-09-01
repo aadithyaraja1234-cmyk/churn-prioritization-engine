@@ -66,3 +66,31 @@ def load_split_indices(model_dir: str | Path) -> tuple[list[int], list[int]]:
     with split_info_path.open("r", encoding="utf-8") as handle:
         split_info = json.load(handle)
     return split_info["train_idx"], split_info["test_idx"]
+
+
+def load_tenant_config(model_dir: str | Path) -> dict[str, Any]:
+    """Reads back the tenant_config train_model() now saves into
+    split_indices.json at training time (additive key alongside the
+    existing train_idx/test_idx/feature_names) - the same "read the
+    resolved config back from the training-time artifact instead of
+    re-passing it at every call site" pattern survival.py/segment.py/
+    anomaly.py/clv.py already use for their own pickles (each stores
+    tenant_config inside its own .pkl and reads it back via
+    saved.get("tenant_config", DEFAULT_TENANT_CONFIG)).
+
+    Falls back to DEFAULT_TENANT_CONFIG (Telco's shape) when the key is
+    absent - true for every split_indices.json written before this key
+    existed, including Telco/Banking's already-committed, permanently
+    guarded models/v1 and models/banking_v1 artifacts, and any
+    self-registered tenant trained before this generalization pass. This
+    is not a behavior change for any of them: DEFAULT_TENANT_CONFIG is
+    exactly the literal Telco column names every caller of this was
+    already hardcoded to before this function existed.
+    """
+    split_info_path = Path(model_dir) / "split_indices.json"
+    if not split_info_path.exists():
+        raise FileNotFoundError(f"Split index file not found: {split_info_path}")
+
+    with split_info_path.open("r", encoding="utf-8") as handle:
+        split_info = json.load(handle)
+    return split_info.get("tenant_config", DEFAULT_TENANT_CONFIG)
