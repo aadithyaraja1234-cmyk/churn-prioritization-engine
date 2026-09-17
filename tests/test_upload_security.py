@@ -1,10 +1,12 @@
 """Part A of self-service data onboarding (Stage 1): secure upload handling.
 
 Covers exactly what src/onboarding/upload_security.py documents it defends
-against - oversized files, non-CSV/binary content, null bytes, and
-formula-injection payloads - and confirms a genuinely clean CSV passes.
-Does NOT test malware/virus scanning, since this module explicitly does not
-implement that (see its module docstring)."""
+against - oversized files, non-CSV/binary content, null bytes,
+formula-injection payloads, and terminal-escape-sequence/control-character
+injection - and confirms a genuinely clean CSV (BOM included) passes. Does
+NOT test classic file-based malware scanning, since this module explicitly
+does not implement that (see its module docstring for why, for a CSV-only
+pipeline)."""
 
 import pytest
 from fastapi.testclient import TestClient
@@ -158,6 +160,48 @@ def test_formula_injection_in_quoted_cell_is_still_caught(client, token):
     response = _upload(client, token, content)
     assert response.status_code == 400
     assert "formula" in response.json()["detail"].lower()
+
+
+# --- Control-character / terminal-escape-sequence injection: MIN_PRINTABLE_
+# RATIO alone is an aggregate check that a handful of malicious control
+# characters in an otherwise large, normal-looking file can slip past (see
+# upload_security.py's CONTROL_CHARACTER_POLICY docstring) - checked
+# per-cell instead. ---
+
+
+def test_ansi_escape_sequence_in_a_small_file_is_rejected(client, token):
+    content = "customerID,note\nC-0001,\x1b[2Jnormal-looking otherwise\n".encode("utf-8")
+    response = _upload(client, token, content)
+    assert response.status_code == 400, response.text
+    detail = response.json()["detail"].lower()
+    assert "control character" in detail
+    assert "security" in detail
+
+
+def test_ansi_escape_sequence_hidden_in_a_large_otherwise_clean_file_is_still_caught(client, token):
+    """The exact false-negative CONTROL_CHARACTER_POLICY documents: a
+    single malicious escape sequence buried in a realistically large file
+    barely moves the aggregate printable ratio - must still be caught by
+    the per-cell check, not silently let through because the file is
+    mostly clean."""
+    header = "customerID,note\n"
+    rows = [f"C-{i:04d},normal text here more text padding padding padding\n" for i in range(2000)]
+    rows[1000] = "C-1000,\x1b]0;pwned\x07title-bar injection\n"
+    content = (header + "".join(rows)).encode("utf-8")
+    response = _upload(client, token, content)
+    assert response.status_code == 400, response.text
+    assert "control character" in response.json()["detail"].lower()
+
+
+def test_utf8_bom_is_stripped_not_rejected_as_a_control_character(client, token):
+    """A real, common pattern: a CSV exported from Excel on Windows often
+    has a leading UTF-8 BOM. Must be transparently stripped, not rejected
+    as a control character in the first cell (see upload_security.py's
+    "utf-8-sig" decode)."""
+    content = b"\xef\xbb\xbf" + CLEAN_CSV.encode("utf-8")
+    response = _upload(client, token, content)
+    assert response.status_code == 200, response.text
+    assert response.json()["columns"][0] == "customerID"
 
 
 def test_empty_file_rejected(client, token):

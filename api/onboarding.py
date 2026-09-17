@@ -19,6 +19,7 @@ from api.auth import CurrentUser, get_current_user
 from database.db import get_db, get_tenant_scoped_query
 from database.models import OnboardingUpload
 from database.onboarding_status import advance_status
+from src.onboarding.ai_mapping import refine_mapping_with_ai
 from src.onboarding.schema_fields import VALID_ROLES, suggest_duration_leakage_column, suggest_mapping
 from src.onboarding.upload_security import MAX_FILE_SIZE_BYTES, MAX_ROWS, UploadRejected, read_and_validate_upload
 from src.onboarding.validation import validate_upload
@@ -48,12 +49,17 @@ class ColumnMappingRequest(BaseModel):
     "50,000-row hard limit (rejected via a fast Content-Length pre-check and an authoritative "
     "streamed byte-count check, never by fully loading an oversized file into memory), verifies "
     "the content is genuinely parseable CSV text (never trusting the .csv extension or declared "
-    "content-type), and rejects any cell value that looks like a spreadsheet formula "
-    "(CSV-injection defense: reject-and-explain, not silent sanitization). This does NOT scan "
-    "for malware/viruses - that would require a real content-scanning service (e.g. ClamAV) as "
-    "a separate, later addition. On success, returns the parsed columns, a small preview, and a "
-    "suggested column mapping (name-similarity only - never auto-applied; confirm or change "
-    "every field before calling /validate).",
+    "content-type), and rejects any cell value that looks like a spreadsheet formula or contains "
+    "a non-printable control character (CSV-injection / terminal-escape-sequence-injection "
+    "defense: reject-and-explain, not silent sanitization). This does NOT scan for classic "
+    "file-based malware (an executable/macro document/etc.) - not needed for a CSV-only, "
+    "rendered-as-plain-text pipeline like this one; see src/onboarding/upload_security.py's "
+    "module docstring for the full reasoning. On success, returns the parsed columns, a small "
+    "preview, and a "
+    "suggested column mapping (name-similarity first, then an AI-assisted second pass via Gemini "
+    "for whichever columns that first pass couldn't confidently match - degrades silently to "
+    "name-similarity only if GEMINI_API_KEY isn't set; never auto-applied either way, confirm or "
+    "change every field before calling /validate).",
 )
 async def upload_csv(
     request: Request,
@@ -87,6 +93,7 @@ async def upload_csv(
     preview_rows = df.head(5).fillna("").astype(str).to_dict(orient="records")
     suggested_mapping = suggest_mapping(columns)
     suggested_mapping = suggest_duration_leakage_column(df, suggested_mapping)
+    suggested_mapping = refine_mapping_with_ai(columns, preview_rows, suggested_mapping)
 
     row = OnboardingUpload(
         tenant_id=current_user.tenant_id,
@@ -139,6 +146,7 @@ def get_upload(
     columns = [str(c) for c in df.columns]
     preview_rows = df.head(5).fillna("").astype(str).to_dict(orient="records")
     suggested_mapping = suggest_duration_leakage_column(df, suggest_mapping(columns))
+    suggested_mapping = refine_mapping_with_ai(columns, preview_rows, suggested_mapping)
 
     return {
         "upload_id": row.id,

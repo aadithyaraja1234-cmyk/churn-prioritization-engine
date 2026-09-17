@@ -25,7 +25,7 @@ Then open `http://localhost:5173`. The backend is at `http://localhost:8000` (it
 What this actually does, and why:
 
 - **Two images, one for each service** (`Dockerfile` for the backend, `frontend/Dockerfile` for a static build served by nginx) - `docker-compose.yml` builds and wires both together. The frontend's Dockerfile bakes in `VITE_API_BASE_URL` at build time (Vite inlines `import.meta.env.*` into the bundle - it can't be changed at container start the way a backend env var can); it defaults to `http://localhost:8000`, which is correct for this compose setup because the *browser* talks to whatever's mapped on the host, not to the backend container's internal address.
-- **Telco and Banking's committed model artifacts ship inside the backend image** (`Dockerfile`'s `COPY models/`) - no separate training step needed to see real predictions immediately. A container restart or rebuild doesn't lose anything: `models/`, `data/tenant_uploads/`, and the SQLite DB are all on named volumes (`backend_models`, `backend_uploads`, `backend_data` in `docker-compose.yml`) - Docker seeds a fresh named volume from the image's own content on first creation, so the baked-in Telco/Banking artifacts are still there on first run, and any self-registered tenant's own training output persists across restarts from then on.
+- **Every permanently-committed reference tenant's model artifacts ship inside the backend image** (`Dockerfile`'s `COPY models/` + `COPY data/tenant_uploads/`) - Telco, Banking, and the three reference self-registered tenants (aurora-streaming, meridian-wireless, fernwood-retail-collective - see README.md's Structure section) - no separate training step needed to see real predictions immediately. A container restart or rebuild doesn't lose anything: `models/`, `data/tenant_uploads/`, and the SQLite DB are all on named volumes (`backend_models`, `backend_uploads`, `backend_data` in `docker-compose.yml`) - Docker seeds a fresh named volume from the image's own content on first creation, so the baked-in artifacts are still there on first run, and any OTHER self-registered tenant's own training output persists across restarts from then on.
 - **Copilot's `GEMINI_API_KEY` is optional here too**, same as the manual setup - set it in your shell environment before running `docker compose up` (or create a `.env` file at the repo root; Compose reads it automatically) and it's passed through; leave it unset and Copilot just degrades to "unavailable" rather than the container failing to start.
 - **Demo accounts aren't seeded automatically** (same as the manual setup requiring a separate `python -m database.seed_demo_users` step - see step 6 below) - run it inside the running container once, the first time:
 
@@ -34,6 +34,14 @@ What this actually does, and why:
   ```
 
 - **CI builds and runs both images on every change** that touches a Dockerfile/compose/nginx config (`.github/workflows/docker.yml`) - not just a build check, it actually starts each container and polls the real endpoint (`/health` for the backend, `/` for the frontend) before passing, the same "verify it actually runs" standard the rest of this project's CI already holds itself to.
+
+### Before a real (non-localhost) deployment
+
+`docker compose up --build` as shown above is a zero-config local/demo setup - a few things need real values before this is exposed anywhere else. See `.env.example` for all of these:
+
+- **`JWT_SECRET_KEY`** - without it, every JWT is signed with a publicly-known dev key (`api/auth.py` logs a loud warning at startup if it's missing). Generate one with `python -c "import secrets; print(secrets.token_hex(32))"`.
+- **`CORS_ORIGINS`** - set to your deployed frontend's real URL(s) (comma-separated) so browsers don't block it; the `localhost:5173`/`5174` dev defaults stay allowed alongside it.
+- **`DATABASE_URL`** / **`REDIS_URL`** - both optional. The default (SQLite + an in-process rate limiter) is genuinely fine for a single backend instance/worker. Uncomment `docker-compose.yml`'s `postgres`/`redis` services and the matching backend env vars only if you're running multiple backend workers or replicas that need to share state - and set a real `POSTGRES_PASSWORD` if you do (the compose default is a dev-only placeholder).
 
 ## 1. Prerequisites
 

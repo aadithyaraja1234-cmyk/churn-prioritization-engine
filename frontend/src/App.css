@@ -1681,6 +1681,23 @@ th:hover {
   color: var(--text);
 }
 
+.mapping-role-cell {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+}
+
+.mapping-ai-badge {
+  font-size: 10px;
+  font-weight: 700;
+  letter-spacing: 0.03em;
+  padding: 2px 6px;
+  border-radius: 999px;
+  background: var(--accent);
+  color: #fff;
+  cursor: default;
+}
+
 .onboarding-actions {
   display: flex;
   align-items: center;

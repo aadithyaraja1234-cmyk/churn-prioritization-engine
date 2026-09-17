@@ -138,7 +138,7 @@ KNOWN_SCHEMA_FIELDS: list[dict[str, Any]] = [
         "core_signal": False,
         "aliases": [
             "cltv", "clv", "customerlifetimevalue", "customer_lifetime_value", "lifetimevalue",
-            "lifetime_value", "ltv", "predicted_clv", "clv_estimate", "lifetime_value_estimate",
+            "lifetime_value", "ltv", "predicted_clv", "lifetime_value_estimate",
             # Broadened after a real miss: "subscriber_value_estimate"
             # (cascade-retails' real CLV-shaped column) scored only 0.68
             # against the aliases above - just under SUGGESTION_THRESHOLD -
@@ -153,6 +153,18 @@ KNOWN_SCHEMA_FIELDS: list[dict[str, Any]] = [
             "subscriber_value_estimate", "member_value_estimate", "membership_value_estimate",
             "account_value_estimate", "portfolio_value_estimate", "customer_value_estimate",
             "projected_lifetime_value", "estimated_value", "value_estimate", "est_lifetime_val",
+            # NOTE: "clv_estimate" was removed from here - it scored a
+            # false-positive 0.74 against "Case Load Estimate" (a real
+            # column name, data/live_demo_v2/vantage-legal-services.csv),
+            # wrongly claiming the clv role for an unrelated column via the
+            # shared "...estimate" suffix alone. Found live while testing
+            # src/onboarding/ai_mapping.py's AI-assisted second pass: the
+            # AI pass only ever touches columns still at role="ignore", so
+            # a wrong-but-CONFIDENT name-match like this one is invisible
+            # to it and silently blocks the real CLV column from claiming
+            # the (already "taken") clv role too - worth fixing at the
+            # source instead. "value_estimate"/"estimated_value" already
+            # cover the same genuine pattern without this collision.
         ],
     },
     # --- Core signal features: the fields most responsible for Telco's

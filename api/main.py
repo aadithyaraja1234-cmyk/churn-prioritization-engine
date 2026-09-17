@@ -6,14 +6,29 @@ api/api_keys.py)."""
 from __future__ import annotations
 
 import json
+import os
 from datetime import datetime, timedelta, timezone
 from pathlib import Path
 from typing import Any
 
+from dotenv import load_dotenv
 from fastapi import Depends, FastAPI, HTTPException
 from fastapi.middleware.cors import CORSMiddleware
 from pydantic import BaseModel
 from sqlalchemy.orm import Session
+
+# MUST run before any project module is imported below - api/auth.py and
+# database/db.py both read JWT_SECRET_KEY/DATABASE_URL from os.environ at
+# MODULE IMPORT time (not lazily inside a function), so calling this any
+# later than this point is too late: a real .env value would already have
+# lost the race and been silently ignored, with api/auth.py falling back
+# to its (loudly-warned-about, but easy to miss if you're not watching
+# startup logs) dev default. Found live: setting a real JWT_SECRET_KEY in
+# .env had NO effect until this was added, because the only load_dotenv()
+# call in the whole codebase used to live in src/onboarding/ai_mapping.py,
+# imported (via api/onboarding.py, below) AFTER api.auth had already read
+# the environment.
+load_dotenv()
 
 from api.auth import CurrentUser, get_current_user
 from api.auth import router as auth_router
@@ -136,18 +151,34 @@ app.include_router(training_router)
 # touches or drops existing tables/data.
 init_db()
 
-# The frontend (Vite dev server) runs on a different origin than the API, so
-# without this, browsers block every request as cross-origin - curl/pytest
-# never hit this since CORS is a browser-enforced restriction, not a server one.
-# Vite falls back to 5174+ when 5173 is already taken, so both are allowed.
+# The frontend (Vite dev server, or the real deployed frontend origin) runs on
+# a different origin than the API, so without this, browsers block every
+# request as cross-origin - curl/pytest never hit this since CORS is a
+# browser-enforced restriction, not a server one. Vite falls back to 5174+
+# when 5173 is already taken, so both are allowed by default. CORS_ORIGINS
+# (comma-separated) adds real deployed origins on top of the local-dev
+# defaults - set it to your deployed frontend's URL(s) before going live;
+# the local-dev origins stay allowed alongside it since Docker/local
+# workflows still rely on them.
+_DEFAULT_CORS_ORIGINS = [
+    "http://localhost:5173",
+    "http://127.0.0.1:5173",
+    "http://localhost:5174",
+    "http://127.0.0.1:5174",
+]
+_EXTRA_CORS_ORIGINS = [origin.strip() for origin in os.environ.get("CORS_ORIGINS", "").split(",") if origin.strip()]
+# Optional regex, for platforms with dynamic per-deployment preview URLs
+# that a static CORS_ORIGINS list can't enumerate - e.g. Vercel preview
+# deployments (https://<project>-<hash>-<team>.vercel.app, a different
+# URL every push). Unset by default (the safer default: only the exact
+# origins in CORS_ORIGINS are allowed) - set CORS_ORIGIN_REGEX to something
+# like r"https://your-project.*\.vercel\.app" to allow every preview build
+# for that one project, never an open-ended wildcard across all of Vercel.
+_CORS_ORIGIN_REGEX = os.environ.get("CORS_ORIGIN_REGEX") or None
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=[
-        "http://localhost:5173",
-        "http://127.0.0.1:5173",
-        "http://localhost:5174",
-        "http://127.0.0.1:5174",
-    ],
+    allow_origins=_DEFAULT_CORS_ORIGINS + _EXTRA_CORS_ORIGINS,
+    allow_origin_regex=_CORS_ORIGIN_REGEX,
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],

@@ -2,8 +2,10 @@ import { useEffect } from 'react'
 import { Navigate, Route, BrowserRouter as Router, Routes } from 'react-router-dom'
 import './App.css'
 import { AuthProvider, useAuth } from './auth/AuthContext'
+import ForgotPasswordPage from './auth/ForgotPasswordPage'
 import LoginPage from './auth/LoginPage'
 import RegisterPage from './auth/RegisterPage'
+import ResetPasswordPage from './auth/ResetPasswordPage'
 import { ToastProvider, useToast } from './hooks/useToast'
 import usePageTitle from './hooks/usePageTitle'
 import ToastStack from './components/ToastStack'
@@ -39,45 +41,164 @@ function AdminRoute({ isAdmin }) {
   return <AdminView />
 }
 
+// Login/register succeeding (or logging out) flips isAuthenticated without
+// ever calling navigate() - the browser URL doesn't change on its own. This
+// used to be two entirely separate <Routes> trees swapped on isAuthenticated
+// (logged-out-only paths like "/login"/"/register", logged-in-only paths
+// like "/welcome"/"/analytics"), so flipping auth state while sitting on a
+// path that only existed in the OTHER tree fell through to the "*" wildcard
+// - e.g. logging in while still at "/login" landed on NotFound instead of
+// the dashboard. One shared tree with every path always registered, gated
+// per-route via RequireAuth/RequireGuest below, means the current path is
+// always matched by something real regardless of which side of the auth
+// flip you're on.
+function RequireAuth({ isAuthenticated, children }) {
+  if (!isAuthenticated) return <Navigate to="/login" replace />
+  return children
+}
+
+function RequireGuest({ isAuthenticated, children }) {
+  if (isAuthenticated) return <Navigate to="/" replace />
+  return children
+}
+
 function AppRoutes() {
   const { isAuthenticated, user } = useAuth()
   usePageTitle(isAuthenticated)
 
-  if (!isAuthenticated) {
-    return (
-      <Routes>
-        <Route path="/" element={<Landing />} />
-        <Route path="/login" element={<LoginPage />} />
-        <Route path="/register" element={<RegisterPage />} />
-        <Route path="/privacy" element={<PrivacyPolicy />} />
-        <Route path="/terms" element={<TermsOfService />} />
-        {/* Was `<Landing />` for every unmatched path, which made a typo'd
-            or stale link look identical to a normal visit to "/" - a real
-            404 makes a broken link visibly distinct instead of silently
-            standing in for the homepage. */}
-        <Route path="*" element={<NotFound />} />
-      </Routes>
-    )
-  }
-
   return (
     <Routes>
-      <Route path="/" element={user?.justRegistered ? <Navigate to="/welcome" replace /> : <Dashboard />} />
-      <Route path="/analytics" element={<Analytics />} />
-      <Route path="/executive" element={<ExecutiveView />} />
-      <Route path="/scenarios" element={<ScenarioSimulator />} />
-      <Route path="/budget-optimizer" element={<BudgetOptimizer />} />
-      <Route path="/customer-360" element={<Customer360 />} />
-      <Route path="/copilot" element={<CopilotChat />} />
-      <Route path="/settings/api-keys" element={<ApiKeysSettings />} />
-      <Route path="/data-onboarding" element={<DataOnboarding />} />
-      <Route path="/welcome" element={<WelcomeScreen />} />
-      <Route path="/admin" element={<AdminRoute isAdmin={user?.role === 'admin'} />} />
+      <Route
+        path="/"
+        element={
+          !isAuthenticated ? (
+            <Landing />
+          ) : user?.justRegistered ? (
+            <Navigate to="/welcome" replace />
+          ) : (
+            <Dashboard />
+          )
+        }
+      />
+      <Route
+        path="/login"
+        element={
+          <RequireGuest isAuthenticated={isAuthenticated}>
+            <LoginPage />
+          </RequireGuest>
+        }
+      />
+      <Route
+        path="/register"
+        element={
+          <RequireGuest isAuthenticated={isAuthenticated}>
+            <RegisterPage />
+          </RequireGuest>
+        }
+      />
+      <Route
+        path="/forgot-password"
+        element={
+          <RequireGuest isAuthenticated={isAuthenticated}>
+            <ForgotPasswordPage />
+          </RequireGuest>
+        }
+      />
+      <Route
+        path="/reset-password"
+        element={
+          <RequireGuest isAuthenticated={isAuthenticated}>
+            <ResetPasswordPage />
+          </RequireGuest>
+        }
+      />
+      <Route
+        path="/analytics"
+        element={
+          <RequireAuth isAuthenticated={isAuthenticated}>
+            <Analytics />
+          </RequireAuth>
+        }
+      />
+      <Route
+        path="/executive"
+        element={
+          <RequireAuth isAuthenticated={isAuthenticated}>
+            <ExecutiveView />
+          </RequireAuth>
+        }
+      />
+      <Route
+        path="/scenarios"
+        element={
+          <RequireAuth isAuthenticated={isAuthenticated}>
+            <ScenarioSimulator />
+          </RequireAuth>
+        }
+      />
+      <Route
+        path="/budget-optimizer"
+        element={
+          <RequireAuth isAuthenticated={isAuthenticated}>
+            <BudgetOptimizer />
+          </RequireAuth>
+        }
+      />
+      <Route
+        path="/customer-360"
+        element={
+          <RequireAuth isAuthenticated={isAuthenticated}>
+            <Customer360 />
+          </RequireAuth>
+        }
+      />
+      <Route
+        path="/copilot"
+        element={
+          <RequireAuth isAuthenticated={isAuthenticated}>
+            <CopilotChat />
+          </RequireAuth>
+        }
+      />
+      <Route
+        path="/settings/api-keys"
+        element={
+          <RequireAuth isAuthenticated={isAuthenticated}>
+            <ApiKeysSettings />
+          </RequireAuth>
+        }
+      />
+      <Route
+        path="/data-onboarding"
+        element={
+          <RequireAuth isAuthenticated={isAuthenticated}>
+            <DataOnboarding />
+          </RequireAuth>
+        }
+      />
+      <Route
+        path="/welcome"
+        element={
+          <RequireAuth isAuthenticated={isAuthenticated}>
+            <WelcomeScreen />
+          </RequireAuth>
+        }
+      />
+      <Route
+        path="/admin"
+        element={
+          <RequireAuth isAuthenticated={isAuthenticated}>
+            <AdminRoute isAdmin={user?.role === 'admin'} />
+          </RequireAuth>
+        }
+      />
       <Route path="/privacy" element={<PrivacyPolicy />} />
       <Route path="/terms" element={<TermsOfService />} />
-      {/* Was `<Navigate to="/" replace />`, which silently bounced a stale/
-          mistyped URL back to the dashboard with no indication anything was
-          wrong - a real 404 instead. */}
+      {/* Was `<Landing />`/`<Navigate to="/" replace />` for every unmatched
+          path (depending on which of the two old route trees was active),
+          which made a typo'd or stale link look identical to a normal visit
+          - a real 404 makes a broken link visibly distinct instead of
+          silently standing in for the homepage/dashboard. */}
       <Route path="*" element={<NotFound />} />
     </Routes>
   )

@@ -3,15 +3,31 @@
 SCOPE - what this defends against, and what it explicitly does NOT:
   - Defends against: oversized uploads, non-CSV/binary content disguised
     with a .csv extension or a spoofed Content-Type, null-byte/non-text
-    payloads, and CSV/Excel formula-injection payloads (a cell value that
+    payloads, CSV/Excel formula-injection payloads (a cell value that
     would execute as a formula if this data is later opened in Excel/
-    Google Sheets, e.g. "=cmd|'/c calc'!A1").
-  - Does NOT defend against: malware embedded in file bytes that isn't a
-    formula-injection or binary-content signal (e.g. a polyglot file that
-    still decodes as plausible CSV text). That requires a real content
-    scanning service (e.g. ClamAV) integrated as a separate, later addition
-    - it is explicitly out of scope for Stage 1 and must never be implied
-    to already exist by this module's docstring, error messages, or tests.
+    Google Sheets, e.g. "=cmd|'/c calc'!A1"), and terminal/ANSI-escape-
+    sequence injection (a cell value that would manipulate a terminal if
+    this data is later `cat`/`grep`'d or shown in a log viewer that
+    doesn't sanitize control characters - see CONTROL_CHARACTER_POLICY
+    below).
+  - Does NOT defend against: a real classic-malware payload (an
+    executable, an Office-macro document, an image with an embedded
+    exploit) smuggled inside file bytes that otherwise still decode as
+    plausible UTF-8 CSV text. A traditional content-scanning service
+    (e.g. ClamAV) is the standard defense for that - deliberately NOT
+    added here: this endpoint only ever accepts and stores CSV/plaintext
+    (binary content is already hard-rejected below, so the classic
+    malware types a scanner like ClamAV looks for structurally cannot
+    reach this far), the parsed cell values are only ever read by
+    pandas.read_csv() and rendered as plain React text (no
+    dangerouslySetInnerHTML anywhere in frontend/src - verified, not
+    assumed - so there is no stored-XSS execution path for a cell value
+    either), and the actual planned hosting (Render's free tier) can't
+    run a ClamAV sidecar process alongside this app regardless. A real
+    content scanner remains the right call if this ever accepts
+    non-CSV file types - it is explicitly out of scope for a CSV-only
+    pipeline and must never be implied to already exist by this module's
+    docstring, error messages, or tests.
 
 FORMULA-INJECTION POLICY: reject-and-explain, not silently sanitize. A
 newly onboarding, security-conscious customer is better served by an
@@ -21,7 +37,18 @@ believing their upload succeeded byte-for-byte when it didn't, and which
 this project's own honesty discipline - see other modules' docstrings -
 argues against). Sanitization is friendlier but hides a real problem in
 the source data; for a first version we choose the safer, more honest
-option.
+option. The same reject-and-explain policy applies to the control-
+character check below, for the same reason.
+
+CONTROL_CHARACTER_POLICY: MIN_PRINTABLE_RATIO below is an AGGREGATE check
+over the whole file - a handful of malicious control characters (e.g. a
+few ANSI escape sequences: `\\x1b[2J`, terminal title-bar injection via
+`\\x1b]0;...\\x07`, etc.) sprinkled into an otherwise large, normal-looking
+file barely move that ratio and sail through undetected (verified
+directly: a handful of such sequences embedded in a realistic ~450KB/8000-
+row file kept the ratio at 0.9999, nowhere near tripping the 0.95 floor).
+Checked per-CELL instead, in the same pass as the formula-injection check
+below, so a small malicious payload can't hide inside a large clean file.
 
 The size cap is enforced via a genuine streamed chunk-by-chunk read with a
 hard byte ceiling, so an oversized file is never assembled in memory -
@@ -50,6 +77,16 @@ FORMULA_INJECTION_PREFIXES = ("=", "+", "-", "@")
 # content disguised behind a .csv extension or a spoofed content-type -
 # neither of which this module trusts.
 MIN_PRINTABLE_RATIO = 0.95
+
+# str.isprintable() is False for \t/\r/\n too (only the ASCII space counts
+# as printable whitespace per Python's own definition) - these three are
+# common and legitimate inside a quoted CSV cell, so they're allow-listed
+# here exactly like the aggregate MIN_PRINTABLE_RATIO check above already
+# does. Every OTHER non-printable character (ANSI/terminal escape
+# sequences, zero-width/format characters, etc.) is rejected per-cell -
+# see CONTROL_CHARACTER_POLICY above for why the aggregate ratio check
+# alone isn't enough to catch a small payload in a large file.
+_ALLOWED_CONTROL_WHITESPACE = "\t\r\n"
 
 
 class UploadRejected(Exception):
@@ -86,7 +123,14 @@ async def read_and_validate_upload(file: UploadFile) -> str:
         raise UploadRejected("File is empty.")
 
     try:
-        text = raw_bytes.decode("utf-8")
+        # "utf-8-sig" rather than plain "utf-8": transparently strips a
+        # leading UTF-8 BOM if present (behaves identically to "utf-8"
+        # otherwise) - a real, common pattern for a CSV exported from
+        # Excel on Windows. Without this, that legitimate BOM byte
+        # sequence decodes to a literal U+FEFF character prepended to the
+        # first cell, which the new per-cell control-character check below
+        # would otherwise reject as a false positive.
+        text = raw_bytes.decode("utf-8-sig")
     except UnicodeDecodeError:
         raise UploadRejected(
             "File is not valid UTF-8 text - this looks like a binary file, not a CSV. "
@@ -111,9 +155,21 @@ async def read_and_validate_upload(file: UploadFile) -> str:
     header = rows[0]
     for row_number, row in enumerate(rows[1:], start=1):
         for column_index, cell in enumerate(row):
+            column_name = header[column_index] if column_index < len(header) else f"column {column_index + 1}"
+
+            bad_char = next(
+                (ch for ch in cell if not ch.isprintable() and ch not in _ALLOWED_CONTROL_WHITESPACE), None
+            )
+            if bad_char is not None:
+                raise UploadRejected(
+                    f"Row {row_number}, column '{column_name}' contains a non-printable control "
+                    f"character ({bad_char!r}). We don't allow these for security reasons "
+                    "(terminal-escape-sequence injection risk if this data is later viewed with "
+                    "cat/grep or a log viewer) - please remove it and re-upload."
+                )
+
             stripped = cell.strip()
             if stripped and stripped[0] in FORMULA_INJECTION_PREFIXES:
-                column_name = header[column_index] if column_index < len(header) else f"column {column_index + 1}"
                 raise UploadRejected(
                     f"Row {row_number}, column '{column_name}' contains a value starting with "
                     f"'{stripped[0]}', which looks like a spreadsheet formula. We don't allow "

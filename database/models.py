@@ -31,6 +31,19 @@ class User(Base):
     tenant_id: Mapped[str] = mapped_column(String, nullable=False, index=True)
     role: Mapped[str] = mapped_column(String, nullable=False)
     created_at: Mapped[datetime] = mapped_column(DateTime, nullable=False, default=_utcnow)
+    # Forgot-password flow (api/auth.py's /forgot-password, /reset-password).
+    # Only a SHA-256 hash of the raw token is ever stored, same reasoning as
+    # api/api_keys.py's key_hash (the raw token is high-entropy and only
+    # ever compared once, so a fast hash is fine - no need for bcrypt here).
+    # Both null whenever no reset is in progress (the common case) or once
+    # a reset completes/a new one is requested (the old token is invalidated,
+    # not left valid alongside the new one). Naive UTC datetime, not
+    # tz-aware - see reset_password()'s own comment: SQLite (this project's
+    # default) silently drops tzinfo on every datetime round-trip, so
+    # comparing an aware "now" against a value read back from the DB would
+    # raise; naive-UTC-everywhere sidesteps that rather than fighting it.
+    reset_token_hash: Mapped[str | None] = mapped_column(String, nullable=True, default=None)
+    reset_token_expires_at: Mapped[datetime | None] = mapped_column(DateTime, nullable=True, default=None)
 
 
 class Customer(Base):

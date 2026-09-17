@@ -23,3 +23,5 @@ httpx>=0.27,<1.0  # required by fastapi.testclient.TestClient
 python-dotenv>=1.0,<2.0
 google-genai>=2.0,<3.0  # current unified SDK - NOT the deprecated google-generativeai package
 python-multipart>=0.0.9,<1.0  # required by FastAPI/Starlette to parse multipart file uploads (api/onboarding.py)
+psycopg2-binary>=2.9,<3.0  # only used when DATABASE_URL points at Postgres (database/db.py); SQLite needs nothing extra
+redis>=5.0,<6.0  # only used when REDIS_URL is set (api/api_keys.py's rate limiter); falls back to in-memory otherwise

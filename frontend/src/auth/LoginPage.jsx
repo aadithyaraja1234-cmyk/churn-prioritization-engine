@@ -51,6 +51,9 @@ export default function LoginPage() {
           {submitting ? 'Logging in…' : 'Log in'}
         </button>
         <p className="register-login-link">
+          <Link to="/forgot-password">Forgot your password?</Link>
+        </p>
+        <p className="register-login-link">
           New company? <Link to="/register">Register your workspace</Link>
         </p>
       </form>

@@ -1,11 +1,13 @@
 import { Link } from 'react-router-dom'
 
-// PLACEHOLDER CONTENT. This exists so the /privacy route/link isn't a dead
-// 404 and the registration flow has something real to link to, but the
-// actual practices described below (what's collected, retention, etc.) need
-// to be filled in with this product's real data-handling details - and
-// reviewed by someone qualified to sign off on privacy/legal copy - before
-// this is presented as this company's real policy.
+// DEMO PLACEHOLDER CONTENT. This exists so the /privacy route/link isn't a
+// dead 404 and the registration flow has something real to link to.
+// Generic, non-binding filler written only so this page isn't empty during
+// a live demo - NOT reviewed by counsel. The actual practices described
+// below (what's collected, retention, etc.) need to be filled in with this
+// product's real data-handling details - and reviewed by someone qualified
+// to sign off on privacy/legal copy - before this is presented as this
+// company's real policy.
 export default function PrivacyPolicy() {
   return (
     <div className="landing-page">
@@ -18,19 +20,26 @@ export default function PrivacyPolicy() {
         <div style={{ display: 'flex', flexDirection: 'column', gap: '16px' }}>
           <section>
             <h2 style={{ fontSize: 17 }}>What we collect</h2>
-            <p>[Describe what customer/account data this product actually collects here.]</p>
+            <p>
+              Account details you provide at registration (name, email, hashed password), and the
+              customer-record CSV you upload for training. Uploaded data is stored per-tenant and is
+              not shared across tenants.
+            </p>
           </section>
           <section>
             <h2 style={{ fontSize: 17 }}>How we use it</h2>
-            <p>[Describe the real purposes data is used for here.]</p>
+            <p>Solely to run this demo: training and serving churn-prediction models for your account.</p>
           </section>
           <section>
             <h2 style={{ fontSize: 17 }}>Data retention</h2>
-            <p>[Describe how long data is kept and how it can be deleted here.]</p>
+            <p>
+              This is a demo environment — data may be reset or deleted at any time without notice.
+              Don't upload real customer data you need retained.
+            </p>
           </section>
           <section>
             <h2 style={{ fontSize: 17 }}>Contact</h2>
-            <p>[Real contact address/email for privacy requests goes here.]</p>
+            <p>See this project's repository for how to reach the maintainers.</p>
           </section>
         </div>
         <Link className="landing-signin-button" to="/" style={{ marginTop: 8 }}>

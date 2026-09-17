@@ -15,14 +15,36 @@ data/raw/olist_order_payments_dataset.csv
 
 # Self-registered tenants' training data + model artifacts (api/training.py) -
 # generated at runtime per tenant, not source of truth, unlike the committed
-# demo tenants' model dirs below (which stay tracked).
-data/tenant_uploads/
+# demo tenants' model dirs below (which stay tracked). Three more self-
+# registered tenants are ALSO permanently committed, same as Telco/Banking:
+# aurora-streaming, meridian-wireless, and fernwood-retail-collective are
+# real regression fixtures multiple tests depend on directly (genuinely
+# different column names/id columns/missing-module cases - see e.g.
+# tests/test_business_impact.py's AURORA_MODEL_DIR comment) - a fresh
+# checkout/CI run needs these artifacts to actually exist on disk, the same
+# way it needs models/v1 to. Every OTHER self-registered tenant (created ad
+# hoc by tests, demos, or real onboarding) stays gitignored/runtime-only.
+data/tenant_uploads/*
+!data/tenant_uploads/aurora-streaming.csv
+!data/tenant_uploads/meridian-wireless.csv
+!data/tenant_uploads/fernwood-retail-collective.csv
 models/*
 !models/v1
 !models/v1_enriched
 !models/v2
 !models/banking_v1
+!models/aurora-streaming
+!models/meridian-wireless
+!models/fernwood-retail-collective
 
 # Secrets - real GEMINI_API_KEY goes in .env (gitignored), never in .env.example
 .env
 .env.local
+
+# Real (if demo-only) plaintext account passwords - never committed/pushed.
+# See CREDENTIALS.md itself: the Meridian Wireless password is explicitly
+# flagged there as needing rotation before this project leaves local dev -
+# now that it's actually being deployed, keeping this file out of version
+# control entirely is the safer default rather than relying on remembering
+# to rotate it later.
+CREDENTIALS.md

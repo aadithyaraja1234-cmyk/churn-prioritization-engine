@@ -1,0 +1,4001 @@
+customer_id,churned,monthly_fee,tenure,subscription_tier,payment_method,paperless_billing,lifetime_value_estimate
+AUR-00001,No,12.38,47,Plus,Debit Card,Yes,1283.18
+AUR-00002,No,14.01,52,Plus,Credit Card,No,431.13
+AUR-00003,Yes,20.62,19,Premium,Gift Card,Yes,519.33
+AUR-00004,No,14.68,26,Plus,Credit Card,No,412.32
+AUR-00005,Yes,7.95,68,Basic,Credit Card,Yes,247.33
+AUR-00006,No,18.08,62,Premium,Gift Card,Yes,3191.6
+AUR-00007,No,15.08,30,Plus,PayPal,Yes,423.63
+AUR-00008,No,18.32,17,Premium,PayPal,No,268.94
+AUR-00009,Yes,9.47,21,Basic,PayPal,No,427.22
+AUR-00010,Yes,13.07,39,Plus,Debit Card,No,1445.96
+AUR-00011,Yes,8.38,41,Basic,Credit Card,Yes,408.97
+AUR-00012,No,15.0,13,Premium,Credit Card,No,587.16
+AUR-00013,No,14.01,4,Plus,PayPal,Yes,89.85
+AUR-00014,No,17.03,36,Premium,PayPal,Yes,971.39
+AUR-00015,Yes,14.21,58,Plus,Credit Card,Yes,583.52
+AUR-00016,No,7.34,11,Basic,Credit Card,No,89.45
+AUR-00017,No,15.85,29,Plus,Credit Card,Yes,448.43
+AUR-00018,No,8.7,11,Basic,Credit Card,Yes,187.27
+AUR-00019,No,18.73,17,Premium,PayPal,Yes,217.79
+AUR-00020,Yes,12.21,44,Plus,Credit Card,Yes,872.05
+AUR-00021,No,12.9,20,Plus,Credit Card,Yes,276.97
+AUR-00022,No,10.31,19,Basic,PayPal,No,166.29
+AUR-00023,No,18.3,72,Premium,Debit Card,Yes,1829.8
+AUR-00024,No,15.0,12,Premium,Debit Card,Yes,135.32
+AUR-00025,No,17.36,13,Plus,Credit Card,Yes,262.65
+AUR-00026,No,9.45,67,Basic,Credit Card,Yes,634.83
+AUR-00027,Yes,13.66,40,Plus,Credit Card,Yes,775.03
+AUR-00028,No,11.01,3,Basic,Credit Card,Yes,138.2
+AUR-00029,No,9.17,31,Basic,Credit Card,Yes,498.79
+AUR-00030,No,11.72,41,Plus,Credit Card,Yes,287.05
+AUR-00031,No,13.29,18,Plus,Credit Card,No,141.82
+AUR-00032,No,18.32,40,Premium,Credit Card,Yes,552.86
+AUR-00033,No,11.44,47,Basic,Gift Card,Yes,783.03
+AUR-00034,No,9.17,18,Basic,Credit Card,No,212.92
+AUR-00035,No,11.0,59,Plus,Credit Card,Yes,309.01
+AUR-00036,Yes,9.01,33,Basic,PayPal,No,411.83
+AUR-00037,No,7.71,70,Basic,Credit Card,No,525.92
+AUR-00038,No,14.28,6,Plus,Debit Card,No,59.28
+AUR-00039,Yes,10.1,23,Basic,PayPal,Yes,356.19
+AUR-00040,No,14.96,52,Plus,Debit Card,Yes,823.68
+AUR-00041,No,12.9,65,Plus,Credit Card,Yes,2220.76
+AUR-00042,No,18.58,16,Premium,PayPal,Yes,470.23
+AUR-00043,No,13.43,71,Plus,Debit Card,No,1022.9
+AUR-00044,Yes,8.49,14,Basic,Credit Card,Yes,155.01
+AUR-00045,Yes,20.04,30,Premium,Credit Card,No,612.88
+AUR-00046,No,16.94,22,Premium,Credit Card,Yes,372.63
+AUR-00047,No,15.1,30,Plus,PayPal,Yes,756.8
+AUR-00048,No,8.34,65,Basic,Credit Card,Yes,1137.12
+AUR-00049,No,11.89,53,Plus,Credit Card,No,647.16
+AUR-00050,Yes,10.27,58,Basic,Debit Card,Yes,815.63
+AUR-00051,No,10.15,18,Basic,PayPal,No,64.69
+AUR-00052,Yes,10.12,69,Basic,Credit Card,Yes,944.74
+AUR-00053,No,15.0,31,Premium,Credit Card,No,370.14
+AUR-00054,No,12.4,47,Plus,Credit Card,Yes,683.06
+AUR-00055,No,13.72,50,Plus,Debit Card,No,945.43
+AUR-00056,No,16.4,48,Premium,Debit Card,Yes,1446.79
+AUR-00057,No,13.09,43,Plus,PayPal,Yes,262.59
+AUR-00058,No,13.64,35,Plus,Credit Card,No,1045.8
+AUR-00059,No,8.63,47,Basic,Credit Card,Yes,686.46
+AUR-00060,Yes,8.94,66,Basic,Credit Card,Yes,831.43
+AUR-00061,No,12.47,28,Plus,Credit Card,No,352.86
+AUR-00062,No,14.25,37,Plus,Debit Card,No,984.54
+AUR-00063,No,13.81,13,Plus,PayPal,No,419.95
+AUR-00064,No,14.65,25,Plus,Credit Card,Yes,334.92
+AUR-00065,No,14.23,56,Plus,PayPal,No,1424.04
+AUR-00066,Yes,14.24,46,Plus,Credit Card,Yes,1179.24
+AUR-00067,Yes,12.25,15,Plus,Debit Card,Yes,376.13
+AUR-00068,No,8.93,39,Basic,Credit Card,No,551.21
+AUR-00069,No,9.77,59,Basic,Debit Card,Yes,691.17
+AUR-00070,Yes,14.58,9,Plus,Credit Card,Yes,104.77
+AUR-00071,Yes,10.54,4,Basic,Gift Card,Yes,0.0
+AUR-00072,No,13.59,28,Plus,PayPal,Yes,645.95
+AUR-00073,No,16.23,47,Premium,PayPal,No,714.15
+AUR-00074,Yes,9.36,22,Basic,PayPal,Yes,50.5
+AUR-00075,No,10.96,59,Basic,Credit Card,No,622.29
+AUR-00076,Yes,9.89,61,Basic,Debit Card,No,320.43
+AUR-00077,Yes,8.76,38,Basic,Credit Card,Yes,377.66
+AUR-00078,No,13.79,27,Plus,PayPal,Yes,623.14
+AUR-00079,No,15.25,3,Plus,Credit Card,Yes,0.0
+AUR-00080,No,19.17,59,Premium,Credit Card,Yes,666.0
+AUR-00081,No,13.13,65,Plus,Debit Card,Yes,755.77
+AUR-00082,No,15.61,32,Plus,Credit Card,Yes,402.8
+AUR-00083,No,15.0,37,Premium,PayPal,No,634.96
+AUR-00084,No,9.82,55,Basic,Credit Card,Yes,814.53
+AUR-00085,Yes,10.7,50,Basic,Debit Card,Yes,624.74
+AUR-00086,Yes,10.99,9,Basic,PayPal,Yes,241.09
+AUR-00087,No,15.72,49,Plus,Debit Card,No,1580.53
+AUR-00088,No,14.89,67,Plus,Credit Card,Yes,696.67
+AUR-00089,Yes,10.18,54,Basic,Credit Card,Yes,878.8
+AUR-00090,No,12.81,35,Plus,Credit Card,No,477.92
+AUR-00091,No,9.02,38,Basic,Credit Card,Yes,1115.45
+AUR-00092,Yes,11.37,18,Plus,Debit Card,Yes,272.35
+AUR-00093,No,15.28,48,Plus,Credit Card,Yes,486.83
+AUR-00094,Yes,14.12,17,Plus,Credit Card,Yes,270.13
+AUR-00095,No,8.77,24,Basic,Credit Card,No,224.67
+AUR-00096,No,13.1,19,Plus,PayPal,Yes,691.23
+AUR-00097,Yes,9.57,24,Basic,Credit Card,No,226.63
+AUR-00098,Yes,10.66,26,Basic,Credit Card,Yes,496.15
+AUR-00099,No,9.42,6,Basic,Debit Card,No,47.68
+AUR-00100,No,17.27,52,Premium,Credit Card,No,578.5
+AUR-00101,No,20.27,32,Premium,PayPal,No,305.69
+AUR-00102,Yes,15.4,69,Plus,Credit Card,Yes,1602.12
+AUR-00103,Yes,9.44,13,Basic,Debit Card,Yes,135.32
+AUR-00104,No,18.0,48,Premium,Debit Card,No,943.23
+AUR-00105,Yes,12.96,13,Plus,PayPal,Yes,169.89
+AUR-00106,No,13.48,39,Plus,Debit Card,Yes,204.55
+AUR-00107,No,14.62,35,Plus,PayPal,No,485.91
+AUR-00108,Yes,9.04,32,Basic,Credit Card,No,492.57
+AUR-00109,No,8.66,47,Basic,Debit Card,Yes,171.14
+AUR-00110,No,19.42,60,Premium,PayPal,No,1764.08
+AUR-00111,No,12.65,23,Plus,Debit Card,Yes,350.9
+AUR-00112,No,8.83,62,Basic,Debit Card,No,463.02
+AUR-00113,No,9.13,13,Basic,Credit Card,No,145.41
+AUR-00114,Yes,13.86,21,Plus,Credit Card,Yes,313.08
+AUR-00115,No,10.71,22,Basic,Credit Card,Yes,538.61
+AUR-00116,No,15.36,69,Premium,Credit Card,No,860.29
+AUR-00117,No,15.3,8,Plus,Credit Card,Yes,339.98
+AUR-00118,No,14.24,28,Plus,Credit Card,Yes,377.79
+AUR-00119,No,15.49,30,Plus,Debit Card,Yes,643.38
+AUR-00120,No,15.35,58,Plus,PayPal,Yes,845.33
+AUR-00121,No,14.0,35,Plus,Debit Card,Yes,467.68
+AUR-00122,No,11.19,70,Plus,Debit Card,No,1199.08
+AUR-00123,No,8.75,54,Basic,Credit Card,Yes,535.35
+AUR-00124,No,12.66,51,Plus,Credit Card,Yes,571.67
+AUR-00125,Yes,9.04,54,Basic,Debit Card,Yes,704.63
+AUR-00126,No,14.91,11,Plus,PayPal,Yes,350.68
+AUR-00127,No,8.12,32,Basic,PayPal,Yes,178.2
+AUR-00128,Yes,9.71,42,Basic,Debit Card,No,909.74
+AUR-00129,Yes,10.36,15,Basic,PayPal,No,149.13
+AUR-00130,No,12.13,8,Plus,PayPal,Yes,167.63
+AUR-00131,Yes,10.61,9,Basic,PayPal,No,152.55
+AUR-00132,No,15.43,57,Premium,PayPal,Yes,277.31
+AUR-00133,No,13.6,47,Plus,Credit Card,Yes,467.92
+AUR-00134,Yes,9.19,20,Basic,Credit Card,No,77.75
+AUR-00135,No,14.4,53,Plus,Credit Card,Yes,928.14
+AUR-00136,Yes,9.56,50,Basic,Debit Card,No,455.57
+AUR-00137,No,20.29,59,Premium,PayPal,Yes,485.73
+AUR-00138,Yes,15.75,66,Plus,Credit Card,No,884.42
+AUR-00139,No,18.15,64,Premium,Credit Card,Yes,592.64
+AUR-00140,Yes,8.84,13,Basic,PayPal,Yes,179.59
+AUR-00141,No,13.3,56,Plus,Credit Card,Yes,743.05
+AUR-00142,Yes,13.22,28,Plus,PayPal,No,411.72
+AUR-00143,No,18.16,29,Premium,Credit Card,Yes,434.83
+AUR-00144,Yes,13.93,47,Plus,Credit Card,Yes,747.13
+AUR-00145,Yes,14.41,43,Plus,Credit Card,Yes,401.46
+AUR-00146,Yes,9.52,30,Basic,Credit Card,Yes,428.51
+AUR-00147,No,9.3,72,Basic,Credit Card,Yes,339.89
+AUR-00148,Yes,13.8,12,Plus,Credit Card,No,142.9
+AUR-00149,No,15.25,7,Plus,Credit Card,Yes,58.24
+AUR-00150,Yes,9.05,2,Basic,Credit Card,Yes,90.51
+AUR-00151,No,16.2,59,Premium,PayPal,Yes,1051.07
+AUR-00152,No,18.15,29,Premium,Credit Card,Yes,454.68
+AUR-00153,Yes,9.13,31,Basic,Credit Card,Yes,319.63
+AUR-00154,Yes,13.03,47,Plus,Credit Card,Yes,509.54
+AUR-00155,Yes,9.44,31,Basic,PayPal,Yes,777.23
+AUR-00156,No,14.13,41,Plus,PayPal,Yes,683.32
+AUR-00157,Yes,8.7,4,Basic,Gift Card,Yes,98.03
+AUR-00158,Yes,14.52,11,Plus,PayPal,Yes,150.79
+AUR-00159,No,13.51,68,Plus,Credit Card,Yes,348.79
+AUR-00160,No,15.0,32,Plus,Debit Card,No,360.62
+AUR-00161,Yes,8.75,12,Basic,Credit Card,No,136.67
+AUR-00162,No,16.16,26,Premium,PayPal,Yes,537.2
+AUR-00163,No,10.7,24,Basic,Credit Card,Yes,345.65
+AUR-00164,No,11.7,20,Basic,Credit Card,Yes,319.78
+AUR-00165,No,14.17,21,Plus,PayPal,No,374.22
+AUR-00166,No,7.79,53,Basic,PayPal,Yes,424.29
+AUR-00167,No,19.89,7,Premium,Gift Card,Yes,52.48
+AUR-00168,No,22.35,22,Premium,Credit Card,Yes,615.87
+AUR-00169,No,7.73,34,Basic,Credit Card,Yes,563.59
+AUR-00170,No,18.76,39,Premium,Credit Card,Yes,829.12
+AUR-00171,No,8.03,64,Basic,Credit Card,Yes,717.83
+AUR-00172,No,14.94,67,Plus,Debit Card,No,2428.39
+AUR-00173,Yes,8.89,21,Basic,Credit Card,No,159.42
+AUR-00174,No,16.97,39,Premium,PayPal,Yes,456.74
+AUR-00175,Yes,9.89,1,Basic,Credit Card,Yes,86.74
+AUR-00176,No,9.58,45,Basic,Debit Card,No,986.14
+AUR-00177,No,14.22,11,Plus,PayPal,No,241.59
+AUR-00178,No,15.0,5,Premium,Debit Card,No,170.1
+AUR-00179,No,15.29,49,Premium,Credit Card,No,376.13
+AUR-00180,No,14.44,13,Plus,Credit Card,Yes,132.98
+AUR-00181,No,20.48,34,Premium,Credit Card,Yes,873.86
+AUR-00182,No,16.34,7,Premium,PayPal,Yes,97.51
+AUR-00183,No,13.23,54,Plus,Debit Card,Yes,707.49
+AUR-00184,No,9.16,55,Basic,Credit Card,Yes,684.05
+AUR-00185,No,13.23,41,Plus,Gift Card,Yes,345.62
+AUR-00186,No,15.46,61,Plus,Debit Card,Yes,748.35
+AUR-00187,No,9.52,31,Basic,PayPal,Yes,448.85
+AUR-00188,Yes,8.3,13,Basic,Credit Card,No,73.96
+AUR-00189,No,14.75,11,Plus,Gift Card,Yes,227.62
+AUR-00190,No,8.75,16,Basic,Credit Card,Yes,262.28
+AUR-00191,No,17.4,14,Premium,Credit Card,Yes,345.74
+AUR-00192,Yes,8.97,23,Basic,PayPal,Yes,192.33
+AUR-00193,Yes,7.41,15,Basic,PayPal,Yes,61.49
+AUR-00194,No,19.04,43,Premium,Debit Card,Yes,1158.94
+AUR-00195,No,7.83,10,Basic,Credit Card,Yes,63.4
+AUR-00196,No,7.87,45,Basic,Credit Card,No,659.11
+AUR-00197,No,12.76,24,Plus,PayPal,Yes,412.03
+AUR-00198,No,20.36,50,Premium,PayPal,Yes,1799.23
+AUR-00199,Yes,9.75,37,Basic,Credit Card,No,535.97
+AUR-00200,Yes,9.24,66,Basic,Credit Card,Yes,1732.98
+AUR-00201,No,14.21,32,Plus,Debit Card,No,458.88
+AUR-00202,No,17.67,21,Premium,PayPal,Yes,966.07
+AUR-00203,No,11.14,43,Plus,Credit Card,Yes,309.07
+AUR-00204,Yes,9.6,48,Basic,Debit Card,Yes,711.45
+AUR-00205,No,7.15,32,Basic,Gift Card,Yes,402.89
+AUR-00206,No,7.51,40,Basic,Credit Card,No,211.28
+AUR-00207,Yes,9.65,34,Basic,Debit Card,Yes,195.96
+AUR-00208,Yes,13.3,22,Plus,Debit Card,Yes,286.31
+AUR-00209,No,6.21,22,Basic,Debit Card,Yes,152.7
+AUR-00210,No,15.14,66,Plus,PayPal,No,1460.05
+AUR-00211,No,13.84,49,Plus,Debit Card,Yes,574.65
+AUR-00212,No,14.13,6,Plus,Debit Card,Yes,40.72
+AUR-00213,Yes,10.21,70,Basic,Credit Card,No,513.18
+AUR-00214,No,17.34,51,Premium,PayPal,Yes,845.18
+AUR-00215,No,11.0,3,Plus,Credit Card,Yes,122.68
+AUR-00216,No,13.52,53,Plus,Credit Card,Yes,1056.68
+AUR-00217,Yes,7.17,43,Basic,Debit Card,Yes,482.5
+AUR-00218,Yes,9.83,66,Basic,Debit Card,No,516.74
+AUR-00219,No,18.1,35,Premium,Gift Card,Yes,413.22
+AUR-00220,Yes,14.4,37,Plus,PayPal,No,445.62
+AUR-00221,No,8.1,22,Basic,PayPal,Yes,330.07
+AUR-00222,Yes,14.55,23,Plus,Credit Card,Yes,210.51
+AUR-00223,Yes,15.14,45,Plus,Debit Card,Yes,502.02
+AUR-00224,No,16.99,60,Premium,Gift Card,Yes,1865.85
+AUR-00225,No,10.04,65,Basic,Credit Card,Yes,852.89
+AUR-00226,No,17.07,56,Premium,PayPal,Yes,694.72
+AUR-00227,Yes,12.0,44,Basic,Debit Card,Yes,741.2
+AUR-00228,No,13.74,36,Plus,Credit Card,No,575.32
+AUR-00229,No,13.79,24,Plus,Debit Card,Yes,629.13
+AUR-00230,No,6.72,56,Basic,Credit Card,Yes,173.52
+AUR-00231,Yes,9.69,23,Basic,Credit Card,Yes,231.21
+AUR-00232,No,12.39,19,Plus,Credit Card,Yes,311.83
+AUR-00233,No,18.65,63,Premium,Credit Card,Yes,779.55
+AUR-00234,Yes,13.74,43,Plus,Credit Card,No,735.79
+AUR-00235,No,18.29,25,Premium,PayPal,Yes,447.71
+AUR-00236,No,21.4,63,Premium,Credit Card,Yes,1581.56
+AUR-00237,No,12.48,70,Plus,PayPal,Yes,874.88
+AUR-00238,No,18.69,23,Premium,Debit Card,Yes,469.89
+AUR-00239,Yes,7.18,38,Basic,Credit Card,Yes,575.49
+AUR-00240,Yes,9.42,35,Basic,Credit Card,Yes,549.83
+AUR-00241,No,19.83,51,Premium,PayPal,Yes,515.66
+AUR-00242,No,16.28,69,Premium,Debit Card,Yes,1260.67
+AUR-00243,Yes,8.78,40,Basic,PayPal,No,631.55
+AUR-00244,No,11.77,58,Plus,Credit Card,Yes,256.41
+AUR-00245,No,12.69,43,Plus,PayPal,Yes,256.84
+AUR-00246,No,18.83,64,Premium,PayPal,Yes,1656.19
+AUR-00247,No,15.8,29,Plus,Gift Card,Yes,676.57
+AUR-00248,No,13.67,28,Plus,Credit Card,Yes,460.24
+AUR-00249,Yes,9.12,30,Basic,Gift Card,Yes,336.64
+AUR-00250,No,14.25,72,Plus,Credit Card,Yes,1860.31
+AUR-00251,No,13.37,44,Plus,PayPal,Yes,722.81
+AUR-00252,Yes,16.83,11,Premium,Debit Card,Yes,153.53
+AUR-00253,No,11.84,2,Plus,Debit Card,No,115.98
+AUR-00254,Yes,8.08,37,Basic,Credit Card,No,346.41
+AUR-00255,No,9.77,58,Basic,PayPal,No,761.01
+AUR-00256,No,15.11,34,Plus,Credit Card,Yes,795.08
+AUR-00257,No,18.62,40,Premium,Debit Card,No,1591.14
+AUR-00258,No,7.54,58,Basic,Debit Card,Yes,553.89
+AUR-00259,Yes,10.23,37,Basic,PayPal,Yes,326.38
+AUR-00260,No,11.38,66,Plus,Debit Card,No,576.5
+AUR-00261,Yes,8.58,46,Basic,Debit Card,No,456.94
+AUR-00262,No,19.09,53,Premium,Debit Card,Yes,2132.28
+AUR-00263,Yes,7.59,57,Basic,Debit Card,No,611.82
+AUR-00264,Yes,10.58,45,Basic,Debit Card,Yes,395.35
+AUR-00265,No,18.07,3,Premium,PayPal,Yes,119.8
+AUR-00266,No,8.92,31,Basic,PayPal,Yes,381.86
+AUR-00267,Yes,10.9,10,Basic,Debit Card,Yes,190.14
+AUR-00268,No,10.21,37,Basic,Credit Card,No,194.96
+AUR-00269,No,8.19,10,Basic,Debit Card,Yes,36.47
+AUR-00270,No,8.91,37,Basic,Credit Card,Yes,258.64
+AUR-00271,Yes,9.11,25,Basic,Credit Card,No,278.84
+AUR-00272,Yes,10.52,1,Basic,PayPal,No,27.44
+AUR-00273,No,9.43,9,Basic,Credit Card,No,114.6
+AUR-00274,No,13.32,36,Plus,Debit Card,No,487.1
+AUR-00275,No,13.92,5,Plus,Gift Card,No,118.73
+AUR-00276,Yes,14.27,62,Plus,Credit Card,Yes,1191.53
+AUR-00277,No,9.17,55,Basic,Credit Card,Yes,583.63
+AUR-00278,No,13.12,51,Plus,Credit Card,No,446.87
+AUR-00279,No,21.84,12,Premium,Credit Card,Yes,431.64
+AUR-00280,No,20.27,58,Premium,PayPal,Yes,891.89
+AUR-00281,Yes,8.79,46,Basic,PayPal,Yes,805.16
+AUR-00282,No,8.94,28,Basic,Debit Card,Yes,584.23
+AUR-00283,No,10.29,0,Basic,Credit Card,Yes,17.55
+AUR-00284,Yes,8.99,38,Basic,Debit Card,No,326.31
+AUR-00285,No,11.78,58,Plus,Credit Card,Yes,882.59
+AUR-00286,No,13.03,2,Plus,Debit Card,Yes,20.76
+AUR-00287,No,8.6,3,Basic,Debit Card,Yes,14.22
+AUR-00288,Yes,8.43,27,Basic,Credit Card,Yes,268.56
+AUR-00289,No,13.09,37,Plus,PayPal,Yes,548.44
+AUR-00290,No,8.44,34,Basic,PayPal,Yes,117.55
+AUR-00291,No,19.87,31,Premium,Credit Card,Yes,885.13
+AUR-00292,No,7.59,18,Basic,Debit Card,Yes,431.99
+AUR-00293,No,19.21,4,Premium,Debit Card,Yes,173.25
+AUR-00294,No,8.24,2,Basic,Credit Card,Yes,103.61
+AUR-00295,No,20.81,7,Premium,Credit Card,Yes,268.46
+AUR-00296,Yes,15.69,50,Premium,Debit Card,Yes,676.77
+AUR-00297,No,20.18,57,Premium,PayPal,Yes,1141.13
+AUR-00298,No,16.4,31,Premium,Debit Card,Yes,199.59
+AUR-00299,Yes,13.06,5,Plus,Debit Card,No,0.0
+AUR-00300,No,15.15,30,Plus,Debit Card,Yes,575.93
+AUR-00301,Yes,12.53,71,Plus,Credit Card,Yes,519.06
+AUR-00302,Yes,10.49,18,Basic,Credit Card,Yes,71.21
+AUR-00303,No,14.35,35,Plus,Credit Card,Yes,652.81
+AUR-00304,No,14.18,39,Plus,PayPal,Yes,1883.52
+AUR-00305,No,17.09,24,Premium,PayPal,Yes,654.93
+AUR-00306,No,15.14,31,Plus,PayPal,Yes,467.4
+AUR-00307,Yes,13.83,34,Plus,Credit Card,Yes,1780.2
+AUR-00308,No,14.94,34,Plus,Debit Card,No,291.82
+AUR-00309,Yes,8.78,52,Basic,Debit Card,Yes,591.51
+AUR-00310,Yes,9.69,42,Basic,Credit Card,No,976.3
+AUR-00311,No,13.78,3,Plus,Credit Card,No,46.06
+AUR-00312,Yes,14.51,0,Plus,PayPal,Yes,0.0
+AUR-00313,Yes,6.51,29,Basic,Debit Card,Yes,187.19
+AUR-00314,No,9.56,66,Basic,Debit Card,Yes,660.89
+AUR-00315,Yes,8.83,2,Basic,Credit Card,Yes,115.27
+AUR-00316,Yes,8.51,5,Basic,Debit Card,Yes,108.49
+AUR-00317,Yes,9.17,49,Basic,Credit Card,Yes,398.41
+AUR-00318,No,12.19,32,Plus,Credit Card,Yes,377.43
+AUR-00319,Yes,8.49,16,Basic,Debit Card,No,62.2
+AUR-00320,No,18.89,15,Premium,Credit Card,Yes,304.71
+AUR-00321,No,19.96,48,Premium,Gift Card,Yes,523.08
+AUR-00322,No,11.0,38,Plus,Debit Card,No,316.96
+AUR-00323,Yes,6.87,46,Basic,Credit Card,No,624.23
+AUR-00324,Yes,14.44,20,Plus,Credit Card,Yes,322.64
+AUR-00325,No,16.14,38,Premium,PayPal,Yes,560.31
+AUR-00326,No,14.51,62,Plus,Credit Card,No,704.44
+AUR-00327,No,17.17,23,Premium,Credit Card,Yes,492.23
+AUR-00328,No,14.56,28,Plus,Credit Card,Yes,314.88
+AUR-00329,No,13.36,11,Plus,Credit Card,No,100.65
+AUR-00330,No,9.91,46,Basic,Debit Card,Yes,802.64
+AUR-00331,Yes,15.78,2,Plus,Debit Card,Yes,0.0
+AUR-00332,Yes,9.23,18,Basic,Credit Card,Yes,367.85
+AUR-00333,Yes,13.44,52,Plus,PayPal,Yes,652.57
+AUR-00334,No,18.15,1,Premium,Credit Card,Yes,148.51
+AUR-00335,No,8.68,72,Basic,Debit Card,Yes,664.11
+AUR-00336,No,14.5,29,Plus,Credit Card,Yes,614.99
+AUR-00337,Yes,8.02,29,Basic,Debit Card,Yes,201.29
+AUR-00338,No,14.7,39,Plus,Credit Card,No,929.5
+AUR-00339,Yes,7.52,46,Basic,Debit Card,No,684.98
+AUR-00340,No,17.69,33,Premium,Credit Card,Yes,529.84
+AUR-00341,No,9.21,64,Basic,Gift Card,No,1238.38
+AUR-00342,No,19.36,70,Premium,Credit Card,Yes,1252.43
+AUR-00343,No,23.49,14,Premium,PayPal,Yes,78.62
+AUR-00344,Yes,16.05,51,Plus,PayPal,Yes,1190.38
+AUR-00345,No,18.66,21,Premium,Credit Card,Yes,707.03
+AUR-00346,No,16.81,72,Premium,Credit Card,Yes,1574.44
+AUR-00347,No,15.92,18,Premium,Credit Card,Yes,250.65
+AUR-00348,Yes,10.6,21,Basic,Gift Card,Yes,224.63
+AUR-00349,Yes,13.61,52,Plus,Debit Card,Yes,613.84
+AUR-00350,No,9.19,57,Basic,Debit Card,Yes,727.88
+AUR-00351,No,13.21,9,Plus,Credit Card,Yes,99.68
+AUR-00352,No,7.61,40,Basic,PayPal,Yes,305.8
+AUR-00353,No,12.19,25,Plus,Credit Card,Yes,188.91
+AUR-00354,Yes,15.85,44,Plus,Credit Card,Yes,394.3
+AUR-00355,No,14.5,40,Plus,Credit Card,Yes,495.98
+AUR-00356,Yes,14.53,71,Plus,Debit Card,No,1550.16
+AUR-00357,No,17.5,68,Plus,PayPal,No,705.55
+AUR-00358,No,17.47,47,Premium,PayPal,Yes,1016.71
+AUR-00359,No,14.38,49,Plus,Credit Card,Yes,581.44
+AUR-00360,No,12.43,65,Plus,Credit Card,No,1021.97
+AUR-00361,No,16.49,13,Premium,PayPal,Yes,198.85
+AUR-00362,No,9.22,52,Basic,Debit Card,Yes,563.71
+AUR-00363,Yes,8.94,56,Basic,Credit Card,Yes,413.01
+AUR-00364,Yes,9.85,9,Basic,Credit Card,Yes,173.28
+AUR-00365,No,13.75,64,Plus,Debit Card,Yes,337.56
+AUR-00366,No,12.82,51,Plus,Gift Card,Yes,702.6
+AUR-00367,No,13.51,25,Plus,Debit Card,Yes,117.12
+AUR-00368,Yes,13.51,35,Plus,Credit Card,Yes,464.49
+AUR-00369,Yes,9.6,35,Basic,PayPal,Yes,369.55
+AUR-00370,No,18.74,67,Premium,Credit Card,No,1795.59
+AUR-00371,No,13.29,70,Plus,PayPal,Yes,450.02
+AUR-00372,Yes,6.0,58,Basic,Credit Card,Yes,243.87
+AUR-00373,Yes,9.54,47,Basic,Credit Card,Yes,788.58
+AUR-00374,Yes,7.99,7,Basic,Debit Card,Yes,86.13
+AUR-00375,No,7.57,66,Basic,Credit Card,No,265.06
+AUR-00376,Yes,8.8,9,Basic,Credit Card,Yes,113.18
+AUR-00377,No,18.71,12,Premium,Debit Card,Yes,331.71
+AUR-00378,No,12.32,5,Plus,PayPal,Yes,33.67
+AUR-00379,No,15.9,69,Plus,PayPal,Yes,1228.81
+AUR-00380,Yes,14.35,36,Plus,Credit Card,Yes,122.39
+AUR-00381,No,13.72,17,Plus,Credit Card,No,286.81
+AUR-00382,No,17.25,5,Premium,Debit Card,Yes,38.16
+AUR-00383,No,21.17,30,Premium,Credit Card,No,703.91
+AUR-00384,No,14.9,52,Plus,Credit Card,Yes,1135.05
+AUR-00385,No,9.4,72,Basic,PayPal,Yes,1017.55
+AUR-00386,No,16.81,40,Premium,Gift Card,No,1363.63
+AUR-00387,No,14.56,44,Plus,Credit Card,Yes,297.57
+AUR-00388,No,17.8,61,Premium,PayPal,No,1360.76
+AUR-00389,Yes,7.35,65,Basic,Debit Card,Yes,655.9
+AUR-00390,No,19.01,20,Premium,Credit Card,Yes,393.47
+AUR-00391,No,14.32,72,Plus,Debit Card,Yes,1046.07
+AUR-00392,Yes,9.69,37,Basic,Credit Card,Yes,642.59
+AUR-00393,No,14.81,67,Plus,Credit Card,No,925.94
+AUR-00394,No,14.15,8,Plus,Gift Card,Yes,182.66
+AUR-00395,Yes,9.75,7,Basic,Debit Card,Yes,80.12
+AUR-00396,No,14.79,64,Plus,Credit Card,No,1222.22
+AUR-00397,No,19.42,49,Premium,Debit Card,Yes,1344.93
+AUR-00398,Yes,9.04,12,Basic,Gift Card,No,56.12
+AUR-00399,No,14.89,65,Plus,Credit Card,No,1205.26
+AUR-00400,No,14.19,7,Plus,PayPal,Yes,130.35
+AUR-00401,Yes,8.12,49,Basic,PayPal,Yes,717.34
+AUR-00402,No,20.03,14,Premium,Credit Card,No,310.9
+AUR-00403,No,18.68,5,Premium,Debit Card,Yes,97.08
+AUR-00404,No,8.01,58,Basic,Debit Card,Yes,330.17
+AUR-00405,No,19.67,61,Premium,PayPal,No,1312.74
+AUR-00406,No,16.93,7,Premium,Credit Card,Yes,270.78
+AUR-00407,Yes,10.02,6,Basic,Credit Card,No,125.31
+AUR-00408,No,19.46,44,Premium,Credit Card,Yes,2338.68
+AUR-00409,No,7.48,2,Basic,Debit Card,No,27.21
+AUR-00410,No,19.44,54,Premium,PayPal,Yes,744.7
+AUR-00411,No,13.73,66,Plus,PayPal,Yes,864.69
+AUR-00412,No,15.83,54,Plus,Debit Card,No,1108.93
+AUR-00413,No,10.05,16,Basic,Credit Card,Yes,57.41
+AUR-00414,No,20.41,13,Premium,Credit Card,Yes,439.81
+AUR-00415,No,8.82,49,Basic,PayPal,No,610.6
+AUR-00416,Yes,8.89,4,Basic,Debit Card,No,94.83
+AUR-00417,No,7.28,39,Basic,PayPal,No,505.8
+AUR-00418,No,13.42,32,Plus,Credit Card,Yes,687.6
+AUR-00419,Yes,8.84,54,Basic,Credit Card,Yes,432.32
+AUR-00420,No,15.32,14,Premium,PayPal,Yes,226.19
+AUR-00421,No,14.46,55,Plus,Credit Card,Yes,665.39
+AUR-00422,No,9.6,51,Basic,Credit Card,Yes,458.41
+AUR-00423,No,7.65,17,Basic,Debit Card,Yes,174.0
+AUR-00424,Yes,9.49,26,Basic,Debit Card,Yes,392.0
+AUR-00425,Yes,14.49,4,Plus,Gift Card,Yes,170.12
+AUR-00426,No,16.54,32,Premium,PayPal,Yes,270.67
+AUR-00427,Yes,9.08,19,Basic,PayPal,Yes,94.3
+AUR-00428,No,19.31,8,Premium,Credit Card,Yes,73.94
+AUR-00429,No,8.35,40,Basic,Debit Card,No,739.83
+AUR-00430,No,15.0,41,Premium,PayPal,No,235.38
+AUR-00431,No,18.78,6,Premium,Credit Card,Yes,299.7
+AUR-00432,No,13.26,13,Plus,Gift Card,No,251.52
+AUR-00433,No,13.02,6,Plus,Debit Card,No,66.66
+AUR-00434,No,19.69,49,Premium,Credit Card,Yes,858.13
+AUR-00435,Yes,9.84,24,Basic,Debit Card,Yes,355.63
+AUR-00436,Yes,6.79,5,Basic,Debit Card,Yes,221.87
+AUR-00437,No,9.34,13,Basic,Credit Card,Yes,232.23
+AUR-00438,No,13.57,71,Plus,Credit Card,Yes,2802.39
+AUR-00439,No,13.4,18,Plus,PayPal,Yes,231.27
+AUR-00440,No,12.24,49,Plus,Credit Card,No,504.67
+AUR-00441,No,17.07,34,Premium,Credit Card,Yes,915.53
+AUR-00442,No,10.61,13,Basic,Debit Card,Yes,193.71
+AUR-00443,Yes,13.21,22,Plus,PayPal,No,423.46
+AUR-00444,No,10.43,1,Basic,Debit Card,No,127.76
+AUR-00445,Yes,9.38,54,Basic,Gift Card,No,1260.36
+AUR-00446,No,14.31,24,Plus,PayPal,No,524.89
+AUR-00447,No,17.3,36,Premium,Debit Card,No,649.18
+AUR-00448,No,15.51,11,Plus,Credit Card,Yes,250.3
+AUR-00449,Yes,8.69,60,Basic,PayPal,No,1471.75
+AUR-00450,No,14.66,15,Plus,Credit Card,Yes,202.79
+AUR-00451,Yes,8.35,41,Basic,PayPal,Yes,257.66
+AUR-00452,No,16.27,63,Premium,Debit Card,Yes,938.01
+AUR-00453,No,11.0,52,Plus,Credit Card,Yes,875.73
+AUR-00454,Yes,8.69,44,Basic,Debit Card,Yes,372.86
+AUR-00455,Yes,9.53,64,Basic,Debit Card,Yes,428.67
+AUR-00456,Yes,8.18,12,Basic,PayPal,Yes,128.9
+AUR-00457,No,17.16,70,Premium,Credit Card,Yes,845.77
+AUR-00458,No,14.76,40,Plus,PayPal,Yes,538.81
+AUR-00459,No,17.2,29,Premium,Credit Card,No,462.7
+AUR-00460,No,13.32,18,Plus,PayPal,Yes,199.3
+AUR-00461,No,14.53,54,Plus,PayPal,Yes,680.49
+AUR-00462,Yes,9.75,71,Basic,Credit Card,Yes,722.33
+AUR-00463,No,16.9,50,Premium,Credit Card,No,518.77
+AUR-00464,No,11.12,2,Basic,PayPal,Yes,159.06
+AUR-00465,No,13.97,34,Plus,PayPal,Yes,1032.29
+AUR-00466,No,13.76,53,Plus,Credit Card,Yes,1066.92
+AUR-00467,No,13.87,29,Plus,Debit Card,No,401.96
+AUR-00468,No,16.81,56,Premium,PayPal,No,738.66
+AUR-00469,No,8.93,51,Basic,Credit Card,No,388.95
+AUR-00470,Yes,13.96,4,Plus,Debit Card,Yes,5.71
+AUR-00471,No,15.6,40,Plus,Credit Card,Yes,462.64
+AUR-00472,No,13.97,12,Plus,Credit Card,Yes,128.89
+AUR-00473,No,7.65,35,Basic,PayPal,Yes,743.75
+AUR-00474,Yes,7.65,28,Basic,Credit Card,Yes,222.73
+AUR-00475,No,9.77,58,Basic,PayPal,No,1141.41
+AUR-00476,No,8.93,63,Basic,Debit Card,No,1165.57
+AUR-00477,No,15.29,33,Plus,Debit Card,Yes,349.38
+AUR-00478,No,15.12,39,Plus,Credit Card,Yes,643.75
+AUR-00479,No,14.79,45,Plus,Credit Card,Yes,443.6
+AUR-00480,No,11.85,47,Plus,PayPal,Yes,861.77
+AUR-00481,No,15.33,46,Plus,Debit Card,Yes,908.92
+AUR-00482,No,9.87,57,Basic,PayPal,Yes,1163.29
+AUR-00483,No,13.44,71,Plus,Credit Card,Yes,1080.35
+AUR-00484,No,8.46,60,Basic,Credit Card,Yes,764.31
+AUR-00485,Yes,9.82,9,Basic,Credit Card,Yes,137.81
+AUR-00486,No,14.85,34,Plus,PayPal,No,355.94
+AUR-00487,No,12.82,33,Plus,Credit Card,Yes,642.86
+AUR-00488,No,8.83,37,Basic,Debit Card,Yes,373.06
+AUR-00489,No,12.57,38,Plus,Debit Card,Yes,794.25
+AUR-00490,Yes,16.36,52,Plus,Credit Card,No,1607.43
+AUR-00491,No,12.84,30,Plus,Debit Card,Yes,438.37
+AUR-00492,No,15.37,19,Plus,Debit Card,Yes,518.69
+AUR-00493,No,14.13,33,Plus,Gift Card,Yes,762.49
+AUR-00494,No,8.26,62,Basic,Credit Card,Yes,465.4
+AUR-00495,No,17.56,22,Premium,Debit Card,Yes,261.18
+AUR-00496,No,13.49,1,Plus,Credit Card,No,27.72
+AUR-00497,No,13.94,71,Plus,PayPal,No,1183.85
+AUR-00498,Yes,12.43,14,Plus,Debit Card,No,289.47
+AUR-00499,Yes,8.59,44,Basic,Credit Card,No,308.75
+AUR-00500,Yes,13.97,58,Plus,PayPal,Yes,919.32
+AUR-00501,No,12.69,20,Plus,Debit Card,Yes,360.73
+AUR-00502,No,17.54,24,Premium,Credit Card,Yes,384.29
+AUR-00503,No,20.99,20,Premium,Debit Card,Yes,606.44
+AUR-00504,Yes,13.52,10,Plus,Credit Card,Yes,128.88
+AUR-00505,Yes,15.1,11,Plus,PayPal,No,55.07
+AUR-00506,No,17.36,13,Premium,PayPal,Yes,78.96
+AUR-00507,Yes,7.79,33,Basic,PayPal,No,492.48
+AUR-00508,No,18.54,38,Premium,PayPal,Yes,528.33
+AUR-00509,No,14.3,1,Plus,PayPal,No,256.57
+AUR-00510,No,10.98,61,Basic,Credit Card,No,930.46
+AUR-00511,No,8.89,49,Basic,Credit Card,No,1191.84
+AUR-00512,No,17.07,5,Premium,Credit Card,Yes,120.89
+AUR-00513,No,9.63,61,Basic,PayPal,Yes,374.96
+AUR-00514,Yes,8.45,2,Basic,PayPal,Yes,56.55
+AUR-00515,Yes,7.94,40,Basic,PayPal,No,100.83
+AUR-00516,No,8.76,33,Basic,Credit Card,Yes,231.89
+AUR-00517,No,10.09,36,Basic,Credit Card,Yes,760.89
+AUR-00518,No,12.21,69,Plus,PayPal,Yes,746.71
+AUR-00519,Yes,8.47,67,Basic,Credit Card,Yes,387.38
+AUR-00520,No,17.05,20,Premium,Debit Card,No,476.95
+AUR-00521,No,15.26,42,Premium,Credit Card,Yes,1263.18
+AUR-00522,No,8.12,70,Basic,Credit Card,Yes,278.43
+AUR-00523,Yes,9.15,53,Basic,Debit Card,Yes,308.51
+AUR-00524,No,15.01,64,Plus,Gift Card,Yes,1058.92
+AUR-00525,No,9.49,31,Basic,PayPal,Yes,285.79
+AUR-00526,Yes,10.63,20,Basic,Debit Card,Yes,141.66
+AUR-00527,No,15.48,37,Premium,Credit Card,Yes,1040.9
+AUR-00528,No,16.06,59,Premium,PayPal,No,876.69
+AUR-00529,No,13.98,67,Plus,Debit Card,No,1289.16
+AUR-00530,Yes,9.34,50,Basic,Debit Card,No,706.13
+AUR-00531,No,13.34,51,Plus,Debit Card,Yes,439.7
+AUR-00532,No,14.89,37,Plus,Credit Card,No,370.94
+AUR-00533,No,13.79,23,Plus,Credit Card,Yes,616.25
+AUR-00534,Yes,12.59,30,Plus,PayPal,Yes,407.28
+AUR-00535,Yes,9.63,36,Basic,Debit Card,Yes,424.24
+AUR-00536,Yes,9.71,59,Basic,Credit Card,Yes,533.57
+AUR-00537,No,16.21,40,Plus,Credit Card,Yes,662.49
+AUR-00538,No,7.84,57,Basic,Gift Card,No,570.85
+AUR-00539,No,8.03,1,Basic,Debit Card,No,0.0
+AUR-00540,No,18.28,55,Premium,Debit Card,Yes,1363.91
+AUR-00541,No,19.71,37,Premium,Credit Card,Yes,633.45
+AUR-00542,No,13.97,72,Plus,Gift Card,Yes,2775.22
+AUR-00543,No,15.13,34,Premium,PayPal,Yes,720.89
+AUR-00544,No,17.11,34,Premium,Debit Card,Yes,629.4
+AUR-00545,No,7.91,9,Basic,Credit Card,No,0.0
+AUR-00546,Yes,13.89,58,Plus,Debit Card,Yes,1403.08
+AUR-00547,No,13.5,51,Plus,PayPal,Yes,697.13
+AUR-00548,Yes,7.66,62,Basic,PayPal,Yes,632.52
+AUR-00549,No,15.41,6,Plus,Gift Card,Yes,183.13
+AUR-00550,No,13.36,15,Plus,Debit Card,Yes,66.84
+AUR-00551,No,12.14,64,Plus,Credit Card,No,1472.4
+AUR-00552,No,9.79,3,Basic,Debit Card,Yes,30.31
+AUR-00553,No,9.28,37,Basic,PayPal,No,257.54
+AUR-00554,No,15.8,29,Premium,Credit Card,No,1148.57
+AUR-00555,Yes,9.07,68,Basic,Credit Card,Yes,697.34
+AUR-00556,Yes,6.4,62,Basic,PayPal,Yes,650.62
+AUR-00557,Yes,11.05,65,Basic,Credit Card,Yes,344.88
+AUR-00558,No,13.18,21,Plus,PayPal,Yes,339.82
+AUR-00559,No,15.58,42,Plus,Credit Card,Yes,592.52
+AUR-00560,No,14.99,51,Plus,Credit Card,Yes,564.58
+AUR-00561,Yes,8.1,70,Basic,Credit Card,Yes,380.53
+AUR-00562,Yes,11.04,0,Basic,Debit Card,No,0.0
+AUR-00563,No,17.57,71,Premium,PayPal,Yes,1282.98
+AUR-00564,No,13.68,25,Plus,Debit Card,Yes,421.73
+AUR-00565,Yes,15.64,9,Plus,Debit Card,Yes,212.56
+AUR-00566,No,14.89,44,Plus,Credit Card,Yes,1028.39
+AUR-00567,No,13.67,57,Plus,PayPal,Yes,532.17
+AUR-00568,Yes,7.54,9,Basic,Gift Card,No,117.91
+AUR-00569,Yes,8.18,2,Basic,PayPal,Yes,95.37
+AUR-00570,No,13.79,65,Plus,Credit Card,Yes,663.59
+AUR-00571,No,6.79,68,Basic,Debit Card,Yes,250.1
+AUR-00572,No,19.71,11,Premium,Credit Card,Yes,273.06
+AUR-00573,Yes,14.39,65,Plus,Credit Card,No,826.23
+AUR-00574,No,12.99,66,Plus,Credit Card,Yes,1012.44
+AUR-00575,No,17.27,72,Premium,Credit Card,Yes,5014.09
+AUR-00576,No,14.0,15,Plus,Credit Card,Yes,318.96
+AUR-00577,No,17.91,42,Premium,PayPal,Yes,1008.15
+AUR-00578,Yes,14.36,72,Plus,Credit Card,Yes,687.34
+AUR-00579,No,20.32,65,Premium,PayPal,Yes,1362.02
+AUR-00580,No,9.35,44,Basic,PayPal,No,368.74
+AUR-00581,Yes,11.97,14,Plus,Debit Card,Yes,72.69
+AUR-00582,No,13.76,6,Plus,Debit Card,Yes,63.09
+AUR-00583,Yes,7.89,18,Basic,PayPal,Yes,244.42
+AUR-00584,No,13.63,4,Plus,Credit Card,Yes,57.08
+AUR-00585,No,18.72,14,Premium,Credit Card,Yes,347.33
+AUR-00586,No,15.22,5,Plus,Debit Card,No,151.86
+AUR-00587,Yes,7.92,55,Basic,PayPal,No,908.14
+AUR-00588,No,7.62,43,Basic,PayPal,No,289.86
+AUR-00589,No,9.77,37,Basic,PayPal,Yes,575.75
+AUR-00590,Yes,9.7,59,Basic,Debit Card,Yes,270.2
+AUR-00591,No,16.77,29,Premium,Debit Card,No,454.13
+AUR-00592,Yes,11.78,29,Plus,PayPal,Yes,286.19
+AUR-00593,Yes,10.8,15,Basic,PayPal,Yes,196.45
+AUR-00594,No,13.53,32,Plus,Debit Card,No,390.89
+AUR-00595,No,8.3,12,Basic,Gift Card,No,102.81
+AUR-00596,Yes,9.21,43,Basic,PayPal,No,395.34
+AUR-00597,No,13.41,72,Plus,Debit Card,Yes,707.64
+AUR-00598,No,15.14,38,Plus,Credit Card,Yes,580.9
+AUR-00599,No,18.24,21,Premium,Credit Card,Yes,504.47
+AUR-00600,No,13.94,50,Plus,PayPal,No,1344.66
+AUR-00601,No,16.15,59,Plus,Credit Card,Yes,528.83
+AUR-00602,Yes,14.78,34,Plus,Debit Card,Yes,888.98
+AUR-00603,No,16.67,18,Premium,Debit Card,No,558.42
+AUR-00604,No,13.5,52,Plus,PayPal,Yes,495.82
+AUR-00605,No,18.66,13,Premium,PayPal,Yes,281.71
+AUR-00606,No,18.81,72,Premium,PayPal,No,1649.3
+AUR-00607,No,15.8,23,Premium,Credit Card,Yes,571.9
+AUR-00608,Yes,7.7,25,Basic,Credit Card,Yes,118.08
+AUR-00609,No,14.28,53,Plus,Debit Card,Yes,555.64
+AUR-00610,No,13.57,0,Plus,Credit Card,Yes,0.0
+AUR-00611,Yes,15.02,14,Plus,Debit Card,Yes,278.54
+AUR-00612,No,12.39,9,Plus,Gift Card,Yes,161.08
+AUR-00613,No,18.27,28,Premium,Debit Card,Yes,324.07
+AUR-00614,No,17.8,40,Premium,Debit Card,Yes,461.89
+AUR-00615,Yes,8.65,13,Basic,Debit Card,Yes,208.78
+AUR-00616,Yes,13.0,25,Plus,PayPal,Yes,187.46
+AUR-00617,Yes,14.54,56,Plus,Credit Card,Yes,1325.25
+AUR-00618,No,8.47,68,Basic,Debit Card,No,607.99
+AUR-00619,Yes,9.45,1,Basic,Credit Card,Yes,14.43
+AUR-00620,Yes,10.01,45,Basic,Debit Card,Yes,1212.19
+AUR-00621,Yes,15.46,1,Plus,Credit Card,Yes,73.35
+AUR-00622,No,11.35,37,Plus,Debit Card,Yes,570.01
+AUR-00623,No,18.86,64,Premium,PayPal,No,1176.93
+AUR-00624,No,15.64,58,Plus,Credit Card,Yes,771.01
+AUR-00625,No,19.32,16,Premium,Debit Card,Yes,92.6
+AUR-00626,No,13.82,18,Plus,Credit Card,No,162.16
+AUR-00627,No,18.75,57,Premium,Credit Card,Yes,894.28
+AUR-00628,No,9.98,59,Basic,Credit Card,Yes,322.04
+AUR-00629,Yes,11.73,20,Plus,Credit Card,Yes,432.82
+AUR-00630,No,17.5,0,Premium,Gift Card,Yes,64.08
+AUR-00631,No,19.48,32,Premium,Gift Card,No,952.93
+AUR-00632,No,16.59,45,Premium,PayPal,Yes,478.21
+AUR-00633,Yes,8.15,32,Basic,Debit Card,Yes,301.69
+AUR-00634,Yes,9.99,68,Basic,PayPal,No,381.8
+AUR-00635,Yes,8.95,59,Basic,PayPal,Yes,420.7
+AUR-00636,No,8.67,57,Basic,Debit Card,No,498.91
+AUR-00637,Yes,11.0,1,Plus,Credit Card,Yes,9.63
+AUR-00638,No,12.15,62,Plus,PayPal,Yes,537.27
+AUR-00639,Yes,13.97,55,Plus,Gift Card,No,1449.21
+AUR-00640,No,15.88,28,Premium,Credit Card,Yes,519.53
+AUR-00641,No,13.91,43,Plus,Debit Card,Yes,596.37
+AUR-00642,No,15.0,60,Premium,Credit Card,No,597.22
+AUR-00643,Yes,8.28,66,Basic,Credit Card,Yes,772.94
+AUR-00644,No,8.43,40,Basic,PayPal,Yes,601.83
+AUR-00645,No,14.75,3,Plus,Credit Card,No,164.78
+AUR-00646,No,17.88,45,Premium,PayPal,Yes,638.57
+AUR-00647,No,10.73,49,Basic,PayPal,Yes,512.13
+AUR-00648,Yes,13.33,4,Plus,Credit Card,No,66.21
+AUR-00649,No,12.66,59,Plus,PayPal,Yes,434.06
+AUR-00650,Yes,9.3,14,Basic,PayPal,No,269.29
+AUR-00651,Yes,13.49,65,Plus,Debit Card,No,1542.54
+AUR-00652,No,16.68,40,Premium,Debit Card,Yes,686.55
+AUR-00653,No,14.03,23,Plus,PayPal,Yes,202.0
+AUR-00654,Yes,9.16,4,Basic,Credit Card,No,192.33
+AUR-00655,No,18.63,1,Premium,Credit Card,No,82.32
+AUR-00656,No,8.73,54,Basic,Credit Card,Yes,438.24
+AUR-00657,No,15.0,27,Premium,Credit Card,Yes,625.83
+AUR-00658,Yes,11.44,61,Basic,Debit Card,Yes,455.2
+AUR-00659,No,14.27,16,Plus,Credit Card,No,225.07
+AUR-00660,No,13.04,67,Plus,Debit Card,No,1479.59
+AUR-00661,Yes,10.3,68,Basic,Debit Card,No,554.79
+AUR-00662,No,16.95,7,Premium,PayPal,Yes,130.91
+AUR-00663,No,8.27,47,Basic,Debit Card,No,446.3
+AUR-00664,Yes,8.72,68,Basic,PayPal,Yes,444.32
+AUR-00665,No,8.78,23,Basic,PayPal,Yes,350.38
+AUR-00666,No,15.07,4,Plus,Credit Card,Yes,69.08
+AUR-00667,No,18.74,63,Premium,Debit Card,Yes,1227.43
+AUR-00668,No,16.34,34,Premium,Credit Card,Yes,721.99
+AUR-00669,Yes,9.14,1,Basic,PayPal,Yes,92.21
+AUR-00670,No,13.24,61,Plus,Debit Card,Yes,532.63
+AUR-00671,Yes,8.29,49,Basic,Credit Card,No,328.71
+AUR-00672,Yes,12.95,5,Plus,Credit Card,Yes,65.83
+AUR-00673,No,18.64,18,Premium,Credit Card,Yes,328.72
+AUR-00674,No,13.34,1,Plus,PayPal,Yes,0.0
+AUR-00675,No,15.28,69,Plus,PayPal,Yes,1128.66
+AUR-00676,No,13.83,1,Plus,Credit Card,Yes,128.09
+AUR-00677,No,17.1,58,Premium,Credit Card,Yes,721.11
+AUR-00678,No,13.16,37,Plus,Credit Card,Yes,546.98
+AUR-00679,Yes,9.43,42,Basic,Debit Card,Yes,642.79
+AUR-00680,Yes,10.44,59,Basic,Credit Card,No,637.76
+AUR-00681,Yes,7.68,65,Basic,Credit Card,Yes,840.44
+AUR-00682,Yes,7.86,9,Basic,PayPal,No,103.38
+AUR-00683,No,8.51,1,Basic,Debit Card,Yes,33.53
+AUR-00684,No,15.1,9,Plus,PayPal,No,168.77
+AUR-00685,Yes,16.56,49,Plus,Debit Card,Yes,476.55
+AUR-00686,No,8.55,41,Basic,Debit Card,Yes,477.15
+AUR-00687,Yes,14.24,6,Plus,Debit Card,Yes,86.24
+AUR-00688,No,17.94,17,Premium,Credit Card,Yes,249.74
+AUR-00689,No,15.47,39,Plus,Credit Card,No,589.9
+AUR-00690,No,15.23,53,Plus,Gift Card,Yes,1650.17
+AUR-00691,Yes,10.99,25,Basic,PayPal,Yes,500.23
+AUR-00692,No,18.94,69,Premium,PayPal,No,978.29
+AUR-00693,Yes,9.99,72,Basic,Credit Card,No,1424.11
+AUR-00694,Yes,9.93,55,Basic,Credit Card,Yes,942.82
+AUR-00695,No,19.51,33,Premium,Credit Card,Yes,780.09
+AUR-00696,No,13.26,64,Plus,PayPal,No,773.0
+AUR-00697,No,14.02,53,Plus,PayPal,No,1041.77
+AUR-00698,No,12.45,37,Plus,Debit Card,No,398.04
+AUR-00699,No,13.74,32,Plus,Gift Card,No,1435.95
+AUR-00700,No,8.73,60,Basic,Credit Card,Yes,355.18
+AUR-00701,No,8.7,40,Basic,Debit Card,Yes,736.18
+AUR-00702,Yes,7.54,13,Basic,Credit Card,Yes,161.96
+AUR-00703,Yes,9.77,72,Basic,Credit Card,Yes,676.1
+AUR-00704,No,18.14,4,Premium,PayPal,No,74.71
+AUR-00705,No,9.48,50,Basic,PayPal,Yes,566.74
+AUR-00706,No,13.24,47,Plus,Credit Card,Yes,408.48
+AUR-00707,No,16.69,42,Premium,Credit Card,Yes,709.92
+AUR-00708,No,17.26,3,Premium,Debit Card,Yes,0.0
+AUR-00709,No,13.51,35,Plus,Credit Card,Yes,281.32
+AUR-00710,No,13.09,65,Plus,Debit Card,Yes,813.16
+AUR-00711,No,19.01,17,Premium,Debit Card,Yes,667.64
+AUR-00712,No,13.65,50,Plus,Credit Card,Yes,824.8
+AUR-00713,No,16.36,62,Premium,Credit Card,Yes,1034.12
+AUR-00714,No,17.71,69,Premium,Credit Card,Yes,3985.48
+AUR-00715,No,17.37,37,Premium,PayPal,Yes,389.48
+AUR-00716,No,10.28,22,Basic,Credit Card,No,316.72
+AUR-00717,No,14.63,51,Plus,Debit Card,Yes,529.96
+AUR-00718,Yes,8.78,35,Basic,Credit Card,No,336.53
+AUR-00719,No,13.85,45,Plus,PayPal,Yes,521.48
+AUR-00720,No,17.82,54,Premium,Credit Card,Yes,791.5
+AUR-00721,No,11.75,51,Plus,Credit Card,Yes,569.7
+AUR-00722,No,13.09,17,Plus,PayPal,No,235.61
+AUR-00723,Yes,8.85,55,Basic,PayPal,No,325.48
+AUR-00724,No,16.38,39,Premium,Credit Card,Yes,468.81
+AUR-00725,Yes,9.16,67,Basic,Credit Card,Yes,830.59
+AUR-00726,No,9.88,48,Basic,Gift Card,Yes,439.5
+AUR-00727,Yes,7.52,65,Basic,Credit Card,Yes,191.55
+AUR-00728,Yes,9.73,71,Basic,Credit Card,Yes,348.16
+AUR-00729,No,12.17,72,Plus,Credit Card,No,1171.2
+AUR-00730,No,14.28,54,Plus,Credit Card,Yes,673.05
+AUR-00731,Yes,8.97,43,Basic,Debit Card,No,484.78
+AUR-00732,No,7.93,8,Basic,Debit Card,No,277.67
+AUR-00733,No,6.91,28,Basic,Debit Card,Yes,288.88
+AUR-00734,No,14.59,34,Plus,Debit Card,Yes,545.62
+AUR-00735,No,8.85,56,Basic,Credit Card,No,179.58
+AUR-00736,No,14.3,42,Plus,PayPal,Yes,1257.35
+AUR-00737,Yes,10.44,32,Basic,Credit Card,Yes,329.99
+AUR-00738,Yes,10.66,10,Basic,Credit Card,No,467.09
+AUR-00739,No,13.05,52,Plus,Debit Card,Yes,541.56
+AUR-00740,No,14.29,31,Plus,Credit Card,No,368.56
+AUR-00741,Yes,9.35,2,Basic,Credit Card,Yes,110.44
+AUR-00742,Yes,10.95,20,Basic,Credit Card,Yes,312.53
+AUR-00743,No,15.03,64,Premium,PayPal,Yes,1651.77
+AUR-00744,Yes,8.95,8,Basic,Credit Card,Yes,12.24
+AUR-00745,No,13.43,29,Plus,PayPal,Yes,278.2
+AUR-00746,No,12.62,37,Plus,PayPal,Yes,306.85
+AUR-00747,Yes,9.94,6,Basic,Debit Card,Yes,13.3
+AUR-00748,No,14.88,12,Plus,Credit Card,Yes,146.99
+AUR-00749,Yes,18.82,68,Premium,PayPal,Yes,537.43
+AUR-00750,No,19.53,43,Premium,Credit Card,Yes,849.42
+AUR-00751,Yes,8.54,15,Basic,PayPal,Yes,108.34
+AUR-00752,Yes,8.48,12,Basic,PayPal,Yes,175.68
+AUR-00753,Yes,8.31,31,Basic,Credit Card,Yes,378.16
+AUR-00754,No,14.97,52,Plus,PayPal,Yes,951.25
+AUR-00755,No,15.13,53,Plus,Debit Card,Yes,1533.94
+AUR-00756,Yes,6.93,14,Basic,Debit Card,Yes,223.74
+AUR-00757,Yes,10.28,52,Basic,Credit Card,No,616.74
+AUR-00758,No,15.12,65,Premium,Debit Card,Yes,1202.17
+AUR-00759,Yes,8.35,16,Basic,PayPal,Yes,146.46
+AUR-00760,No,13.26,1,Plus,PayPal,No,58.23
+AUR-00761,No,15.41,69,Plus,Credit Card,Yes,622.97
+AUR-00762,Yes,8.19,38,Basic,Debit Card,Yes,325.87
+AUR-00763,Yes,7.81,56,Basic,Debit Card,Yes,434.07
+AUR-00764,No,8.79,23,Basic,Debit Card,Yes,260.37
+AUR-00765,No,18.58,21,Premium,Debit Card,Yes,289.23
+AUR-00766,Yes,10.75,16,Basic,Credit Card,Yes,46.41
+AUR-00767,Yes,11.08,15,Basic,PayPal,Yes,297.35
+AUR-00768,Yes,7.33,34,Basic,Credit Card,Yes,327.84
+AUR-00769,Yes,8.64,7,Basic,Credit Card,Yes,28.69
+AUR-00770,No,13.4,61,Plus,Debit Card,Yes,1058.76
+AUR-00771,Yes,7.96,37,Basic,Credit Card,Yes,744.52
+AUR-00772,No,14.77,66,Plus,Credit Card,Yes,1149.25
+AUR-00773,Yes,13.38,36,Plus,Credit Card,Yes,329.53
+AUR-00774,No,19.72,22,Premium,Debit Card,Yes,207.19
+AUR-00775,Yes,9.98,37,Basic,Gift Card,Yes,202.29
+AUR-00776,No,18.94,11,Premium,Debit Card,Yes,438.42
+AUR-00777,No,13.72,60,Plus,Credit Card,No,567.17
+AUR-00778,Yes,9.28,52,Basic,PayPal,No,344.04
+AUR-00779,No,11.08,10,Plus,Credit Card,Yes,111.95
+AUR-00780,No,17.32,42,Premium,Gift Card,Yes,640.81
+AUR-00781,No,8.35,39,Basic,Debit Card,Yes,229.15
+AUR-00782,No,16.48,14,Premium,Credit Card,No,79.79
+AUR-00783,Yes,13.63,8,Plus,Debit Card,Yes,162.81
+AUR-00784,No,14.1,55,Plus,Credit Card,Yes,665.48
+AUR-00785,No,18.12,19,Premium,PayPal,No,423.72
+AUR-00786,Yes,9.06,37,Basic,Credit Card,Yes,558.16
+AUR-00787,No,18.39,18,Premium,PayPal,No,466.74
+AUR-00788,No,8.51,47,Basic,PayPal,Yes,317.56
+AUR-00789,No,18.14,3,Premium,PayPal,Yes,0.0
+AUR-00790,No,13.5,26,Plus,PayPal,No,342.2
+AUR-00791,Yes,10.6,39,Basic,Credit Card,Yes,479.16
+AUR-00792,No,16.1,32,Plus,Debit Card,Yes,847.07
+AUR-00793,No,9.54,44,Basic,PayPal,No,503.3
+AUR-00794,No,9.66,13,Basic,Credit Card,No,104.8
+AUR-00795,Yes,6.32,32,Basic,Credit Card,Yes,176.06
+AUR-00796,No,8.92,55,Basic,Credit Card,No,547.46
+AUR-00797,No,11.07,24,Basic,Credit Card,Yes,152.88
+AUR-00798,Yes,10.32,11,Basic,PayPal,Yes,172.79
+AUR-00799,No,12.6,61,Plus,Debit Card,No,558.69
+AUR-00800,No,13.31,56,Plus,Debit Card,Yes,924.18
+AUR-00801,No,12.9,49,Plus,Gift Card,No,1293.66
+AUR-00802,Yes,7.14,58,Basic,Credit Card,Yes,438.35
+AUR-00803,No,17.7,56,Premium,PayPal,Yes,1485.28
+AUR-00804,No,13.31,54,Plus,Credit Card,Yes,886.03
+AUR-00805,No,8.68,37,Basic,Credit Card,Yes,594.66
+AUR-00806,Yes,7.79,1,Basic,Credit Card,No,170.04
+AUR-00807,Yes,15.23,43,Plus,Credit Card,Yes,527.97
+AUR-00808,No,10.7,19,Basic,Credit Card,Yes,247.97
+AUR-00809,No,15.76,56,Plus,Debit Card,Yes,575.6
+AUR-00810,No,16.26,34,Premium,Credit Card,Yes,948.19
+AUR-00811,Yes,9.23,66,Basic,Credit Card,Yes,715.03
+AUR-00812,Yes,8.22,43,Basic,Debit Card,Yes,259.43
+AUR-00813,No,18.67,40,Premium,Credit Card,Yes,1544.47
+AUR-00814,Yes,13.15,67,Plus,PayPal,Yes,959.34
+AUR-00815,Yes,9.02,34,Basic,PayPal,Yes,207.45
+AUR-00816,No,18.74,27,Premium,PayPal,Yes,497.38
+AUR-00817,No,18.31,27,Premium,Debit Card,Yes,883.68
+AUR-00818,No,13.12,63,Plus,Debit Card,Yes,569.02
+AUR-00819,No,12.6,55,Plus,Debit Card,Yes,1253.36
+AUR-00820,No,6.38,11,Basic,PayPal,Yes,203.14
+AUR-00821,No,7.91,35,Basic,Gift Card,Yes,562.85
+AUR-00822,No,15.56,27,Plus,Credit Card,No,581.91
+AUR-00823,Yes,9.03,47,Basic,Debit Card,Yes,501.56
+AUR-00824,No,15.34,3,Plus,PayPal,No,227.71
+AUR-00825,No,18.17,52,Premium,Credit Card,Yes,996.2
+AUR-00826,No,9.84,54,Basic,Debit Card,Yes,482.35
+AUR-00827,No,13.86,16,Plus,Debit Card,No,361.42
+AUR-00828,No,7.05,10,Basic,PayPal,Yes,112.86
+AUR-00829,No,20.68,45,Premium,Credit Card,Yes,1672.8
+AUR-00830,Yes,8.61,18,Basic,Credit Card,Yes,330.18
+AUR-00831,No,12.31,68,Plus,Credit Card,Yes,1279.26
+AUR-00832,No,12.42,56,Plus,Debit Card,Yes,1067.07
+AUR-00833,No,14.19,69,Plus,PayPal,No,1234.86
+AUR-00834,No,14.65,39,Plus,PayPal,Yes,769.19
+AUR-00835,No,11.51,68,Plus,Credit Card,Yes,767.15
+AUR-00836,No,13.6,1,Plus,Credit Card,Yes,0.0
+AUR-00837,No,15.93,21,Plus,PayPal,Yes,352.24
+AUR-00838,No,16.99,0,Premium,PayPal,No,119.45
+AUR-00839,Yes,13.73,49,Plus,Debit Card,Yes,833.43
+AUR-00840,No,15.78,37,Plus,Credit Card,No,616.73
+AUR-00841,Yes,10.0,20,Basic,Credit Card,Yes,518.45
+AUR-00842,No,20.04,22,Premium,PayPal,Yes,474.91
+AUR-00843,No,14.77,46,Plus,Debit Card,Yes,948.58
+AUR-00844,No,12.69,13,Plus,Credit Card,No,272.87
+AUR-00845,Yes,7.54,37,Basic,PayPal,Yes,413.67
+AUR-00846,No,16.82,44,Premium,Debit Card,Yes,599.09
+AUR-00847,No,13.64,17,Plus,PayPal,No,237.2
+AUR-00848,No,13.84,16,Plus,Debit Card,Yes,307.75
+AUR-00849,No,9.22,25,Basic,Debit Card,Yes,280.57
+AUR-00850,No,19.76,43,Premium,PayPal,No,874.97
+AUR-00851,Yes,9.06,18,Basic,Gift Card,Yes,203.22
+AUR-00852,Yes,10.7,27,Basic,Gift Card,Yes,235.77
+AUR-00853,No,19.96,39,Premium,PayPal,Yes,2246.25
+AUR-00854,No,17.52,13,Premium,Debit Card,No,420.41
+AUR-00855,No,8.76,41,Basic,Credit Card,Yes,1074.89
+AUR-00856,Yes,12.85,10,Plus,Credit Card,No,45.32
+AUR-00857,No,12.83,10,Plus,PayPal,Yes,123.37
+AUR-00858,No,20.65,17,Premium,Credit Card,Yes,329.51
+AUR-00859,No,8.82,20,Basic,PayPal,Yes,236.67
+AUR-00860,No,15.8,2,Plus,PayPal,Yes,101.05
+AUR-00861,No,12.82,70,Plus,Gift Card,Yes,662.96
+AUR-00862,No,15.28,22,Plus,PayPal,Yes,523.53
+AUR-00863,No,18.74,58,Premium,Debit Card,Yes,756.57
+AUR-00864,No,13.47,65,Plus,Debit Card,No,1201.37
+AUR-00865,Yes,9.84,58,Basic,Gift Card,Yes,602.03
+AUR-00866,No,16.59,60,Premium,Credit Card,Yes,1500.93
+AUR-00867,No,17.39,7,Premium,Credit Card,Yes,231.23
+AUR-00868,No,19.8,27,Premium,Gift Card,Yes,782.27
+AUR-00869,Yes,7.66,54,Basic,Debit Card,No,248.15
+AUR-00870,No,8.77,42,Basic,Debit Card,Yes,324.61
+AUR-00871,No,13.96,0,Plus,Credit Card,Yes,0.0
+AUR-00872,No,8.53,41,Basic,Debit Card,No,314.51
+AUR-00873,No,19.47,58,Premium,PayPal,Yes,602.31
+AUR-00874,No,8.85,60,Basic,Debit Card,No,719.02
+AUR-00875,No,14.66,28,Plus,Credit Card,No,264.4
+AUR-00876,No,16.3,17,Premium,Debit Card,No,274.28
+AUR-00877,No,13.27,22,Plus,PayPal,Yes,437.24
+AUR-00878,No,9.84,21,Basic,PayPal,Yes,275.59
+AUR-00879,No,14.67,25,Plus,Credit Card,No,331.07
+AUR-00880,No,11.53,22,Plus,Debit Card,Yes,229.13
+AUR-00881,Yes,14.52,33,Plus,Credit Card,No,564.2
+AUR-00882,No,11.03,2,Plus,Debit Card,Yes,154.01
+AUR-00883,No,17.77,20,Premium,Credit Card,Yes,304.81
+AUR-00884,No,13.72,22,Plus,Debit Card,No,458.81
+AUR-00885,Yes,9.54,11,Basic,Debit Card,Yes,0.0
+AUR-00886,Yes,8.24,64,Basic,Credit Card,Yes,855.34
+AUR-00887,No,15.02,49,Plus,Credit Card,Yes,2053.02
+AUR-00888,No,9.13,66,Basic,Credit Card,No,653.87
+AUR-00889,No,10.48,40,Basic,Credit Card,Yes,408.07
+AUR-00890,No,14.74,8,Plus,PayPal,No,49.09
+AUR-00891,Yes,8.16,66,Basic,Credit Card,No,507.32
+AUR-00892,No,18.32,33,Premium,Credit Card,No,802.94
+AUR-00893,Yes,9.14,49,Basic,Gift Card,Yes,376.94
+AUR-00894,Yes,8.8,27,Basic,Credit Card,Yes,322.0
+AUR-00895,No,12.43,36,Plus,PayPal,No,433.1
+AUR-00896,No,17.18,35,Premium,Debit Card,No,491.29
+AUR-00897,Yes,8.93,20,Basic,PayPal,Yes,296.56
+AUR-00898,Yes,7.36,40,Basic,Debit Card,Yes,228.93
+AUR-00899,No,10.4,53,Basic,Credit Card,Yes,673.55
+AUR-00900,No,12.59,1,Plus,PayPal,No,126.51
+AUR-00901,Yes,13.16,9,Plus,PayPal,No,244.69
+AUR-00902,Yes,8.22,61,Basic,Credit Card,Yes,404.86
+AUR-00903,Yes,10.02,41,Basic,PayPal,Yes,574.62
+AUR-00904,No,14.21,71,Plus,Debit Card,Yes,1495.24
+AUR-00905,No,21.76,44,Premium,PayPal,No,903.84
+AUR-00906,No,11.55,47,Plus,PayPal,Yes,401.09
+AUR-00907,No,13.97,65,Plus,Credit Card,Yes,1711.99
+AUR-00908,No,8.37,48,Basic,PayPal,Yes,193.3
+AUR-00909,No,8.36,24,Basic,Gift Card,No,120.09
+AUR-00910,Yes,10.2,38,Basic,PayPal,Yes,229.47
+AUR-00911,No,14.36,17,Plus,Credit Card,Yes,217.22
+AUR-00912,No,18.36,24,Premium,PayPal,Yes,532.21
+AUR-00913,No,17.89,49,Premium,Debit Card,No,1737.87
+AUR-00914,No,19.9,10,Premium,Credit Card,Yes,220.24
+AUR-00915,No,17.41,49,Premium,PayPal,Yes,2168.89
+AUR-00916,Yes,19.6,42,Premium,Debit Card,Yes,1300.83
+AUR-00917,Yes,9.98,22,Basic,PayPal,Yes,206.42
+AUR-00918,Yes,9.2,3,Basic,Debit Card,No,40.61
+AUR-00919,No,9.75,51,Basic,Credit Card,No,609.58
+AUR-00920,No,13.65,60,Plus,Gift Card,Yes,886.16
+AUR-00921,No,8.7,53,Basic,Debit Card,No,231.71
+AUR-00922,No,15.32,30,Premium,Debit Card,Yes,427.46
+AUR-00923,No,14.62,47,Plus,Credit Card,No,443.71
+AUR-00924,No,14.26,30,Plus,Credit Card,Yes,888.37
+AUR-00925,Yes,8.98,26,Basic,Debit Card,Yes,322.18
+AUR-00926,No,8.33,23,Basic,Credit Card,No,216.71
+AUR-00927,Yes,9.89,15,Basic,PayPal,No,123.54
+AUR-00928,No,17.26,70,Premium,Gift Card,No,934.73
+AUR-00929,No,13.34,48,Plus,PayPal,Yes,455.06
+AUR-00930,No,11.67,12,Plus,Credit Card,No,311.57
+AUR-00931,Yes,8.3,63,Basic,PayPal,Yes,876.14
+AUR-00932,Yes,10.48,11,Basic,Credit Card,Yes,296.8
+AUR-00933,No,14.15,43,Plus,PayPal,Yes,993.89
+AUR-00934,No,12.85,12,Plus,Debit Card,Yes,280.11
+AUR-00935,No,13.3,26,Plus,PayPal,Yes,598.43
+AUR-00936,Yes,8.67,48,Basic,Credit Card,No,435.83
+AUR-00937,No,19.67,72,Premium,Credit Card,Yes,719.79
+AUR-00938,No,9.01,72,Basic,Gift Card,Yes,903.64
+AUR-00939,No,20.5,65,Premium,Debit Card,Yes,1100.01
+AUR-00940,No,9.75,17,Basic,PayPal,No,178.98
+AUR-00941,No,9.01,6,Basic,PayPal,Yes,0.0
+AUR-00942,No,16.75,66,Premium,Debit Card,No,1845.99
+AUR-00943,Yes,8.69,67,Basic,Debit Card,Yes,825.45
+AUR-00944,Yes,14.56,20,Plus,Debit Card,Yes,186.9
+AUR-00945,No,15.69,1,Plus,PayPal,No,0.0
+AUR-00946,No,8.96,47,Basic,Gift Card,Yes,730.05
+AUR-00947,Yes,13.94,5,Plus,Credit Card,No,122.23
+AUR-00948,No,16.57,2,Premium,PayPal,Yes,129.86
+AUR-00949,No,18.9,68,Premium,Credit Card,Yes,1923.17
+AUR-00950,No,9.88,36,Basic,Debit Card,Yes,258.67
+AUR-00951,No,14.65,8,Plus,PayPal,No,152.5
+AUR-00952,Yes,8.33,47,Basic,PayPal,Yes,640.08
+AUR-00953,No,8.86,26,Basic,Credit Card,Yes,130.8
+AUR-00954,Yes,9.0,39,Basic,Credit Card,Yes,300.31
+AUR-00955,No,16.99,65,Premium,Credit Card,No,577.86
+AUR-00956,Yes,17.56,17,Premium,Credit Card,No,754.26
+AUR-00957,Yes,12.26,47,Plus,Credit Card,No,611.3
+AUR-00958,No,14.28,60,Plus,PayPal,Yes,1407.4
+AUR-00959,No,13.92,30,Plus,Credit Card,Yes,218.67
+AUR-00960,Yes,15.47,70,Plus,Credit Card,No,2049.57
+AUR-00961,No,13.34,32,Plus,PayPal,No,381.89
+AUR-00962,No,13.7,33,Plus,Credit Card,No,1011.66
+AUR-00963,Yes,9.85,64,Basic,Credit Card,No,456.97
+AUR-00964,Yes,8.89,46,Basic,PayPal,No,179.41
+AUR-00965,No,19.39,63,Premium,Credit Card,Yes,2034.16
+AUR-00966,Yes,15.26,57,Plus,Credit Card,Yes,965.45
+AUR-00967,No,17.12,52,Premium,Debit Card,No,607.61
+AUR-00968,No,10.8,17,Basic,Credit Card,Yes,116.81
+AUR-00969,No,13.88,29,Plus,Credit Card,Yes,545.7
+AUR-00970,No,8.83,63,Basic,Credit Card,Yes,580.1
+AUR-00971,Yes,8.75,44,Basic,Credit Card,Yes,553.11
+AUR-00972,No,8.82,20,Basic,PayPal,No,171.41
+AUR-00973,Yes,7.67,23,Basic,Credit Card,No,261.72
+AUR-00974,No,15.0,56,Premium,Credit Card,Yes,973.98
+AUR-00975,No,7.95,13,Basic,Credit Card,Yes,213.76
+AUR-00976,No,12.66,8,Plus,Gift Card,Yes,55.17
+AUR-00977,No,17.05,55,Plus,Credit Card,No,1292.4
+AUR-00978,No,12.7,21,Plus,PayPal,Yes,432.75
+AUR-00979,Yes,13.91,55,Plus,Credit Card,Yes,1259.44
+AUR-00980,Yes,8.46,38,Basic,Gift Card,Yes,219.76
+AUR-00981,Yes,15.91,72,Premium,Credit Card,Yes,973.69
+AUR-00982,Yes,18.01,38,Premium,Credit Card,Yes,1001.67
+AUR-00983,Yes,14.41,63,Plus,Debit Card,Yes,2406.48
+AUR-00984,No,14.31,62,Plus,Credit Card,Yes,1480.76
+AUR-00985,Yes,10.13,15,Basic,PayPal,Yes,199.93
+AUR-00986,No,15.01,72,Premium,Debit Card,Yes,3623.5
+AUR-00987,Yes,8.96,54,Basic,Debit Card,Yes,465.85
+AUR-00988,Yes,8.51,7,Basic,Credit Card,Yes,189.52
+AUR-00989,Yes,10.22,0,Basic,PayPal,No,26.65
+AUR-00990,No,17.51,19,Premium,Credit Card,Yes,285.48
+AUR-00991,Yes,13.76,1,Plus,Gift Card,No,58.32
+AUR-00992,No,13.77,26,Plus,PayPal,Yes,370.4
+AUR-00993,Yes,15.76,72,Premium,Debit Card,No,1521.08
+AUR-00994,No,10.54,34,Basic,PayPal,Yes,213.75
+AUR-00995,No,20.61,1,Premium,Debit Card,Yes,0.0
+AUR-00996,Yes,13.71,36,Plus,Debit Card,Yes,1243.28
+AUR-00997,No,12.65,15,Plus,Credit Card,Yes,173.31
+AUR-00998,No,10.25,62,Basic,Debit Card,Yes,1632.19
+AUR-00999,No,21.45,6,Premium,Credit Card,No,154.71
+AUR-01000,Yes,8.14,56,Basic,Credit Card,Yes,799.97
+AUR-01001,No,8.49,32,Basic,PayPal,No,246.17
+AUR-01002,No,16.57,1,Plus,Credit Card,Yes,0.0
+AUR-01003,Yes,10.8,49,Basic,Debit Card,Yes,494.31
+AUR-01004,Yes,9.23,33,Basic,Credit Card,No,346.34
+AUR-01005,No,13.73,56,Plus,Credit Card,Yes,1089.68
+AUR-01006,No,14.71,45,Plus,PayPal,Yes,1117.77
+AUR-01007,No,16.3,57,Premium,Credit Card,Yes,2862.04
+AUR-01008,Yes,8.72,33,Basic,Debit Card,No,221.16
+AUR-01009,No,13.59,0,Plus,Debit Card,Yes,18.69
+AUR-01010,No,13.56,9,Plus,PayPal,Yes,209.62
+AUR-01011,No,13.44,33,Plus,Credit Card,Yes,484.6
+AUR-01012,Yes,12.13,29,Plus,PayPal,Yes,298.09
+AUR-01013,Yes,13.8,57,Plus,Debit Card,Yes,1208.52
+AUR-01014,No,18.4,30,Premium,Credit Card,Yes,434.84
+AUR-01015,Yes,9.71,62,Basic,Credit Card,No,837.49
+AUR-01016,Yes,10.0,13,Basic,Credit Card,Yes,218.34
+AUR-01017,No,13.5,28,Plus,Debit Card,Yes,477.68
+AUR-01018,No,16.45,55,Premium,Credit Card,No,1294.33
+AUR-01019,Yes,8.42,9,Basic,Credit Card,No,95.53
+AUR-01020,No,15.4,23,Plus,Debit Card,Yes,461.07
+AUR-01021,No,17.5,54,Premium,Debit Card,Yes,1138.81
+AUR-01022,No,12.55,42,Plus,Credit Card,Yes,425.33
+AUR-01023,No,20.88,56,Premium,Credit Card,No,1739.76
+AUR-01024,No,13.3,37,Plus,Credit Card,Yes,389.5
+AUR-01025,No,12.91,62,Plus,Debit Card,Yes,609.87
+AUR-01026,No,9.21,64,Basic,PayPal,Yes,625.22
+AUR-01027,No,17.24,71,Premium,Debit Card,Yes,1749.42
+AUR-01028,Yes,9.92,8,Basic,Debit Card,Yes,100.85
+AUR-01029,No,15.72,43,Plus,Credit Card,No,523.88
+AUR-01030,Yes,12.95,8,Plus,Gift Card,Yes,23.6
+AUR-01031,Yes,14.66,16,Plus,Credit Card,Yes,330.19
+AUR-01032,No,15.15,21,Plus,Credit Card,No,197.12
+AUR-01033,No,13.81,47,Plus,Credit Card,Yes,464.19
+AUR-01034,No,17.53,31,Premium,Credit Card,Yes,440.65
+AUR-01035,No,12.34,63,Plus,PayPal,Yes,940.69
+AUR-01036,No,12.35,21,Plus,Credit Card,No,277.36
+AUR-01037,No,7.83,45,Basic,Credit Card,Yes,693.45
+AUR-01038,Yes,15.02,55,Plus,Credit Card,No,1063.45
+AUR-01039,No,12.48,71,Plus,Gift Card,Yes,904.2
+AUR-01040,No,9.0,17,Basic,PayPal,Yes,180.67
+AUR-01041,No,7.88,53,Basic,PayPal,Yes,557.78
+AUR-01042,No,14.46,6,Plus,PayPal,Yes,50.28
+AUR-01043,No,14.13,39,Plus,PayPal,Yes,807.73
+AUR-01044,No,14.44,30,Plus,Debit Card,No,831.38
+AUR-01045,No,8.01,69,Basic,Credit Card,Yes,522.6
+AUR-01046,Yes,8.43,56,Basic,Credit Card,Yes,504.08
+AUR-01047,No,9.47,67,Basic,Credit Card,No,1144.62
+AUR-01048,No,14.56,62,Plus,PayPal,Yes,1679.53
+AUR-01049,No,16.48,29,Premium,Credit Card,Yes,340.33
+AUR-01050,No,8.67,53,Basic,Credit Card,Yes,295.59
+AUR-01051,No,12.87,2,Plus,Debit Card,Yes,96.38
+AUR-01052,Yes,8.34,40,Basic,Credit Card,No,359.13
+AUR-01053,No,9.04,3,Basic,Credit Card,No,137.73
+AUR-01054,No,7.84,52,Basic,Credit Card,Yes,464.37
+AUR-01055,No,9.42,70,Basic,Debit Card,No,719.62
+AUR-01056,No,12.82,49,Plus,Credit Card,Yes,519.11
+AUR-01057,No,19.82,61,Premium,Credit Card,No,1295.37
+AUR-01058,Yes,10.12,17,Basic,Credit Card,No,362.99
+AUR-01059,No,14.85,72,Plus,PayPal,Yes,972.42
+AUR-01060,No,13.23,40,Plus,Credit Card,Yes,1149.04
+AUR-01061,No,15.0,49,Premium,Credit Card,No,617.9
+AUR-01062,No,11.0,56,Plus,PayPal,Yes,677.76
+AUR-01063,No,8.91,46,Basic,PayPal,Yes,526.49
+AUR-01064,No,14.77,23,Plus,Credit Card,Yes,545.3
+AUR-01065,Yes,8.79,44,Basic,Credit Card,Yes,204.61
+AUR-01066,No,17.28,47,Premium,Credit Card,Yes,959.72
+AUR-01067,No,12.75,62,Plus,PayPal,Yes,564.57
+AUR-01068,Yes,14.55,35,Plus,Credit Card,No,211.88
+AUR-01069,Yes,9.36,36,Basic,PayPal,Yes,345.75
+AUR-01070,No,15.66,36,Plus,PayPal,Yes,514.28
+AUR-01071,No,17.92,8,Premium,Debit Card,Yes,108.24
+AUR-01072,No,14.01,6,Plus,Credit Card,Yes,105.85
+AUR-01073,No,15.18,1,Plus,PayPal,Yes,0.0
+AUR-01074,No,16.93,48,Premium,PayPal,Yes,414.96
+AUR-01075,No,19.37,30,Premium,PayPal,Yes,613.16
+AUR-01076,Yes,6.96,63,Basic,Credit Card,Yes,626.91
+AUR-01077,No,14.17,51,Plus,PayPal,Yes,939.23
+AUR-01078,No,15.89,10,Plus,PayPal,Yes,130.59
+AUR-01079,No,12.72,7,Plus,Gift Card,No,20.26
+AUR-01080,No,9.53,26,Basic,Debit Card,Yes,38.48
+AUR-01081,Yes,12.0,67,Basic,Debit Card,No,370.86
+AUR-01082,No,19.91,3,Premium,Credit Card,Yes,0.0
+AUR-01083,No,15.73,13,Premium,PayPal,Yes,169.99
+AUR-01084,No,21.34,2,Premium,PayPal,Yes,183.22
+AUR-01085,No,15.71,30,Premium,Debit Card,Yes,369.02
+AUR-01086,No,13.98,72,Plus,Credit Card,Yes,591.03
+AUR-01087,No,14.8,49,Plus,Credit Card,No,1032.22
+AUR-01088,No,13.76,36,Plus,Debit Card,No,401.56
+AUR-01089,No,15.37,10,Plus,PayPal,Yes,144.21
+AUR-01090,No,13.47,25,Plus,Credit Card,No,381.65
+AUR-01091,No,8.87,38,Basic,Credit Card,Yes,174.4
+AUR-01092,No,16.47,20,Plus,PayPal,Yes,806.85
+AUR-01093,Yes,8.87,51,Basic,Debit Card,No,275.61
+AUR-01094,No,9.73,71,Basic,Credit Card,Yes,1637.73
+AUR-01095,No,16.54,15,Plus,Credit Card,Yes,411.68
+AUR-01096,No,14.33,18,Plus,Credit Card,Yes,352.32
+AUR-01097,Yes,10.64,9,Basic,Credit Card,Yes,0.97
+AUR-01098,No,20.05,52,Premium,Debit Card,Yes,1258.06
+AUR-01099,No,18.23,33,Premium,Debit Card,Yes,520.81
+AUR-01100,No,9.96,20,Basic,Debit Card,Yes,213.48
+AUR-01101,No,6.83,16,Basic,Debit Card,No,105.59
+AUR-01102,No,9.55,5,Basic,Credit Card,No,147.55
+AUR-01103,No,17.18,34,Premium,Credit Card,Yes,946.14
+AUR-01104,No,17.34,49,Premium,Credit Card,Yes,398.11
+AUR-01105,No,11.56,17,Basic,Credit Card,Yes,121.85
+AUR-01106,No,14.65,0,Plus,PayPal,Yes,103.96
+AUR-01107,No,9.61,34,Basic,Credit Card,Yes,388.61
+AUR-01108,No,15.42,49,Plus,Debit Card,Yes,822.52
+AUR-01109,No,17.94,25,Premium,Credit Card,No,523.78
+AUR-01110,Yes,7.84,18,Basic,Credit Card,Yes,283.29
+AUR-01111,Yes,9.27,11,Basic,Credit Card,Yes,291.39
+AUR-01112,Yes,12.57,54,Plus,Debit Card,Yes,576.21
+AUR-01113,No,12.42,62,Plus,Debit Card,No,1358.96
+AUR-01114,No,18.32,56,Premium,PayPal,Yes,2417.47
+AUR-01115,No,16.52,37,Premium,Credit Card,No,1245.37
+AUR-01116,No,7.71,52,Basic,Debit Card,No,556.13
+AUR-01117,No,10.22,28,Basic,PayPal,Yes,456.41
+AUR-01118,No,17.62,1,Premium,Credit Card,Yes,80.0
+AUR-01119,No,8.03,26,Basic,Credit Card,Yes,463.2
+AUR-01120,No,16.76,51,Premium,Credit Card,Yes,860.38
+AUR-01121,No,15.5,47,Plus,Credit Card,Yes,600.31
+AUR-01122,No,9.06,72,Basic,PayPal,Yes,574.0
+AUR-01123,No,16.05,72,Premium,Credit Card,No,3579.14
+AUR-01124,Yes,8.13,17,Basic,Debit Card,Yes,312.19
+AUR-01125,Yes,14.32,0,Plus,PayPal,Yes,21.26
+AUR-01126,No,13.72,20,Plus,Credit Card,Yes,197.82
+AUR-01127,No,14.0,63,Plus,Debit Card,Yes,768.94
+AUR-01128,No,11.13,59,Plus,Credit Card,Yes,599.28
+AUR-01129,Yes,13.76,7,Plus,Debit Card,Yes,45.79
+AUR-01130,No,16.68,11,Premium,Credit Card,Yes,217.38
+AUR-01131,No,16.15,41,Premium,Credit Card,Yes,507.79
+AUR-01132,No,13.09,48,Plus,Credit Card,Yes,1034.71
+AUR-01133,No,8.44,71,Basic,PayPal,No,824.34
+AUR-01134,No,15.09,55,Plus,Debit Card,Yes,563.49
+AUR-01135,No,17.32,15,Premium,PayPal,No,429.37
+AUR-01136,Yes,10.48,2,Basic,Credit Card,Yes,109.48
+AUR-01137,No,15.18,46,Plus,Gift Card,No,1964.47
+AUR-01138,No,14.68,40,Plus,Credit Card,Yes,589.12
+AUR-01139,No,9.09,67,Basic,PayPal,Yes,483.76
+AUR-01140,No,14.46,42,Plus,PayPal,Yes,519.26
+AUR-01141,No,8.43,36,Basic,Debit Card,No,506.95
+AUR-01142,No,18.68,22,Premium,Credit Card,Yes,381.6
+AUR-01143,No,18.18,6,Premium,PayPal,Yes,168.1
+AUR-01144,Yes,21.15,63,Premium,PayPal,Yes,1372.78
+AUR-01145,No,12.19,60,Plus,Credit Card,Yes,1292.17
+AUR-01146,No,7.84,11,Basic,PayPal,Yes,77.39
+AUR-01147,No,14.7,51,Plus,Credit Card,No,773.03
+AUR-01148,No,15.0,26,Premium,Debit Card,Yes,549.49
+AUR-01149,No,14.75,31,Plus,Debit Card,No,398.45
+AUR-01150,No,18.74,61,Premium,PayPal,No,837.23
+AUR-01151,No,7.12,61,Basic,Debit Card,No,1023.18
+AUR-01152,No,18.0,13,Premium,Credit Card,No,427.3
+AUR-01153,Yes,7.74,22,Basic,Debit Card,Yes,220.56
+AUR-01154,Yes,9.1,59,Basic,Credit Card,Yes,705.85
+AUR-01155,No,15.48,66,Plus,Debit Card,Yes,956.74
+AUR-01156,Yes,9.97,5,Basic,Debit Card,No,95.25
+AUR-01157,Yes,8.43,60,Basic,PayPal,Yes,379.61
+AUR-01158,No,10.56,35,Basic,Credit Card,No,317.49
+AUR-01159,No,16.53,43,Plus,Credit Card,Yes,611.72
+AUR-01160,No,11.96,5,Plus,Debit Card,Yes,0.0
+AUR-01161,No,8.27,49,Basic,Credit Card,Yes,689.46
+AUR-01162,No,13.52,49,Plus,Credit Card,Yes,480.18
+AUR-01163,No,19.3,48,Premium,Credit Card,Yes,1802.14
+AUR-01164,No,8.75,57,Basic,Debit Card,Yes,718.71
+AUR-01165,No,7.91,69,Basic,Credit Card,Yes,777.69
+AUR-01166,No,19.14,62,Premium,Debit Card,Yes,1404.23
+AUR-01167,No,17.73,54,Premium,PayPal,No,1103.42
+AUR-01168,No,13.1,71,Plus,Debit Card,Yes,813.37
+AUR-01169,No,18.27,49,Premium,Credit Card,Yes,712.11
+AUR-01170,No,9.98,49,Basic,Credit Card,Yes,382.68
+AUR-01171,No,14.2,39,Plus,Credit Card,Yes,195.87
+AUR-01172,No,14.01,56,Plus,Debit Card,Yes,1035.95
+AUR-01173,Yes,11.09,5,Basic,Debit Card,Yes,0.0
+AUR-01174,No,13.71,36,Plus,Credit Card,Yes,748.03
+AUR-01175,Yes,15.22,31,Plus,Credit Card,Yes,653.37
+AUR-01176,No,12.67,66,Plus,Credit Card,Yes,1039.49
+AUR-01177,No,12.74,5,Plus,Credit Card,No,85.24
+AUR-01178,No,7.23,46,Basic,Gift Card,Yes,194.92
+AUR-01179,No,8.64,13,Basic,Credit Card,Yes,84.53
+AUR-01180,No,10.25,64,Basic,Credit Card,Yes,436.44
+AUR-01181,No,12.76,62,Plus,Credit Card,No,811.35
+AUR-01182,Yes,7.54,17,Basic,Credit Card,Yes,97.65
+AUR-01183,No,9.56,63,Basic,Credit Card,No,1410.01
+AUR-01184,No,10.21,36,Basic,Credit Card,No,855.89
+AUR-01185,Yes,9.07,70,Basic,Credit Card,No,1411.51
+AUR-01186,No,16.8,53,Premium,Credit Card,No,858.55
+AUR-01187,Yes,13.56,2,Plus,Debit Card,Yes,73.42
+AUR-01188,No,18.97,14,Premium,Debit Card,No,338.65
+AUR-01189,No,9.54,29,Basic,Credit Card,No,340.61
+AUR-01190,Yes,12.52,15,Plus,PayPal,Yes,152.42
+AUR-01191,No,13.93,9,Plus,Credit Card,Yes,194.91
+AUR-01192,No,13.79,71,Plus,Gift Card,No,1386.31
+AUR-01193,No,15.0,63,Premium,PayPal,Yes,420.2
+AUR-01194,No,19.23,31,Premium,Credit Card,No,1060.29
+AUR-01195,No,17.95,15,Premium,Credit Card,Yes,478.23
+AUR-01196,Yes,10.75,13,Basic,PayPal,Yes,38.32
+AUR-01197,No,10.94,66,Basic,Credit Card,Yes,1064.72
+AUR-01198,No,13.05,24,Plus,Credit Card,Yes,259.27
+AUR-01199,Yes,8.93,0,Basic,Debit Card,Yes,0.0
+AUR-01200,No,15.04,29,Plus,Debit Card,No,571.21
+AUR-01201,No,13.92,33,Plus,PayPal,Yes,327.24
+AUR-01202,No,15.27,45,Plus,PayPal,Yes,524.41
+AUR-01203,No,17.21,24,Premium,PayPal,Yes,1506.9
+AUR-01204,No,13.76,67,Plus,PayPal,Yes,1279.32
+AUR-01205,No,8.46,46,Basic,Debit Card,No,465.04
+AUR-01206,Yes,8.07,72,Basic,Debit Card,Yes,1372.27
+AUR-01207,No,13.96,26,Plus,Gift Card,Yes,153.49
+AUR-01208,No,13.31,47,Plus,Gift Card,No,542.7
+AUR-01209,Yes,9.97,26,Basic,PayPal,Yes,201.47
+AUR-01210,No,13.98,51,Plus,PayPal,Yes,523.74
+AUR-01211,No,14.84,54,Plus,Debit Card,Yes,869.15
+AUR-01212,No,17.62,23,Premium,Credit Card,Yes,394.91
+AUR-01213,No,13.5,68,Plus,PayPal,No,451.42
+AUR-01214,Yes,14.61,62,Plus,Credit Card,Yes,543.14
+AUR-01215,No,7.62,65,Basic,Credit Card,Yes,489.48
+AUR-01216,Yes,13.01,15,Plus,Credit Card,Yes,151.57
+AUR-01217,No,8.74,52,Basic,Debit Card,No,390.54
+AUR-01218,No,14.9,7,Plus,Debit Card,Yes,186.99
+AUR-01219,No,13.29,7,Plus,Credit Card,Yes,196.07
+AUR-01220,Yes,9.09,71,Basic,Credit Card,Yes,273.96
+AUR-01221,Yes,8.49,11,Basic,Credit Card,Yes,62.41
+AUR-01222,No,9.27,63,Basic,Credit Card,Yes,681.98
+AUR-01223,No,17.74,31,Premium,Credit Card,Yes,561.19
+AUR-01224,Yes,15.01,22,Plus,Debit Card,Yes,165.49
+AUR-01225,No,11.55,5,Basic,Credit Card,Yes,54.07
+AUR-01226,Yes,20.07,49,Premium,Credit Card,Yes,1382.6
+AUR-01227,No,14.06,52,Plus,Credit Card,Yes,2285.96
+AUR-01228,No,15.82,34,Plus,Debit Card,Yes,1167.98
+AUR-01229,No,23.16,59,Premium,PayPal,Yes,971.55
+AUR-01230,No,8.87,23,Basic,Credit Card,No,225.6
+AUR-01231,No,8.55,40,Basic,Credit Card,Yes,304.35
+AUR-01232,No,12.61,20,Plus,Debit Card,Yes,517.66
+AUR-01233,No,10.01,42,Basic,Credit Card,Yes,361.54
+AUR-01234,No,12.22,9,Plus,PayPal,Yes,174.44
+AUR-01235,No,9.23,34,Basic,Gift Card,Yes,441.96
+AUR-01236,Yes,10.43,40,Basic,Debit Card,No,307.54
+AUR-01237,Yes,9.15,40,Basic,Gift Card,Yes,300.25
+AUR-01238,No,13.25,32,Plus,Credit Card,Yes,718.44
+AUR-01239,No,8.74,46,Basic,Credit Card,Yes,686.42
+AUR-01240,No,7.21,37,Basic,Credit Card,Yes,501.72
+AUR-01241,No,19.94,20,Premium,Credit Card,Yes,247.78
+AUR-01242,No,7.37,15,Basic,Credit Card,Yes,110.03
+AUR-01243,No,7.15,47,Basic,Debit Card,Yes,592.21
+AUR-01244,No,9.37,68,Basic,Debit Card,No,403.11
+AUR-01245,Yes,7.63,54,Basic,Credit Card,Yes,735.63
+AUR-01246,No,10.25,46,Basic,Debit Card,Yes,298.74
+AUR-01247,No,12.33,67,Plus,Credit Card,No,479.35
+AUR-01248,Yes,9.02,65,Basic,Credit Card,Yes,395.05
+AUR-01249,No,17.09,36,Premium,Credit Card,Yes,1302.7
+AUR-01250,No,19.0,7,Premium,Debit Card,Yes,199.0
+AUR-01251,No,8.75,46,Basic,Debit Card,No,430.89
+AUR-01252,Yes,8.15,45,Basic,PayPal,Yes,979.96
+AUR-01253,No,9.61,20,Basic,Credit Card,Yes,95.93
+AUR-01254,Yes,12.33,62,Plus,Credit Card,Yes,568.83
+AUR-01255,Yes,8.19,63,Basic,Gift Card,Yes,1136.16
+AUR-01256,Yes,19.07,24,Premium,Credit Card,Yes,477.93
+AUR-01257,No,14.74,34,Plus,Credit Card,Yes,435.26
+AUR-01258,No,16.51,14,Premium,Credit Card,No,300.43
+AUR-01259,Yes,13.98,13,Plus,Credit Card,Yes,177.54
+AUR-01260,No,15.97,19,Premium,Debit Card,Yes,441.34
+AUR-01261,No,8.0,26,Basic,Credit Card,Yes,233.18
+AUR-01262,No,13.41,19,Plus,Debit Card,Yes,847.41
+AUR-01263,Yes,10.18,11,Basic,PayPal,Yes,117.45
+AUR-01264,No,17.89,32,Premium,Credit Card,Yes,1209.11
+AUR-01265,No,13.53,45,Plus,Credit Card,Yes,917.73
+AUR-01266,No,19.28,23,Premium,PayPal,No,490.44
+AUR-01267,No,9.34,38,Basic,Debit Card,Yes,480.28
+AUR-01268,No,15.41,19,Premium,PayPal,Yes,423.76
+AUR-01269,No,13.27,51,Plus,Credit Card,No,831.25
+AUR-01270,No,15.97,47,Plus,Debit Card,Yes,417.86
+AUR-01271,No,16.84,70,Premium,PayPal,No,1440.89
+AUR-01272,No,13.11,3,Plus,Credit Card,No,89.43
+AUR-01273,Yes,12.4,62,Plus,PayPal,Yes,1252.46
+AUR-01274,No,14.95,24,Plus,Debit Card,Yes,669.5
+AUR-01275,Yes,8.76,4,Basic,PayPal,Yes,32.4
+AUR-01276,No,9.63,50,Basic,Credit Card,No,271.68
+AUR-01277,No,9.0,12,Basic,Credit Card,Yes,227.28
+AUR-01278,No,9.37,12,Basic,Credit Card,No,135.01
+AUR-01279,No,18.91,71,Premium,Gift Card,Yes,1383.06
+AUR-01280,No,13.73,16,Plus,Credit Card,Yes,252.51
+AUR-01281,No,8.17,39,Basic,Credit Card,Yes,278.33
+AUR-01282,No,16.44,14,Plus,PayPal,No,334.23
+AUR-01283,No,13.36,9,Plus,Credit Card,Yes,270.41
+AUR-01284,No,15.01,0,Plus,Debit Card,Yes,37.08
+AUR-01285,No,18.06,1,Premium,Credit Card,No,46.56
+AUR-01286,No,20.26,34,Premium,Debit Card,Yes,899.92
+AUR-01287,No,15.29,31,Plus,Credit Card,Yes,405.29
+AUR-01288,Yes,11.06,2,Basic,Debit Card,No,70.73
+AUR-01289,No,13.36,25,Plus,Debit Card,No,684.45
+AUR-01290,Yes,13.1,19,Plus,Credit Card,Yes,682.38
+AUR-01291,No,14.88,41,Plus,Credit Card,Yes,981.26
+AUR-01292,No,14.68,72,Plus,Credit Card,Yes,1381.08
+AUR-01293,No,12.3,50,Plus,PayPal,Yes,297.62
+AUR-01294,Yes,8.41,67,Basic,Credit Card,Yes,973.9
+AUR-01295,No,10.55,14,Basic,Credit Card,Yes,109.72
+AUR-01296,Yes,8.8,15,Basic,Credit Card,Yes,111.05
+AUR-01297,Yes,9.8,54,Basic,Debit Card,Yes,822.18
+AUR-01298,Yes,9.72,22,Basic,PayPal,No,115.92
+AUR-01299,No,12.64,61,Plus,Credit Card,Yes,1235.95
+AUR-01300,No,11.0,33,Plus,PayPal,Yes,603.68
+AUR-01301,No,10.14,14,Basic,Debit Card,No,265.5
+AUR-01302,No,14.7,61,Plus,PayPal,No,688.7
+AUR-01303,No,13.68,40,Plus,PayPal,Yes,826.45
+AUR-01304,Yes,8.15,58,Basic,Credit Card,No,600.42
+AUR-01305,No,15.73,33,Premium,Gift Card,Yes,301.34
+AUR-01306,No,21.75,9,Premium,PayPal,Yes,156.6
+AUR-01307,No,13.8,49,Plus,Debit Card,Yes,1747.22
+AUR-01308,No,11.96,9,Plus,Credit Card,Yes,265.87
+AUR-01309,Yes,10.07,48,Basic,Credit Card,Yes,453.01
+AUR-01310,No,15.53,30,Premium,Debit Card,Yes,159.45
+AUR-01311,No,12.67,57,Plus,Credit Card,No,1499.89
+AUR-01312,No,15.0,63,Premium,Debit Card,Yes,2437.92
+AUR-01313,No,13.42,29,Plus,Credit Card,Yes,823.43
+AUR-01314,No,10.84,64,Basic,Debit Card,Yes,611.96
+AUR-01315,No,8.73,8,Basic,Credit Card,Yes,72.67
+AUR-01316,No,13.18,7,Plus,Credit Card,No,92.21
+AUR-01317,No,14.13,72,Plus,Credit Card,Yes,1598.73
+AUR-01318,No,9.02,41,Basic,PayPal,No,382.08
+AUR-01319,No,14.69,32,Plus,Debit Card,No,334.41
+AUR-01320,No,17.9,11,Premium,PayPal,Yes,253.3
+AUR-01321,No,16.71,21,Plus,PayPal,Yes,362.16
+AUR-01322,No,13.97,50,Plus,PayPal,Yes,1131.32
+AUR-01323,No,8.47,59,Basic,Debit Card,No,439.35
+AUR-01324,No,16.17,66,Premium,PayPal,Yes,3503.58
+AUR-01325,Yes,8.64,29,Basic,PayPal,Yes,278.2
+AUR-01326,No,17.93,33,Premium,PayPal,Yes,484.55
+AUR-01327,Yes,10.7,11,Basic,Credit Card,Yes,37.68
+AUR-01328,No,15.33,6,Plus,Debit Card,Yes,116.45
+AUR-01329,Yes,7.99,31,Basic,Credit Card,Yes,318.71
+AUR-01330,Yes,8.05,42,Basic,Credit Card,Yes,297.1
+AUR-01331,Yes,12.99,7,Plus,Debit Card,Yes,116.44
+AUR-01332,No,11.98,29,Plus,PayPal,No,338.44
+AUR-01333,No,13.57,46,Plus,Credit Card,Yes,911.64
+AUR-01334,No,17.87,59,Premium,Credit Card,Yes,2098.7
+AUR-01335,No,17.68,68,Premium,PayPal,No,916.23
+AUR-01336,No,16.64,24,Premium,Credit Card,No,380.39
+AUR-01337,Yes,10.6,28,Basic,Credit Card,Yes,149.84
+AUR-01338,No,12.07,63,Plus,PayPal,No,707.9
+AUR-01339,No,18.68,50,Premium,PayPal,No,2281.22
+AUR-01340,Yes,9.61,19,Basic,Debit Card,Yes,385.95
+AUR-01341,No,11.11,50,Basic,Debit Card,Yes,889.66
+AUR-01342,No,17.48,11,Premium,Credit Card,Yes,149.82
+AUR-01343,No,14.01,32,Plus,Credit Card,Yes,339.77
+AUR-01344,No,13.05,22,Plus,PayPal,No,450.27
+AUR-01345,No,19.76,72,Premium,PayPal,Yes,2203.24
+AUR-01346,No,11.64,2,Plus,Credit Card,Yes,107.14
+AUR-01347,Yes,16.07,62,Plus,Credit Card,No,1045.28
+AUR-01348,Yes,8.54,20,Basic,Credit Card,Yes,230.25
+AUR-01349,No,13.34,2,Plus,Credit Card,Yes,0.0
+AUR-01350,No,9.12,48,Basic,Credit Card,No,532.54
+AUR-01351,No,17.7,49,Premium,Credit Card,Yes,1472.15
+AUR-01352,No,16.45,10,Premium,PayPal,Yes,319.37
+AUR-01353,No,8.33,2,Basic,Credit Card,Yes,19.89
+AUR-01354,No,9.13,8,Basic,Debit Card,No,248.4
+AUR-01355,No,15.29,29,Premium,Debit Card,Yes,1390.07
+AUR-01356,No,7.22,9,Basic,PayPal,Yes,0.0
+AUR-01357,No,12.02,51,Plus,Gift Card,Yes,329.09
+AUR-01358,Yes,15.07,5,Plus,Credit Card,No,199.26
+AUR-01359,No,13.12,57,Plus,Credit Card,Yes,711.84
+AUR-01360,Yes,9.67,63,Basic,PayPal,Yes,625.1
+AUR-01361,Yes,15.3,52,Plus,Credit Card,No,1456.5
+AUR-01362,Yes,9.31,68,Basic,Credit Card,No,489.74
+AUR-01363,No,13.11,68,Plus,Credit Card,Yes,1058.79
+AUR-01364,Yes,8.93,3,Basic,PayPal,Yes,41.39
+AUR-01365,No,13.34,24,Plus,Credit Card,Yes,413.67
+AUR-01366,No,14.4,55,Plus,Debit Card,Yes,1354.08
+AUR-01367,Yes,8.6,24,Basic,Credit Card,Yes,314.75
+AUR-01368,No,8.1,53,Basic,Debit Card,No,536.99
+AUR-01369,Yes,9.72,56,Basic,Credit Card,Yes,579.7
+AUR-01370,No,7.82,72,Basic,PayPal,No,596.91
+AUR-01371,Yes,9.5,24,Basic,PayPal,Yes,263.89
+AUR-01372,No,17.71,25,Premium,Credit Card,No,723.86
+AUR-01373,Yes,14.7,1,Plus,Credit Card,Yes,157.31
+AUR-01374,Yes,15.96,20,Premium,PayPal,Yes,679.58
+AUR-01375,No,15.83,20,Premium,PayPal,Yes,401.93
+AUR-01376,Yes,11.06,33,Basic,Credit Card,Yes,1073.97
+AUR-01377,Yes,14.91,30,Plus,Credit Card,Yes,476.96
+AUR-01378,No,18.83,62,Premium,Credit Card,Yes,1268.82
+AUR-01379,No,13.88,56,Plus,Credit Card,No,1019.96
+AUR-01380,No,14.62,53,Plus,Credit Card,Yes,418.48
+AUR-01381,No,14.88,0,Plus,Credit Card,Yes,0.0
+AUR-01382,No,10.48,34,Basic,Credit Card,Yes,341.19
+AUR-01383,No,14.23,53,Plus,PayPal,No,869.66
+AUR-01384,No,15.15,17,Premium,PayPal,Yes,533.72
+AUR-01385,No,20.25,31,Premium,PayPal,Yes,868.81
+AUR-01386,No,7.48,53,Basic,Debit Card,Yes,835.83
+AUR-01387,Yes,13.82,58,Plus,Debit Card,Yes,313.0
+AUR-01388,Yes,8.45,62,Basic,Credit Card,Yes,1265.42
+AUR-01389,No,18.25,31,Premium,Debit Card,Yes,536.58
+AUR-01390,No,9.41,29,Basic,Credit Card,Yes,416.64
+AUR-01391,No,17.92,27,Premium,Debit Card,No,924.77
+AUR-01392,No,16.33,48,Premium,Gift Card,Yes,526.17
+AUR-01393,No,8.92,30,Basic,PayPal,Yes,544.94
+AUR-01394,Yes,7.59,29,Basic,Credit Card,Yes,367.47
+AUR-01395,No,19.21,12,Premium,PayPal,No,539.17
+AUR-01396,Yes,9.38,34,Basic,Credit Card,Yes,399.01
+AUR-01397,No,12.26,17,Plus,Credit Card,Yes,254.47
+AUR-01398,No,17.99,38,Premium,Credit Card,No,476.66
+AUR-01399,No,14.71,64,Plus,Credit Card,Yes,727.81
+AUR-01400,No,14.04,56,Plus,Debit Card,Yes,896.48
+AUR-01401,No,13.49,34,Plus,Credit Card,Yes,683.06
+AUR-01402,No,8.98,71,Basic,Credit Card,Yes,970.44
+AUR-01403,No,16.89,71,Premium,Gift Card,Yes,817.71
+AUR-01404,No,10.9,32,Basic,Debit Card,Yes,432.98
+AUR-01405,No,8.74,55,Basic,Credit Card,Yes,648.45
+AUR-01406,Yes,10.16,24,Basic,Debit Card,Yes,82.18
+AUR-01407,No,18.31,64,Premium,Debit Card,No,1735.08
+AUR-01408,Yes,7.72,27,Basic,Debit Card,Yes,80.2
+AUR-01409,Yes,15.3,18,Premium,Debit Card,No,261.91
+AUR-01410,No,15.52,9,Plus,PayPal,Yes,237.06
+AUR-01411,No,15.37,61,Premium,Credit Card,No,576.94
+AUR-01412,No,16.2,21,Premium,Debit Card,No,264.66
+AUR-01413,No,18.55,59,Premium,Credit Card,Yes,428.36
+AUR-01414,No,17.98,6,Premium,PayPal,Yes,95.32
+AUR-01415,No,7.96,36,Basic,Credit Card,Yes,620.72
+AUR-01416,No,19.67,31,Premium,Credit Card,Yes,184.96
+AUR-01417,Yes,12.28,32,Plus,Gift Card,Yes,321.66
+AUR-01418,No,15.96,12,Plus,Debit Card,No,310.09
+AUR-01419,No,16.52,5,Premium,Credit Card,Yes,137.03
+AUR-01420,No,18.91,25,Premium,Credit Card,Yes,448.23
+AUR-01421,No,13.96,34,Plus,Credit Card,Yes,630.31
+AUR-01422,No,14.37,57,Plus,Gift Card,Yes,1968.24
+AUR-01423,No,13.52,33,Plus,Credit Card,Yes,483.61
+AUR-01424,No,11.99,17,Plus,Credit Card,Yes,369.27
+AUR-01425,No,9.71,19,Basic,Debit Card,No,272.23
+AUR-01426,No,13.82,44,Plus,Credit Card,Yes,236.95
+AUR-01427,No,10.07,31,Basic,Credit Card,Yes,434.59
+AUR-01428,Yes,8.03,65,Basic,PayPal,Yes,417.67
+AUR-01429,No,14.39,32,Plus,Credit Card,Yes,521.15
+AUR-01430,No,14.8,41,Plus,PayPal,Yes,1064.65
+AUR-01431,No,17.81,4,Premium,PayPal,Yes,117.08
+AUR-01432,No,13.75,14,Plus,Credit Card,Yes,424.91
+AUR-01433,No,9.01,62,Basic,PayPal,No,218.22
+AUR-01434,Yes,7.61,25,Basic,PayPal,Yes,111.7
+AUR-01435,Yes,8.81,30,Basic,Debit Card,Yes,319.62
+AUR-01436,No,16.48,43,Premium,Debit Card,No,339.21
+AUR-01437,No,9.83,4,Basic,Credit Card,No,31.19
+AUR-01438,Yes,11.36,36,Plus,Credit Card,Yes,78.39
+AUR-01439,No,18.61,25,Premium,PayPal,No,590.98
+AUR-01440,No,17.88,10,Premium,Credit Card,No,282.87
+AUR-01441,No,8.56,30,Basic,Credit Card,Yes,188.71
+AUR-01442,Yes,8.74,32,Basic,Debit Card,Yes,402.41
+AUR-01443,Yes,7.86,13,Basic,Credit Card,Yes,307.71
+AUR-01444,Yes,8.34,39,Basic,PayPal,Yes,348.23
+AUR-01445,No,10.75,54,Basic,PayPal,No,414.82
+AUR-01446,No,12.14,19,Plus,PayPal,Yes,627.93
+AUR-01447,No,16.98,70,Premium,Credit Card,Yes,1409.72
+AUR-01448,No,16.45,44,Plus,Credit Card,Yes,1365.11
+AUR-01449,No,12.68,56,Plus,PayPal,Yes,374.17
+AUR-01450,Yes,9.06,5,Basic,Credit Card,No,11.54
+AUR-01451,No,18.06,56,Premium,Debit Card,Yes,852.07
+AUR-01452,No,15.7,24,Plus,Debit Card,Yes,514.56
+AUR-01453,No,17.78,51,Premium,Credit Card,Yes,795.6
+AUR-01454,No,17.74,58,Premium,Credit Card,No,878.58
+AUR-01455,Yes,7.99,18,Basic,Debit Card,Yes,50.1
+AUR-01456,No,8.68,18,Basic,Credit Card,Yes,83.83
+AUR-01457,Yes,7.39,4,Basic,PayPal,Yes,102.47
+AUR-01458,Yes,12.87,44,Plus,Debit Card,Yes,229.16
+AUR-01459,No,17.33,56,Premium,Credit Card,Yes,927.09
+AUR-01460,Yes,7.98,29,Basic,PayPal,Yes,398.73
+AUR-01461,No,13.77,11,Plus,Credit Card,Yes,353.09
+AUR-01462,No,14.74,23,Plus,Credit Card,No,330.19
+AUR-01463,Yes,10.35,29,Basic,Gift Card,Yes,479.34
+AUR-01464,Yes,8.85,66,Basic,PayPal,Yes,926.9
+AUR-01465,Yes,13.01,9,Plus,Debit Card,No,188.62
+AUR-01466,No,15.9,25,Plus,PayPal,Yes,592.7
+AUR-01467,Yes,14.08,46,Plus,Debit Card,No,1111.69
+AUR-01468,Yes,10.88,17,Basic,Credit Card,Yes,338.48
+AUR-01469,No,14.54,64,Plus,Credit Card,No,1102.07
+AUR-01470,Yes,8.89,66,Basic,Credit Card,Yes,535.86
+AUR-01471,No,15.9,27,Premium,Credit Card,No,225.48
+AUR-01472,No,8.95,54,Basic,Debit Card,Yes,1033.76
+AUR-01473,No,9.63,55,Basic,PayPal,Yes,263.54
+AUR-01474,Yes,13.67,49,Plus,Credit Card,Yes,564.0
+AUR-01475,No,14.78,13,Plus,Debit Card,Yes,193.01
+AUR-01476,No,15.88,3,Plus,PayPal,Yes,92.32
+AUR-01477,No,13.83,25,Plus,Gift Card,No,346.88
+AUR-01478,No,18.11,9,Premium,Credit Card,Yes,135.46
+AUR-01479,No,16.07,21,Plus,PayPal,No,294.4
+AUR-01480,No,13.26,46,Plus,PayPal,Yes,496.26
+AUR-01481,No,14.91,42,Plus,Credit Card,Yes,413.34
+AUR-01482,Yes,6.32,15,Basic,Credit Card,No,170.59
+AUR-01483,No,14.58,1,Plus,Credit Card,Yes,141.13
+AUR-01484,No,9.19,16,Basic,Debit Card,Yes,219.8
+AUR-01485,No,12.71,33,Plus,Debit Card,Yes,553.91
+AUR-01486,No,8.94,56,Basic,Debit Card,Yes,447.65
+AUR-01487,No,16.71,26,Premium,PayPal,Yes,389.98
+AUR-01488,No,14.25,20,Plus,Credit Card,Yes,268.44
+AUR-01489,No,16.36,40,Premium,Credit Card,Yes,498.95
+AUR-01490,No,14.0,5,Plus,PayPal,No,38.79
+AUR-01491,Yes,10.48,16,Basic,Gift Card,Yes,552.58
+AUR-01492,No,17.6,2,Premium,PayPal,Yes,190.23
+AUR-01493,Yes,12.97,38,Plus,Credit Card,Yes,1486.67
+AUR-01494,No,19.16,32,Premium,Credit Card,Yes,1100.29
+AUR-01495,No,14.42,42,Plus,Credit Card,No,710.02
+AUR-01496,Yes,14.17,45,Plus,Credit Card,Yes,246.66
+AUR-01497,No,18.29,28,Premium,Credit Card,Yes,929.07
+AUR-01498,No,13.9,63,Plus,PayPal,Yes,1523.55
+AUR-01499,No,9.95,67,Basic,Debit Card,Yes,407.16
+AUR-01500,Yes,13.91,8,Plus,Credit Card,Yes,168.71
+AUR-01501,No,13.88,67,Plus,Credit Card,Yes,1044.33
+AUR-01502,No,17.14,14,Premium,Credit Card,Yes,294.65
+AUR-01503,Yes,7.86,18,Basic,Debit Card,Yes,285.08
+AUR-01504,Yes,13.55,38,Plus,PayPal,Yes,634.74
+AUR-01505,Yes,17.08,2,Premium,Credit Card,Yes,127.8
+AUR-01506,No,14.16,26,Plus,PayPal,Yes,640.81
+AUR-01507,No,13.22,14,Plus,Credit Card,Yes,133.54
+AUR-01508,No,17.18,35,Plus,Credit Card,Yes,880.32
+AUR-01509,Yes,10.23,59,Basic,Gift Card,Yes,673.18
+AUR-01510,No,12.3,67,Plus,Credit Card,Yes,740.23
+AUR-01511,No,8.73,15,Basic,Credit Card,Yes,334.95
+AUR-01512,Yes,8.09,39,Basic,Debit Card,Yes,222.17
+AUR-01513,No,13.29,34,Plus,Credit Card,Yes,677.19
+AUR-01514,No,13.38,30,Plus,Credit Card,Yes,484.39
+AUR-01515,No,19.01,46,Premium,Credit Card,Yes,1845.99
+AUR-01516,Yes,9.19,72,Basic,Credit Card,Yes,931.24
+AUR-01517,No,8.79,29,Basic,Debit Card,Yes,110.59
+AUR-01518,No,15.0,4,Premium,Credit Card,Yes,58.99
+AUR-01519,Yes,10.53,66,Basic,PayPal,Yes,1418.07
+AUR-01520,Yes,9.33,68,Basic,PayPal,Yes,731.59
+AUR-01521,No,9.2,23,Basic,Credit Card,No,132.87
+AUR-01522,No,16.44,36,Plus,Credit Card,No,543.89
+AUR-01523,No,19.27,62,Premium,Credit Card,Yes,2550.4
+AUR-01524,No,12.41,36,Plus,Credit Card,Yes,326.61
+AUR-01525,No,14.5,35,Plus,Credit Card,Yes,295.8
+AUR-01526,Yes,9.89,67,Basic,PayPal,No,584.79
+AUR-01527,No,10.08,60,Basic,Credit Card,Yes,531.6
+AUR-01528,No,14.29,37,Plus,Debit Card,Yes,666.85
+AUR-01529,Yes,9.77,11,Basic,Debit Card,No,74.79
+AUR-01530,Yes,10.41,32,Basic,PayPal,Yes,433.22
+AUR-01531,Yes,9.6,49,Basic,Credit Card,Yes,1013.65
+AUR-01532,Yes,9.16,19,Basic,Credit Card,Yes,286.73
+AUR-01533,No,14.39,39,Plus,Gift Card,Yes,1030.7
+AUR-01534,No,15.47,48,Plus,Credit Card,Yes,1246.24
+AUR-01535,Yes,10.23,6,Basic,Debit Card,Yes,0.0
+AUR-01536,No,15.45,41,Plus,Debit Card,Yes,1219.98
+AUR-01537,No,15.0,53,Premium,Debit Card,Yes,537.55
+AUR-01538,No,13.45,15,Plus,Credit Card,Yes,48.42
+AUR-01539,No,15.73,40,Premium,Credit Card,No,482.2
+AUR-01540,No,14.22,51,Plus,Debit Card,No,558.2
+AUR-01541,No,17.17,3,Premium,Debit Card,No,119.22
+AUR-01542,No,8.9,47,Basic,PayPal,Yes,362.82
+AUR-01543,Yes,9.02,18,Basic,PayPal,Yes,235.59
+AUR-01544,No,10.71,29,Basic,PayPal,Yes,290.3
+AUR-01545,No,11.75,47,Plus,Gift Card,Yes,701.61
+AUR-01546,No,14.11,0,Plus,PayPal,Yes,42.72
+AUR-01547,Yes,10.61,1,Basic,Credit Card,Yes,75.27
+AUR-01548,No,13.04,32,Plus,Credit Card,Yes,246.95
+AUR-01549,No,8.98,69,Basic,Debit Card,Yes,490.86
+AUR-01550,Yes,8.54,0,Basic,Debit Card,No,48.73
+AUR-01551,Yes,10.45,57,Basic,Credit Card,Yes,1070.72
+AUR-01552,No,13.77,5,Plus,Debit Card,Yes,118.62
+AUR-01553,Yes,9.79,35,Basic,Credit Card,No,368.14
+AUR-01554,Yes,9.31,31,Basic,Credit Card,Yes,258.7
+AUR-01555,No,8.67,34,Basic,PayPal,Yes,287.68
+AUR-01556,No,11.97,5,Plus,Credit Card,Yes,62.44
+AUR-01557,No,21.46,55,Premium,Debit Card,No,1024.73
+AUR-01558,No,14.48,20,Plus,Debit Card,No,362.35
+AUR-01559,Yes,11.95,56,Plus,Debit Card,Yes,962.6
+AUR-01560,No,20.67,47,Premium,Credit Card,Yes,674.41
+AUR-01561,No,19.12,40,Premium,Debit Card,Yes,764.69
+AUR-01562,No,14.17,22,Plus,Credit Card,Yes,243.85
+AUR-01563,No,18.56,47,Premium,Debit Card,No,889.62
+AUR-01564,No,15.01,72,Premium,Credit Card,Yes,1176.1
+AUR-01565,No,18.24,67,Premium,Gift Card,No,1901.3
+AUR-01566,No,12.52,66,Plus,PayPal,No,902.89
+AUR-01567,Yes,9.32,16,Basic,Credit Card,Yes,169.1
+AUR-01568,Yes,8.97,42,Basic,Credit Card,No,328.11
+AUR-01569,No,12.97,29,Plus,Credit Card,Yes,311.86
+AUR-01570,Yes,15.38,70,Plus,PayPal,Yes,931.25
+AUR-01571,No,14.7,69,Plus,Debit Card,No,4587.94
+AUR-01572,No,15.37,63,Plus,PayPal,Yes,827.09
+AUR-01573,Yes,15.86,11,Plus,PayPal,No,211.79
+AUR-01574,No,17.11,23,Premium,Debit Card,Yes,513.0
+AUR-01575,No,8.33,51,Basic,Debit Card,Yes,547.66
+AUR-01576,Yes,9.12,54,Basic,Credit Card,No,420.04
+AUR-01577,No,16.68,25,Premium,Debit Card,Yes,471.9
+AUR-01578,No,18.24,9,Premium,Debit Card,Yes,192.56
+AUR-01579,No,17.24,9,Premium,PayPal,Yes,177.85
+AUR-01580,No,19.38,49,Premium,Credit Card,Yes,642.78
+AUR-01581,No,15.0,33,Premium,Credit Card,Yes,854.07
+AUR-01582,Yes,9.26,35,Basic,Credit Card,No,22.73
+AUR-01583,Yes,13.06,59,Plus,PayPal,Yes,827.65
+AUR-01584,No,8.61,1,Basic,Debit Card,No,96.03
+AUR-01585,Yes,15.79,55,Plus,Credit Card,Yes,1356.13
+AUR-01586,No,18.11,20,Premium,Credit Card,Yes,650.19
+AUR-01587,No,9.89,67,Basic,Debit Card,Yes,308.39
+AUR-01588,No,12.23,69,Plus,PayPal,Yes,548.12
+AUR-01589,No,10.28,36,Basic,Gift Card,No,558.83
+AUR-01590,Yes,9.96,23,Basic,PayPal,Yes,261.5
+AUR-01591,No,8.71,17,Basic,PayPal,Yes,290.03
+AUR-01592,Yes,9.75,13,Basic,Credit Card,No,264.04
+AUR-01593,No,16.58,72,Premium,Credit Card,Yes,1281.85
+AUR-01594,No,14.89,13,Plus,Debit Card,Yes,369.55
+AUR-01595,No,17.33,32,Premium,Debit Card,No,338.6
+AUR-01596,No,13.4,34,Plus,Credit Card,Yes,446.81
+AUR-01597,Yes,9.07,49,Basic,PayPal,Yes,331.85
+AUR-01598,Yes,7.75,61,Basic,Credit Card,Yes,401.83
+AUR-01599,No,18.48,40,Premium,Credit Card,No,477.81
+AUR-01600,Yes,9.66,55,Basic,Credit Card,No,759.27
+AUR-01601,No,16.2,41,Premium,PayPal,No,588.22
+AUR-01602,Yes,9.14,31,Basic,PayPal,No,443.66
+AUR-01603,No,12.87,11,Plus,Debit Card,Yes,212.7
+AUR-01604,No,18.25,15,Premium,PayPal,Yes,544.74
+AUR-01605,Yes,11.58,31,Basic,PayPal,Yes,577.97
+AUR-01606,Yes,10.45,3,Basic,Credit Card,No,93.08
+AUR-01607,No,17.65,23,Premium,PayPal,No,389.53
+AUR-01608,No,9.7,33,Basic,Credit Card,Yes,664.4
+AUR-01609,No,14.73,34,Plus,Debit Card,No,753.44
+AUR-01610,No,15.12,59,Plus,Credit Card,Yes,793.67
+AUR-01611,No,9.24,70,Basic,Credit Card,Yes,849.09
+AUR-01612,No,15.09,53,Plus,Debit Card,Yes,1638.93
+AUR-01613,No,14.25,5,Plus,Credit Card,No,135.58
+AUR-01614,Yes,9.15,29,Basic,Debit Card,Yes,243.05
+AUR-01615,No,16.93,53,Premium,Debit Card,Yes,961.01
+AUR-01616,Yes,7.99,43,Basic,Debit Card,No,207.21
+AUR-01617,Yes,7.25,33,Basic,Credit Card,Yes,427.63
+AUR-01618,No,14.15,31,Plus,Credit Card,Yes,656.87
+AUR-01619,No,17.24,29,Premium,Credit Card,Yes,647.24
+AUR-01620,No,8.12,42,Basic,PayPal,Yes,367.25
+AUR-01621,No,8.94,13,Basic,PayPal,Yes,241.15
+AUR-01622,Yes,14.62,37,Plus,Credit Card,Yes,538.07
+AUR-01623,No,17.74,15,Premium,PayPal,No,220.67
+AUR-01624,Yes,6.88,49,Basic,Debit Card,Yes,490.73
+AUR-01625,No,14.35,63,Plus,Gift Card,Yes,1623.25
+AUR-01626,No,14.64,37,Plus,Credit Card,No,478.12
+AUR-01627,Yes,8.45,28,Basic,Debit Card,Yes,610.24
+AUR-01628,Yes,8.74,68,Basic,Debit Card,No,542.66
+AUR-01629,No,8.77,48,Basic,Credit Card,No,489.69
+AUR-01630,No,14.23,31,Plus,Credit Card,No,449.85
+AUR-01631,Yes,15.0,2,Plus,Credit Card,Yes,60.91
+AUR-01632,No,16.76,1,Premium,Debit Card,Yes,57.84
+AUR-01633,No,12.04,16,Plus,Debit Card,Yes,505.2
+AUR-01634,No,13.83,17,Plus,PayPal,No,56.65
+AUR-01635,No,18.0,52,Premium,Credit Card,No,1545.73
+AUR-01636,Yes,12.33,36,Plus,PayPal,Yes,996.19
+AUR-01637,No,14.32,72,Plus,Credit Card,Yes,647.61
+AUR-01638,No,17.54,39,Premium,Gift Card,Yes,854.84
+AUR-01639,No,8.33,65,Basic,Credit Card,Yes,726.66
+AUR-01640,Yes,15.96,40,Plus,PayPal,No,997.47
+AUR-01641,No,13.42,26,Plus,PayPal,No,263.04
+AUR-01642,No,8.65,52,Basic,PayPal,Yes,320.63
+AUR-01643,No,14.14,32,Plus,PayPal,No,797.07
+AUR-01644,Yes,10.71,20,Basic,Credit Card,Yes,180.05
+AUR-01645,Yes,9.65,34,Basic,PayPal,Yes,231.1
+AUR-01646,No,14.9,48,Plus,Debit Card,Yes,766.31
+AUR-01647,Yes,8.43,27,Basic,Credit Card,Yes,361.89
+AUR-01648,No,17.01,51,Premium,Gift Card,No,976.11
+AUR-01649,No,20.53,71,Premium,Credit Card,Yes,1143.58
+AUR-01650,No,18.65,30,Premium,Credit Card,Yes,793.96
+AUR-01651,Yes,8.92,21,Basic,PayPal,Yes,312.91
+AUR-01652,No,8.96,29,Basic,Credit Card,Yes,293.47
+AUR-01653,Yes,8.22,61,Basic,Credit Card,Yes,417.39
+AUR-01654,No,8.22,13,Basic,Credit Card,Yes,277.41
+AUR-01655,No,17.38,71,Premium,PayPal,Yes,755.05
+AUR-01656,Yes,11.51,30,Plus,PayPal,Yes,221.09
+AUR-01657,No,10.0,61,Basic,Credit Card,No,898.52
+AUR-01658,No,18.22,57,Premium,Debit Card,Yes,595.47
+AUR-01659,Yes,13.36,57,Plus,Debit Card,Yes,492.35
+AUR-01660,No,8.57,66,Basic,Debit Card,Yes,670.68
+AUR-01661,No,7.9,13,Basic,Debit Card,Yes,247.28
+AUR-01662,No,14.43,43,Plus,Gift Card,Yes,739.25
+AUR-01663,No,16.35,7,Premium,Credit Card,Yes,162.0
+AUR-01664,Yes,8.95,21,Basic,Credit Card,Yes,138.77
+AUR-01665,No,17.29,2,Premium,Debit Card,Yes,70.43
+AUR-01666,No,17.48,49,Premium,Credit Card,Yes,508.45
+AUR-01667,No,16.0,44,Premium,Debit Card,No,735.47
+AUR-01668,No,9.11,54,Basic,Credit Card,Yes,557.8
+AUR-01669,No,7.02,12,Basic,Credit Card,Yes,258.64
+AUR-01670,No,18.61,24,Premium,PayPal,Yes,684.99
+AUR-01671,Yes,8.95,49,Basic,Credit Card,Yes,209.53
+AUR-01672,No,11.0,60,Plus,Debit Card,Yes,1218.03
+AUR-01673,No,12.82,64,Plus,PayPal,No,517.45
+AUR-01674,No,9.86,5,Basic,Credit Card,Yes,67.67
+AUR-01675,No,17.18,29,Premium,Credit Card,Yes,947.29
+AUR-01676,No,17.42,0,Premium,Credit Card,No,8.37
+AUR-01677,No,15.31,59,Plus,Debit Card,Yes,1487.55
+AUR-01678,Yes,15.19,8,Plus,Credit Card,Yes,96.76
+AUR-01679,No,17.08,60,Premium,Debit Card,Yes,2734.37
+AUR-01680,Yes,14.44,11,Plus,Credit Card,Yes,330.73
+AUR-01681,No,15.05,1,Plus,Credit Card,No,30.65
+AUR-01682,No,22.72,64,Premium,Credit Card,Yes,4040.8
+AUR-01683,No,14.25,32,Plus,Credit Card,No,695.63
+AUR-01684,Yes,9.44,31,Basic,Credit Card,Yes,353.26
+AUR-01685,No,11.22,47,Basic,PayPal,Yes,427.79
+AUR-01686,Yes,10.24,20,Basic,Credit Card,Yes,83.89
+AUR-01687,No,14.66,50,Plus,Debit Card,Yes,1105.62
+AUR-01688,No,13.61,31,Plus,Debit Card,Yes,372.68
+AUR-01689,Yes,14.13,19,Plus,Debit Card,Yes,146.23
+AUR-01690,No,13.23,28,Plus,Debit Card,Yes,447.03
+AUR-01691,No,16.93,0,Premium,Credit Card,Yes,161.42
+AUR-01692,No,15.0,22,Premium,Debit Card,No,393.84
+AUR-01693,No,10.44,43,Basic,Credit Card,Yes,445.51
+AUR-01694,No,15.51,10,Plus,PayPal,Yes,84.04
+AUR-01695,Yes,15.82,8,Plus,Credit Card,No,105.29
+AUR-01696,No,15.65,47,Plus,PayPal,Yes,558.8
+AUR-01697,No,11.79,31,Basic,Debit Card,No,259.53
+AUR-01698,No,15.43,9,Premium,Debit Card,No,158.58
+AUR-01699,No,19.2,54,Premium,Credit Card,Yes,1115.76
+AUR-01700,No,13.5,56,Plus,Debit Card,Yes,783.67
+AUR-01701,No,20.13,2,Premium,PayPal,Yes,141.58
+AUR-01702,No,16.9,14,Premium,Debit Card,Yes,477.6
+AUR-01703,Yes,9.75,27,Basic,Credit Card,Yes,361.63
+AUR-01704,Yes,12.85,53,Plus,Credit Card,Yes,468.22
+AUR-01705,No,15.52,5,Plus,Credit Card,No,116.88
+AUR-01706,No,20.04,58,Premium,PayPal,Yes,1581.71
+AUR-01707,No,9.15,23,Basic,Credit Card,Yes,400.14
+AUR-01708,No,14.64,9,Plus,PayPal,Yes,240.1
+AUR-01709,No,19.18,63,Premium,PayPal,No,1048.54
+AUR-01710,Yes,9.96,6,Basic,Debit Card,Yes,84.59
+AUR-01711,No,17.69,9,Premium,Debit Card,No,177.29
+AUR-01712,No,14.38,69,Plus,Debit Card,No,384.29
+AUR-01713,No,17.57,37,Premium,Debit Card,Yes,583.37
+AUR-01714,No,18.28,33,Premium,Credit Card,Yes,535.73
+AUR-01715,Yes,8.43,50,Basic,PayPal,Yes,671.9
+AUR-01716,No,13.23,46,Plus,Gift Card,Yes,392.39
+AUR-01717,No,9.1,44,Basic,Debit Card,Yes,304.38
+AUR-01718,Yes,14.5,1,Plus,PayPal,Yes,103.75
+AUR-01719,No,12.69,40,Plus,Gift Card,No,451.97
+AUR-01720,No,19.39,20,Premium,Debit Card,Yes,251.03
+AUR-01721,Yes,8.34,58,Basic,PayPal,No,657.51
+AUR-01722,No,9.39,36,Basic,Debit Card,Yes,531.42
+AUR-01723,No,14.75,9,Plus,Credit Card,Yes,244.69
+AUR-01724,No,15.64,64,Plus,Credit Card,Yes,935.35
+AUR-01725,No,15.95,20,Plus,Debit Card,Yes,353.85
+AUR-01726,No,8.34,19,Basic,PayPal,No,236.83
+AUR-01727,Yes,8.3,68,Basic,Credit Card,Yes,377.22
+AUR-01728,No,18.63,56,Premium,PayPal,Yes,1284.72
+AUR-01729,Yes,9.4,62,Basic,Debit Card,Yes,524.69
+AUR-01730,No,14.84,48,Plus,Debit Card,Yes,498.13
+AUR-01731,Yes,16.91,66,Premium,Credit Card,Yes,638.6
+AUR-01732,No,8.85,8,Basic,Debit Card,Yes,81.02
+AUR-01733,No,12.33,43,Plus,Credit Card,No,736.41
+AUR-01734,Yes,7.06,21,Basic,Credit Card,Yes,247.44
+AUR-01735,No,17.71,29,Premium,Credit Card,Yes,350.94
+AUR-01736,No,14.23,17,Plus,Credit Card,No,524.44
+AUR-01737,No,21.16,14,Premium,Credit Card,Yes,321.47
+AUR-01738,Yes,7.53,32,Basic,Debit Card,No,459.3
+AUR-01739,No,16.56,67,Plus,Credit Card,Yes,1850.23
+AUR-01740,No,12.95,46,Plus,Credit Card,Yes,1202.47
+AUR-01741,No,7.84,25,Basic,PayPal,Yes,283.47
+AUR-01742,No,8.11,31,Basic,Debit Card,Yes,157.51
+AUR-01743,Yes,9.4,38,Basic,PayPal,No,111.87
+AUR-01744,No,18.39,17,Premium,Debit Card,No,336.23
+AUR-01745,No,13.92,38,Plus,Credit Card,Yes,1278.77
+AUR-01746,No,15.69,50,Plus,PayPal,Yes,805.05
+AUR-01747,No,14.73,17,Plus,PayPal,Yes,541.14
+AUR-01748,No,16.97,42,Plus,Debit Card,Yes,447.98
+AUR-01749,No,13.11,51,Plus,Debit Card,Yes,1199.86
+AUR-01750,No,12.8,37,Plus,Debit Card,No,655.57
+AUR-01751,No,15.46,21,Plus,Debit Card,Yes,264.65
+AUR-01752,No,9.21,40,Basic,PayPal,Yes,647.21
+AUR-01753,No,19.38,57,Premium,Debit Card,Yes,773.23
+AUR-01754,No,18.85,16,Premium,Credit Card,No,432.28
+AUR-01755,Yes,10.06,41,Basic,Credit Card,No,253.85
+AUR-01756,No,12.55,49,Plus,Credit Card,Yes,483.09
+AUR-01757,Yes,9.74,23,Basic,Credit Card,Yes,210.84
+AUR-01758,Yes,18.43,28,Premium,Credit Card,No,396.83
+AUR-01759,No,18.16,64,Premium,PayPal,Yes,555.48
+AUR-01760,No,19.43,26,Premium,Credit Card,No,1423.74
+AUR-01761,Yes,10.06,43,Basic,Credit Card,No,298.11
+AUR-01762,No,9.6,10,Basic,Credit Card,No,118.06
+AUR-01763,No,9.2,67,Basic,Debit Card,Yes,206.62
+AUR-01764,Yes,10.09,43,Basic,Debit Card,Yes,386.68
+AUR-01765,No,9.91,55,Basic,Debit Card,No,488.81
+AUR-01766,Yes,9.37,43,Basic,Gift Card,Yes,882.22
+AUR-01767,No,19.14,25,Premium,Gift Card,No,640.49
+AUR-01768,Yes,10.26,24,Basic,PayPal,Yes,139.31
+AUR-01769,No,6.64,51,Basic,PayPal,No,340.75
+AUR-01770,No,18.41,62,Premium,Credit Card,Yes,1994.15
+AUR-01771,No,13.75,9,Plus,Debit Card,Yes,294.13
+AUR-01772,Yes,13.91,61,Plus,Credit Card,Yes,618.33
+AUR-01773,No,15.23,60,Plus,PayPal,Yes,566.56
+AUR-01774,No,16.88,7,Premium,Credit Card,Yes,109.68
+AUR-01775,No,14.73,7,Plus,Credit Card,No,153.96
+AUR-01776,No,14.54,50,Plus,Credit Card,Yes,303.93
+AUR-01777,No,13.51,61,Plus,Debit Card,No,757.47
+AUR-01778,No,15.45,28,Plus,Debit Card,Yes,335.43
+AUR-01779,Yes,8.7,46,Basic,Credit Card,Yes,479.97
+AUR-01780,No,17.5,72,Plus,Debit Card,No,1761.0
+AUR-01781,Yes,8.68,23,Basic,Credit Card,Yes,193.85
+AUR-01782,No,18.61,16,Premium,PayPal,No,335.82
+AUR-01783,No,10.14,72,Basic,Credit Card,No,1274.69
+AUR-01784,No,10.56,20,Basic,Credit Card,Yes,1128.76
+AUR-01785,Yes,7.54,34,Basic,Debit Card,No,415.77
+AUR-01786,No,17.88,32,Premium,Debit Card,Yes,655.57
+AUR-01787,Yes,10.4,38,Basic,PayPal,Yes,389.91
+AUR-01788,Yes,14.82,19,Plus,Debit Card,Yes,387.08
+AUR-01789,No,17.5,49,Premium,PayPal,No,1796.13
+AUR-01790,No,7.82,50,Basic,Credit Card,Yes,347.01
+AUR-01791,No,14.11,14,Plus,Credit Card,Yes,139.12
+AUR-01792,Yes,7.85,35,Basic,Gift Card,No,313.05
+AUR-01793,Yes,8.76,4,Basic,Credit Card,Yes,11.54
+AUR-01794,No,12.43,16,Plus,PayPal,No,210.2
+AUR-01795,No,22.28,72,Premium,Credit Card,Yes,957.28
+AUR-01796,Yes,8.67,36,Basic,Debit Card,Yes,425.15
+AUR-01797,No,13.23,45,Plus,Credit Card,Yes,714.43
+AUR-01798,No,7.43,64,Basic,Debit Card,Yes,562.11
+AUR-01799,No,13.73,52,Plus,PayPal,Yes,733.42
+AUR-01800,No,13.35,57,Plus,Credit Card,No,382.55
+AUR-01801,No,13.97,51,Plus,Credit Card,No,1268.84
+AUR-01802,No,16.12,36,Plus,Credit Card,Yes,388.09
+AUR-01803,Yes,9.64,46,Basic,Credit Card,Yes,468.84
+AUR-01804,No,15.49,21,Plus,Credit Card,Yes,631.14
+AUR-01805,No,13.8,65,Plus,Gift Card,Yes,957.83
+AUR-01806,No,12.54,13,Plus,Credit Card,Yes,262.63
+AUR-01807,No,9.67,64,Basic,Credit Card,Yes,838.97
+AUR-01808,No,15.59,64,Plus,Debit Card,No,612.46
+AUR-01809,No,13.93,10,Plus,Credit Card,No,185.17
+AUR-01810,Yes,10.04,51,Basic,Credit Card,No,422.01
+AUR-01811,No,8.56,72,Basic,PayPal,Yes,566.86
+AUR-01812,Yes,11.92,41,Plus,Debit Card,Yes,688.71
+AUR-01813,No,14.84,24,Plus,PayPal,Yes,347.1
+AUR-01814,No,8.95,64,Basic,Credit Card,Yes,907.5
+AUR-01815,No,15.53,37,Premium,Debit Card,Yes,795.77
+AUR-01816,No,15.22,8,Plus,PayPal,No,391.29
+AUR-01817,No,11.08,18,Plus,PayPal,Yes,385.11
+AUR-01818,No,13.0,49,Plus,PayPal,Yes,589.98
+AUR-01819,No,13.86,33,Plus,Credit Card,Yes,356.72
+AUR-01820,No,14.87,15,Plus,Gift Card,No,181.56
+AUR-01821,No,19.52,58,Premium,PayPal,Yes,1097.41
+AUR-01822,No,13.37,8,Plus,PayPal,No,73.76
+AUR-01823,Yes,12.99,15,Plus,Debit Card,Yes,280.66
+AUR-01824,Yes,14.86,33,Plus,Gift Card,Yes,434.16
+AUR-01825,No,13.43,2,Plus,Credit Card,No,39.49
+AUR-01826,Yes,8.96,28,Basic,PayPal,Yes,393.02
+AUR-01827,Yes,14.64,66,Plus,Debit Card,No,604.17
+AUR-01828,No,12.66,68,Plus,PayPal,Yes,478.67
+AUR-01829,No,16.61,63,Premium,PayPal,Yes,811.26
+AUR-01830,No,12.37,23,Plus,Credit Card,Yes,553.18
+AUR-01831,Yes,14.9,4,Plus,Credit Card,No,100.8
+AUR-01832,No,18.2,59,Premium,Credit Card,No,967.98
+AUR-01833,No,14.29,27,Plus,PayPal,Yes,526.52
+AUR-01834,No,10.68,54,Basic,PayPal,Yes,842.83
+AUR-01835,No,6.16,8,Basic,PayPal,Yes,93.85
+AUR-01836,No,8.03,48,Basic,PayPal,Yes,552.65
+AUR-01837,No,9.0,42,Basic,Debit Card,Yes,650.18
+AUR-01838,Yes,15.1,67,Plus,Credit Card,Yes,509.67
+AUR-01839,Yes,13.35,7,Plus,Debit Card,No,175.76
+AUR-01840,No,13.04,29,Plus,PayPal,Yes,322.96
+AUR-01841,Yes,7.9,72,Basic,Debit Card,Yes,491.92
+AUR-01842,Yes,15.62,28,Plus,PayPal,No,797.02
+AUR-01843,No,8.73,48,Basic,Gift Card,Yes,737.28
+AUR-01844,Yes,22.1,11,Premium,Credit Card,Yes,254.35
+AUR-01845,No,8.86,53,Basic,PayPal,Yes,597.17
+AUR-01846,No,12.16,20,Plus,Debit Card,Yes,660.68
+AUR-01847,Yes,8.33,41,Basic,Debit Card,Yes,243.39
+AUR-01848,No,15.49,64,Plus,Credit Card,Yes,778.48
+AUR-01849,No,15.57,48,Plus,Credit Card,Yes,681.0
+AUR-01850,Yes,15.02,34,Plus,Credit Card,Yes,769.12
+AUR-01851,No,9.05,13,Basic,Debit Card,Yes,146.15
+AUR-01852,No,16.45,24,Premium,Credit Card,Yes,215.27
+AUR-01853,No,13.16,61,Plus,Credit Card,Yes,890.12
+AUR-01854,No,13.01,15,Plus,Debit Card,Yes,272.3
+AUR-01855,No,16.83,47,Premium,Credit Card,No,489.55
+AUR-01856,No,17.96,35,Premium,PayPal,Yes,660.69
+AUR-01857,Yes,9.62,23,Basic,Credit Card,Yes,223.84
+AUR-01858,No,8.75,52,Basic,Credit Card,Yes,248.06
+AUR-01859,No,8.54,26,Basic,Gift Card,Yes,431.72
+AUR-01860,Yes,8.82,20,Basic,PayPal,Yes,310.65
+AUR-01861,Yes,13.74,38,Plus,Debit Card,No,367.64
+AUR-01862,No,16.63,55,Premium,PayPal,Yes,1323.9
+AUR-01863,No,19.4,63,Premium,Credit Card,Yes,3166.26
+AUR-01864,No,12.44,45,Plus,PayPal,Yes,548.03
+AUR-01865,No,12.84,48,Plus,Credit Card,Yes,350.06
+AUR-01866,No,17.13,57,Premium,Debit Card,No,648.78
+AUR-01867,No,19.04,19,Premium,Credit Card,Yes,262.88
+AUR-01868,Yes,8.98,18,Basic,PayPal,Yes,86.51
+AUR-01869,No,14.76,35,Plus,Credit Card,No,541.61
+AUR-01870,No,15.86,46,Premium,Credit Card,Yes,1037.1
+AUR-01871,Yes,7.25,47,Basic,Credit Card,No,254.58
+AUR-01872,No,14.77,11,Plus,PayPal,Yes,401.14
+AUR-01873,Yes,15.1,56,Premium,Credit Card,Yes,601.99
+AUR-01874,No,17.62,26,Premium,Debit Card,Yes,443.53
+AUR-01875,No,15.48,64,Premium,Credit Card,Yes,585.21
+AUR-01876,No,20.42,52,Premium,PayPal,Yes,604.65
+AUR-01877,Yes,9.45,71,Basic,Credit Card,Yes,1015.1
+AUR-01878,No,8.54,46,Basic,PayPal,Yes,709.97
+AUR-01879,No,12.73,38,Plus,Credit Card,Yes,380.82
+AUR-01880,No,14.8,13,Plus,Credit Card,Yes,317.54
+AUR-01881,No,14.54,29,Plus,Credit Card,Yes,706.49
+AUR-01882,No,15.8,62,Plus,Credit Card,Yes,612.59
+AUR-01883,No,14.67,27,Plus,Debit Card,No,569.33
+AUR-01884,Yes,15.26,3,Plus,Credit Card,Yes,69.63
+AUR-01885,Yes,10.25,17,Basic,PayPal,No,191.03
+AUR-01886,Yes,9.58,43,Basic,Debit Card,Yes,261.07
+AUR-01887,Yes,10.16,45,Basic,Credit Card,Yes,164.81
+AUR-01888,Yes,7.98,71,Basic,Debit Card,Yes,618.57
+AUR-01889,No,15.54,68,Premium,Credit Card,Yes,905.14
+AUR-01890,No,14.56,38,Plus,Credit Card,Yes,544.34
+AUR-01891,Yes,8.62,40,Basic,Credit Card,Yes,195.73
+AUR-01892,No,15.17,58,Plus,Credit Card,Yes,1508.05
+AUR-01893,No,12.45,3,Plus,Credit Card,Yes,102.2
+AUR-01894,Yes,7.75,43,Basic,PayPal,Yes,176.36
+AUR-01895,Yes,8.28,34,Basic,Debit Card,Yes,496.13
+AUR-01896,No,10.24,57,Basic,PayPal,Yes,730.8
+AUR-01897,No,13.84,58,Plus,Credit Card,No,1123.54
+AUR-01898,Yes,10.48,47,Basic,PayPal,Yes,545.23
+AUR-01899,Yes,7.84,47,Basic,Credit Card,Yes,402.78
+AUR-01900,Yes,8.53,50,Basic,Credit Card,Yes,636.05
+AUR-01901,No,13.94,42,Plus,PayPal,Yes,819.42
+AUR-01902,Yes,8.91,16,Basic,Credit Card,No,77.06
+AUR-01903,No,16.33,20,Premium,Credit Card,Yes,300.98
+AUR-01904,Yes,9.58,54,Basic,PayPal,No,203.99
+AUR-01905,No,13.7,45,Plus,Debit Card,Yes,921.84
+AUR-01906,No,14.52,17,Plus,Debit Card,Yes,350.77
+AUR-01907,Yes,14.75,64,Plus,Credit Card,Yes,1311.76
+AUR-01908,No,7.23,71,Basic,Credit Card,Yes,910.33
+AUR-01909,No,18.65,45,Premium,Gift Card,Yes,474.37
+AUR-01910,No,17.05,16,Premium,Credit Card,Yes,263.96
+AUR-01911,Yes,7.39,68,Basic,Credit Card,No,499.6
+AUR-01912,No,9.48,17,Basic,Credit Card,No,185.68
+AUR-01913,No,15.56,31,Premium,PayPal,Yes,612.64
+AUR-01914,Yes,14.46,62,Plus,PayPal,Yes,1048.7
+AUR-01915,Yes,7.04,38,Basic,Debit Card,Yes,439.9
+AUR-01916,No,8.54,17,Basic,Gift Card,Yes,170.68
+AUR-01917,No,13.78,5,Plus,Credit Card,Yes,0.0
+AUR-01918,No,13.11,26,Plus,PayPal,Yes,541.22
+AUR-01919,No,15.31,49,Plus,Credit Card,Yes,895.67
+AUR-01920,No,21.25,52,Premium,Credit Card,Yes,536.64
+AUR-01921,No,14.41,16,Plus,Credit Card,Yes,308.5
+AUR-01922,Yes,9.15,11,Basic,Gift Card,Yes,126.05
+AUR-01923,Yes,12.77,51,Plus,PayPal,Yes,909.46
+AUR-01924,Yes,9.41,11,Basic,Debit Card,Yes,112.95
+AUR-01925,Yes,8.85,4,Basic,Credit Card,No,41.26
+AUR-01926,Yes,8.62,35,Basic,Credit Card,Yes,827.36
+AUR-01927,No,9.83,41,Basic,Credit Card,Yes,208.86
+AUR-01928,No,13.76,17,Plus,Credit Card,No,353.82
+AUR-01929,No,9.28,15,Basic,Credit Card,Yes,107.49
+AUR-01930,No,11.9,17,Plus,Debit Card,No,284.13
+AUR-01931,No,14.03,25,Plus,Debit Card,No,438.26
+AUR-01932,Yes,13.75,0,Plus,PayPal,No,53.24
+AUR-01933,No,13.3,0,Plus,Debit Card,No,66.92
+AUR-01934,No,16.39,27,Premium,Credit Card,Yes,829.82
+AUR-01935,Yes,15.89,1,Plus,Debit Card,Yes,90.74
+AUR-01936,No,8.34,23,Basic,Credit Card,No,498.07
+AUR-01937,No,12.6,42,Plus,Debit Card,No,231.02
+AUR-01938,No,14.84,2,Plus,PayPal,Yes,94.31
+AUR-01939,No,9.03,45,Basic,Credit Card,Yes,409.47
+AUR-01940,Yes,9.37,45,Basic,Credit Card,Yes,625.13
+AUR-01941,Yes,10.71,41,Basic,PayPal,No,580.97
+AUR-01942,No,16.61,45,Plus,Debit Card,Yes,871.65
+AUR-01943,No,15.28,59,Plus,Debit Card,Yes,2723.38
+AUR-01944,Yes,9.78,5,Basic,PayPal,Yes,172.88
+AUR-01945,No,17.68,12,Premium,Debit Card,Yes,301.72
+AUR-01946,No,17.66,23,Premium,Credit Card,No,478.95
+AUR-01947,No,10.2,50,Basic,PayPal,Yes,1085.73
+AUR-01948,No,19.13,63,Premium,PayPal,Yes,2537.78
+AUR-01949,No,8.38,67,Basic,Credit Card,Yes,698.83
+AUR-01950,No,18.73,42,Premium,Credit Card,No,976.16
+AUR-01951,No,16.67,29,Premium,PayPal,Yes,265.36
+AUR-01952,Yes,8.47,30,Basic,Debit Card,Yes,299.84
+AUR-01953,No,13.95,4,Plus,Credit Card,Yes,134.47
+AUR-01954,No,17.47,33,Premium,Debit Card,No,915.51
+AUR-01955,No,17.63,37,Premium,PayPal,No,1607.98
+AUR-01956,No,19.19,15,Premium,Debit Card,Yes,624.61
+AUR-01957,No,12.63,56,Plus,Credit Card,Yes,1318.39
+AUR-01958,Yes,8.75,59,Basic,Credit Card,No,496.45
+AUR-01959,No,16.12,22,Premium,Credit Card,Yes,243.8
+AUR-01960,No,12.36,66,Plus,PayPal,Yes,1227.58
+AUR-01961,No,13.5,7,Plus,Debit Card,No,86.8
+AUR-01962,No,13.17,66,Plus,Credit Card,No,1292.53
+AUR-01963,Yes,13.13,56,Plus,PayPal,Yes,541.4
+AUR-01964,Yes,8.85,16,Basic,Credit Card,No,155.51
+AUR-01965,No,13.6,47,Plus,Debit Card,Yes,675.16
+AUR-01966,No,7.98,22,Basic,Credit Card,Yes,306.66
+AUR-01967,No,13.87,58,Plus,PayPal,Yes,834.86
+AUR-01968,No,21.22,11,Premium,PayPal,Yes,550.57
+AUR-01969,Yes,14.57,17,Plus,PayPal,Yes,170.42
+AUR-01970,No,12.5,22,Plus,Credit Card,Yes,152.85
+AUR-01971,No,10.26,14,Basic,Credit Card,No,188.33
+AUR-01972,No,16.78,24,Premium,Credit Card,Yes,453.3
+AUR-01973,No,13.17,43,Plus,Gift Card,No,397.96
+AUR-01974,Yes,9.87,46,Basic,Credit Card,Yes,428.3
+AUR-01975,Yes,8.68,40,Basic,Debit Card,Yes,426.43
+AUR-01976,Yes,9.63,13,Basic,PayPal,Yes,131.72
+AUR-01977,No,13.8,14,Plus,Credit Card,Yes,179.09
+AUR-01978,No,17.98,67,Premium,Credit Card,Yes,1758.36
+AUR-01979,No,13.76,18,Plus,Credit Card,Yes,270.9
+AUR-01980,No,9.21,7,Basic,Debit Card,Yes,118.22
+AUR-01981,No,16.13,33,Premium,Gift Card,Yes,556.27
+AUR-01982,No,9.71,0,Basic,Credit Card,Yes,107.79
+AUR-01983,No,15.91,25,Premium,Gift Card,Yes,849.85
+AUR-01984,Yes,7.65,62,Basic,Credit Card,Yes,875.75
+AUR-01985,No,16.19,19,Plus,Credit Card,Yes,1000.89
+AUR-01986,No,16.59,51,Premium,PayPal,Yes,931.98
+AUR-01987,Yes,8.84,35,Basic,PayPal,Yes,284.27
+AUR-01988,No,14.27,25,Plus,Credit Card,Yes,171.5
+AUR-01989,No,16.44,48,Premium,Debit Card,No,958.67
+AUR-01990,No,8.93,43,Basic,PayPal,No,465.08
+AUR-01991,No,9.61,23,Basic,PayPal,Yes,54.25
+AUR-01992,No,12.05,16,Plus,Debit Card,Yes,425.9
+AUR-01993,Yes,8.36,66,Basic,Credit Card,Yes,639.61
+AUR-01994,Yes,6.49,12,Basic,Credit Card,Yes,126.05
+AUR-01995,No,14.49,70,Plus,Debit Card,Yes,1257.12
+AUR-01996,No,14.64,34,Plus,Debit Card,Yes,522.88
+AUR-01997,Yes,7.91,72,Basic,Credit Card,No,278.64
+AUR-01998,Yes,8.93,25,Basic,Credit Card,Yes,164.89
+AUR-01999,No,17.33,41,Premium,Credit Card,Yes,1712.48
+AUR-02000,No,13.84,44,Plus,Debit Card,No,673.17
+AUR-02001,No,16.42,24,Premium,Credit Card,Yes,504.48
+AUR-02002,No,12.53,15,Plus,Credit Card,Yes,264.1
+AUR-02003,No,19.1,37,Premium,Credit Card,Yes,585.05
+AUR-02004,No,16.1,48,Plus,PayPal,Yes,428.49
+AUR-02005,No,9.05,19,Basic,Debit Card,No,177.08
+AUR-02006,No,16.74,55,Premium,Credit Card,Yes,543.22
+AUR-02007,No,12.71,46,Plus,Credit Card,Yes,370.37
+AUR-02008,Yes,10.67,12,Basic,Credit Card,Yes,168.15
+AUR-02009,No,9.57,68,Basic,Debit Card,Yes,340.89
+AUR-02010,No,14.78,3,Plus,Debit Card,Yes,226.41
+AUR-02011,Yes,9.07,47,Basic,Debit Card,Yes,828.82
+AUR-02012,No,8.96,32,Basic,Debit Card,Yes,176.31
+AUR-02013,Yes,10.09,47,Basic,Credit Card,Yes,313.57
+AUR-02014,Yes,14.23,56,Plus,Credit Card,No,891.83
+AUR-02015,No,14.71,50,Plus,Credit Card,No,1490.38
+AUR-02016,No,16.04,47,Plus,Debit Card,No,451.67
+AUR-02017,No,8.4,61,Basic,Credit Card,Yes,371.58
+AUR-02018,No,8.85,51,Basic,PayPal,No,233.92
+AUR-02019,No,14.66,59,Plus,Credit Card,No,1021.87
+AUR-02020,Yes,7.9,29,Basic,Debit Card,Yes,165.62
+AUR-02021,No,13.32,14,Plus,Credit Card,Yes,471.22
+AUR-02022,No,10.41,17,Basic,Credit Card,Yes,287.28
+AUR-02023,No,9.38,44,Basic,PayPal,No,853.71
+AUR-02024,Yes,8.28,38,Basic,Credit Card,No,530.65
+AUR-02025,Yes,15.32,5,Plus,Credit Card,No,113.72
+AUR-02026,No,13.23,14,Plus,Credit Card,Yes,165.98
+AUR-02027,No,16.56,70,Premium,PayPal,No,2055.05
+AUR-02028,No,8.88,53,Basic,Credit Card,Yes,257.29
+AUR-02029,No,14.19,55,Plus,PayPal,Yes,747.46
+AUR-02030,No,12.44,14,Plus,Gift Card,Yes,331.14
+AUR-02031,Yes,9.5,4,Basic,PayPal,No,35.99
+AUR-02032,No,12.75,21,Plus,Credit Card,No,409.65
+AUR-02033,Yes,8.74,62,Basic,Debit Card,Yes,340.07
+AUR-02034,No,14.05,36,Plus,Credit Card,Yes,292.49
+AUR-02035,Yes,8.46,57,Basic,PayPal,Yes,631.34
+AUR-02036,No,17.36,35,Premium,Debit Card,Yes,567.15
+AUR-02037,No,19.58,35,Premium,Credit Card,No,1836.54
+AUR-02038,Yes,8.34,43,Basic,Credit Card,Yes,202.8
+AUR-02039,Yes,14.43,70,Plus,PayPal,Yes,988.9
+AUR-02040,No,11.95,31,Plus,PayPal,Yes,184.72
+AUR-02041,Yes,9.33,43,Basic,Debit Card,Yes,594.54
+AUR-02042,No,18.33,67,Premium,Debit Card,No,1127.02
+AUR-02043,No,14.59,27,Plus,PayPal,Yes,489.57
+AUR-02044,No,17.83,61,Premium,PayPal,Yes,758.56
+AUR-02045,No,15.7,39,Premium,PayPal,No,277.35
+AUR-02046,Yes,8.63,64,Basic,Credit Card,Yes,1039.89
+AUR-02047,No,13.01,34,Plus,Debit Card,Yes,675.37
+AUR-02048,No,15.53,45,Plus,PayPal,Yes,1269.36
+AUR-02049,Yes,8.54,23,Basic,Credit Card,No,276.04
+AUR-02050,No,7.65,46,Basic,Credit Card,Yes,294.39
+AUR-02051,No,16.16,23,Premium,Credit Card,Yes,511.04
+AUR-02052,No,9.07,44,Basic,Credit Card,Yes,445.8
+AUR-02053,No,13.57,57,Plus,PayPal,Yes,771.3
+AUR-02054,No,15.94,31,Premium,Credit Card,Yes,851.52
+AUR-02055,No,8.81,31,Basic,Debit Card,Yes,677.12
+AUR-02056,No,12.64,23,Plus,Credit Card,Yes,376.01
+AUR-02057,No,20.08,53,Premium,PayPal,Yes,398.71
+AUR-02058,No,14.08,43,Plus,PayPal,Yes,757.95
+AUR-02059,No,8.67,37,Basic,Debit Card,Yes,672.55
+AUR-02060,No,9.19,1,Basic,PayPal,Yes,77.47
+AUR-02061,No,18.84,8,Premium,Credit Card,No,140.17
+AUR-02062,No,9.74,0,Basic,PayPal,Yes,13.95
+AUR-02063,No,12.89,62,Plus,PayPal,No,615.78
+AUR-02064,Yes,9.69,62,Basic,Credit Card,No,579.08
+AUR-02065,Yes,15.51,4,Plus,Gift Card,No,66.77
+AUR-02066,No,16.61,3,Premium,Credit Card,Yes,152.42
+AUR-02067,No,13.99,57,Plus,Debit Card,Yes,1206.71
+AUR-02068,No,17.09,38,Premium,Credit Card,Yes,472.84
+AUR-02069,No,9.54,22,Basic,PayPal,Yes,487.82
+AUR-02070,No,13.81,44,Plus,Credit Card,Yes,1528.75
+AUR-02071,No,16.67,17,Premium,Credit Card,Yes,86.99
+AUR-02072,Yes,14.7,14,Plus,Debit Card,Yes,191.79
+AUR-02073,Yes,8.75,26,Basic,Gift Card,No,227.56
+AUR-02074,No,16.57,65,Premium,Credit Card,Yes,2136.71
+AUR-02075,No,12.78,56,Plus,Debit Card,No,878.36
+AUR-02076,No,12.44,13,Plus,Debit Card,No,297.45
+AUR-02077,Yes,18.73,41,Premium,PayPal,Yes,651.8
+AUR-02078,Yes,8.42,64,Basic,Credit Card,Yes,550.7
+AUR-02079,Yes,7.95,69,Basic,Debit Card,Yes,340.3
+AUR-02080,No,8.4,55,Basic,Gift Card,No,780.95
+AUR-02081,Yes,14.48,9,Plus,Credit Card,No,251.45
+AUR-02082,No,9.01,17,Basic,Credit Card,Yes,126.16
+AUR-02083,No,12.67,15,Plus,PayPal,Yes,91.24
+AUR-02084,No,8.2,11,Basic,Credit Card,Yes,189.61
+AUR-02085,No,12.67,12,Plus,Credit Card,No,206.96
+AUR-02086,No,9.09,23,Basic,Credit Card,No,224.16
+AUR-02087,Yes,8.02,40,Basic,PayPal,Yes,282.66
+AUR-02088,No,7.33,29,Basic,PayPal,Yes,375.39
+AUR-02089,No,14.99,30,Plus,Debit Card,Yes,494.82
+AUR-02090,No,14.62,17,Plus,Debit Card,Yes,215.64
+AUR-02091,No,9.81,11,Basic,Credit Card,Yes,3.89
+AUR-02092,No,17.53,72,Premium,Credit Card,Yes,2982.61
+AUR-02093,No,12.49,43,Plus,Credit Card,No,767.23
+AUR-02094,No,8.52,16,Basic,Credit Card,No,157.21
+AUR-02095,No,21.32,59,Premium,Credit Card,Yes,1713.74
+AUR-02096,No,8.15,60,Basic,Debit Card,Yes,375.6
+AUR-02097,Yes,7.9,70,Basic,Credit Card,Yes,407.04
+AUR-02098,No,13.25,11,Plus,Credit Card,No,181.63
+AUR-02099,Yes,9.41,46,Basic,Credit Card,No,561.94
+AUR-02100,No,10.36,71,Basic,Credit Card,Yes,645.16
+AUR-02101,No,12.91,58,Plus,Credit Card,Yes,776.28
+AUR-02102,Yes,8.59,16,Basic,Credit Card,Yes,258.1
+AUR-02103,No,19.99,65,Premium,Credit Card,Yes,2014.84
+AUR-02104,No,20.09,30,Premium,Debit Card,Yes,1721.07
+AUR-02105,Yes,16.12,35,Plus,PayPal,Yes,590.48
+AUR-02106,No,15.08,40,Plus,PayPal,Yes,659.99
+AUR-02107,No,13.48,56,Plus,PayPal,Yes,726.65
+AUR-02108,No,19.06,8,Premium,Debit Card,Yes,213.25
+AUR-02109,Yes,8.77,39,Basic,PayPal,Yes,546.74
+AUR-02110,No,10.06,59,Basic,Debit Card,Yes,442.98
+AUR-02111,No,14.68,40,Plus,Debit Card,Yes,1769.19
+AUR-02112,No,12.36,20,Plus,Credit Card,No,171.53
+AUR-02113,Yes,7.18,4,Basic,Credit Card,Yes,97.45
+AUR-02114,No,13.18,40,Plus,Credit Card,Yes,748.67
+AUR-02115,No,10.96,51,Basic,Credit Card,Yes,300.7
+AUR-02116,No,17.31,40,Premium,PayPal,Yes,755.32
+AUR-02117,Yes,11.43,71,Basic,Credit Card,Yes,372.48
+AUR-02118,No,6.28,43,Basic,Debit Card,Yes,264.11
+AUR-02119,No,8.89,37,Basic,PayPal,Yes,252.18
+AUR-02120,No,8.27,4,Basic,Debit Card,Yes,70.61
+AUR-02121,Yes,8.73,40,Basic,Credit Card,Yes,535.29
+AUR-02122,Yes,8.57,12,Basic,Credit Card,Yes,216.57
+AUR-02123,Yes,9.8,52,Basic,Credit Card,Yes,552.26
+AUR-02124,Yes,8.88,11,Basic,Gift Card,Yes,85.45
+AUR-02125,No,8.08,66,Basic,Debit Card,Yes,586.61
+AUR-02126,No,14.12,22,Plus,PayPal,Yes,329.64
+AUR-02127,Yes,8.82,31,Basic,Debit Card,Yes,38.73
+AUR-02128,Yes,9.5,10,Basic,PayPal,Yes,101.91
+AUR-02129,Yes,7.81,15,Basic,PayPal,No,106.28
+AUR-02130,Yes,7.34,67,Basic,Credit Card,Yes,1052.89
+AUR-02131,Yes,10.98,20,Basic,Credit Card,Yes,372.95
+AUR-02132,No,14.53,37,Plus,Credit Card,No,984.52
+AUR-02133,No,18.95,71,Premium,Debit Card,No,1620.63
+AUR-02134,No,17.43,45,Premium,PayPal,Yes,1115.13
+AUR-02135,No,13.87,3,Plus,Debit Card,No,0.0
+AUR-02136,No,14.29,26,Plus,Debit Card,Yes,304.07
+AUR-02137,Yes,8.35,28,Basic,PayPal,No,125.14
+AUR-02138,No,14.08,20,Plus,Credit Card,Yes,449.5
+AUR-02139,No,13.79,17,Plus,Credit Card,Yes,261.77
+AUR-02140,No,20.6,36,Premium,PayPal,No,615.36
+AUR-02141,No,18.64,27,Premium,PayPal,Yes,770.68
+AUR-02142,No,13.63,21,Plus,Debit Card,No,459.06
+AUR-02143,No,13.48,30,Plus,Credit Card,Yes,331.98
+AUR-02144,No,18.41,25,Premium,Gift Card,Yes,1335.7
+AUR-02145,No,8.85,16,Basic,PayPal,No,236.39
+AUR-02146,No,18.19,33,Premium,Debit Card,Yes,1343.75
+AUR-02147,Yes,8.59,68,Basic,Credit Card,No,485.64
+AUR-02148,No,20.77,36,Premium,Debit Card,No,1441.43
+AUR-02149,Yes,14.27,43,Plus,PayPal,Yes,895.06
+AUR-02150,No,9.54,71,Basic,PayPal,Yes,582.03
+AUR-02151,No,14.48,44,Plus,Debit Card,Yes,444.97
+AUR-02152,No,10.76,16,Basic,Debit Card,Yes,179.82
+AUR-02153,No,14.23,29,Plus,Debit Card,Yes,644.46
+AUR-02154,No,15.7,35,Premium,Debit Card,Yes,584.58
+AUR-02155,No,12.58,34,Plus,Credit Card,No,447.28
+AUR-02156,No,20.93,10,Premium,Credit Card,Yes,355.8
+AUR-02157,Yes,9.57,7,Basic,Credit Card,Yes,0.0
+AUR-02158,Yes,7.47,25,Basic,PayPal,Yes,250.78
+AUR-02159,Yes,12.79,66,Plus,Credit Card,Yes,560.65
+AUR-02160,No,7.61,52,Basic,Credit Card,Yes,702.02
+AUR-02161,No,14.47,61,Plus,PayPal,Yes,1292.2
+AUR-02162,No,8.59,12,Basic,PayPal,Yes,206.53
+AUR-02163,No,15.76,30,Plus,Credit Card,Yes,370.64
+AUR-02164,No,14.17,42,Plus,Credit Card,No,701.01
+AUR-02165,No,17.69,31,Premium,PayPal,No,409.25
+AUR-02166,Yes,8.72,30,Basic,Credit Card,Yes,168.88
+AUR-02167,No,15.74,26,Premium,Debit Card,No,387.05
+AUR-02168,Yes,13.5,3,Plus,Debit Card,No,19.36
+AUR-02169,No,7.27,62,Basic,Credit Card,Yes,436.56
+AUR-02170,No,14.26,68,Plus,PayPal,No,812.83
+AUR-02171,No,12.63,5,Plus,Credit Card,Yes,67.2
+AUR-02172,No,9.81,30,Basic,Debit Card,Yes,352.79
+AUR-02173,Yes,15.56,37,Plus,Credit Card,Yes,1073.01
+AUR-02174,Yes,7.9,57,Basic,Credit Card,No,541.97
+AUR-02175,No,10.48,72,Basic,Credit Card,No,507.17
+AUR-02176,No,14.21,30,Plus,PayPal,No,890.19
+AUR-02177,No,13.19,54,Plus,Credit Card,No,490.79
+AUR-02178,No,16.79,68,Premium,Credit Card,Yes,840.87
+AUR-02179,No,10.81,60,Basic,Credit Card,Yes,475.75
+AUR-02180,No,15.35,21,Premium,PayPal,Yes,264.74
+AUR-02181,No,19.04,59,Premium,Credit Card,Yes,2184.91
+AUR-02182,Yes,16.33,30,Premium,PayPal,Yes,623.79
+AUR-02183,No,18.26,1,Premium,Debit Card,No,58.69
+AUR-02184,No,8.74,55,Basic,Debit Card,Yes,368.2
+AUR-02185,No,13.79,60,Plus,Debit Card,Yes,989.71
+AUR-02186,Yes,9.43,25,Basic,Credit Card,No,403.77
+AUR-02187,No,19.8,32,Premium,Gift Card,No,650.33
+AUR-02188,No,13.36,26,Plus,Gift Card,Yes,495.29
+AUR-02189,Yes,7.76,8,Basic,Credit Card,Yes,60.26
+AUR-02190,No,16.91,72,Premium,Debit Card,Yes,1140.47
+AUR-02191,Yes,9.61,1,Basic,Credit Card,Yes,12.67
+AUR-02192,No,15.56,40,Plus,Debit Card,Yes,571.1
+AUR-02193,No,13.75,1,Plus,PayPal,Yes,0.0
+AUR-02194,No,8.49,50,Basic,PayPal,Yes,570.32
+AUR-02195,No,14.18,65,Plus,Credit Card,Yes,1461.64
+AUR-02196,No,17.56,46,Premium,Debit Card,Yes,1059.24
+AUR-02197,Yes,7.9,44,Basic,PayPal,Yes,379.34
+AUR-02198,No,14.68,60,Plus,Credit Card,Yes,847.87
+AUR-02199,Yes,8.7,71,Basic,Debit Card,Yes,848.48
+AUR-02200,No,13.1,62,Plus,Debit Card,Yes,909.66
+AUR-02201,Yes,8.52,16,Basic,PayPal,Yes,155.06
+AUR-02202,Yes,15.9,41,Premium,Gift Card,Yes,633.87
+AUR-02203,No,17.37,59,Premium,Credit Card,No,1181.47
+AUR-02204,No,8.66,21,Basic,Credit Card,Yes,161.54
+AUR-02205,No,9.94,49,Basic,Credit Card,Yes,328.21
+AUR-02206,No,14.22,1,Plus,Credit Card,Yes,30.38
+AUR-02207,No,14.32,64,Plus,Debit Card,Yes,2063.97
+AUR-02208,Yes,12.13,44,Plus,PayPal,Yes,613.03
+AUR-02209,No,8.2,54,Basic,Credit Card,Yes,634.5
+AUR-02210,No,10.73,60,Basic,Debit Card,No,654.31
+AUR-02211,No,22.11,15,Premium,Credit Card,No,432.03
+AUR-02212,No,14.29,32,Plus,Credit Card,Yes,473.45
+AUR-02213,No,19.23,62,Premium,PayPal,Yes,1313.27
+AUR-02214,No,13.94,12,Plus,Debit Card,No,56.79
+AUR-02215,No,17.57,60,Premium,Credit Card,No,2320.94
+AUR-02216,No,7.66,21,Basic,PayPal,Yes,245.77
+AUR-02217,Yes,10.61,42,Basic,Debit Card,No,746.75
+AUR-02218,No,17.01,37,Premium,Credit Card,No,468.5
+AUR-02219,No,17.92,50,Premium,Debit Card,No,407.33
+AUR-02220,Yes,7.97,61,Basic,Debit Card,Yes,806.66
+AUR-02221,Yes,8.99,25,Basic,Credit Card,No,258.05
+AUR-02222,No,14.15,12,Plus,PayPal,Yes,64.88
+AUR-02223,No,14.03,30,Plus,Debit Card,Yes,667.64
+AUR-02224,Yes,8.5,44,Basic,Debit Card,Yes,295.23
+AUR-02225,No,18.2,54,Premium,PayPal,Yes,2417.08
+AUR-02226,Yes,8.65,54,Basic,Debit Card,No,327.25
+AUR-02227,No,14.3,24,Plus,Credit Card,Yes,289.59
+AUR-02228,No,9.79,68,Basic,Credit Card,Yes,1032.65
+AUR-02229,No,10.49,6,Basic,Credit Card,Yes,0.0
+AUR-02230,No,15.59,8,Plus,Credit Card,Yes,70.54
+AUR-02231,Yes,10.18,1,Basic,Credit Card,Yes,43.92
+AUR-02232,No,12.57,67,Plus,Debit Card,Yes,1370.78
+AUR-02233,Yes,8.59,13,Basic,Credit Card,Yes,74.65
+AUR-02234,No,17.32,43,Premium,Credit Card,Yes,761.35
+AUR-02235,No,13.58,59,Plus,Debit Card,Yes,619.5
+AUR-02236,No,18.84,55,Premium,Credit Card,Yes,857.42
+AUR-02237,Yes,9.17,69,Basic,Debit Card,Yes,462.95
+AUR-02238,Yes,8.21,3,Basic,Debit Card,No,158.17
+AUR-02239,No,8.0,29,Basic,Credit Card,No,320.17
+AUR-02240,No,14.79,36,Plus,Credit Card,No,250.99
+AUR-02241,No,7.84,50,Basic,Debit Card,Yes,241.06
+AUR-02242,Yes,8.55,45,Basic,Credit Card,Yes,558.27
+AUR-02243,No,9.24,40,Basic,Debit Card,No,580.13
+AUR-02244,Yes,7.08,22,Basic,PayPal,Yes,202.18
+AUR-02245,Yes,14.57,7,Plus,Debit Card,Yes,32.53
+AUR-02246,Yes,8.94,31,Basic,Credit Card,Yes,410.02
+AUR-02247,Yes,10.51,18,Basic,PayPal,Yes,176.7
+AUR-02248,No,14.54,40,Plus,Credit Card,Yes,1023.91
+AUR-02249,No,17.29,58,Plus,PayPal,Yes,1420.67
+AUR-02250,No,10.11,40,Basic,PayPal,Yes,367.46
+AUR-02251,No,14.73,42,Plus,Credit Card,Yes,331.65
+AUR-02252,No,15.35,3,Plus,Credit Card,Yes,50.04
+AUR-02253,No,8.4,47,Basic,Credit Card,No,389.15
+AUR-02254,No,13.62,32,Plus,PayPal,No,426.27
+AUR-02255,No,16.46,9,Premium,Credit Card,Yes,284.88
+AUR-02256,No,12.8,15,Plus,PayPal,Yes,467.9
+AUR-02257,No,16.46,56,Premium,Debit Card,Yes,1062.87
+AUR-02258,No,18.58,66,Premium,Debit Card,Yes,621.59
+AUR-02259,No,7.59,37,Basic,Debit Card,No,452.98
+AUR-02260,No,13.61,71,Plus,Credit Card,Yes,638.55
+AUR-02261,No,14.84,13,Plus,Credit Card,Yes,249.93
+AUR-02262,No,16.12,21,Premium,PayPal,No,289.28
+AUR-02263,No,14.48,67,Plus,Credit Card,Yes,1319.51
+AUR-02264,No,9.45,12,Basic,PayPal,Yes,142.79
+AUR-02265,No,14.47,48,Plus,Gift Card,No,671.99
+AUR-02266,Yes,6.67,16,Basic,Credit Card,Yes,101.76
+AUR-02267,Yes,13.73,24,Plus,Debit Card,Yes,336.37
+AUR-02268,No,13.54,34,Plus,Credit Card,No,606.15
+AUR-02269,No,13.77,26,Plus,Debit Card,Yes,420.64
+AUR-02270,No,19.16,63,Premium,Gift Card,Yes,2913.94
+AUR-02271,No,14.86,71,Plus,PayPal,Yes,1253.61
+AUR-02272,No,15.0,36,Plus,PayPal,Yes,822.4
+AUR-02273,Yes,12.78,38,Plus,Credit Card,Yes,394.22
+AUR-02274,Yes,17.97,4,Premium,Debit Card,Yes,106.41
+AUR-02275,No,15.07,17,Premium,Credit Card,Yes,367.59
+AUR-02276,Yes,10.1,2,Basic,PayPal,Yes,36.09
+AUR-02277,No,14.9,62,Plus,Credit Card,Yes,515.65
+AUR-02278,Yes,8.78,16,Basic,Credit Card,No,157.79
+AUR-02279,Yes,18.17,24,Premium,Credit Card,Yes,460.65
+AUR-02280,No,13.21,61,Plus,Credit Card,Yes,807.7
+AUR-02281,No,14.55,52,Plus,Credit Card,No,385.64
+AUR-02282,Yes,10.82,45,Basic,Credit Card,Yes,1294.29
+AUR-02283,Yes,7.26,2,Basic,PayPal,Yes,68.94
+AUR-02284,No,13.76,41,Plus,PayPal,Yes,495.34
+AUR-02285,No,9.91,40,Basic,Credit Card,Yes,858.97
+AUR-02286,Yes,8.89,23,Basic,PayPal,No,233.83
+AUR-02287,No,15.29,54,Premium,Credit Card,Yes,2476.99
+AUR-02288,No,15.87,67,Plus,PayPal,No,1555.18
+AUR-02289,No,8.66,18,Basic,Credit Card,Yes,91.03
+AUR-02290,Yes,7.62,24,Basic,Debit Card,Yes,335.96
+AUR-02291,No,19.1,23,Premium,Credit Card,Yes,412.27
+AUR-02292,No,13.49,60,Plus,Credit Card,Yes,728.32
+AUR-02293,No,14.2,5,Plus,Debit Card,Yes,36.39
+AUR-02294,No,9.59,65,Basic,PayPal,Yes,499.3
+AUR-02295,No,9.67,56,Basic,PayPal,Yes,814.24
+AUR-02296,Yes,10.78,35,Basic,Credit Card,No,241.75
+AUR-02297,No,14.72,42,Plus,Debit Card,No,221.28
+AUR-02298,Yes,10.0,65,Basic,PayPal,Yes,824.06
+AUR-02299,No,8.4,56,Basic,Credit Card,No,495.63
+AUR-02300,Yes,12.94,20,Plus,Credit Card,Yes,406.18
+AUR-02301,No,17.59,3,Premium,Credit Card,Yes,47.53
+AUR-02302,Yes,13.9,48,Plus,Credit Card,Yes,1159.22
+AUR-02303,No,13.67,10,Plus,Credit Card,Yes,160.11
+AUR-02304,No,13.37,6,Plus,Credit Card,Yes,58.83
+AUR-02305,No,13.46,71,Plus,Debit Card,Yes,545.5
+AUR-02306,No,7.99,34,Basic,Debit Card,No,328.15
+AUR-02307,No,15.32,47,Plus,PayPal,Yes,1078.34
+AUR-02308,No,13.27,15,Plus,Debit Card,No,140.49
+AUR-02309,No,14.67,7,Plus,Credit Card,Yes,108.75
+AUR-02310,No,20.95,4,Premium,PayPal,Yes,76.09
+AUR-02311,No,19.7,25,Premium,PayPal,Yes,388.26
+AUR-02312,Yes,7.62,0,Basic,Debit Card,Yes,83.56
+AUR-02313,No,14.37,30,Plus,Credit Card,Yes,197.67
+AUR-02314,Yes,10.46,23,Basic,Debit Card,No,489.26
+AUR-02315,No,8.21,38,Basic,Debit Card,Yes,407.86
+AUR-02316,Yes,10.47,43,Basic,Debit Card,Yes,361.58
+AUR-02317,Yes,9.52,22,Basic,PayPal,No,286.08
+AUR-02318,No,12.31,33,Plus,PayPal,Yes,279.44
+AUR-02319,No,14.61,5,Plus,PayPal,No,117.37
+AUR-02320,No,16.29,22,Premium,Debit Card,Yes,293.26
+AUR-02321,No,9.32,71,Basic,Gift Card,Yes,482.07
+AUR-02322,No,8.68,72,Basic,PayPal,Yes,646.18
+AUR-02323,No,12.29,35,Plus,Credit Card,Yes,302.03
+AUR-02324,No,9.65,68,Basic,Debit Card,Yes,1388.85
+AUR-02325,Yes,8.97,36,Basic,Credit Card,Yes,242.38
+AUR-02326,No,15.0,9,Premium,Credit Card,No,259.17
+AUR-02327,Yes,8.62,63,Basic,Credit Card,Yes,885.88
+AUR-02328,Yes,9.69,30,Basic,Debit Card,Yes,244.37
+AUR-02329,Yes,14.74,44,Plus,Credit Card,Yes,479.1
+AUR-02330,No,13.38,47,Plus,Credit Card,Yes,438.87
+AUR-02331,No,14.0,22,Plus,Credit Card,Yes,650.21
+AUR-02332,No,8.85,53,Basic,Debit Card,Yes,492.81
+AUR-02333,No,16.78,36,Premium,PayPal,Yes,903.86
+AUR-02334,No,8.19,26,Basic,Gift Card,Yes,548.63
+AUR-02335,No,12.44,21,Plus,Credit Card,Yes,592.82
+AUR-02336,No,14.14,54,Plus,Credit Card,No,620.31
+AUR-02337,No,16.04,18,Premium,PayPal,Yes,181.22
+AUR-02338,No,9.59,9,Basic,Credit Card,No,111.28
+AUR-02339,No,15.1,64,Plus,Gift Card,No,1642.59
+AUR-02340,Yes,8.93,24,Basic,PayPal,Yes,366.26
+AUR-02341,No,9.48,46,Basic,Debit Card,Yes,605.98
+AUR-02342,Yes,8.54,52,Basic,Credit Card,Yes,608.35
+AUR-02343,Yes,13.02,61,Plus,Credit Card,No,726.08
+AUR-02344,Yes,7.78,45,Basic,Debit Card,Yes,417.42
+AUR-02345,No,13.26,51,Plus,Credit Card,Yes,795.96
+AUR-02346,Yes,10.73,61,Basic,PayPal,Yes,660.2
+AUR-02347,No,20.91,68,Premium,Debit Card,No,1137.31
+AUR-02348,No,17.97,3,Premium,Credit Card,Yes,99.62
+AUR-02349,No,10.54,54,Basic,Credit Card,No,365.71
+AUR-02350,Yes,9.87,12,Basic,Debit Card,Yes,104.92
+AUR-02351,No,8.6,65,Basic,Credit Card,Yes,1178.36
+AUR-02352,No,19.48,3,Premium,Debit Card,Yes,140.45
+AUR-02353,Yes,8.69,18,Basic,Debit Card,Yes,123.36
+AUR-02354,No,14.54,14,Plus,PayPal,Yes,170.98
+AUR-02355,No,14.57,44,Plus,Credit Card,Yes,504.89
+AUR-02356,No,17.53,0,Premium,Credit Card,No,3.81
+AUR-02357,No,11.07,1,Plus,PayPal,Yes,14.43
+AUR-02358,No,16.41,36,Plus,Debit Card,Yes,601.05
+AUR-02359,No,17.7,70,Premium,PayPal,Yes,1652.72
+AUR-02360,Yes,10.37,38,Basic,Debit Card,Yes,592.38
+AUR-02361,No,17.94,32,Premium,PayPal,Yes,965.97
+AUR-02362,No,8.64,48,Basic,Credit Card,No,572.23
+AUR-02363,No,14.62,40,Plus,Credit Card,No,329.02
+AUR-02364,No,19.76,28,Premium,PayPal,No,707.9
+AUR-02365,No,14.83,42,Plus,Credit Card,Yes,488.35
+AUR-02366,No,13.82,0,Plus,PayPal,Yes,0.0
+AUR-02367,Yes,8.36,17,Basic,Credit Card,No,204.73
+AUR-02368,Yes,11.76,49,Plus,Credit Card,Yes,198.51
+AUR-02369,No,10.86,24,Basic,Credit Card,Yes,366.19
+AUR-02370,No,14.8,3,Plus,PayPal,Yes,134.94
+AUR-02371,No,13.31,9,Plus,PayPal,No,154.4
+AUR-02372,Yes,8.94,63,Basic,Credit Card,Yes,1243.08
+AUR-02373,No,10.76,24,Basic,Credit Card,No,499.75
+AUR-02374,No,7.59,1,Basic,Credit Card,Yes,124.45
+AUR-02375,Yes,9.51,53,Basic,Credit Card,Yes,470.62
+AUR-02376,No,11.06,38,Basic,PayPal,Yes,479.32
+AUR-02377,No,18.49,32,Premium,Credit Card,No,740.89
+AUR-02378,No,14.64,65,Plus,Credit Card,Yes,1366.89
+AUR-02379,Yes,9.02,22,Basic,Credit Card,No,336.82
+AUR-02380,Yes,13.73,41,Plus,Debit Card,Yes,790.43
+AUR-02381,No,16.3,54,Premium,Debit Card,No,564.39
+AUR-02382,No,8.73,44,Basic,Debit Card,No,324.86
+AUR-02383,No,7.82,15,Basic,Debit Card,Yes,193.24
+AUR-02384,Yes,10.07,49,Basic,Gift Card,No,550.42
+AUR-02385,Yes,8.22,54,Basic,Debit Card,Yes,609.22
+AUR-02386,No,14.28,8,Plus,PayPal,No,220.59
+AUR-02387,No,20.59,12,Premium,Debit Card,No,122.66
+AUR-02388,No,8.9,49,Basic,Credit Card,Yes,451.14
+AUR-02389,Yes,13.06,8,Plus,PayPal,Yes,96.81
+AUR-02390,Yes,7.76,64,Basic,Debit Card,No,427.32
+AUR-02391,No,15.03,7,Plus,Debit Card,No,112.51
+AUR-02392,No,12.56,71,Plus,Credit Card,Yes,1051.24
+AUR-02393,Yes,10.55,49,Basic,Credit Card,No,1960.99
+AUR-02394,No,10.14,32,Basic,PayPal,Yes,491.77
+AUR-02395,No,16.68,19,Plus,Credit Card,Yes,954.05
+AUR-02396,No,17.52,25,Premium,Credit Card,Yes,697.54
+AUR-02397,No,8.96,54,Basic,Credit Card,Yes,293.69
+AUR-02398,No,7.84,54,Basic,Debit Card,Yes,477.5
+AUR-02399,No,10.53,15,Basic,PayPal,Yes,403.25
+AUR-02400,No,16.68,39,Plus,Debit Card,Yes,1029.68
+AUR-02401,Yes,15.95,72,Plus,PayPal,Yes,925.18
+AUR-02402,No,17.26,18,Premium,Debit Card,Yes,359.61
+AUR-02403,No,15.52,50,Plus,Credit Card,No,1568.94
+AUR-02404,No,15.0,12,Premium,Credit Card,No,164.89
+AUR-02405,No,19.01,60,Premium,Credit Card,Yes,1736.08
+AUR-02406,No,8.62,12,Basic,PayPal,No,266.95
+AUR-02407,No,13.89,21,Plus,Credit Card,Yes,205.79
+AUR-02408,Yes,7.88,33,Basic,Credit Card,Yes,148.12
+AUR-02409,Yes,7.23,27,Basic,PayPal,Yes,278.9
+AUR-02410,No,18.15,12,Premium,Debit Card,Yes,380.21
+AUR-02411,No,15.39,46,Plus,Credit Card,No,755.57
+AUR-02412,No,18.15,1,Premium,PayPal,Yes,116.33
+AUR-02413,No,13.87,71,Plus,Debit Card,Yes,1080.1
+AUR-02414,No,12.13,3,Plus,PayPal,Yes,86.74
+AUR-02415,No,15.79,24,Plus,Debit Card,Yes,426.69
+AUR-02416,No,8.34,67,Basic,Credit Card,Yes,1201.03
+AUR-02417,No,7.54,11,Basic,Credit Card,Yes,188.86
+AUR-02418,No,15.34,5,Plus,Credit Card,Yes,196.09
+AUR-02419,Yes,8.37,54,Basic,PayPal,No,283.81
+AUR-02420,No,17.35,5,Premium,Debit Card,Yes,121.89
+AUR-02421,No,9.73,65,Basic,PayPal,Yes,484.04
+AUR-02422,Yes,8.61,32,Basic,Debit Card,Yes,290.9
+AUR-02423,No,13.95,63,Plus,Credit Card,Yes,1729.91
+AUR-02424,No,9.35,17,Basic,Credit Card,Yes,234.31
+AUR-02425,No,17.07,10,Premium,Credit Card,Yes,244.34
+AUR-02426,No,12.52,70,Plus,Credit Card,No,484.41
+AUR-02427,Yes,8.27,55,Basic,Debit Card,Yes,238.68
+AUR-02428,No,13.29,66,Plus,PayPal,No,384.53
+AUR-02429,No,11.8,23,Plus,Credit Card,Yes,427.16
+AUR-02430,No,15.12,29,Plus,Debit Card,Yes,467.43
+AUR-02431,No,17.4,42,Premium,Credit Card,Yes,1232.13
+AUR-02432,No,12.07,32,Plus,PayPal,Yes,509.36
+AUR-02433,Yes,14.33,17,Plus,Credit Card,Yes,145.03
+AUR-02434,Yes,9.06,27,Basic,Debit Card,Yes,297.92
+AUR-02435,Yes,12.98,44,Plus,Credit Card,Yes,693.59
+AUR-02436,No,18.73,2,Premium,Credit Card,Yes,177.08
+AUR-02437,No,12.28,24,Plus,Debit Card,Yes,28.66
+AUR-02438,No,14.28,21,Plus,Credit Card,No,232.96
+AUR-02439,No,13.59,5,Plus,Debit Card,No,61.55
+AUR-02440,No,15.0,8,Plus,Credit Card,Yes,138.42
+AUR-02441,No,19.01,36,Premium,Gift Card,Yes,271.32
+AUR-02442,Yes,10.91,7,Basic,Credit Card,Yes,202.86
+AUR-02443,Yes,8.64,25,Basic,Debit Card,No,333.54
+AUR-02444,No,12.47,40,Plus,PayPal,Yes,1011.56
+AUR-02445,No,13.08,63,Plus,Debit Card,Yes,1535.63
+AUR-02446,Yes,11.12,7,Plus,Credit Card,No,201.12
+AUR-02447,Yes,9.37,31,Basic,Debit Card,Yes,183.63
+AUR-02448,Yes,11.37,7,Plus,Credit Card,Yes,5.46
+AUR-02449,No,16.15,31,Plus,Debit Card,No,413.96
+AUR-02450,Yes,16.49,35,Plus,Credit Card,No,500.82
+AUR-02451,No,14.1,58,Plus,PayPal,Yes,1249.12
+AUR-02452,No,13.0,32,Plus,PayPal,Yes,255.41
+AUR-02453,No,13.63,68,Plus,Credit Card,Yes,740.87
+AUR-02454,No,17.62,10,Premium,Credit Card,Yes,325.31
+AUR-02455,No,15.04,3,Plus,Credit Card,Yes,0.0
+AUR-02456,No,13.37,0,Plus,Debit Card,Yes,95.32
+AUR-02457,No,14.28,26,Plus,Credit Card,Yes,379.62
+AUR-02458,No,7.42,14,Basic,Debit Card,No,138.71
+AUR-02459,Yes,10.51,6,Basic,Debit Card,No,4.01
+AUR-02460,No,13.97,17,Plus,PayPal,No,174.03
+AUR-02461,No,19.51,71,Premium,Credit Card,Yes,698.72
+AUR-02462,Yes,13.31,58,Plus,Credit Card,Yes,1322.36
+AUR-02463,Yes,8.51,1,Basic,Credit Card,Yes,88.45
+AUR-02464,No,13.36,66,Plus,Debit Card,Yes,1115.37
+AUR-02465,Yes,10.04,14,Basic,Credit Card,Yes,136.6
+AUR-02466,Yes,14.34,29,Plus,Credit Card,No,473.23
+AUR-02467,Yes,17.86,23,Premium,Credit Card,Yes,484.47
+AUR-02468,No,12.82,29,Plus,PayPal,Yes,459.84
+AUR-02469,No,14.53,55,Plus,PayPal,Yes,807.12
+AUR-02470,No,8.87,52,Basic,Credit Card,No,513.74
+AUR-02471,No,13.42,43,Plus,Credit Card,Yes,673.64
+AUR-02472,No,17.18,45,Premium,Credit Card,Yes,253.71
+AUR-02473,No,14.14,53,Plus,Credit Card,Yes,834.34
+AUR-02474,Yes,15.65,13,Plus,Gift Card,No,341.87
+AUR-02475,Yes,9.6,28,Basic,Debit Card,Yes,233.52
+AUR-02476,Yes,9.66,7,Basic,Debit Card,Yes,102.45
+AUR-02477,Yes,8.54,51,Basic,PayPal,Yes,613.21
+AUR-02478,No,10.08,31,Basic,Debit Card,Yes,366.43
+AUR-02479,No,8.23,46,Basic,Credit Card,Yes,380.08
+AUR-02480,No,18.31,41,Premium,Debit Card,No,466.92
+AUR-02481,No,13.79,19,Plus,Credit Card,Yes,181.44
+AUR-02482,No,9.77,10,Basic,Credit Card,Yes,146.15
+AUR-02483,Yes,8.6,71,Basic,Gift Card,Yes,580.96
+AUR-02484,Yes,9.34,21,Basic,Credit Card,Yes,289.12
+AUR-02485,No,15.81,7,Premium,Debit Card,Yes,127.39
+AUR-02486,No,15.09,22,Plus,Credit Card,No,482.32
+AUR-02487,No,11.84,65,Plus,Credit Card,No,1017.61
+AUR-02488,No,18.36,19,Premium,Debit Card,Yes,152.37
+AUR-02489,No,8.53,72,Basic,PayPal,No,782.44
+AUR-02490,No,13.43,33,Plus,Debit Card,No,218.92
+AUR-02491,No,15.52,62,Premium,Credit Card,Yes,891.48
+AUR-02492,No,14.02,47,Plus,Credit Card,Yes,1547.57
+AUR-02493,Yes,9.04,3,Basic,Debit Card,No,53.76
+AUR-02494,No,16.35,37,Premium,Debit Card,No,600.27
+AUR-02495,Yes,15.0,30,Premium,PayPal,Yes,322.56
+AUR-02496,No,16.3,14,Plus,Debit Card,No,561.39
+AUR-02497,No,11.64,40,Plus,PayPal,Yes,586.2
+AUR-02498,Yes,7.92,7,Basic,PayPal,Yes,44.94
+AUR-02499,No,17.71,50,Premium,Credit Card,Yes,673.82
+AUR-02500,No,13.87,59,Plus,Debit Card,Yes,1097.63
+AUR-02501,Yes,9.24,6,Basic,PayPal,Yes,153.65
+AUR-02502,No,15.74,34,Plus,Gift Card,Yes,826.56
+AUR-02503,No,20.57,47,Premium,Credit Card,Yes,794.91
+AUR-02504,No,17.8,4,Premium,Debit Card,No,254.98
+AUR-02505,Yes,9.03,28,Basic,Credit Card,Yes,176.38
+AUR-02506,Yes,8.45,18,Basic,PayPal,Yes,248.89
+AUR-02507,No,19.02,2,Premium,PayPal,Yes,51.39
+AUR-02508,Yes,21.75,58,Premium,PayPal,Yes,1187.72
+AUR-02509,No,13.05,32,Plus,Credit Card,Yes,829.94
+AUR-02510,No,13.73,54,Plus,Credit Card,Yes,428.34
+AUR-02511,No,14.39,42,Plus,PayPal,Yes,1621.21
+AUR-02512,No,14.21,63,Plus,Debit Card,No,4470.0
+AUR-02513,No,8.93,72,Basic,PayPal,Yes,555.86
+AUR-02514,No,9.12,43,Basic,Credit Card,Yes,665.69
+AUR-02515,Yes,8.37,25,Basic,PayPal,No,269.57
+AUR-02516,No,18.64,30,Premium,Debit Card,Yes,850.06
+AUR-02517,No,8.86,60,Basic,Credit Card,Yes,424.21
+AUR-02518,No,7.98,31,Basic,Credit Card,Yes,220.46
+AUR-02519,No,15.87,37,Plus,PayPal,Yes,547.27
+AUR-02520,Yes,11.34,14,Basic,Credit Card,Yes,238.69
+AUR-02521,No,10.05,72,Basic,PayPal,No,478.24
+AUR-02522,Yes,14.53,47,Plus,Debit Card,Yes,374.74
+AUR-02523,Yes,9.26,24,Basic,Debit Card,No,404.52
+AUR-02524,No,15.58,42,Plus,Credit Card,Yes,1218.28
+AUR-02525,No,16.77,29,Premium,Gift Card,No,336.28
+AUR-02526,Yes,10.16,11,Basic,PayPal,Yes,490.75
+AUR-02527,No,16.99,63,Premium,PayPal,Yes,460.47
+AUR-02528,No,17.99,64,Premium,PayPal,Yes,863.71
+AUR-02529,No,16.98,60,Premium,Debit Card,Yes,474.79
+AUR-02530,No,13.56,26,Plus,PayPal,Yes,203.09
+AUR-02531,No,13.1,18,Plus,Debit Card,Yes,317.36
+AUR-02532,No,13.72,3,Plus,Debit Card,Yes,50.69
+AUR-02533,No,12.6,53,Plus,Credit Card,Yes,640.67
+AUR-02534,Yes,7.01,23,Basic,Credit Card,Yes,100.41
+AUR-02535,No,17.1,65,Premium,PayPal,Yes,619.18
+AUR-02536,No,14.57,63,Plus,Credit Card,Yes,613.58
+AUR-02537,No,19.57,9,Premium,PayPal,Yes,124.52
+AUR-02538,No,6.43,66,Basic,Gift Card,Yes,359.6
+AUR-02539,Yes,8.59,10,Basic,Credit Card,Yes,131.57
+AUR-02540,Yes,13.53,35,Plus,Credit Card,Yes,293.47
+AUR-02541,Yes,13.18,34,Plus,Debit Card,Yes,208.87
+AUR-02542,No,14.59,69,Plus,Credit Card,No,1368.02
+AUR-02543,No,7.61,47,Basic,PayPal,No,617.62
+AUR-02544,No,8.75,63,Basic,Debit Card,Yes,204.25
+AUR-02545,Yes,12.62,43,Plus,Debit Card,Yes,283.6
+AUR-02546,No,9.2,60,Basic,Debit Card,Yes,838.75
+AUR-02547,No,19.63,62,Premium,Debit Card,Yes,639.61
+AUR-02548,Yes,9.91,62,Basic,Credit Card,Yes,185.66
+AUR-02549,No,7.85,30,Basic,Credit Card,Yes,413.76
+AUR-02550,Yes,9.39,27,Basic,Credit Card,Yes,209.51
+AUR-02551,No,14.91,71,Plus,PayPal,Yes,1065.25
+AUR-02552,No,13.42,55,Plus,Credit Card,Yes,376.1
+AUR-02553,Yes,15.38,66,Plus,Credit Card,Yes,1585.15
+AUR-02554,No,15.35,42,Premium,Credit Card,No,623.54
+AUR-02555,Yes,9.0,67,Basic,Credit Card,No,890.12
+AUR-02556,No,13.52,52,Plus,Credit Card,Yes,539.14
+AUR-02557,Yes,9.34,54,Basic,PayPal,No,301.15
+AUR-02558,No,8.47,12,Basic,Credit Card,No,191.07
+AUR-02559,Yes,14.75,41,Plus,Debit Card,Yes,383.93
+AUR-02560,No,10.37,53,Basic,Credit Card,Yes,531.34
+AUR-02561,No,14.21,55,Plus,Debit Card,No,496.0
+AUR-02562,No,14.88,69,Plus,Credit Card,Yes,556.11
+AUR-02563,No,14.12,23,Plus,PayPal,Yes,481.46
+AUR-02564,No,11.99,22,Plus,PayPal,Yes,255.13
+AUR-02565,No,15.2,70,Plus,Credit Card,Yes,583.38
+AUR-02566,Yes,13.88,71,Plus,Gift Card,Yes,2017.6
+AUR-02567,No,8.89,13,Basic,Credit Card,No,112.64
+AUR-02568,Yes,10.76,27,Basic,Debit Card,Yes,514.32
+AUR-02569,No,14.94,69,Plus,PayPal,Yes,291.19
+AUR-02570,No,16.68,14,Premium,Credit Card,Yes,183.98
+AUR-02571,Yes,8.2,57,Basic,Credit Card,Yes,267.81
+AUR-02572,No,14.82,8,Plus,Credit Card,Yes,107.67
+AUR-02573,No,13.06,13,Plus,Debit Card,Yes,316.41
+AUR-02574,No,17.25,57,Premium,Credit Card,Yes,1175.31
+AUR-02575,No,12.89,44,Plus,PayPal,Yes,421.61
+AUR-02576,No,14.78,40,Plus,Credit Card,No,604.31
+AUR-02577,No,13.63,62,Plus,PayPal,No,964.08
+AUR-02578,No,18.95,22,Premium,Credit Card,Yes,394.63
+AUR-02579,Yes,9.73,36,Basic,Debit Card,Yes,512.03
+AUR-02580,No,19.82,44,Premium,Credit Card,Yes,966.99
+AUR-02581,No,8.93,54,Basic,Credit Card,No,377.95
+AUR-02582,No,22.31,24,Premium,Credit Card,No,1132.97
+AUR-02583,No,8.66,46,Basic,Debit Card,Yes,350.26
+AUR-02584,Yes,9.62,32,Basic,Credit Card,No,214.47
+AUR-02585,No,8.69,39,Basic,Debit Card,Yes,466.41
+AUR-02586,Yes,15.11,62,Plus,Gift Card,Yes,1303.89
+AUR-02587,No,6.33,28,Basic,Credit Card,Yes,108.99
+AUR-02588,Yes,6.0,48,Basic,Credit Card,Yes,77.31
+AUR-02589,No,13.78,68,Plus,Credit Card,Yes,1175.87
+AUR-02590,No,15.22,55,Plus,Credit Card,Yes,591.49
+AUR-02591,No,14.5,72,Plus,Debit Card,No,1241.61
+AUR-02592,No,17.24,42,Premium,PayPal,No,558.94
+AUR-02593,No,14.34,20,Plus,Credit Card,Yes,411.7
+AUR-02594,Yes,10.26,72,Basic,Credit Card,Yes,1015.51
+AUR-02595,No,10.22,47,Basic,Debit Card,Yes,217.14
+AUR-02596,No,17.32,17,Premium,Credit Card,Yes,201.28
+AUR-02597,No,10.88,23,Basic,Debit Card,No,517.67
+AUR-02598,No,13.54,19,Plus,PayPal,Yes,339.23
+AUR-02599,No,18.93,60,Premium,Credit Card,Yes,1425.76
+AUR-02600,No,16.9,6,Premium,Debit Card,No,434.03
+AUR-02601,Yes,14.27,54,Plus,PayPal,Yes,1380.05
+AUR-02602,No,15.42,40,Plus,Debit Card,Yes,661.56
+AUR-02603,Yes,13.92,5,Plus,PayPal,Yes,117.7
+AUR-02604,No,14.63,44,Plus,PayPal,No,1193.15
+AUR-02605,Yes,8.97,54,Basic,Debit Card,No,811.28
+AUR-02606,No,7.7,52,Basic,Debit Card,Yes,564.0
+AUR-02607,No,14.05,38,Plus,PayPal,Yes,1209.81
+AUR-02608,No,8.57,24,Basic,Debit Card,Yes,276.88
+AUR-02609,No,14.14,11,Plus,Debit Card,Yes,133.36
+AUR-02610,Yes,9.0,0,Basic,Credit Card,Yes,0.0
+AUR-02611,No,17.76,26,Premium,PayPal,Yes,660.68
+AUR-02612,No,17.33,46,Premium,Credit Card,Yes,1264.55
+AUR-02613,No,16.06,2,Plus,Credit Card,Yes,44.79
+AUR-02614,No,15.43,72,Plus,Credit Card,Yes,1349.31
+AUR-02615,No,7.98,42,Basic,Credit Card,Yes,191.25
+AUR-02616,No,14.09,21,Plus,Debit Card,Yes,235.14
+AUR-02617,No,10.64,70,Basic,Credit Card,Yes,632.95
+AUR-02618,No,15.0,13,Premium,Debit Card,Yes,216.5
+AUR-02619,No,18.19,69,Premium,Debit Card,Yes,1739.72
+AUR-02620,No,17.7,20,Premium,Credit Card,Yes,264.51
+AUR-02621,No,20.02,27,Premium,Credit Card,Yes,321.49
+AUR-02622,No,18.0,31,Premium,Debit Card,Yes,568.97
+AUR-02623,No,11.23,72,Basic,PayPal,Yes,1527.6
+AUR-02624,No,15.98,18,Premium,Credit Card,Yes,286.72
+AUR-02625,Yes,14.25,71,Plus,Credit Card,Yes,971.59
+AUR-02626,No,13.15,25,Plus,Credit Card,Yes,177.47
+AUR-02627,No,13.78,20,Plus,Credit Card,Yes,803.93
+AUR-02628,Yes,9.47,46,Basic,Credit Card,Yes,762.99
+AUR-02629,No,8.98,50,Basic,Gift Card,Yes,368.9
+AUR-02630,Yes,7.7,25,Basic,Credit Card,No,196.92
+AUR-02631,Yes,10.54,9,Basic,Credit Card,Yes,123.13
+AUR-02632,No,14.36,28,Plus,PayPal,No,996.02
+AUR-02633,No,17.58,39,Premium,Debit Card,Yes,319.25
+AUR-02634,No,15.01,2,Plus,Credit Card,No,48.65
+AUR-02635,No,14.89,5,Plus,Debit Card,No,60.02
+AUR-02636,No,12.66,67,Plus,PayPal,Yes,1840.73
+AUR-02637,No,15.16,2,Plus,Credit Card,Yes,138.97
+AUR-02638,No,9.07,29,Basic,Credit Card,Yes,198.87
+AUR-02639,No,15.0,55,Premium,PayPal,Yes,876.52
+AUR-02640,Yes,8.7,23,Basic,PayPal,Yes,215.02
+AUR-02641,No,13.88,36,Plus,Gift Card,No,1375.77
+AUR-02642,No,12.81,6,Plus,Credit Card,Yes,90.4
+AUR-02643,Yes,15.59,57,Plus,PayPal,No,781.72
+AUR-02644,No,16.05,46,Premium,Credit Card,No,1031.77
+AUR-02645,No,9.47,62,Basic,PayPal,No,959.23
+AUR-02646,No,19.01,63,Premium,PayPal,Yes,768.49
+AUR-02647,No,15.75,25,Plus,Credit Card,Yes,518.73
+AUR-02648,No,17.59,3,Premium,Credit Card,No,71.27
+AUR-02649,No,14.31,25,Plus,Debit Card,Yes,342.3
+AUR-02650,No,19.47,10,Premium,PayPal,Yes,199.44
+AUR-02651,No,15.0,38,Premium,Credit Card,Yes,407.58
+AUR-02652,No,14.84,10,Plus,PayPal,Yes,101.71
+AUR-02653,No,17.6,67,Premium,Credit Card,No,2734.02
+AUR-02654,No,14.91,43,Plus,Credit Card,Yes,674.68
+AUR-02655,No,15.66,18,Plus,Credit Card,Yes,221.46
+AUR-02656,No,17.23,67,Premium,PayPal,Yes,1553.39
+AUR-02657,No,14.86,56,Plus,Credit Card,Yes,694.82
+AUR-02658,No,12.4,31,Plus,Debit Card,Yes,315.49
+AUR-02659,No,8.4,10,Basic,Credit Card,Yes,62.54
+AUR-02660,Yes,9.14,25,Basic,PayPal,Yes,405.91
+AUR-02661,No,19.52,42,Premium,PayPal,Yes,1280.6
+AUR-02662,No,16.4,55,Plus,Credit Card,Yes,936.4
+AUR-02663,No,15.27,19,Plus,Credit Card,Yes,356.33
+AUR-02664,No,7.55,54,Basic,Credit Card,Yes,399.23
+AUR-02665,No,13.38,20,Plus,Credit Card,No,237.86
+AUR-02666,No,19.07,18,Premium,PayPal,No,344.7
+AUR-02667,No,19.02,32,Premium,Debit Card,No,955.57
+AUR-02668,No,10.08,11,Basic,Credit Card,Yes,248.88
+AUR-02669,No,12.75,29,Plus,PayPal,Yes,229.13
+AUR-02670,Yes,14.6,26,Plus,Debit Card,No,703.8
+AUR-02671,No,13.66,20,Plus,Credit Card,No,381.88
+AUR-02672,No,14.39,56,Plus,Credit Card,Yes,618.81
+AUR-02673,No,14.88,24,Plus,Credit Card,Yes,431.68
+AUR-02674,No,13.31,50,Plus,Debit Card,Yes,1359.05
+AUR-02675,No,12.65,52,Plus,Credit Card,Yes,1092.55
+AUR-02676,Yes,14.45,48,Plus,Debit Card,No,1217.43
+AUR-02677,Yes,13.35,19,Plus,Credit Card,No,228.5
+AUR-02678,No,20.46,60,Premium,Debit Card,No,906.54
+AUR-02679,No,14.17,17,Plus,Credit Card,Yes,314.08
+AUR-02680,No,8.89,20,Basic,Debit Card,Yes,248.38
+AUR-02681,No,17.4,63,Premium,Credit Card,No,1071.24
+AUR-02682,No,20.13,24,Premium,Credit Card,Yes,396.56
+AUR-02683,No,10.15,50,Basic,Credit Card,Yes,304.4
+AUR-02684,No,12.38,3,Plus,Debit Card,Yes,203.22
+AUR-02685,Yes,8.79,44,Basic,PayPal,Yes,244.17
+AUR-02686,No,13.69,63,Plus,Credit Card,Yes,1260.04
+AUR-02687,Yes,8.85,51,Basic,PayPal,No,427.03
+AUR-02688,Yes,14.85,42,Plus,Debit Card,Yes,605.82
+AUR-02689,No,7.78,61,Basic,Debit Card,Yes,305.64
+AUR-02690,No,14.72,21,Plus,Debit Card,Yes,550.23
+AUR-02691,No,16.32,27,Premium,Credit Card,Yes,462.67
+AUR-02692,No,13.04,5,Plus,PayPal,Yes,77.51
+AUR-02693,No,16.26,50,Premium,PayPal,Yes,732.62
+AUR-02694,No,19.19,52,Premium,PayPal,No,690.69
+AUR-02695,No,15.58,54,Premium,Credit Card,Yes,472.26
+AUR-02696,No,9.75,54,Basic,Debit Card,Yes,891.19
+AUR-02697,No,18.91,9,Premium,Credit Card,Yes,252.38
+AUR-02698,Yes,8.11,48,Basic,Debit Card,Yes,303.41
+AUR-02699,No,12.59,55,Plus,Credit Card,Yes,1926.63
+AUR-02700,Yes,18.15,14,Premium,Credit Card,Yes,331.13
+AUR-02701,Yes,14.01,34,Plus,Debit Card,Yes,562.32
+AUR-02702,No,14.66,66,Plus,PayPal,Yes,795.27
+AUR-02703,No,14.48,30,Plus,Credit Card,Yes,487.55
+AUR-02704,No,19.7,54,Premium,Debit Card,Yes,428.51
+AUR-02705,No,13.38,38,Plus,Debit Card,Yes,636.46
+AUR-02706,No,14.35,48,Plus,PayPal,Yes,714.18
+AUR-02707,No,17.89,45,Premium,Debit Card,Yes,2393.58
+AUR-02708,Yes,8.5,47,Basic,Credit Card,Yes,127.53
+AUR-02709,No,8.99,56,Basic,Credit Card,Yes,490.5
+AUR-02710,No,15.79,66,Plus,Debit Card,Yes,1344.56
+AUR-02711,No,18.08,21,Premium,Credit Card,No,631.34
+AUR-02712,No,9.11,67,Basic,PayPal,Yes,620.63
+AUR-02713,Yes,7.28,45,Basic,PayPal,Yes,566.33
+AUR-02714,Yes,8.76,43,Basic,PayPal,Yes,364.25
+AUR-02715,No,18.8,23,Premium,Credit Card,Yes,436.95
+AUR-02716,Yes,9.79,30,Basic,PayPal,No,188.72
+AUR-02717,No,14.24,47,Plus,Debit Card,No,924.21
+AUR-02718,No,16.93,26,Premium,Credit Card,No,1026.05
+AUR-02719,Yes,8.61,20,Basic,Credit Card,Yes,145.53
+AUR-02720,No,12.03,59,Plus,Credit Card,No,728.49
+AUR-02721,No,14.23,30,Plus,Credit Card,Yes,219.8
+AUR-02722,Yes,16.86,47,Premium,Gift Card,No,937.14
+AUR-02723,Yes,8.77,2,Basic,PayPal,Yes,144.91
+AUR-02724,No,16.44,5,Plus,Credit Card,No,234.3
+AUR-02725,No,9.15,61,Basic,Debit Card,Yes,469.93
+AUR-02726,Yes,12.45,10,Plus,Credit Card,Yes,168.32
+AUR-02727,No,18.75,58,Premium,Credit Card,No,1167.69
+AUR-02728,No,8.86,65,Basic,Credit Card,Yes,643.67
+AUR-02729,No,14.03,35,Plus,Debit Card,No,454.03
+AUR-02730,No,17.94,64,Premium,Debit Card,Yes,1447.46
+AUR-02731,Yes,7.96,31,Basic,PayPal,Yes,504.57
+AUR-02732,No,8.95,69,Basic,PayPal,Yes,997.22
+AUR-02733,Yes,13.72,17,Plus,Credit Card,Yes,565.21
+AUR-02734,Yes,9.98,31,Basic,PayPal,No,115.69
+AUR-02735,No,7.94,28,Basic,Credit Card,Yes,197.09
+AUR-02736,No,14.11,57,Plus,Credit Card,Yes,1488.07
+AUR-02737,No,8.62,3,Basic,Debit Card,Yes,83.1
+AUR-02738,No,14.22,60,Plus,Credit Card,Yes,1933.03
+AUR-02739,No,15.36,1,Plus,Credit Card,No,19.94
+AUR-02740,No,14.09,23,Plus,Credit Card,No,332.68
+AUR-02741,No,7.61,43,Basic,Credit Card,Yes,279.83
+AUR-02742,No,17.34,10,Premium,PayPal,Yes,201.07
+AUR-02743,No,9.93,35,Basic,Credit Card,Yes,782.98
+AUR-02744,No,15.52,72,Plus,Debit Card,Yes,1977.19
+AUR-02745,No,8.9,60,Basic,Gift Card,No,1400.56
+AUR-02746,No,17.86,2,Premium,Debit Card,Yes,180.66
+AUR-02747,Yes,8.14,43,Basic,Credit Card,Yes,223.87
+AUR-02748,No,9.08,43,Basic,PayPal,Yes,349.92
+AUR-02749,No,13.85,4,Plus,Credit Card,Yes,197.5
+AUR-02750,No,7.79,47,Basic,Credit Card,No,491.31
+AUR-02751,No,7.96,38,Basic,Debit Card,Yes,57.51
+AUR-02752,No,13.57,49,Plus,Credit Card,Yes,1125.82
+AUR-02753,No,20.54,21,Premium,PayPal,Yes,203.38
+AUR-02754,Yes,7.53,18,Basic,Credit Card,Yes,17.98
+AUR-02755,No,17.28,53,Premium,Debit Card,Yes,1225.44
+AUR-02756,No,17.23,52,Premium,PayPal,No,1157.32
+AUR-02757,No,15.26,11,Premium,Gift Card,Yes,122.96
+AUR-02758,No,13.19,15,Plus,Credit Card,Yes,123.86
+AUR-02759,No,11.81,42,Plus,Credit Card,Yes,681.76
+AUR-02760,No,14.32,60,Plus,PayPal,No,660.93
+AUR-02761,No,16.45,14,Plus,Debit Card,Yes,301.59
+AUR-02762,No,17.92,15,Premium,Credit Card,Yes,349.46
+AUR-02763,Yes,7.92,58,Basic,Credit Card,No,640.45
+AUR-02764,No,10.35,50,Basic,PayPal,Yes,906.0
+AUR-02765,No,8.26,65,Basic,Debit Card,No,663.63
+AUR-02766,No,19.04,57,Premium,Debit Card,No,2098.35
+AUR-02767,No,14.54,69,Plus,PayPal,No,935.74
+AUR-02768,No,14.81,13,Plus,Credit Card,Yes,300.81
+AUR-02769,No,19.33,19,Premium,Credit Card,Yes,221.19
+AUR-02770,No,18.16,17,Premium,Debit Card,No,198.97
+AUR-02771,No,9.46,4,Basic,PayPal,Yes,23.62
+AUR-02772,No,19.52,56,Premium,Credit Card,Yes,1341.39
+AUR-02773,No,19.16,48,Premium,Debit Card,Yes,818.92
+AUR-02774,Yes,8.15,6,Basic,Credit Card,Yes,76.55
+AUR-02775,No,13.49,14,Plus,Credit Card,Yes,265.21
+AUR-02776,No,9.75,13,Basic,PayPal,No,1.57
+AUR-02777,No,13.7,29,Plus,Credit Card,Yes,227.51
+AUR-02778,No,15.17,33,Plus,Credit Card,Yes,418.63
+AUR-02779,No,7.96,21,Basic,PayPal,No,313.05
+AUR-02780,No,9.03,67,Basic,Credit Card,Yes,407.9
+AUR-02781,No,9.04,15,Basic,Credit Card,Yes,148.77
+AUR-02782,No,11.32,41,Basic,PayPal,Yes,742.92
+AUR-02783,No,16.4,31,Plus,Credit Card,Yes,613.4
+AUR-02784,Yes,9.62,28,Basic,Debit Card,Yes,603.72
+AUR-02785,No,8.4,60,Basic,Credit Card,Yes,439.78
+AUR-02786,No,15.78,71,Plus,Credit Card,Yes,2175.72
+AUR-02787,Yes,14.96,0,Plus,Debit Card,Yes,98.95
+AUR-02788,No,14.03,33,Plus,Credit Card,Yes,377.17
+AUR-02789,No,19.77,8,Premium,PayPal,Yes,142.34
+AUR-02790,No,14.24,31,Plus,PayPal,Yes,379.62
+AUR-02791,Yes,19.56,45,Premium,PayPal,Yes,634.97
+AUR-02792,Yes,9.68,30,Basic,Credit Card,Yes,227.57
+AUR-02793,No,13.09,22,Plus,Credit Card,No,294.93
+AUR-02794,No,20.5,22,Premium,PayPal,Yes,912.05
+AUR-02795,No,17.72,21,Premium,Debit Card,No,191.25
+AUR-02796,No,12.25,23,Plus,PayPal,Yes,333.6
+AUR-02797,No,12.64,27,Plus,PayPal,Yes,217.49
+AUR-02798,No,11.13,50,Basic,Credit Card,Yes,885.66
+AUR-02799,No,14.05,7,Plus,Credit Card,Yes,155.61
+AUR-02800,No,13.64,2,Plus,Debit Card,Yes,123.46
+AUR-02801,No,15.87,37,Premium,Debit Card,No,649.86
+AUR-02802,No,12.23,49,Plus,Credit Card,No,1882.11
+AUR-02803,No,7.36,18,Basic,Debit Card,No,216.73
+AUR-02804,No,13.95,14,Plus,PayPal,No,282.04
+AUR-02805,No,8.15,45,Basic,Credit Card,Yes,363.55
+AUR-02806,Yes,8.75,28,Basic,Credit Card,Yes,141.68
+AUR-02807,No,8.57,53,Basic,PayPal,Yes,500.62
+AUR-02808,No,13.61,10,Plus,PayPal,Yes,205.49
+AUR-02809,Yes,8.66,8,Basic,Gift Card,No,166.11
+AUR-02810,No,7.69,40,Basic,Credit Card,Yes,171.74
+AUR-02811,No,10.39,28,Basic,PayPal,Yes,453.51
+AUR-02812,No,19.05,53,Premium,PayPal,Yes,2286.76
+AUR-02813,Yes,12.58,36,Plus,PayPal,No,374.69
+AUR-02814,No,7.57,25,Basic,Credit Card,Yes,319.09
+AUR-02815,Yes,8.79,11,Basic,Credit Card,Yes,223.88
+AUR-02816,Yes,13.55,11,Plus,Debit Card,Yes,109.94
+AUR-02817,Yes,10.04,55,Basic,Credit Card,Yes,552.88
+AUR-02818,No,13.6,16,Plus,Credit Card,Yes,458.94
+AUR-02819,No,13.25,36,Plus,PayPal,No,777.33
+AUR-02820,No,19.24,59,Premium,Credit Card,No,473.59
+AUR-02821,Yes,8.96,65,Basic,PayPal,Yes,617.69
+AUR-02822,No,15.1,19,Plus,Debit Card,Yes,251.23
+AUR-02823,Yes,8.01,8,Basic,PayPal,Yes,42.73
+AUR-02824,No,20.5,56,Premium,Credit Card,Yes,1362.46
+AUR-02825,No,20.04,50,Premium,Debit Card,Yes,1022.59
+AUR-02826,No,11.71,24,Plus,Debit Card,Yes,294.88
+AUR-02827,No,11.61,43,Plus,PayPal,Yes,625.44
+AUR-02828,Yes,7.64,13,Basic,Credit Card,No,22.49
+AUR-02829,No,21.1,51,Premium,Credit Card,Yes,1090.37
+AUR-02830,No,13.99,53,Plus,PayPal,Yes,1581.26
+AUR-02831,Yes,8.76,21,Basic,Credit Card,No,374.31
+AUR-02832,Yes,14.11,34,Plus,Debit Card,No,307.43
+AUR-02833,No,14.48,24,Plus,Credit Card,Yes,316.76
+AUR-02834,No,18.98,2,Premium,Credit Card,Yes,83.97
+AUR-02835,No,13.34,9,Plus,Debit Card,Yes,304.36
+AUR-02836,No,12.89,70,Plus,Debit Card,No,1114.98
+AUR-02837,No,13.98,33,Plus,Debit Card,Yes,523.49
+AUR-02838,Yes,8.23,10,Basic,Debit Card,Yes,78.74
+AUR-02839,Yes,9.2,3,Basic,PayPal,Yes,153.15
+AUR-02840,No,7.59,25,Basic,Gift Card,Yes,228.11
+AUR-02841,No,18.36,71,Premium,Credit Card,Yes,3158.1
+AUR-02842,No,13.46,28,Plus,Credit Card,No,385.21
+AUR-02843,No,15.85,72,Plus,Credit Card,Yes,774.69
+AUR-02844,Yes,9.8,35,Basic,PayPal,No,448.46
+AUR-02845,No,9.11,55,Basic,Credit Card,Yes,562.1
+AUR-02846,No,13.6,57,Plus,Debit Card,No,753.05
+AUR-02847,Yes,9.18,2,Basic,Credit Card,Yes,0.0
+AUR-02848,Yes,10.43,0,Basic,Debit Card,Yes,144.63
+AUR-02849,No,13.93,67,Plus,PayPal,No,430.42
+AUR-02850,Yes,8.55,68,Basic,Debit Card,No,772.43
+AUR-02851,No,16.96,9,Plus,Debit Card,No,124.47
+AUR-02852,No,13.76,47,Plus,Credit Card,No,429.8
+AUR-02853,Yes,15.77,67,Premium,Debit Card,Yes,1052.09
+AUR-02854,Yes,8.26,69,Basic,Credit Card,Yes,586.17
+AUR-02855,No,14.66,21,Plus,PayPal,Yes,467.83
+AUR-02856,No,18.48,59,Premium,Credit Card,No,1450.4
+AUR-02857,No,14.77,47,Plus,Credit Card,No,903.65
+AUR-02858,No,14.87,67,Plus,Credit Card,No,1330.23
+AUR-02859,No,14.34,10,Plus,Debit Card,No,71.21
+AUR-02860,No,14.22,43,Plus,PayPal,Yes,477.2
+AUR-02861,No,14.11,1,Plus,Credit Card,Yes,160.47
+AUR-02862,No,13.3,26,Plus,Credit Card,Yes,482.21
+AUR-02863,Yes,8.44,0,Basic,Credit Card,Yes,0.0
+AUR-02864,Yes,8.8,32,Basic,Gift Card,No,178.28
+AUR-02865,No,14.38,59,Plus,PayPal,Yes,1187.83
+AUR-02866,No,8.9,48,Basic,Credit Card,No,459.47
+AUR-02867,No,16.42,23,Plus,Debit Card,Yes,249.9
+AUR-02868,No,15.44,31,Plus,PayPal,Yes,1153.58
+AUR-02869,No,17.11,26,Premium,PayPal,No,1069.95
+AUR-02870,No,8.16,53,Basic,Debit Card,Yes,383.41
+AUR-02871,No,14.35,19,Plus,PayPal,Yes,324.81
+AUR-02872,No,15.02,6,Plus,Debit Card,Yes,240.4
+AUR-02873,No,6.97,36,Basic,Credit Card,Yes,291.02
+AUR-02874,No,8.43,60,Basic,Credit Card,Yes,612.22
+AUR-02875,No,9.35,34,Basic,Credit Card,Yes,352.91
+AUR-02876,Yes,9.13,14,Basic,Credit Card,No,243.27
+AUR-02877,Yes,10.19,3,Basic,Credit Card,No,94.74
+AUR-02878,No,12.95,68,Plus,PayPal,No,531.23
+AUR-02879,Yes,13.68,55,Plus,PayPal,Yes,337.49
+AUR-02880,No,10.95,11,Basic,Credit Card,No,226.59
+AUR-02881,Yes,9.75,5,Basic,Credit Card,Yes,42.94
+AUR-02882,Yes,10.37,9,Basic,Debit Card,Yes,159.66
+AUR-02883,No,15.13,27,Plus,Debit Card,No,504.17
+AUR-02884,No,9.76,59,Basic,Credit Card,No,698.49
+AUR-02885,No,15.77,11,Plus,PayPal,No,165.06
+AUR-02886,No,10.7,59,Basic,Credit Card,No,800.36
+AUR-02887,No,10.84,0,Basic,Credit Card,Yes,0.0
+AUR-02888,No,18.33,53,Premium,PayPal,Yes,1311.29
+AUR-02889,No,9.94,20,Basic,Debit Card,Yes,325.28
+AUR-02890,No,9.7,70,Basic,Credit Card,Yes,573.74
+AUR-02891,Yes,8.78,34,Basic,Debit Card,Yes,357.4
+AUR-02892,No,18.08,19,Premium,PayPal,Yes,765.74
+AUR-02893,No,13.06,17,Plus,Credit Card,Yes,315.46
+AUR-02894,Yes,13.41,60,Plus,Debit Card,Yes,784.95
+AUR-02895,No,18.74,29,Premium,Credit Card,Yes,1055.34
+AUR-02896,Yes,8.95,25,Basic,Debit Card,Yes,378.18
+AUR-02897,No,17.83,53,Premium,Credit Card,Yes,1315.07
+AUR-02898,Yes,8.65,39,Basic,Credit Card,Yes,340.12
+AUR-02899,No,16.61,48,Plus,Credit Card,Yes,1087.17
+AUR-02900,Yes,14.11,32,Plus,PayPal,Yes,786.68
+AUR-02901,No,16.18,4,Plus,Credit Card,Yes,263.95
+AUR-02902,No,19.49,0,Premium,PayPal,No,141.7
+AUR-02903,Yes,9.61,2,Basic,Credit Card,No,97.72
+AUR-02904,No,15.0,41,Premium,PayPal,Yes,641.52
+AUR-02905,No,8.27,37,Basic,Debit Card,Yes,144.61
+AUR-02906,No,14.24,54,Plus,Credit Card,Yes,817.58
+AUR-02907,No,18.29,65,Premium,PayPal,Yes,4507.97
+AUR-02908,Yes,8.8,12,Basic,PayPal,Yes,87.91
+AUR-02909,No,19.91,69,Premium,Debit Card,No,627.37
+AUR-02910,Yes,14.29,68,Plus,Credit Card,Yes,3286.83
+AUR-02911,No,13.62,44,Plus,Debit Card,Yes,656.56
+AUR-02912,No,6.63,38,Basic,Debit Card,No,277.31
+AUR-02913,No,15.12,12,Plus,Credit Card,Yes,94.4
+AUR-02914,Yes,15.62,13,Plus,PayPal,Yes,289.43
+AUR-02915,No,12.75,1,Plus,Credit Card,Yes,0.0
+AUR-02916,Yes,10.71,47,Basic,Debit Card,Yes,739.6
+AUR-02917,Yes,8.77,31,Basic,Debit Card,Yes,468.43
+AUR-02918,No,20.98,14,Premium,Gift Card,No,144.15
+AUR-02919,Yes,9.45,9,Basic,Credit Card,Yes,40.1
+AUR-02920,No,13.57,4,Plus,Credit Card,No,123.51
+AUR-02921,No,19.16,46,Premium,Credit Card,Yes,1570.86
+AUR-02922,Yes,10.45,50,Basic,Debit Card,No,516.57
+AUR-02923,Yes,9.29,46,Basic,Credit Card,Yes,137.2
+AUR-02924,No,15.09,8,Plus,Credit Card,Yes,181.31
+AUR-02925,Yes,10.43,3,Basic,Credit Card,Yes,104.89
+AUR-02926,No,13.83,7,Plus,PayPal,Yes,177.08
+AUR-02927,Yes,13.4,54,Plus,Credit Card,Yes,1083.14
+AUR-02928,No,15.2,54,Plus,Debit Card,Yes,1210.6
+AUR-02929,No,7.75,21,Basic,Credit Card,No,116.56
+AUR-02930,No,15.31,4,Plus,Credit Card,Yes,167.9
+AUR-02931,No,13.45,23,Plus,Credit Card,Yes,633.53
+AUR-02932,No,11.39,59,Basic,Credit Card,No,1029.02
+AUR-02933,No,14.24,10,Plus,Debit Card,Yes,199.34
+AUR-02934,No,20.69,58,Premium,Credit Card,Yes,1550.65
+AUR-02935,No,12.54,33,Plus,Credit Card,No,219.27
+AUR-02936,No,12.92,10,Plus,Credit Card,No,210.02
+AUR-02937,No,10.08,68,Basic,Credit Card,Yes,1492.67
+AUR-02938,No,9.2,37,Basic,Credit Card,Yes,355.91
+AUR-02939,Yes,10.42,49,Basic,Credit Card,Yes,785.25
+AUR-02940,Yes,7.82,7,Basic,Credit Card,Yes,133.16
+AUR-02941,No,18.26,27,Premium,Debit Card,No,423.78
+AUR-02942,No,8.7,46,Basic,PayPal,No,112.68
+AUR-02943,No,17.99,47,Premium,Debit Card,Yes,1056.17
+AUR-02944,Yes,10.43,4,Basic,Credit Card,Yes,16.51
+AUR-02945,No,7.12,44,Basic,Gift Card,Yes,729.9
+AUR-02946,No,14.14,68,Plus,Gift Card,Yes,1459.2
+AUR-02947,No,9.55,57,Basic,Debit Card,No,540.4
+AUR-02948,No,18.84,15,Premium,Credit Card,Yes,418.44
+AUR-02949,Yes,17.98,66,Premium,PayPal,Yes,821.46
+AUR-02950,No,16.74,49,Premium,Gift Card,Yes,1516.7
+AUR-02951,No,9.52,4,Basic,PayPal,No,0.0
+AUR-02952,No,14.03,9,Plus,Debit Card,Yes,291.37
+AUR-02953,Yes,10.96,67,Basic,Debit Card,No,622.37
+AUR-02954,No,17.17,15,Premium,Gift Card,Yes,356.2
+AUR-02955,Yes,12.83,7,Plus,Credit Card,Yes,205.16
+AUR-02956,No,7.41,32,Basic,Credit Card,Yes,175.03
+AUR-02957,No,10.6,38,Basic,PayPal,Yes,201.46
+AUR-02958,Yes,8.43,41,Basic,Credit Card,Yes,636.21
+AUR-02959,Yes,8.54,48,Basic,Credit Card,Yes,569.35
+AUR-02960,No,16.21,72,Premium,Credit Card,Yes,748.94
+AUR-02961,No,18.84,55,Premium,Credit Card,Yes,1231.35
+AUR-02962,No,18.01,1,Premium,Credit Card,No,0.0
+AUR-02963,No,7.77,6,Basic,Debit Card,No,117.15
+AUR-02964,No,13.13,0,Plus,Credit Card,Yes,60.42
+AUR-02965,No,7.9,28,Basic,Debit Card,Yes,257.71
+AUR-02966,No,12.71,25,Plus,Credit Card,No,563.71
+AUR-02967,No,9.39,68,Basic,PayPal,Yes,776.16
+AUR-02968,Yes,7.88,26,Basic,Debit Card,No,139.72
+AUR-02969,No,14.54,2,Plus,Gift Card,Yes,43.45
+AUR-02970,No,9.73,64,Basic,Credit Card,No,830.9
+AUR-02971,No,11.63,18,Plus,Credit Card,Yes,137.1
+AUR-02972,No,12.78,66,Plus,PayPal,Yes,464.62
+AUR-02973,No,8.33,56,Basic,PayPal,Yes,426.72
+AUR-02974,Yes,17.41,64,Premium,Credit Card,Yes,1077.95
+AUR-02975,No,11.75,59,Plus,Debit Card,Yes,1065.78
+AUR-02976,No,17.08,10,Premium,Debit Card,No,0.0
+AUR-02977,No,14.49,45,Plus,Credit Card,Yes,630.8
+AUR-02978,No,11.83,30,Plus,Debit Card,Yes,297.84
+AUR-02979,No,14.03,45,Plus,Credit Card,Yes,640.63
+AUR-02980,No,18.8,54,Premium,Credit Card,Yes,928.14
+AUR-02981,Yes,15.96,36,Plus,PayPal,Yes,383.13
+AUR-02982,Yes,7.78,22,Basic,Debit Card,Yes,228.17
+AUR-02983,No,8.46,66,Basic,PayPal,No,536.17
+AUR-02984,No,16.0,48,Plus,PayPal,No,632.78
+AUR-02985,No,9.33,64,Basic,Gift Card,Yes,222.28
+AUR-02986,No,8.71,17,Basic,Credit Card,No,358.86
+AUR-02987,Yes,9.02,61,Basic,Credit Card,Yes,587.1
+AUR-02988,No,11.82,23,Plus,Credit Card,Yes,712.84
+AUR-02989,No,9.69,33,Basic,Debit Card,No,348.03
+AUR-02990,No,14.35,62,Plus,Debit Card,No,915.17
+AUR-02991,No,19.24,25,Premium,PayPal,Yes,627.36
+AUR-02992,No,16.18,18,Premium,Credit Card,Yes,251.03
+AUR-02993,Yes,10.07,66,Basic,Credit Card,Yes,679.64
+AUR-02994,No,12.8,70,Plus,PayPal,Yes,997.58
+AUR-02995,Yes,12.56,22,Plus,PayPal,Yes,323.93
+AUR-02996,No,13.85,22,Plus,Credit Card,Yes,300.59
+AUR-02997,No,15.46,16,Plus,Debit Card,No,387.77
+AUR-02998,Yes,8.68,1,Basic,Debit Card,Yes,84.13
+AUR-02999,No,15.93,40,Premium,PayPal,Yes,1404.25
+AUR-03000,No,7.95,18,Basic,Credit Card,No,299.34
+AUR-03001,No,19.52,61,Premium,Debit Card,No,990.9
+AUR-03002,No,14.71,12,Plus,Credit Card,Yes,324.63
+AUR-03003,No,9.07,46,Basic,Credit Card,Yes,642.87
+AUR-03004,Yes,13.13,36,Plus,PayPal,No,631.94
+AUR-03005,Yes,9.46,44,Basic,Credit Card,No,432.4
+AUR-03006,Yes,14.84,8,Plus,Credit Card,Yes,152.08
+AUR-03007,No,11.3,34,Plus,Credit Card,Yes,246.2
+AUR-03008,Yes,7.53,45,Basic,Credit Card,No,440.71
+AUR-03009,No,8.1,24,Basic,PayPal,No,251.91
+AUR-03010,No,13.09,63,Plus,Credit Card,Yes,919.33
+AUR-03011,No,8.27,38,Basic,PayPal,Yes,435.89
+AUR-03012,No,15.79,26,Premium,PayPal,No,415.01
+AUR-03013,No,13.0,2,Plus,Credit Card,Yes,91.7
+AUR-03014,No,14.08,12,Plus,PayPal,Yes,448.64
+AUR-03015,No,8.78,34,Basic,Credit Card,Yes,250.09
+AUR-03016,No,13.75,29,Plus,Credit Card,Yes,450.98
+AUR-03017,No,18.87,63,Premium,Credit Card,Yes,1355.33
+AUR-03018,Yes,8.23,57,Basic,Credit Card,Yes,722.3
+AUR-03019,Yes,9.7,11,Basic,Credit Card,No,144.52
+AUR-03020,Yes,7.38,43,Basic,Credit Card,Yes,569.19
+AUR-03021,No,13.82,33,Plus,PayPal,No,642.06
+AUR-03022,No,13.78,7,Plus,Debit Card,Yes,205.83
+AUR-03023,Yes,14.02,48,Plus,PayPal,Yes,944.8
+AUR-03024,No,14.64,39,Plus,Debit Card,No,668.87
+AUR-03025,Yes,7.41,6,Basic,Debit Card,No,81.26
+AUR-03026,Yes,8.66,34,Basic,Credit Card,Yes,228.1
+AUR-03027,No,8.81,53,Basic,Debit Card,Yes,485.48
+AUR-03028,No,20.58,23,Premium,Credit Card,Yes,947.86
+AUR-03029,No,14.17,26,Plus,PayPal,No,175.65
+AUR-03030,Yes,7.54,8,Basic,PayPal,Yes,123.63
+AUR-03031,No,20.58,14,Premium,Credit Card,No,415.19
+AUR-03032,Yes,8.38,71,Basic,Debit Card,Yes,774.45
+AUR-03033,No,8.59,45,Basic,Debit Card,Yes,697.2
+AUR-03034,No,8.6,12,Basic,Debit Card,Yes,229.5
+AUR-03035,No,19.17,35,Premium,Credit Card,Yes,650.19
+AUR-03036,Yes,13.65,14,Plus,Debit Card,No,140.96
+AUR-03037,No,14.47,32,Plus,PayPal,Yes,331.13
+AUR-03038,Yes,9.14,10,Basic,Credit Card,No,134.28
+AUR-03039,Yes,8.33,45,Basic,Debit Card,Yes,192.77
+AUR-03040,No,14.98,41,Plus,Credit Card,Yes,220.95
+AUR-03041,No,10.47,46,Basic,PayPal,No,858.78
+AUR-03042,No,19.12,32,Premium,Credit Card,Yes,689.85
+AUR-03043,No,13.32,20,Plus,Credit Card,Yes,781.05
+AUR-03044,No,13.92,18,Plus,Credit Card,Yes,62.95
+AUR-03045,Yes,15.38,15,Plus,PayPal,Yes,518.26
+AUR-03046,Yes,21.59,31,Premium,PayPal,No,621.46
+AUR-03047,No,12.67,32,Plus,Credit Card,Yes,204.21
+AUR-03048,No,16.16,49,Plus,Credit Card,Yes,298.37
+AUR-03049,No,15.0,3,Premium,PayPal,Yes,77.32
+AUR-03050,Yes,9.48,20,Basic,Credit Card,Yes,323.88
+AUR-03051,No,17.25,62,Premium,Credit Card,No,1265.93
+AUR-03052,No,8.18,66,Basic,Gift Card,No,444.94
+AUR-03053,No,12.38,67,Plus,Credit Card,Yes,1308.74
+AUR-03054,No,19.35,22,Premium,Debit Card,Yes,523.98
+AUR-03055,No,13.58,10,Plus,Credit Card,Yes,97.96
+AUR-03056,No,12.85,14,Plus,PayPal,No,388.64
+AUR-03057,Yes,16.62,9,Plus,PayPal,Yes,145.78
+AUR-03058,No,9.08,69,Basic,Credit Card,Yes,430.48
+AUR-03059,Yes,9.11,64,Basic,Debit Card,Yes,459.09
+AUR-03060,No,10.2,59,Basic,PayPal,No,596.34
+AUR-03061,No,13.39,53,Plus,PayPal,Yes,575.01
+AUR-03062,No,13.39,25,Plus,Credit Card,Yes,188.82
+AUR-03063,No,8.39,34,Basic,Credit Card,No,336.94
+AUR-03064,No,17.45,61,Premium,PayPal,No,1788.11
+AUR-03065,No,9.76,59,Basic,Credit Card,Yes,657.68
+AUR-03066,Yes,13.55,37,Plus,Credit Card,No,853.97
+AUR-03067,No,14.1,61,Plus,Credit Card,Yes,1148.97
+AUR-03068,Yes,9.03,25,Basic,PayPal,Yes,252.76
+AUR-03069,No,13.6,30,Plus,Credit Card,Yes,301.39
+AUR-03070,No,13.83,61,Plus,Credit Card,Yes,1020.63
+AUR-03071,Yes,10.48,27,Basic,Debit Card,Yes,302.51
+AUR-03072,Yes,19.97,54,Premium,Credit Card,Yes,1210.87
+AUR-03073,No,17.93,33,Premium,Credit Card,Yes,732.01
+AUR-03074,No,11.0,21,Plus,Debit Card,Yes,152.63
+AUR-03075,No,18.2,15,Premium,Credit Card,Yes,215.62
+AUR-03076,No,17.55,44,Premium,Gift Card,Yes,573.75
+AUR-03077,No,10.28,35,Basic,Credit Card,Yes,352.11
+AUR-03078,No,14.06,26,Plus,PayPal,Yes,549.08
+AUR-03079,No,14.01,54,Plus,Debit Card,Yes,551.42
+AUR-03080,Yes,9.19,0,Basic,Credit Card,Yes,0.0
+AUR-03081,Yes,8.73,6,Basic,Credit Card,Yes,85.81
+AUR-03082,Yes,9.5,70,Basic,Debit Card,Yes,706.61
+AUR-03083,Yes,15.24,48,Plus,Credit Card,No,738.06
+AUR-03084,Yes,17.15,40,Premium,Credit Card,No,433.8
+AUR-03085,Yes,15.56,1,Plus,Gift Card,Yes,171.98
+AUR-03086,Yes,8.81,43,Basic,Debit Card,Yes,449.56
+AUR-03087,Yes,10.67,31,Basic,PayPal,Yes,497.45
+AUR-03088,No,13.76,43,Plus,Credit Card,No,618.74
+AUR-03089,No,14.97,2,Plus,Credit Card,Yes,24.74
+AUR-03090,No,17.11,40,Premium,Debit Card,Yes,538.49
+AUR-03091,No,18.42,42,Premium,Credit Card,Yes,167.85
+AUR-03092,No,16.75,21,Premium,Credit Card,Yes,526.66
+AUR-03093,No,19.52,3,Premium,Credit Card,No,0.0
+AUR-03094,No,19.04,70,Premium,Credit Card,Yes,2072.64
+AUR-03095,No,12.67,51,Plus,PayPal,Yes,909.78
+AUR-03096,Yes,9.07,45,Basic,Credit Card,Yes,463.76
+AUR-03097,Yes,8.58,55,Basic,Gift Card,Yes,377.22
+AUR-03098,No,14.91,48,Plus,Credit Card,Yes,864.62
+AUR-03099,No,8.53,9,Basic,Credit Card,Yes,130.95
+AUR-03100,Yes,7.78,33,Basic,Credit Card,Yes,237.14
+AUR-03101,No,19.75,64,Premium,Debit Card,No,763.09
+AUR-03102,No,9.55,21,Basic,PayPal,Yes,188.1
+AUR-03103,No,16.18,70,Premium,PayPal,Yes,1450.13
+AUR-03104,No,13.3,4,Plus,Credit Card,Yes,204.67
+AUR-03105,No,12.57,24,Plus,Credit Card,No,426.62
+AUR-03106,No,13.77,25,Plus,PayPal,No,311.4
+AUR-03107,Yes,8.17,45,Basic,Credit Card,Yes,381.61
+AUR-03108,No,15.67,12,Plus,Debit Card,Yes,261.54
+AUR-03109,Yes,10.09,16,Basic,Credit Card,Yes,275.23
+AUR-03110,No,15.27,48,Premium,Credit Card,Yes,2211.29
+AUR-03111,Yes,7.7,20,Basic,Credit Card,No,224.37
+AUR-03112,No,9.12,64,Basic,Credit Card,No,505.3
+AUR-03113,No,14.21,63,Plus,PayPal,Yes,1206.13
+AUR-03114,No,15.79,22,Plus,Debit Card,No,479.9
+AUR-03115,No,13.09,40,Plus,PayPal,Yes,417.21
+AUR-03116,No,15.25,24,Plus,PayPal,No,322.57
+AUR-03117,Yes,10.14,25,Basic,Credit Card,No,165.03
+AUR-03118,No,13.21,48,Plus,Debit Card,Yes,593.21
+AUR-03119,Yes,6.84,21,Basic,Credit Card,No,168.13
+AUR-03120,No,11.01,10,Basic,PayPal,Yes,198.67
+AUR-03121,No,8.56,18,Basic,Credit Card,Yes,245.12
+AUR-03122,No,9.13,67,Basic,PayPal,Yes,951.95
+AUR-03123,Yes,9.56,18,Basic,Debit Card,No,327.01
+AUR-03124,No,14.26,26,Plus,Debit Card,Yes,228.76
+AUR-03125,No,9.72,45,Basic,Debit Card,Yes,836.79
+AUR-03126,Yes,9.26,7,Basic,Debit Card,No,12.06
+AUR-03127,No,14.25,19,Plus,Debit Card,Yes,267.47
+AUR-03128,Yes,9.99,12,Basic,Debit Card,Yes,255.47
+AUR-03129,No,14.78,67,Plus,Credit Card,Yes,652.4
+AUR-03130,No,17.98,68,Premium,Debit Card,Yes,791.45
+AUR-03131,No,14.29,55,Plus,Credit Card,Yes,736.68
+AUR-03132,No,22.63,18,Premium,Debit Card,Yes,869.28
+AUR-03133,Yes,9.51,44,Basic,Debit Card,Yes,970.6
+AUR-03134,No,10.75,48,Basic,Credit Card,No,812.98
+AUR-03135,Yes,13.1,63,Plus,PayPal,No,588.23
+AUR-03136,No,15.05,11,Plus,Debit Card,Yes,258.18
+AUR-03137,No,20.02,53,Premium,Debit Card,No,2986.54
+AUR-03138,Yes,9.51,14,Basic,Debit Card,No,359.99
+AUR-03139,No,16.07,41,Plus,Debit Card,No,347.79
+AUR-03140,No,10.95,64,Basic,PayPal,Yes,1024.68
+AUR-03141,Yes,9.89,4,Basic,Credit Card,Yes,109.52
+AUR-03142,No,7.18,10,Basic,Credit Card,Yes,234.93
+AUR-03143,No,17.1,59,Premium,Debit Card,Yes,1269.76
+AUR-03144,Yes,11.6,1,Basic,Credit Card,Yes,0.0
+AUR-03145,No,18.67,50,Premium,Credit Card,Yes,734.38
+AUR-03146,No,13.29,36,Plus,Credit Card,Yes,876.09
+AUR-03147,No,11.79,25,Plus,Credit Card,Yes,448.88
+AUR-03148,No,14.59,62,Plus,Gift Card,Yes,998.09
+AUR-03149,No,19.15,61,Premium,Credit Card,Yes,3213.49
+AUR-03150,No,8.42,23,Basic,Credit Card,No,261.78
+AUR-03151,No,10.49,0,Basic,PayPal,Yes,12.64
+AUR-03152,No,13.59,9,Plus,Gift Card,Yes,160.56
+AUR-03153,Yes,9.02,7,Basic,Credit Card,Yes,52.48
+AUR-03154,No,10.05,71,Basic,PayPal,Yes,467.64
+AUR-03155,Yes,8.3,43,Basic,Credit Card,No,614.78
+AUR-03156,No,9.62,49,Basic,PayPal,Yes,512.94
+AUR-03157,Yes,8.74,16,Basic,Credit Card,No,506.23
+AUR-03158,Yes,10.57,62,Basic,Credit Card,No,490.78
+AUR-03159,No,15.8,52,Premium,Credit Card,Yes,707.33
+AUR-03160,No,9.43,54,Basic,PayPal,Yes,700.71
+AUR-03161,No,20.18,34,Premium,Credit Card,Yes,451.56
+AUR-03162,No,17.72,50,Premium,Debit Card,Yes,618.88
+AUR-03163,Yes,9.93,39,Basic,Debit Card,Yes,525.69
+AUR-03164,No,13.83,28,Plus,Credit Card,Yes,146.96
+AUR-03165,No,14.66,43,Plus,PayPal,Yes,779.58
+AUR-03166,No,13.44,23,Plus,Credit Card,Yes,300.94
+AUR-03167,No,6.83,69,Basic,Credit Card,Yes,610.27
+AUR-03168,Yes,8.9,52,Basic,Credit Card,Yes,574.55
+AUR-03169,No,9.4,53,Basic,Credit Card,Yes,1930.83
+AUR-03170,No,13.67,52,Plus,Credit Card,Yes,535.05
+AUR-03171,No,17.84,32,Premium,Debit Card,Yes,391.43
+AUR-03172,No,13.87,69,Plus,Debit Card,Yes,3327.96
+AUR-03173,No,15.75,15,Plus,Credit Card,Yes,220.08
+AUR-03174,No,18.03,41,Premium,Credit Card,No,506.06
+AUR-03175,No,14.03,5,Plus,PayPal,No,48.34
+AUR-03176,Yes,9.21,21,Basic,Credit Card,Yes,184.02
+AUR-03177,No,19.82,41,Premium,Debit Card,Yes,652.31
+AUR-03178,No,9.95,35,Basic,PayPal,Yes,433.66
+AUR-03179,Yes,8.62,68,Basic,Credit Card,Yes,258.55
+AUR-03180,No,12.51,44,Plus,Debit Card,Yes,492.09
+AUR-03181,No,16.78,30,Premium,PayPal,Yes,690.0
+AUR-03182,Yes,9.04,31,Basic,Debit Card,No,168.49
+AUR-03183,No,12.55,44,Plus,Gift Card,Yes,445.55
+AUR-03184,No,10.17,57,Basic,Credit Card,Yes,472.91
+AUR-03185,Yes,6.71,20,Basic,Debit Card,Yes,211.7
+AUR-03186,No,9.58,42,Basic,Credit Card,Yes,945.61
+AUR-03187,No,14.16,41,Plus,Credit Card,No,636.28
+AUR-03188,No,15.26,0,Premium,Gift Card,No,0.0
+AUR-03189,Yes,8.66,66,Basic,Credit Card,Yes,512.62
+AUR-03190,No,8.08,41,Basic,Gift Card,No,415.26
+AUR-03191,No,9.33,17,Basic,Debit Card,Yes,213.51
+AUR-03192,No,10.22,46,Basic,PayPal,Yes,157.87
+AUR-03193,No,12.63,49,Plus,Gift Card,Yes,449.64
+AUR-03194,No,12.12,66,Plus,Debit Card,Yes,788.24
+AUR-03195,Yes,14.75,2,Plus,Gift Card,Yes,80.58
+AUR-03196,Yes,14.81,30,Plus,PayPal,Yes,268.39
+AUR-03197,No,13.55,13,Plus,Debit Card,Yes,222.35
+AUR-03198,No,10.03,41,Basic,Debit Card,No,412.96
+AUR-03199,Yes,8.85,36,Basic,Credit Card,Yes,590.25
+AUR-03200,No,18.51,34,Premium,Credit Card,Yes,284.35
+AUR-03201,No,14.34,71,Plus,Credit Card,No,670.11
+AUR-03202,No,15.0,38,Premium,Credit Card,Yes,443.1
+AUR-03203,No,17.51,30,Premium,Credit Card,Yes,280.07
+AUR-03204,No,14.22,4,Plus,Debit Card,Yes,8.9
+AUR-03205,No,19.89,21,Premium,Debit Card,Yes,494.5
+AUR-03206,No,14.71,65,Plus,Debit Card,Yes,1099.42
+AUR-03207,Yes,9.87,32,Basic,PayPal,Yes,438.16
+AUR-03208,Yes,9.86,66,Basic,Gift Card,Yes,747.73
+AUR-03209,No,8.9,38,Basic,PayPal,Yes,315.7
+AUR-03210,No,8.3,40,Basic,Debit Card,No,275.53
+AUR-03211,No,8.35,31,Basic,Credit Card,No,544.41
+AUR-03212,No,14.72,40,Plus,PayPal,Yes,914.39
+AUR-03213,No,18.92,4,Premium,Credit Card,No,125.28
+AUR-03214,Yes,11.0,4,Plus,Credit Card,No,66.89
+AUR-03215,Yes,9.83,34,Basic,Credit Card,No,489.97
+AUR-03216,No,13.7,43,Plus,Debit Card,Yes,828.86
+AUR-03217,Yes,8.95,40,Basic,Debit Card,Yes,217.01
+AUR-03218,No,7.94,31,Basic,Credit Card,Yes,295.21
+AUR-03219,No,7.31,21,Basic,PayPal,No,210.1
+AUR-03220,No,9.82,51,Basic,Credit Card,Yes,613.08
+AUR-03221,Yes,8.44,44,Basic,Credit Card,No,592.94
+AUR-03222,No,19.66,3,Premium,Credit Card,Yes,117.97
+AUR-03223,No,14.61,33,Plus,Credit Card,Yes,865.27
+AUR-03224,No,13.5,51,Plus,PayPal,Yes,472.23
+AUR-03225,No,9.32,57,Basic,Credit Card,No,780.59
+AUR-03226,No,18.98,20,Premium,Credit Card,Yes,489.42
+AUR-03227,No,14.03,67,Plus,Credit Card,Yes,1447.82
+AUR-03228,No,10.23,47,Basic,PayPal,No,543.73
+AUR-03229,No,14.89,31,Plus,Gift Card,Yes,674.39
+AUR-03230,No,14.09,45,Plus,Debit Card,Yes,428.43
+AUR-03231,No,15.8,63,Plus,Debit Card,Yes,1139.13
+AUR-03232,Yes,7.68,16,Basic,PayPal,No,195.19
+AUR-03233,Yes,15.34,10,Plus,Credit Card,Yes,447.45
+AUR-03234,No,8.94,32,Basic,Credit Card,Yes,323.67
+AUR-03235,Yes,8.82,6,Basic,Debit Card,Yes,317.88
+AUR-03236,No,9.37,61,Basic,Credit Card,Yes,652.48
+AUR-03237,No,21.85,70,Premium,Debit Card,Yes,2136.59
+AUR-03238,No,10.23,44,Basic,Debit Card,Yes,389.3
+AUR-03239,No,7.66,71,Basic,Credit Card,No,1071.52
+AUR-03240,Yes,9.56,5,Basic,Debit Card,Yes,122.67
+AUR-03241,No,17.05,46,Premium,Credit Card,No,633.01
+AUR-03242,No,13.85,32,Plus,Credit Card,No,667.39
+AUR-03243,No,18.63,20,Premium,PayPal,Yes,271.97
+AUR-03244,Yes,10.02,22,Basic,PayPal,Yes,268.29
+AUR-03245,Yes,8.8,39,Basic,Credit Card,Yes,228.79
+AUR-03246,No,13.75,46,Plus,Credit Card,Yes,876.05
+AUR-03247,Yes,8.85,11,Basic,Credit Card,Yes,113.58
+AUR-03248,No,17.29,44,Premium,Credit Card,Yes,704.7
+AUR-03249,No,19.52,67,Premium,Credit Card,Yes,797.75
+AUR-03250,No,11.0,0,Plus,Credit Card,Yes,42.28
+AUR-03251,No,17.89,64,Premium,PayPal,Yes,1128.7
+AUR-03252,Yes,13.6,44,Plus,PayPal,Yes,471.89
+AUR-03253,Yes,9.41,24,Basic,PayPal,Yes,302.96
+AUR-03254,No,12.37,53,Plus,Debit Card,Yes,624.46
+AUR-03255,No,9.33,45,Basic,PayPal,Yes,412.31
+AUR-03256,No,20.74,56,Premium,PayPal,Yes,695.75
+AUR-03257,No,9.57,5,Basic,PayPal,Yes,124.98
+AUR-03258,No,9.55,4,Basic,PayPal,Yes,19.82
+AUR-03259,No,14.26,46,Plus,PayPal,Yes,719.28
+AUR-03260,No,8.01,22,Basic,PayPal,Yes,216.17
+AUR-03261,No,9.98,17,Basic,Debit Card,No,296.19
+AUR-03262,No,14.17,30,Plus,Credit Card,Yes,599.32
+AUR-03263,Yes,10.16,52,Basic,Credit Card,Yes,589.95
+AUR-03264,No,14.83,13,Plus,Credit Card,Yes,338.39
+AUR-03265,Yes,9.18,71,Basic,Credit Card,No,708.44
+AUR-03266,Yes,7.5,30,Basic,Credit Card,No,283.16
+AUR-03267,Yes,8.88,10,Basic,Credit Card,Yes,234.1
+AUR-03268,No,15.67,5,Plus,Credit Card,Yes,200.62
+AUR-03269,No,17.14,62,Premium,Gift Card,Yes,1165.85
+AUR-03270,Yes,9.18,8,Basic,Credit Card,No,121.45
+AUR-03271,No,20.24,30,Premium,Credit Card,Yes,866.2
+AUR-03272,No,13.96,48,Plus,Credit Card,No,597.15
+AUR-03273,No,16.73,37,Plus,Credit Card,Yes,413.65
+AUR-03274,No,14.27,19,Plus,Debit Card,Yes,114.57
+AUR-03275,No,12.42,7,Plus,Debit Card,Yes,58.0
+AUR-03276,No,18.94,51,Premium,Credit Card,Yes,1005.26
+AUR-03277,No,13.32,35,Plus,Debit Card,Yes,289.66
+AUR-03278,No,13.54,3,Plus,Credit Card,No,31.2
+AUR-03279,Yes,7.85,13,Basic,Debit Card,Yes,80.72
+AUR-03280,Yes,8.63,41,Basic,PayPal,Yes,408.18
+AUR-03281,Yes,14.7,12,Plus,PayPal,Yes,279.77
+AUR-03282,Yes,7.58,28,Basic,Credit Card,No,542.29
+AUR-03283,Yes,9.6,9,Basic,PayPal,No,98.25
+AUR-03284,Yes,9.16,58,Basic,PayPal,Yes,614.39
+AUR-03285,No,7.34,46,Basic,PayPal,Yes,1064.36
+AUR-03286,No,12.85,57,Plus,Credit Card,No,438.44
+AUR-03287,No,13.63,3,Plus,Debit Card,Yes,176.65
+AUR-03288,No,13.8,27,Plus,Credit Card,No,636.26
+AUR-03289,No,9.34,19,Basic,Credit Card,No,302.6
+AUR-03290,Yes,13.45,45,Plus,Debit Card,Yes,733.76
+AUR-03291,No,8.93,59,Basic,Credit Card,Yes,745.28
+AUR-03292,No,14.96,16,Plus,Credit Card,No,475.22
+AUR-03293,No,14.76,56,Plus,PayPal,Yes,1074.96
+AUR-03294,Yes,15.39,42,Plus,Debit Card,Yes,827.95
+AUR-03295,No,13.59,60,Plus,Gift Card,No,550.55
+AUR-03296,No,17.94,5,Premium,PayPal,Yes,289.23
+AUR-03297,No,15.43,72,Plus,PayPal,Yes,2199.63
+AUR-03298,No,12.35,31,Plus,PayPal,Yes,610.36
+AUR-03299,No,12.32,20,Plus,Credit Card,Yes,319.17
+AUR-03300,Yes,9.51,13,Basic,Credit Card,Yes,308.21
+AUR-03301,No,18.86,71,Premium,PayPal,No,1515.87
+AUR-03302,Yes,8.6,64,Basic,Credit Card,Yes,821.42
+AUR-03303,Yes,8.19,9,Basic,Credit Card,No,224.21
+AUR-03304,No,18.41,32,Premium,Debit Card,No,590.65
+AUR-03305,No,12.53,53,Plus,Credit Card,Yes,1267.05
+AUR-03306,Yes,8.22,43,Basic,Credit Card,No,216.44
+AUR-03307,No,8.45,13,Basic,Debit Card,No,93.4
+AUR-03308,Yes,9.01,26,Basic,Credit Card,Yes,146.79
+AUR-03309,No,14.0,26,Plus,Debit Card,Yes,314.27
+AUR-03310,No,9.14,21,Basic,Credit Card,Yes,86.7
+AUR-03311,No,18.56,70,Premium,Debit Card,Yes,1383.93
+AUR-03312,No,17.66,14,Premium,Credit Card,Yes,124.66
+AUR-03313,No,15.43,51,Plus,Debit Card,Yes,481.24
+AUR-03314,No,13.27,66,Plus,Credit Card,No,364.31
+AUR-03315,No,8.8,58,Basic,Credit Card,Yes,296.72
+AUR-03316,Yes,8.57,58,Basic,PayPal,Yes,322.24
+AUR-03317,No,13.42,11,Plus,Credit Card,No,376.28
+AUR-03318,Yes,8.64,9,Basic,PayPal,Yes,69.74
+AUR-03319,No,11.5,57,Basic,Credit Card,Yes,1509.07
+AUR-03320,Yes,8.22,54,Basic,Credit Card,Yes,345.77
+AUR-03321,No,8.43,54,Basic,Credit Card,Yes,740.84
+AUR-03322,Yes,13.73,30,Plus,PayPal,Yes,397.53
+AUR-03323,Yes,14.68,38,Plus,Credit Card,No,400.23
+AUR-03324,Yes,16.87,1,Premium,Credit Card,Yes,176.9
+AUR-03325,No,13.42,21,Plus,Debit Card,Yes,302.39
+AUR-03326,No,17.45,38,Premium,Credit Card,Yes,482.69
+AUR-03327,No,13.35,9,Plus,PayPal,Yes,181.15
+AUR-03328,No,15.3,9,Premium,Gift Card,Yes,493.51
+AUR-03329,Yes,12.38,3,Plus,Debit Card,Yes,91.7
+AUR-03330,Yes,12.0,15,Basic,Debit Card,No,266.35
+AUR-03331,No,19.34,72,Premium,Credit Card,No,1742.08
+AUR-03332,No,9.41,50,Basic,Gift Card,Yes,539.24
+AUR-03333,No,7.61,69,Basic,Debit Card,Yes,978.31
+AUR-03334,No,9.83,18,Basic,Credit Card,Yes,225.18
+AUR-03335,No,8.08,43,Basic,Gift Card,Yes,219.86
+AUR-03336,Yes,9.9,65,Basic,Gift Card,Yes,548.21
+AUR-03337,Yes,13.3,25,Plus,Credit Card,Yes,544.94
+AUR-03338,No,16.01,47,Premium,Credit Card,Yes,865.4
+AUR-03339,No,8.78,50,Basic,Debit Card,Yes,821.46
+AUR-03340,No,15.4,60,Plus,PayPal,Yes,1154.13
+AUR-03341,No,8.55,70,Basic,Debit Card,No,1828.71
+AUR-03342,No,17.64,44,Premium,Credit Card,Yes,784.9
+AUR-03343,Yes,10.6,42,Basic,Credit Card,Yes,421.32
+AUR-03344,No,9.56,63,Basic,Credit Card,Yes,322.26
+AUR-03345,No,14.1,49,Plus,Credit Card,No,569.65
+AUR-03346,Yes,13.1,26,Plus,PayPal,Yes,251.95
+AUR-03347,No,19.03,46,Premium,Credit Card,Yes,1774.07
+AUR-03348,No,15.47,40,Plus,Credit Card,Yes,676.54
+AUR-03349,No,13.29,16,Plus,PayPal,Yes,236.67
+AUR-03350,No,15.69,37,Plus,Credit Card,No,349.73
+AUR-03351,Yes,9.96,45,Basic,Credit Card,Yes,472.17
+AUR-03352,No,9.42,65,Basic,PayPal,Yes,260.61
+AUR-03353,Yes,8.55,42,Basic,Credit Card,Yes,307.21
+AUR-03354,No,9.6,12,Basic,PayPal,Yes,181.18
+AUR-03355,No,15.67,72,Plus,Credit Card,Yes,2398.74
+AUR-03356,No,10.2,42,Basic,Credit Card,Yes,573.05
+AUR-03357,Yes,14.06,20,Plus,Debit Card,Yes,364.95
+AUR-03358,No,12.19,55,Plus,Credit Card,No,564.55
+AUR-03359,No,16.74,28,Plus,Debit Card,Yes,507.61
+AUR-03360,No,14.45,27,Plus,Credit Card,Yes,1096.3
+AUR-03361,Yes,9.12,61,Basic,Debit Card,No,356.7
+AUR-03362,No,10.79,63,Basic,Credit Card,Yes,554.56
+AUR-03363,Yes,13.6,38,Plus,PayPal,Yes,485.91
+AUR-03364,No,15.14,27,Plus,Debit Card,Yes,544.83
+AUR-03365,Yes,9.84,63,Basic,Debit Card,Yes,885.29
+AUR-03366,Yes,9.2,12,Basic,Credit Card,No,171.36
+AUR-03367,Yes,14.83,54,Plus,Debit Card,Yes,840.29
+AUR-03368,Yes,15.56,42,Plus,Debit Card,No,504.75
+AUR-03369,No,9.24,62,Basic,Credit Card,Yes,1369.22
+AUR-03370,No,13.2,30,Plus,Debit Card,Yes,749.29
+AUR-03371,No,19.33,60,Premium,Credit Card,Yes,1591.47
+AUR-03372,Yes,9.13,1,Basic,Credit Card,Yes,208.54
+AUR-03373,No,15.15,55,Premium,PayPal,Yes,843.29
+AUR-03374,No,7.74,5,Basic,Credit Card,No,83.09
+AUR-03375,No,14.37,46,Plus,Credit Card,Yes,1075.84
+AUR-03376,No,12.57,14,Plus,Debit Card,No,124.0
+AUR-03377,No,8.9,70,Basic,PayPal,Yes,1627.19
+AUR-03378,No,17.84,56,Premium,Credit Card,Yes,638.15
+AUR-03379,Yes,14.79,7,Plus,Credit Card,Yes,211.09
+AUR-03380,No,18.73,65,Premium,Credit Card,Yes,2811.67
+AUR-03381,Yes,9.21,18,Basic,Debit Card,Yes,124.33
+AUR-03382,No,18.07,39,Premium,Debit Card,No,440.01
+AUR-03383,No,20.14,6,Premium,Debit Card,Yes,257.61
+AUR-03384,No,13.96,7,Plus,PayPal,Yes,242.72
+AUR-03385,Yes,8.57,17,Basic,PayPal,Yes,138.53
+AUR-03386,No,14.33,39,Plus,Credit Card,Yes,446.21
+AUR-03387,No,13.81,39,Plus,Credit Card,Yes,1140.22
+AUR-03388,No,16.68,62,Premium,Credit Card,Yes,2922.72
+AUR-03389,No,13.69,12,Plus,Credit Card,Yes,141.86
+AUR-03390,No,9.33,54,Basic,Credit Card,No,702.39
+AUR-03391,Yes,9.01,0,Basic,PayPal,Yes,97.48
+AUR-03392,No,12.95,21,Plus,Credit Card,Yes,270.62
+AUR-03393,No,15.0,12,Premium,Credit Card,Yes,160.88
+AUR-03394,No,9.76,9,Basic,Debit Card,Yes,137.78
+AUR-03395,No,14.94,42,Plus,Gift Card,No,339.76
+AUR-03396,No,19.29,65,Premium,Credit Card,Yes,1883.11
+AUR-03397,No,9.65,48,Basic,PayPal,Yes,559.55
+AUR-03398,Yes,9.16,62,Basic,PayPal,No,1335.15
+AUR-03399,No,15.78,43,Plus,Credit Card,Yes,826.45
+AUR-03400,No,13.32,3,Plus,Debit Card,Yes,49.9
+AUR-03401,Yes,7.62,25,Basic,Credit Card,Yes,469.23
+AUR-03402,No,17.13,60,Premium,Credit Card,No,1057.15
+AUR-03403,No,14.65,3,Plus,Credit Card,No,116.29
+AUR-03404,No,15.18,7,Premium,Credit Card,Yes,155.12
+AUR-03405,No,17.74,60,Premium,PayPal,Yes,880.53
+AUR-03406,No,19.96,4,Premium,PayPal,Yes,101.88
+AUR-03407,No,14.51,70,Plus,Credit Card,No,1319.35
+AUR-03408,Yes,10.78,55,Basic,Debit Card,Yes,609.13
+AUR-03409,No,14.0,48,Plus,Credit Card,Yes,884.7
+AUR-03410,No,8.85,39,Basic,Credit Card,Yes,476.91
+AUR-03411,Yes,12.16,6,Plus,Debit Card,Yes,94.98
+AUR-03412,Yes,8.91,30,Basic,Credit Card,Yes,236.91
+AUR-03413,No,12.43,58,Plus,PayPal,Yes,406.07
+AUR-03414,Yes,8.65,65,Basic,Credit Card,No,393.1
+AUR-03415,No,8.5,32,Basic,PayPal,Yes,208.34
+AUR-03416,No,10.53,61,Basic,Credit Card,No,848.55
+AUR-03417,Yes,13.05,56,Plus,Credit Card,Yes,1748.23
+AUR-03418,No,15.97,4,Premium,PayPal,Yes,270.26
+AUR-03419,Yes,10.38,45,Basic,Debit Card,Yes,914.22
+AUR-03420,Yes,21.73,44,Premium,Credit Card,Yes,872.19
+AUR-03421,Yes,16.65,39,Premium,PayPal,Yes,602.58
+AUR-03422,No,9.43,56,Basic,Credit Card,Yes,550.5
+AUR-03423,No,11.42,64,Plus,Credit Card,Yes,938.5
+AUR-03424,No,15.68,40,Plus,Credit Card,Yes,509.56
+AUR-03425,No,8.88,23,Basic,Debit Card,No,256.47
+AUR-03426,No,14.43,71,Plus,Debit Card,Yes,1236.6
+AUR-03427,No,9.61,70,Basic,PayPal,Yes,592.25
+AUR-03428,No,18.13,50,Premium,Debit Card,Yes,764.25
+AUR-03429,No,16.04,46,Premium,Credit Card,Yes,467.46
+AUR-03430,No,18.06,7,Premium,Credit Card,No,199.23
+AUR-03431,No,13.95,29,Plus,Credit Card,Yes,656.2
+AUR-03432,No,11.36,14,Plus,PayPal,No,136.46
+AUR-03433,No,17.78,37,Premium,Credit Card,No,319.18
+AUR-03434,Yes,9.06,60,Basic,Debit Card,Yes,436.98
+AUR-03435,Yes,8.8,16,Basic,Debit Card,Yes,69.14
+AUR-03436,No,11.8,72,Plus,PayPal,Yes,3641.72
+AUR-03437,Yes,9.33,9,Basic,Credit Card,No,0.0
+AUR-03438,No,8.55,7,Basic,Credit Card,Yes,107.04
+AUR-03439,No,9.24,71,Basic,PayPal,Yes,1139.03
+AUR-03440,No,13.99,7,Plus,Debit Card,Yes,187.11
+AUR-03441,No,9.19,53,Basic,Debit Card,No,535.99
+AUR-03442,No,9.59,55,Basic,PayPal,Yes,1103.83
+AUR-03443,Yes,8.37,24,Basic,PayPal,Yes,89.55
+AUR-03444,No,9.7,4,Basic,Credit Card,Yes,0.0
+AUR-03445,No,15.61,22,Premium,PayPal,No,453.66
+AUR-03446,Yes,8.08,5,Basic,Credit Card,No,0.0
+AUR-03447,No,16.35,49,Plus,Gift Card,Yes,414.87
+AUR-03448,Yes,13.15,64,Plus,Credit Card,Yes,1318.92
+AUR-03449,No,8.42,72,Basic,Credit Card,Yes,570.47
+AUR-03450,No,22.51,58,Premium,Credit Card,Yes,1525.04
+AUR-03451,No,15.03,56,Plus,PayPal,Yes,730.54
+AUR-03452,No,13.41,64,Plus,Gift Card,Yes,1063.87
+AUR-03453,Yes,8.46,56,Basic,Credit Card,No,475.5
+AUR-03454,Yes,7.92,47,Basic,Credit Card,Yes,611.69
+AUR-03455,No,17.2,72,Premium,Credit Card,Yes,1905.09
+AUR-03456,No,17.2,23,Premium,Credit Card,Yes,414.06
+AUR-03457,No,19.54,30,Premium,PayPal,Yes,329.58
+AUR-03458,No,20.89,66,Premium,Credit Card,Yes,1344.02
+AUR-03459,No,10.01,22,Basic,Gift Card,Yes,235.27
+AUR-03460,No,19.79,21,Premium,PayPal,Yes,261.74
+AUR-03461,No,14.06,11,Plus,Credit Card,Yes,97.6
+AUR-03462,No,16.07,20,Premium,Debit Card,No,345.72
+AUR-03463,Yes,8.02,43,Basic,Gift Card,No,346.03
+AUR-03464,Yes,8.29,64,Basic,PayPal,Yes,378.32
+AUR-03465,No,15.45,9,Plus,PayPal,Yes,288.44
+AUR-03466,No,18.33,49,Premium,Credit Card,Yes,1333.29
+AUR-03467,No,13.57,55,Plus,Credit Card,No,1439.61
+AUR-03468,No,10.25,65,Basic,PayPal,No,1362.83
+AUR-03469,No,8.42,54,Basic,Credit Card,Yes,269.35
+AUR-03470,Yes,15.0,11,Premium,Debit Card,Yes,67.97
+AUR-03471,No,13.16,35,Plus,PayPal,Yes,313.49
+AUR-03472,Yes,15.69,69,Plus,Credit Card,Yes,1559.73
+AUR-03473,No,14.04,66,Plus,Credit Card,Yes,1084.48
+AUR-03474,No,15.3,44,Plus,Credit Card,Yes,1293.31
+AUR-03475,No,13.17,70,Plus,PayPal,Yes,988.07
+AUR-03476,Yes,15.68,48,Plus,Credit Card,Yes,763.66
+AUR-03477,No,19.43,4,Premium,Credit Card,Yes,268.71
+AUR-03478,No,15.37,66,Premium,Gift Card,Yes,985.16
+AUR-03479,No,16.7,12,Premium,Debit Card,No,91.28
+AUR-03480,No,14.32,27,Plus,Debit Card,Yes,507.56
+AUR-03481,No,14.51,17,Plus,PayPal,Yes,301.36
+AUR-03482,No,14.15,52,Plus,Credit Card,No,1362.67
+AUR-03483,Yes,17.98,2,Premium,Gift Card,Yes,0.0
+AUR-03484,No,13.38,46,Plus,PayPal,Yes,1031.21
+AUR-03485,No,13.99,63,Plus,Credit Card,Yes,761.86
+AUR-03486,No,13.46,57,Plus,Credit Card,Yes,314.34
+AUR-03487,No,15.14,22,Plus,Credit Card,No,102.09
+AUR-03488,No,13.75,65,Plus,Debit Card,Yes,989.37
+AUR-03489,Yes,8.8,26,Basic,Debit Card,Yes,115.24
+AUR-03490,No,12.19,49,Plus,Debit Card,Yes,793.22
+AUR-03491,No,11.97,36,Plus,Gift Card,No,430.51
+AUR-03492,Yes,7.98,4,Basic,Debit Card,No,137.3
+AUR-03493,No,18.7,0,Premium,PayPal,Yes,61.81
+AUR-03494,Yes,11.92,13,Plus,Debit Card,Yes,228.36
+AUR-03495,Yes,9.82,68,Basic,Debit Card,Yes,1052.07
+AUR-03496,No,17.57,69,Premium,Credit Card,Yes,1498.99
+AUR-03497,No,14.73,29,Plus,Debit Card,Yes,448.39
+AUR-03498,No,12.61,70,Plus,Debit Card,Yes,1611.78
+AUR-03499,Yes,14.35,3,Plus,Credit Card,Yes,117.14
+AUR-03500,No,20.42,70,Premium,PayPal,No,1126.53
+AUR-03501,No,14.15,16,Plus,Debit Card,Yes,263.05
+AUR-03502,Yes,13.91,2,Plus,Credit Card,Yes,65.49
+AUR-03503,No,9.84,55,Basic,PayPal,No,869.4
+AUR-03504,No,14.52,27,Plus,Credit Card,Yes,701.71
+AUR-03505,No,14.18,21,Plus,Debit Card,Yes,447.17
+AUR-03506,No,11.0,55,Plus,Debit Card,Yes,443.34
+AUR-03507,No,13.6,24,Plus,Credit Card,Yes,584.15
+AUR-03508,No,19.15,54,Premium,Credit Card,Yes,1058.56
+AUR-03509,No,14.5,14,Plus,Credit Card,Yes,310.22
+AUR-03510,Yes,9.73,6,Basic,Credit Card,Yes,47.61
+AUR-03511,No,19.02,23,Premium,Debit Card,Yes,556.88
+AUR-03512,No,15.96,44,Plus,Credit Card,No,668.48
+AUR-03513,No,16.02,16,Premium,Gift Card,Yes,224.05
+AUR-03514,No,20.71,10,Premium,Credit Card,Yes,103.46
+AUR-03515,No,16.71,54,Premium,Credit Card,Yes,1509.41
+AUR-03516,No,16.01,36,Plus,PayPal,Yes,673.53
+AUR-03517,Yes,12.35,31,Plus,Debit Card,Yes,461.12
+AUR-03518,Yes,9.53,17,Basic,Debit Card,Yes,216.94
+AUR-03519,No,13.57,1,Plus,Debit Card,Yes,94.37
+AUR-03520,No,12.11,3,Plus,PayPal,Yes,111.1
+AUR-03521,No,15.81,49,Plus,Credit Card,Yes,605.5
+AUR-03522,Yes,20.77,5,Premium,Credit Card,No,43.89
+AUR-03523,Yes,9.06,18,Basic,Gift Card,Yes,202.64
+AUR-03524,No,15.21,66,Plus,Credit Card,No,839.33
+AUR-03525,No,14.41,25,Plus,PayPal,Yes,443.19
+AUR-03526,Yes,14.19,54,Plus,Debit Card,Yes,1210.4
+AUR-03527,Yes,8.47,25,Basic,Debit Card,Yes,155.31
+AUR-03528,Yes,8.18,68,Basic,PayPal,No,843.54
+AUR-03529,No,21.23,59,Premium,Gift Card,Yes,1478.39
+AUR-03530,No,15.65,34,Plus,Credit Card,No,389.41
+AUR-03531,No,10.28,49,Basic,Debit Card,Yes,539.76
+AUR-03532,No,9.75,30,Basic,PayPal,Yes,373.25
+AUR-03533,No,15.44,68,Plus,Credit Card,No,1220.84
+AUR-03534,No,8.3,26,Basic,PayPal,No,408.16
+AUR-03535,No,15.38,61,Plus,Debit Card,No,1147.03
+AUR-03536,No,18.81,44,Premium,Credit Card,Yes,757.45
+AUR-03537,No,9.03,46,Basic,PayPal,No,577.77
+AUR-03538,No,14.54,25,Plus,PayPal,Yes,409.02
+AUR-03539,Yes,8.69,60,Basic,Credit Card,No,497.34
+AUR-03540,Yes,7.86,54,Basic,PayPal,No,144.11
+AUR-03541,No,19.64,59,Premium,Credit Card,Yes,2005.91
+AUR-03542,No,13.57,58,Plus,Credit Card,Yes,828.78
+AUR-03543,No,15.0,11,Premium,Credit Card,Yes,176.2
+AUR-03544,Yes,9.17,63,Basic,PayPal,No,1079.11
+AUR-03545,Yes,8.57,61,Basic,Credit Card,No,517.31
+AUR-03546,Yes,14.91,17,Plus,Credit Card,No,321.97
+AUR-03547,No,14.97,71,Plus,PayPal,No,1022.91
+AUR-03548,Yes,17.68,38,Premium,Credit Card,Yes,771.28
+AUR-03549,Yes,8.04,23,Basic,Credit Card,No,169.73
+AUR-03550,No,19.75,16,Premium,Credit Card,Yes,369.65
+AUR-03551,No,19.47,26,Premium,PayPal,Yes,1144.34
+AUR-03552,No,13.76,2,Plus,Debit Card,Yes,0.0
+AUR-03553,Yes,7.51,50,Basic,PayPal,Yes,530.0
+AUR-03554,No,13.57,51,Plus,Credit Card,Yes,690.72
+AUR-03555,No,7.43,48,Basic,Debit Card,No,456.47
+AUR-03556,No,16.04,40,Premium,PayPal,Yes,909.07
+AUR-03557,No,15.35,26,Plus,Credit Card,Yes,228.21
+AUR-03558,No,17.52,52,Premium,Credit Card,Yes,656.07
+AUR-03559,No,15.99,63,Plus,Credit Card,No,921.41
+AUR-03560,No,13.09,6,Plus,Credit Card,Yes,39.19
+AUR-03561,No,13.67,27,Plus,Credit Card,Yes,232.03
+AUR-03562,No,14.41,72,Plus,Gift Card,Yes,1328.27
+AUR-03563,No,15.0,62,Premium,Debit Card,Yes,937.15
+AUR-03564,No,8.62,72,Basic,Debit Card,Yes,833.82
+AUR-03565,No,18.65,13,Premium,Credit Card,Yes,265.25
+AUR-03566,No,15.0,33,Premium,Debit Card,Yes,533.03
+AUR-03567,No,19.8,9,Premium,Debit Card,Yes,89.3
+AUR-03568,No,14.57,63,Plus,PayPal,Yes,782.48
+AUR-03569,No,19.88,37,Premium,Credit Card,Yes,770.61
+AUR-03570,No,8.9,17,Basic,PayPal,Yes,189.09
+AUR-03571,Yes,13.36,6,Plus,Credit Card,Yes,170.44
+AUR-03572,No,8.11,53,Basic,Debit Card,Yes,218.17
+AUR-03573,Yes,9.64,59,Basic,PayPal,Yes,308.4
+AUR-03574,No,16.25,64,Plus,Debit Card,Yes,1449.69
+AUR-03575,No,8.92,70,Basic,PayPal,Yes,1015.28
+AUR-03576,No,14.5,59,Plus,PayPal,Yes,1753.53
+AUR-03577,No,17.23,57,Premium,PayPal,Yes,821.72
+AUR-03578,No,9.57,59,Basic,Credit Card,Yes,543.82
+AUR-03579,No,14.63,72,Plus,Credit Card,Yes,1276.28
+AUR-03580,No,8.81,33,Basic,Debit Card,Yes,667.72
+AUR-03581,No,16.1,55,Plus,Gift Card,Yes,524.66
+AUR-03582,No,18.82,59,Premium,Debit Card,No,1308.55
+AUR-03583,No,13.45,8,Plus,Credit Card,Yes,285.83
+AUR-03584,No,13.88,50,Plus,Debit Card,Yes,610.67
+AUR-03585,No,17.64,24,Premium,Credit Card,Yes,482.31
+AUR-03586,No,18.38,9,Premium,Credit Card,No,222.61
+AUR-03587,No,12.49,12,Plus,Credit Card,Yes,262.59
+AUR-03588,Yes,13.78,8,Plus,Credit Card,Yes,91.18
+AUR-03589,No,12.2,65,Plus,PayPal,No,809.23
+AUR-03590,Yes,8.2,56,Basic,Credit Card,Yes,513.93
+AUR-03591,No,16.15,7,Premium,Credit Card,Yes,132.04
+AUR-03592,Yes,9.1,45,Basic,Debit Card,Yes,572.96
+AUR-03593,No,18.99,48,Premium,Credit Card,Yes,943.78
+AUR-03594,Yes,7.73,37,Basic,Credit Card,No,289.93
+AUR-03595,No,9.53,44,Basic,Credit Card,Yes,694.0
+AUR-03596,No,15.36,66,Premium,Credit Card,Yes,1007.63
+AUR-03597,No,15.06,37,Premium,Debit Card,Yes,201.18
+AUR-03598,No,17.79,48,Premium,Credit Card,No,1918.27
+AUR-03599,No,17.65,41,Premium,Credit Card,Yes,1482.07
+AUR-03600,Yes,14.89,28,Plus,Credit Card,Yes,640.01
+AUR-03601,Yes,8.05,65,Basic,Credit Card,No,632.98
+AUR-03602,Yes,9.91,30,Basic,Credit Card,Yes,245.51
+AUR-03603,No,14.49,58,Plus,Credit Card,No,488.98
+AUR-03604,Yes,8.65,44,Basic,Credit Card,Yes,184.04
+AUR-03605,No,18.43,50,Premium,Credit Card,Yes,2769.57
+AUR-03606,No,10.05,55,Basic,PayPal,No,443.37
+AUR-03607,Yes,7.87,53,Basic,Credit Card,No,432.25
+AUR-03608,Yes,8.31,41,Basic,Credit Card,Yes,473.48
+AUR-03609,Yes,9.37,44,Basic,Debit Card,Yes,599.3
+AUR-03610,Yes,10.16,37,Basic,Credit Card,No,470.07
+AUR-03611,No,13.66,24,Plus,PayPal,Yes,209.9
+AUR-03612,No,10.66,53,Basic,Credit Card,Yes,452.35
+AUR-03613,No,13.87,64,Plus,Debit Card,Yes,1389.68
+AUR-03614,No,16.95,51,Premium,PayPal,No,1147.45
+AUR-03615,Yes,14.9,56,Plus,Credit Card,Yes,1193.99
+AUR-03616,No,12.63,60,Plus,Credit Card,No,432.29
+AUR-03617,No,9.03,26,Basic,Debit Card,Yes,380.56
+AUR-03618,No,10.83,4,Basic,Gift Card,No,53.81
+AUR-03619,Yes,8.7,24,Basic,Credit Card,Yes,246.72
+AUR-03620,No,21.01,55,Premium,Debit Card,Yes,2778.61
+AUR-03621,Yes,14.24,59,Plus,Credit Card,Yes,382.17
+AUR-03622,Yes,10.09,37,Basic,Debit Card,Yes,409.71
+AUR-03623,No,14.83,56,Plus,Credit Card,Yes,1490.75
+AUR-03624,No,18.25,5,Premium,Debit Card,Yes,258.68
+AUR-03625,No,11.85,47,Plus,Credit Card,Yes,277.66
+AUR-03626,No,14.81,49,Plus,Debit Card,Yes,1375.77
+AUR-03627,No,18.36,37,Premium,Credit Card,Yes,320.6
+AUR-03628,No,11.98,52,Plus,Debit Card,Yes,372.73
+AUR-03629,No,13.85,35,Plus,PayPal,Yes,790.32
+AUR-03630,Yes,8.05,38,Basic,PayPal,Yes,179.95
+AUR-03631,Yes,9.41,44,Basic,Gift Card,Yes,311.38
+AUR-03632,No,18.31,57,Premium,Debit Card,Yes,783.39
+AUR-03633,No,12.59,18,Plus,Debit Card,No,263.37
+AUR-03634,Yes,15.71,21,Plus,Credit Card,No,616.96
+AUR-03635,No,12.6,30,Plus,PayPal,Yes,142.21
+AUR-03636,Yes,6.65,14,Basic,Debit Card,Yes,217.08
+AUR-03637,No,19.59,24,Premium,Credit Card,Yes,339.98
+AUR-03638,Yes,7.87,25,Basic,Credit Card,No,595.2
+AUR-03639,No,18.91,22,Premium,PayPal,Yes,359.3
+AUR-03640,No,12.01,29,Plus,PayPal,No,490.22
+AUR-03641,No,9.46,36,Basic,PayPal,No,458.99
+AUR-03642,Yes,7.68,50,Basic,Debit Card,Yes,501.53
+AUR-03643,No,18.7,22,Premium,Credit Card,Yes,399.61
+AUR-03644,No,9.42,61,Basic,PayPal,Yes,317.06
+AUR-03645,Yes,9.9,34,Basic,Debit Card,Yes,662.23
+AUR-03646,No,14.15,52,Plus,Debit Card,Yes,582.85
+AUR-03647,No,8.49,8,Basic,Debit Card,Yes,162.55
+AUR-03648,No,13.49,12,Plus,Debit Card,Yes,193.74
+AUR-03649,No,8.02,33,Basic,PayPal,No,419.34
+AUR-03650,No,19.17,26,Premium,Debit Card,Yes,1525.76
+AUR-03651,No,8.52,36,Basic,PayPal,Yes,178.0
+AUR-03652,Yes,8.02,11,Basic,PayPal,No,114.76
+AUR-03653,Yes,8.89,34,Basic,Credit Card,Yes,562.66
+AUR-03654,Yes,9.09,50,Basic,Credit Card,Yes,856.81
+AUR-03655,Yes,8.68,53,Basic,Debit Card,Yes,401.17
+AUR-03656,No,10.66,18,Basic,Debit Card,Yes,240.46
+AUR-03657,No,8.27,25,Basic,Debit Card,Yes,417.38
+AUR-03658,No,12.18,38,Plus,PayPal,No,252.63
+AUR-03659,No,15.07,37,Premium,Credit Card,Yes,933.04
+AUR-03660,Yes,10.38,57,Basic,Credit Card,Yes,392.4
+AUR-03661,No,7.95,28,Basic,PayPal,No,426.06
+AUR-03662,No,15.13,48,Premium,PayPal,Yes,844.98
+AUR-03663,No,17.87,64,Premium,Credit Card,No,852.54
+AUR-03664,No,14.62,21,Plus,Credit Card,Yes,370.29
+AUR-03665,No,9.06,60,Basic,Credit Card,Yes,580.98
+AUR-03666,No,11.6,24,Plus,Debit Card,Yes,551.02
+AUR-03667,No,10.17,24,Basic,Debit Card,Yes,200.06
+AUR-03668,Yes,10.12,47,Basic,Credit Card,No,314.34
+AUR-03669,No,8.57,45,Basic,Credit Card,Yes,385.0
+AUR-03670,No,12.75,40,Plus,Debit Card,Yes,562.61
+AUR-03671,No,9.55,16,Basic,Debit Card,Yes,425.67
+AUR-03672,No,13.3,7,Plus,Debit Card,Yes,232.36
+AUR-03673,No,9.41,66,Basic,Credit Card,Yes,749.67
+AUR-03674,No,8.45,63,Basic,Credit Card,Yes,359.76
+AUR-03675,No,17.67,64,Premium,Credit Card,Yes,1127.39
+AUR-03676,No,18.92,37,Premium,Gift Card,No,522.64
+AUR-03677,No,9.61,64,Basic,Credit Card,Yes,628.91
+AUR-03678,Yes,14.95,34,Plus,Debit Card,Yes,258.38
+AUR-03679,Yes,10.85,5,Basic,Debit Card,Yes,212.33
+AUR-03680,Yes,9.46,14,Basic,PayPal,No,172.3
+AUR-03681,No,15.54,19,Plus,Credit Card,Yes,566.42
+AUR-03682,No,9.56,27,Basic,Credit Card,Yes,161.89
+AUR-03683,No,15.31,68,Plus,PayPal,Yes,1129.28
+AUR-03684,No,13.81,24,Plus,Credit Card,Yes,388.95
+AUR-03685,No,9.66,44,Basic,Debit Card,Yes,598.78
+AUR-03686,Yes,7.53,19,Basic,Credit Card,Yes,310.59
+AUR-03687,No,9.45,46,Basic,Gift Card,No,461.75
+AUR-03688,No,18.02,41,Premium,PayPal,Yes,381.28
+AUR-03689,No,11.08,10,Plus,Credit Card,No,91.79
+AUR-03690,Yes,14.46,33,Plus,PayPal,Yes,930.93
+AUR-03691,Yes,7.97,7,Basic,PayPal,Yes,42.66
+AUR-03692,No,15.75,64,Plus,Debit Card,Yes,1031.64
+AUR-03693,Yes,8.4,51,Basic,Credit Card,Yes,479.83
+AUR-03694,No,15.47,68,Plus,Credit Card,No,1653.69
+AUR-03695,No,14.55,63,Plus,Debit Card,Yes,1447.32
+AUR-03696,No,12.56,16,Plus,Credit Card,No,163.36
+AUR-03697,No,11.15,51,Basic,PayPal,Yes,465.78
+AUR-03698,Yes,8.74,7,Basic,Credit Card,Yes,76.2
+AUR-03699,No,8.25,70,Basic,Debit Card,Yes,644.6
+AUR-03700,No,13.36,57,Plus,Credit Card,Yes,574.9
+AUR-03701,No,18.92,49,Premium,Debit Card,Yes,530.79
+AUR-03702,No,10.14,72,Basic,Credit Card,No,609.14
+AUR-03703,No,16.31,61,Plus,Credit Card,Yes,738.5
+AUR-03704,No,12.29,63,Plus,Credit Card,Yes,663.66
+AUR-03705,Yes,8.04,7,Basic,Debit Card,No,90.06
+AUR-03706,No,8.54,1,Basic,Credit Card,Yes,19.0
+AUR-03707,No,10.24,70,Basic,PayPal,No,760.68
+AUR-03708,Yes,12.61,18,Plus,Credit Card,Yes,229.13
+AUR-03709,No,15.12,31,Plus,Debit Card,Yes,442.18
+AUR-03710,Yes,13.47,3,Plus,Debit Card,Yes,132.32
+AUR-03711,Yes,16.0,45,Premium,Credit Card,No,459.03
+AUR-03712,Yes,12.57,59,Plus,Credit Card,Yes,572.82
+AUR-03713,No,17.97,61,Premium,Credit Card,No,1138.67
+AUR-03714,No,15.82,42,Plus,Debit Card,Yes,734.04
+AUR-03715,No,15.84,48,Premium,Gift Card,No,858.4
+AUR-03716,No,18.61,37,Premium,Credit Card,No,541.51
+AUR-03717,No,14.54,32,Plus,PayPal,No,299.14
+AUR-03718,No,15.0,40,Premium,Debit Card,Yes,1105.65
+AUR-03719,No,18.55,68,Premium,Debit Card,Yes,883.63
+AUR-03720,No,13.53,18,Plus,Debit Card,No,316.58
+AUR-03721,Yes,12.62,34,Plus,Gift Card,Yes,482.74
+AUR-03722,No,16.45,43,Plus,Debit Card,Yes,1027.14
+AUR-03723,No,15.64,41,Premium,PayPal,Yes,790.27
+AUR-03724,No,13.96,2,Plus,Credit Card,Yes,140.06
+AUR-03725,No,17.38,20,Premium,PayPal,Yes,518.13
+AUR-03726,No,19.42,47,Premium,Gift Card,Yes,405.84
+AUR-03727,No,18.35,50,Premium,PayPal,Yes,861.22
+AUR-03728,Yes,9.03,53,Basic,Credit Card,Yes,116.88
+AUR-03729,No,15.67,72,Plus,PayPal,No,1308.75
+AUR-03730,No,15.06,49,Plus,Credit Card,Yes,694.25
+AUR-03731,No,15.36,42,Premium,Debit Card,No,675.65
+AUR-03732,No,16.91,24,Premium,Credit Card,Yes,828.22
+AUR-03733,No,13.36,27,Plus,Debit Card,Yes,371.89
+AUR-03734,Yes,13.37,60,Plus,Credit Card,Yes,614.9
+AUR-03735,No,7.43,34,Basic,Credit Card,Yes,144.11
+AUR-03736,No,15.59,52,Premium,Credit Card,Yes,884.74
+AUR-03737,No,9.53,9,Basic,Credit Card,Yes,285.28
+AUR-03738,No,15.73,9,Plus,Credit Card,Yes,281.99
+AUR-03739,No,15.28,15,Premium,PayPal,Yes,279.91
+AUR-03740,No,15.75,14,Plus,PayPal,Yes,279.74
+AUR-03741,No,8.59,44,Basic,PayPal,No,605.26
+AUR-03742,No,10.53,46,Basic,PayPal,Yes,556.83
+AUR-03743,No,18.18,40,Premium,Credit Card,Yes,720.64
+AUR-03744,No,11.74,21,Plus,Debit Card,Yes,333.01
+AUR-03745,Yes,8.38,42,Basic,Debit Card,Yes,488.11
+AUR-03746,No,14.65,8,Plus,Credit Card,Yes,366.84
+AUR-03747,No,10.04,34,Basic,Debit Card,Yes,1041.48
+AUR-03748,No,18.89,11,Premium,PayPal,No,215.15
+AUR-03749,Yes,10.77,5,Basic,Debit Card,Yes,7.13
+AUR-03750,Yes,8.14,12,Basic,PayPal,No,175.95
+AUR-03751,No,8.8,8,Basic,Credit Card,Yes,237.48
+AUR-03752,No,13.84,34,Plus,PayPal,No,739.42
+AUR-03753,No,12.75,39,Plus,Credit Card,Yes,542.27
+AUR-03754,No,14.3,44,Plus,PayPal,Yes,434.47
+AUR-03755,Yes,12.37,32,Plus,Credit Card,Yes,370.48
+AUR-03756,Yes,9.38,12,Basic,Debit Card,Yes,146.5
+AUR-03757,Yes,8.13,1,Basic,Debit Card,Yes,38.83
+AUR-03758,Yes,9.26,52,Basic,Credit Card,Yes,352.18
+AUR-03759,No,18.69,71,Premium,Credit Card,Yes,1212.52
+AUR-03760,No,8.77,20,Basic,Credit Card,No,90.1
+AUR-03761,No,18.95,14,Premium,Debit Card,Yes,196.65
+AUR-03762,Yes,8.74,22,Basic,PayPal,Yes,404.27
+AUR-03763,Yes,9.04,15,Basic,Credit Card,Yes,123.2
+AUR-03764,No,9.06,16,Basic,Debit Card,Yes,103.75
+AUR-03765,No,9.15,36,Basic,PayPal,Yes,227.34
+AUR-03766,No,17.97,57,Premium,Debit Card,No,1439.29
+AUR-03767,No,13.43,51,Plus,PayPal,No,514.82
+AUR-03768,Yes,8.39,70,Basic,Credit Card,Yes,838.67
+AUR-03769,No,13.03,26,Plus,Credit Card,Yes,365.83
+AUR-03770,No,13.39,35,Plus,Credit Card,No,340.16
+AUR-03771,No,17.55,27,Premium,Credit Card,Yes,493.48
+AUR-03772,No,16.27,3,Premium,Debit Card,Yes,70.29
+AUR-03773,Yes,13.9,28,Plus,PayPal,Yes,554.39
+AUR-03774,No,17.29,19,Premium,Credit Card,Yes,274.99
+AUR-03775,No,15.88,34,Premium,PayPal,No,337.81
+AUR-03776,No,12.77,11,Plus,Credit Card,No,157.42
+AUR-03777,No,15.88,54,Plus,Credit Card,No,675.44
+AUR-03778,Yes,8.43,61,Basic,PayPal,Yes,366.62
+AUR-03779,No,14.58,70,Plus,PayPal,Yes,668.16
+AUR-03780,No,16.64,6,Premium,Debit Card,Yes,184.96
+AUR-03781,Yes,8.87,8,Basic,Credit Card,Yes,138.22
+AUR-03782,No,18.13,70,Premium,Credit Card,Yes,1200.12
+AUR-03783,No,17.8,61,Premium,Credit Card,No,2485.46
+AUR-03784,Yes,8.95,42,Basic,PayPal,Yes,553.47
+AUR-03785,No,16.14,23,Plus,Credit Card,Yes,450.8
+AUR-03786,No,22.89,37,Premium,Debit Card,Yes,513.94
+AUR-03787,No,15.84,39,Premium,Credit Card,Yes,892.45
+AUR-03788,No,8.55,61,Basic,Debit Card,Yes,746.28
+AUR-03789,Yes,9.31,38,Basic,Credit Card,Yes,157.98
+AUR-03790,No,13.8,2,Plus,Debit Card,Yes,11.12
+AUR-03791,No,7.18,51,Basic,Debit Card,Yes,669.48
+AUR-03792,No,8.26,56,Basic,Gift Card,No,536.09
+AUR-03793,No,8.71,21,Basic,PayPal,Yes,350.78
+AUR-03794,No,8.13,8,Basic,Debit Card,No,53.01
+AUR-03795,No,13.33,10,Plus,Credit Card,Yes,83.59
+AUR-03796,No,16.1,61,Plus,PayPal,Yes,1203.18
+AUR-03797,Yes,13.3,32,Plus,PayPal,Yes,532.19
+AUR-03798,No,13.78,38,Plus,PayPal,No,586.96
+AUR-03799,No,14.85,70,Plus,Debit Card,Yes,1193.43
+AUR-03800,Yes,10.62,4,Basic,Credit Card,Yes,84.55
+AUR-03801,No,9.01,15,Basic,PayPal,No,143.76
+AUR-03802,No,9.17,60,Basic,Credit Card,No,583.4
+AUR-03803,Yes,8.51,39,Basic,Credit Card,Yes,305.65
+AUR-03804,No,8.97,1,Basic,Credit Card,No,58.33
+AUR-03805,No,7.77,51,Basic,Debit Card,Yes,409.57
+AUR-03806,No,8.82,10,Basic,Credit Card,Yes,108.14
+AUR-03807,No,12.5,57,Plus,Debit Card,Yes,475.2
+AUR-03808,No,14.84,58,Plus,Debit Card,No,1631.85
+AUR-03809,No,17.79,60,Premium,Debit Card,Yes,1375.23
+AUR-03810,No,15.71,33,Premium,Credit Card,No,374.31
+AUR-03811,No,14.69,19,Plus,PayPal,Yes,316.36
+AUR-03812,No,8.05,64,Basic,Credit Card,Yes,580.13
+AUR-03813,No,15.51,40,Plus,Credit Card,Yes,711.81
+AUR-03814,No,8.71,46,Basic,Debit Card,No,283.0
+AUR-03815,No,15.06,9,Plus,Credit Card,No,138.29
+AUR-03816,No,15.55,45,Plus,Debit Card,No,1343.26
+AUR-03817,Yes,13.86,42,Plus,Credit Card,Yes,329.37
+AUR-03818,Yes,6.43,21,Basic,PayPal,Yes,96.73
+AUR-03819,No,12.95,55,Plus,Credit Card,No,325.49
+AUR-03820,Yes,17.37,9,Premium,Gift Card,Yes,139.53
+AUR-03821,No,16.52,52,Plus,Debit Card,Yes,513.81
+AUR-03822,No,12.16,70,Plus,Credit Card,Yes,2368.23
+AUR-03823,Yes,12.28,41,Plus,Debit Card,Yes,240.44
+AUR-03824,No,7.86,7,Basic,Credit Card,Yes,59.13
+AUR-03825,No,14.67,40,Plus,Gift Card,Yes,1599.93
+AUR-03826,Yes,15.94,38,Plus,PayPal,Yes,983.9
+AUR-03827,Yes,10.45,40,Basic,Debit Card,No,223.79
+AUR-03828,Yes,9.82,19,Basic,Credit Card,No,230.98
+AUR-03829,No,17.43,45,Premium,Gift Card,Yes,980.97
+AUR-03830,No,14.22,19,Plus,Debit Card,No,108.14
+AUR-03831,No,15.19,40,Plus,Debit Card,Yes,921.55
+AUR-03832,No,11.6,43,Plus,Credit Card,Yes,187.09
+AUR-03833,No,13.39,47,Plus,Credit Card,No,405.53
+AUR-03834,Yes,11.74,58,Plus,PayPal,Yes,1047.47
+AUR-03835,No,10.31,64,Basic,Debit Card,No,1002.32
+AUR-03836,No,14.93,56,Plus,PayPal,Yes,1947.27
+AUR-03837,No,12.13,58,Plus,Debit Card,Yes,765.34
+AUR-03838,No,10.38,63,Basic,Debit Card,Yes,1221.11
+AUR-03839,No,19.34,17,Premium,Debit Card,No,389.09
+AUR-03840,Yes,9.66,21,Basic,PayPal,Yes,422.36
+AUR-03841,No,12.46,38,Plus,Credit Card,Yes,1012.79
+AUR-03842,No,14.61,33,Plus,PayPal,Yes,281.7
+AUR-03843,No,15.26,51,Plus,Credit Card,Yes,460.56
+AUR-03844,Yes,13.8,0,Plus,Debit Card,Yes,96.94
+AUR-03845,Yes,17.27,10,Premium,PayPal,No,219.74
+AUR-03846,No,14.67,54,Plus,PayPal,Yes,743.68
+AUR-03847,No,14.64,60,Plus,Credit Card,Yes,1355.75
+AUR-03848,No,13.73,22,Plus,PayPal,Yes,289.29
+AUR-03849,Yes,8.54,22,Basic,Credit Card,Yes,208.16
+AUR-03850,Yes,7.95,40,Basic,Credit Card,Yes,326.38
+AUR-03851,No,12.68,34,Plus,PayPal,No,771.62
+AUR-03852,No,10.14,12,Basic,PayPal,Yes,320.32
+AUR-03853,No,9.05,36,Basic,Credit Card,Yes,286.69
+AUR-03854,Yes,14.67,59,Plus,PayPal,Yes,922.59
+AUR-03855,No,14.73,53,Plus,Credit Card,No,838.12
+AUR-03856,Yes,11.48,59,Basic,PayPal,No,497.84
+AUR-03857,No,17.68,46,Premium,PayPal,No,1759.15
+AUR-03858,No,15.06,64,Plus,PayPal,Yes,771.62
+AUR-03859,Yes,14.36,18,Plus,PayPal,Yes,957.15
+AUR-03860,No,8.62,3,Basic,Gift Card,No,100.46
+AUR-03861,No,12.59,8,Plus,Debit Card,Yes,333.07
+AUR-03862,Yes,10.96,72,Basic,Credit Card,Yes,870.09
+AUR-03863,No,14.82,46,Plus,Credit Card,No,679.13
+AUR-03864,Yes,8.83,18,Basic,PayPal,No,273.69
+AUR-03865,No,17.3,62,Premium,Credit Card,Yes,518.54
+AUR-03866,Yes,10.33,22,Basic,PayPal,Yes,565.22
+AUR-03867,No,13.99,43,Plus,Credit Card,No,379.33
+AUR-03868,Yes,10.69,18,Basic,PayPal,Yes,514.38
+AUR-03869,No,13.41,6,Plus,Debit Card,No,297.48
+AUR-03870,No,13.64,19,Plus,PayPal,Yes,259.86
+AUR-03871,No,7.97,16,Basic,Gift Card,No,179.66
+AUR-03872,No,8.51,40,Basic,Credit Card,No,278.03
+AUR-03873,Yes,7.96,1,Basic,Debit Card,Yes,56.72
+AUR-03874,No,7.76,17,Basic,Credit Card,Yes,166.54
+AUR-03875,No,15.75,41,Premium,PayPal,Yes,1125.54
+AUR-03876,No,13.16,28,Plus,PayPal,No,383.57
+AUR-03877,No,9.66,46,Basic,Credit Card,Yes,608.13
+AUR-03878,No,16.95,47,Premium,Credit Card,Yes,687.57
+AUR-03879,Yes,8.79,70,Basic,Credit Card,No,613.2
+AUR-03880,No,15.06,61,Plus,Credit Card,No,1013.71
+AUR-03881,Yes,12.29,16,Plus,PayPal,No,308.71
+AUR-03882,No,17.38,50,Premium,Credit Card,Yes,810.58
+AUR-03883,No,12.8,45,Plus,PayPal,No,679.95
+AUR-03884,No,13.6,43,Plus,Gift Card,No,430.91
+AUR-03885,No,18.11,58,Premium,PayPal,Yes,1122.19
+AUR-03886,No,9.04,10,Basic,Debit Card,No,188.54
+AUR-03887,No,18.88,27,Premium,Credit Card,Yes,799.45
+AUR-03888,No,17.61,59,Premium,PayPal,No,966.53
+AUR-03889,No,17.59,65,Premium,PayPal,No,647.32
+AUR-03890,Yes,9.55,2,Basic,Gift Card,Yes,88.07
+AUR-03891,No,7.13,34,Basic,Credit Card,Yes,235.31
+AUR-03892,No,15.93,19,Plus,Credit Card,Yes,337.15
+AUR-03893,No,15.26,12,Plus,Gift Card,Yes,106.23
+AUR-03894,No,12.02,4,Plus,PayPal,Yes,0.0
+AUR-03895,No,15.24,39,Premium,Credit Card,No,770.71
+AUR-03896,No,15.61,48,Plus,PayPal,Yes,992.42
+AUR-03897,No,10.28,38,Basic,Credit Card,Yes,646.2
+AUR-03898,No,15.61,26,Plus,Debit Card,Yes,654.28
+AUR-03899,Yes,8.64,56,Basic,Credit Card,Yes,615.59
+AUR-03900,Yes,9.52,47,Basic,Credit Card,Yes,631.1
+AUR-03901,Yes,9.61,66,Basic,Credit Card,Yes,574.88
+AUR-03902,No,18.85,25,Premium,Credit Card,Yes,807.88
+AUR-03903,No,12.58,17,Plus,Debit Card,Yes,178.89
+AUR-03904,Yes,11.0,33,Plus,Credit Card,No,337.98
+AUR-03905,Yes,10.36,37,Basic,Debit Card,Yes,189.81
+AUR-03906,No,13.9,33,Plus,Debit Card,Yes,536.9
+AUR-03907,No,16.88,60,Premium,PayPal,No,1270.3
+AUR-03908,No,19.19,3,Premium,Debit Card,No,128.09
+AUR-03909,No,15.34,38,Plus,Credit Card,Yes,339.7
+AUR-03910,No,20.1,31,Premium,Credit Card,No,835.67
+AUR-03911,No,15.9,15,Plus,PayPal,No,214.43
+AUR-03912,Yes,12.95,46,Plus,PayPal,No,344.06
+AUR-03913,No,17.69,58,Premium,Gift Card,Yes,819.09
+AUR-03914,No,16.09,39,Plus,Gift Card,Yes,286.97
+AUR-03915,No,11.32,6,Plus,Debit Card,Yes,163.75
+AUR-03916,Yes,8.89,5,Basic,PayPal,No,69.76
+AUR-03917,No,13.55,30,Plus,Credit Card,No,503.13
+AUR-03918,Yes,13.49,48,Plus,PayPal,Yes,617.86
+AUR-03919,Yes,15.37,22,Plus,Gift Card,Yes,332.03
+AUR-03920,Yes,15.55,22,Plus,PayPal,Yes,246.27
+AUR-03921,Yes,6.87,62,Basic,Credit Card,Yes,230.03
+AUR-03922,No,16.35,1,Premium,Credit Card,No,159.09
+AUR-03923,Yes,9.05,5,Basic,Credit Card,Yes,4.84
+AUR-03924,No,17.96,11,Premium,Credit Card,Yes,861.21
+AUR-03925,Yes,9.19,71,Basic,PayPal,Yes,602.15
+AUR-03926,No,15.14,36,Plus,PayPal,No,504.86
+AUR-03927,No,12.37,11,Plus,Credit Card,No,64.4
+AUR-03928,No,18.55,22,Premium,PayPal,Yes,517.79
+AUR-03929,No,7.96,70,Basic,Credit Card,Yes,634.3
+AUR-03930,No,17.49,50,Premium,Debit Card,No,456.26
+AUR-03931,No,15.03,16,Plus,Credit Card,No,212.66
+AUR-03932,No,14.6,17,Plus,Debit Card,Yes,253.47
+AUR-03933,Yes,11.98,5,Plus,PayPal,Yes,57.62
+AUR-03934,No,9.14,56,Basic,PayPal,Yes,583.28
+AUR-03935,No,11.51,10,Plus,PayPal,Yes,197.81
+AUR-03936,No,8.63,20,Basic,Credit Card,Yes,206.56
+AUR-03937,Yes,7.65,25,Basic,Debit Card,No,193.04
+AUR-03938,No,15.24,45,Plus,Credit Card,Yes,1140.72
+AUR-03939,No,13.77,44,Plus,Debit Card,No,747.52
+AUR-03940,Yes,9.66,58,Basic,Debit Card,Yes,790.69
+AUR-03941,No,8.43,21,Basic,Debit Card,Yes,399.12
+AUR-03942,No,8.58,28,Basic,PayPal,Yes,134.86
+AUR-03943,Yes,8.53,28,Basic,Credit Card,Yes,326.62
+AUR-03944,No,12.45,3,Plus,PayPal,No,62.18
+AUR-03945,Yes,10.23,53,Basic,Credit Card,Yes,370.52
+AUR-03946,Yes,17.09,39,Premium,Debit Card,Yes,374.52
+AUR-03947,Yes,8.95,34,Basic,PayPal,No,231.65
+AUR-03948,Yes,9.07,72,Basic,PayPal,Yes,356.24
+AUR-03949,No,18.89,13,Premium,PayPal,Yes,366.95
+AUR-03950,Yes,8.55,70,Basic,PayPal,No,658.8
+AUR-03951,No,13.74,49,Plus,Credit Card,Yes,433.28
+AUR-03952,No,18.79,16,Premium,Gift Card,Yes,92.49
+AUR-03953,No,17.44,49,Premium,PayPal,Yes,591.22
+AUR-03954,No,14.43,55,Plus,Credit Card,Yes,1320.61
+AUR-03955,No,9.45,26,Basic,Credit Card,Yes,139.34
+AUR-03956,No,13.89,25,Plus,Credit Card,No,130.04
+AUR-03957,No,15.34,60,Premium,PayPal,Yes,873.39
+AUR-03958,No,18.72,11,Premium,Gift Card,No,188.88
+AUR-03959,Yes,10.34,0,Basic,PayPal,Yes,14.89
+AUR-03960,No,12.13,48,Plus,Credit Card,Yes,689.08
+AUR-03961,Yes,9.64,66,Basic,Credit Card,Yes,549.24
+AUR-03962,No,9.68,36,Basic,Debit Card,Yes,370.68
+AUR-03963,No,16.25,9,Plus,Credit Card,Yes,165.96
+AUR-03964,Yes,9.6,39,Basic,Credit Card,No,329.75
+AUR-03965,Yes,7.61,18,Basic,Credit Card,No,524.57
+AUR-03966,No,8.11,60,Basic,Credit Card,No,644.29
+AUR-03967,No,15.2,44,Plus,Credit Card,Yes,660.04
+AUR-03968,Yes,8.79,24,Basic,PayPal,No,171.65
+AUR-03969,Yes,13.59,45,Plus,Credit Card,Yes,421.18
+AUR-03970,No,8.26,48,Basic,Credit Card,Yes,536.78
+AUR-03971,No,16.76,49,Premium,Debit Card,Yes,200.09
+AUR-03972,Yes,7.93,26,Basic,Gift Card,Yes,155.62
+AUR-03973,No,13.64,41,Plus,PayPal,Yes,245.88
+AUR-03974,Yes,7.12,3,Basic,Debit Card,No,0.0
+AUR-03975,No,7.64,29,Basic,PayPal,Yes,293.49
+AUR-03976,Yes,8.73,27,Basic,PayPal,Yes,159.52
+AUR-03977,Yes,8.92,39,Basic,Debit Card,No,387.13
+AUR-03978,Yes,8.2,69,Basic,Debit Card,Yes,431.31
+AUR-03979,No,14.42,69,Plus,Debit Card,Yes,1907.14
+AUR-03980,No,12.63,35,Plus,Debit Card,Yes,697.37
+AUR-03981,Yes,9.07,47,Basic,Credit Card,No,334.27
+AUR-03982,No,14.38,7,Plus,Credit Card,Yes,169.09
+AUR-03983,No,12.39,35,Plus,Credit Card,Yes,141.76
+AUR-03984,Yes,8.56,50,Basic,Credit Card,Yes,324.44
+AUR-03985,Yes,10.08,49,Basic,Debit Card,No,296.16
+AUR-03986,Yes,8.83,70,Basic,Debit Card,No,1346.8
+AUR-03987,Yes,9.69,34,Basic,Credit Card,Yes,180.92
+AUR-03988,No,13.91,66,Plus,Credit Card,No,1100.43
+AUR-03989,No,18.33,71,Premium,Credit Card,Yes,982.94
+AUR-03990,No,18.23,41,Premium,PayPal,No,639.65
+AUR-03991,No,15.0,6,Premium,Credit Card,Yes,139.21
+AUR-03992,No,12.59,27,Plus,Credit Card,Yes,465.19
+AUR-03993,No,9.19,55,Basic,Credit Card,No,507.82
+AUR-03994,Yes,7.59,42,Basic,Debit Card,Yes,241.19
+AUR-03995,Yes,8.9,68,Basic,Credit Card,Yes,240.02
+AUR-03996,No,7.75,59,Basic,Debit Card,No,1106.46
+AUR-03997,Yes,8.88,4,Basic,Debit Card,Yes,97.89
+AUR-03998,No,12.65,62,Plus,PayPal,Yes,693.69
+AUR-03999,No,8.24,26,Basic,Debit Card,Yes,274.7
+AUR-04000,No,9.37,59,Basic,Credit Card,Yes,918.58

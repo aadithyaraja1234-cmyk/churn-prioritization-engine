@@ -30,12 +30,24 @@ COPY models/ ./models/
 #     every one of those endpoints 500s in a fresh container.
 COPY data/raw/telco.csv data/raw/bank_churn.csv data/raw/telco_enriched.csv data/raw/hillstrom.csv ./data/raw/
 
+# aurora-streaming/meridian-wireless/fernwood-retail-collective: three more
+# permanently-committed reference tenants (same status as Telco/Banking -
+# see .dockerignore/.gitignore's matching allowlists) whose filtered
+# training CSV (their data_path, written once by
+# src/models/tenant_training.py's prepare_and_train()) needs to be present
+# for the same reason models/ above does.
+COPY data/tenant_uploads/ ./data/tenant_uploads/
+
 COPY docker-entrypoint.sh .
 RUN chmod +x docker-entrypoint.sh
 
 EXPOSE 8000
 
+# Reads $PORT at healthcheck-run time (not baked in at build time) - matches
+# docker-entrypoint.sh's own uvicorn --port "${PORT:-8000}", so this still
+# hits the port the app actually bound to on a host (e.g. Render) that
+# assigns $PORT dynamically, not always 8000.
 HEALTHCHECK --interval=30s --timeout=5s --start-period=10s --retries=3 \
-    CMD python -c "import urllib.request; urllib.request.urlopen('http://localhost:8000/health')" || exit 1
+    CMD python -c "import os, urllib.request; urllib.request.urlopen(f'http://localhost:{os.environ.get(\"PORT\", \"8000\")}/health')" || exit 1
 
 ENTRYPOINT ["./docker-entrypoint.sh"]

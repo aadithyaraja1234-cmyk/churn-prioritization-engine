@@ -55,9 +55,20 @@ def _make_signal_csv(n_rows: int, seed: int) -> str:
     """A small but genuinely trainable dataset: a feature that's actually
     correlated with the target (with enough overlap/noise to stay well
     short of a perfect separator), so training should land a sane,
-    middling ROC-AUC rather than a crash or a leakage-flagged near-1.0."""
+    middling ROC-AUC rather than a crash or a leakage-flagged near-1.0.
+
+    The fourth column is deliberately named "engagement_signal", not
+    something duration-shaped like "tenure_like_feature" (this file's own
+    earlier name) - src/onboarding/ai_mapping.py's AI-assisted mapping
+    pass (when GEMINI_API_KEY is set) correctly recognizes a
+    "*tenure*"/"*duration*"-shaped name as role="duration", which is
+    exactly the improvement it's for, but would silently give this
+    fixture an extra mapped optional role and break
+    test_real_training_model_artifact_structure_matches_existing_tenants's
+    "neither duration nor clv mapped" assumption below - a real behavior
+    change, not a bug, but not what THIS fixture is testing."""
     rng = random.Random(seed)
-    lines = ["customer_id,target,revenue,tenure_like_feature"]
+    lines = ["customer_id,target,revenue,engagement_signal"]
     for i in range(n_rows):
         churned = i % 2 == 0
         target = "Yes" if churned else "No"

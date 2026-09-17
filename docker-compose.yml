@@ -20,6 +20,26 @@ services:
       # mounted volume below instead of the in-image path, so the DB (and
       # any self-registered tenant's training data) survives a rebuild.
       - DATABASE_PATH=/data/app.db
+      # Set to use Postgres instead of the SQLite file above (database/db.py
+      # prefers DATABASE_URL when both are present) - the postgres service
+      # below on this same compose network. Empty by default so `docker
+      # compose up` still works with zero setup (SQLite, as before);
+      # uncomment to switch this deployment to Postgres.
+      # - DATABASE_URL=postgresql://${POSTGRES_USER:-churn_engine}:${POSTGRES_PASSWORD:-changeme-in-dot-env}@postgres:5432/${POSTGRES_DB:-churn_engine}
+      # Set to share API-key rate-limit state across multiple backend
+      # workers/replicas via the redis service below (api/api_keys.py falls
+      # back to an in-memory limiter when this is empty - correct for the
+      # single `uvicorn` process this Dockerfile runs by default).
+      # - REDIS_URL=redis://redis:6379/0
+      # A publicly-known dev default is used when this is empty (see
+      # api/auth.py's startup warning) - every token issued is forgeable
+      # until a real secret is set here. MUST be set before this is ever
+      # reachable outside localhost.
+      - JWT_SECRET_KEY=${JWT_SECRET_KEY:-}
+      # Comma-separated extra origins (on top of the localhost dev defaults)
+      # allowed to call this API from a browser - set to your deployed
+      # frontend's real URL(s) before going live (see api/main.py).
+      - CORS_ORIGINS=${CORS_ORIGINS:-}
     volumes:
       # Named volume, not a bind mount: Docker seeds a fresh named volume
       # from whatever's already at that path in the image on first
@@ -39,6 +59,38 @@ services:
       timeout: 5s
       start_period: 10s
       retries: 3
+
+  # Optional: only needed if the backend's DATABASE_URL above is uncommented.
+  # Not started unless something depends on it or you run
+  # `docker compose up postgres`.
+  postgres:
+    image: postgres:16-alpine
+    environment:
+      - POSTGRES_USER=${POSTGRES_USER:-churn_engine}
+      # Dev-only default - set a real POSTGRES_PASSWORD in a .env file
+      # before using this in any deployment reachable outside localhost.
+      - POSTGRES_PASSWORD=${POSTGRES_PASSWORD:-changeme-in-dot-env}
+      - POSTGRES_DB=${POSTGRES_DB:-churn_engine}
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U ${POSTGRES_USER:-churn_engine}"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+
+  # Optional: only needed if the backend's REDIS_URL above is uncommented.
+  # Not started unless something depends on it or you run
+  # `docker compose up redis`.
+  redis:
+    image: redis:7-alpine
+    volumes:
+      - redis_data:/data
+    healthcheck:
+      test: ["CMD", "redis-cli", "ping"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
 
   frontend:
     build:
@@ -61,3 +113,5 @@ volumes:
   backend_models:
   backend_uploads:
   backend_data:
+  postgres_data:
+  redis_data:

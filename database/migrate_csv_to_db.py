@@ -1,4 +1,5 @@
-"""Migrate CSV source data into the SQLite persistence layer.
+"""Migrate CSV source data into the persistence layer (SQLite locally,
+Postgres in production - see database/db.py's DATABASE_URL handling).
 
 Loads data/raw/telco.csv (tenant_id="telco") and data/raw/bank_churn.csv
 (tenant_id="banking") into the customers table, storing each row's full
@@ -10,6 +11,18 @@ per-customer predictions to "load" from them directly. Their presence is
 instead used as the signal that a trained model.pkl/encoders.pkl is
 available for that tenant; when so, that saved model is used to score
 every migrated customer and populate real per-customer prediction rows.
+
+IDEMPOTENCY: migrate_customers()/migrate_predictions() skip a tenant that
+already has rows, rather than blindly inserting more. This used to be
+enforced only at the CALLER level (docker-entrypoint.sh checking whether
+a local SQLite file existed yet) - which quietly stopped protecting
+anything the moment DATABASE_URL (Postgres/Supabase) is set: a fresh
+container has no local SQLite file regardless of whether the REAL
+database already has data, so that check would pass every time and
+duplicate Telco/Banking's customers/predictions on every single container
+restart. Checking for existing rows directly, here, protects both
+backends the same way and doesn't depend on the caller getting the check
+right.
 """
 
 from __future__ import annotations
@@ -34,6 +47,9 @@ ROOT = Path(__file__).resolve().parent.parent
 
 
 def migrate_customers(session: Session, csv_path: Path, tenant_id: str, id_column: str) -> int:
+    if session.query(Customer).filter(Customer.tenant_id == tenant_id).first() is not None:
+        return 0
+
     df = pd.read_csv(csv_path)
     now = datetime.now(timezone.utc)
     count = 0
@@ -65,6 +81,8 @@ def migrate_predictions(
     # computed independently of this table.
     metadata_path = model_dir / "metadata.json"
     if not metadata_path.exists():
+        return 0
+    if session.query(Prediction).filter(Prediction.tenant_id == tenant_id).first() is not None:
         return 0
 
     model = joblib.load(model_dir / "model.pkl")

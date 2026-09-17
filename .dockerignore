@@ -24,6 +24,9 @@ models/*
 !models/v1_enriched/
 !models/v2/
 !models/banking_v1/
+!models/aurora-streaming/
+!models/meridian-wireless/
+!models/fernwood-retail-collective/
 
 # Not read at build time or by the running app - frontend has its own,
 # separate .dockerignore/Dockerfile; node_modules/dist would only bloat the
@@ -32,10 +35,16 @@ frontend/node_modules/
 frontend/dist/
 
 # Unrelated large datasets and runtime-generated tenant uploads - same
-# reasoning as .gitignore's own exclusions for these.
+# reasoning as .gitignore's own exclusions for these. Same three-tenant
+# allowlist as models/* above: aurora-streaming/meridian-wireless/fernwood-
+# retail-collective's filtered training CSVs are their data_path, needed at
+# runtime the same way Telco/Banking's data/raw/*.csv are.
 data/raw/olist_orders_dataset.csv
 data/raw/olist_order_payments_dataset.csv
-data/tenant_uploads/
+data/tenant_uploads/*
+!data/tenant_uploads/aurora-streaming.csv
+!data/tenant_uploads/meridian-wireless.csv
+!data/tenant_uploads/fernwood-retail-collective.csv
 data/live_demo/
 data/live_demo_v2/
 data/test_onboarding_samples/

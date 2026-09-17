@@ -20,6 +20,7 @@ never needs to know or care which auth method was used.
 from __future__ import annotations
 
 import hashlib
+import os
 import secrets
 import time
 from datetime import datetime, timezone
@@ -181,15 +182,24 @@ def revoke_api_key(
     return ApiKeyRevokeResponse(id=row.id, revoked_at=row.revoked_at.isoformat())
 
 
-# In-memory sliding-window rate limiter, keyed by api_keys.id. A simple dict
-# is fine at this scale (single-process dev/demo deployment) - see Part 2
-# item 5 of the feature spec this implements. Not persisted, not shared
-# across processes; a restart or multi-worker deployment would reset/split
-# the window, which is an accepted limitation at this scale.
+# In-memory sliding-window rate limiter, keyed by api_keys.id. Used whenever
+# REDIS_URL isn't set (local dev, tests, a single-process/single-instance
+# deployment) - not persisted, not shared across processes, so a restart or
+# multi-worker/multi-replica deployment would reset/split the window. Set
+# REDIS_URL to share the window across every process/replica instead (see
+# _RedisRateLimiter below); this in-memory path stays the default so tests
+# and a plain `uvicorn`/single-container deployment need no extra service.
 _RATE_LIMIT_WINDOWS: dict[int, list[float]] = {}
 
+REDIS_URL = os.environ.get("REDIS_URL")
+_redis_client = None
+if REDIS_URL:
+    import redis
 
-def _enforce_rate_limit(api_key_id: int, limit_per_minute: int) -> None:
+    _redis_client = redis.from_url(REDIS_URL, decode_responses=True)
+
+
+def _enforce_rate_limit_in_memory(api_key_id: int, limit_per_minute: int) -> None:
     now = time.monotonic()
     window = _RATE_LIMIT_WINDOWS.setdefault(api_key_id, [])
     cutoff = now - RATE_LIMIT_WINDOW_SECONDS
@@ -204,8 +214,38 @@ def _enforce_rate_limit(api_key_id: int, limit_per_minute: int) -> None:
     window.append(now)
 
 
+def _enforce_rate_limit_redis(api_key_id: int, limit_per_minute: int) -> None:
+    # Sorted-set sliding window shared across every process/replica: each
+    # request is a member scored by its own timestamp, entries older than
+    # the window are trimmed before counting. Two requests arriving in the
+    # same instant could both pass the count check before either ZADDs (a
+    # small race, same accepted-at-this-scale tradeoff the in-memory version
+    # documents) - a Lua script would close it if that ever matters here.
+    key = f"ratelimit:api_key:{api_key_id}"
+    now = time.time()
+    cutoff = now - RATE_LIMIT_WINDOW_SECONDS
+    _redis_client.zremrangebyscore(key, 0, cutoff)
+    if _redis_client.zcard(key) >= limit_per_minute:
+        raise HTTPException(
+            status_code=429,
+            detail=f"Rate limit exceeded: this API key allows {limit_per_minute} requests per minute",
+        )
+    _redis_client.zadd(key, {str(now): now})
+    _redis_client.expire(key, RATE_LIMIT_WINDOW_SECONDS)
+
+
+def _enforce_rate_limit(api_key_id: int, limit_per_minute: int) -> None:
+    if _redis_client is not None:
+        _enforce_rate_limit_redis(api_key_id, limit_per_minute)
+    else:
+        _enforce_rate_limit_in_memory(api_key_id, limit_per_minute)
+
+
 def reset_rate_limits_for_testing() -> None:
     _RATE_LIMIT_WINDOWS.clear()
+    if _redis_client is not None:
+        for key in _redis_client.scan_iter("ratelimit:api_key:*"):
+            _redis_client.delete(key)
 
 
 def _authenticate_api_key(raw_key: str, db: Session) -> CurrentUser:

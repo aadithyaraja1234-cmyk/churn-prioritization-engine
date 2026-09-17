@@ -1,0 +1,101 @@
+{
+  "run_id": "v1",
+  "timestamp": "2026-09-01T16:04:36.420525",
+  "config_used": {
+    "split": {
+      "test_size": 0.2,
+      "seed": 42
+    },
+    "model": {
+      "n_estimators": 200,
+      "max_depth": 3,
+      "learning_rate": 0.05,
+      "random_state": 42
+    },
+    "tenants": {
+      "telco": {
+        "data_path": "data/raw/telco.csv",
+        "target_column": "Churn",
+        "target_positive_value": "Yes",
+        "revenue_column": "MonthlyCharges",
+        "id_column": "customerID",
+        "duration_column": "tenure",
+        "duration_leakage_column": "TotalCharges",
+        "segment_feature_column": "Contract",
+        "clv_column": "CLTV",
+        "clv_excluded_columns": [
+          "City",
+          "State",
+          "Zip Code",
+          "Latitude",
+          "Longitude",
+          "Churn Score",
+          "Churn Reason"
+        ],
+        "tuning_enabled": false,
+        "model_dir": "models/v1",
+        "clv_model_dir": "models/v1_enriched",
+        "clv_data_path": "data/raw/telco_enriched.csv",
+        "unavailable_reason": "not yet trained for this tenant",
+        "unavailable_reasons": {
+          "clv_estimated": "not needed for this tenant - a real, trained CLV model already exists (CLTV, see clv above); the formula-based proxy is only offered for a tenant with no real CLV-equivalent column at all."
+        },
+        "feature_flags": {
+          "business_impact_core": true,
+          "priority_ranking": true,
+          "backtest": true,
+          "survival": true,
+          "segments": true,
+          "anomalies": true,
+          "clv": true,
+          "scenario_simulator": true,
+          "budget_optimizer": true,
+          "customer_timeline": true
+        }
+      },
+      "banking": {
+        "data_path": "data/raw/bank_churn.csv",
+        "target_column": "Exited",
+        "target_positive_value": 1,
+        "revenue_column": "Balance",
+        "id_column": "CustomerId",
+        "duration_column": "Tenure",
+        "tuning_enabled": false,
+        "model_dir": "models/banking_v1",
+        "clv_model_dir": null,
+        "clv_data_path": null,
+        "unavailable_reason": "not yet trained for this tenant",
+        "unavailable_reasons": {
+          "clv": "no CLV-equivalent column exists in this tenant's raw data (bank_churn.csv has no lifetime-value-shaped field) - genuinely unavailable, not just unmapped. See clv_estimated for a formula-based proxy instead."
+        },
+        "feature_flags": {
+          "business_impact_core": true,
+          "priority_ranking": true,
+          "backtest": true,
+          "survival": true,
+          "segments": true,
+          "anomalies": true,
+          "clv": false,
+          "clv_estimated": true,
+          "scenario_simulator": true,
+          "budget_optimizer": true,
+          "customer_timeline": true
+        }
+      }
+    }
+  },
+  "n_train": 4800,
+  "n_test": 1200,
+  "churn_rate_train": 0.32354166666666667,
+  "churn_rate_test": 0.3233333333333333,
+  "roc_auc": 0.7501317226143924,
+  "pr_auc": 0.559218694353853,
+  "final_test_roc_auc": 0.7501317226143924,
+  "cv_score_during_tuning": 0.7535474030492985,
+  "best_hyperparameters": {
+    "n_estimators": 200,
+    "max_depth": 2,
+    "learning_rate": 0.03
+  },
+  "tuning_seconds": 20.03793439990841
+}

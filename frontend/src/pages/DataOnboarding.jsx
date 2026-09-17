@@ -256,7 +256,9 @@ export default function DataOnboarding() {
           <h2>Map Your Columns</h2>
           <p className="muted">
             {upload.filename} — {upload.row_count.toLocaleString()} rows, {upload.columns.length} columns.
-            We've suggested a role for each column by name similarity; confirm or change every one below.
+            We've suggested a role for each column by name similarity, with an AI-assisted guess
+            (marked <span className="mapping-ai-badge">AI</span>) for any column that didn't
+            confidently match; confirm or change every one below.
           </p>
           <table className="mapping-table">
             <thead>
@@ -267,24 +269,35 @@ export default function DataOnboarding() {
               </tr>
             </thead>
             <tbody>
-              {upload.columns.map((column) => (
-                <tr key={column}>
-                  <td>{column}</td>
-                  <td className="mapping-sample">{String(upload.preview_rows[0]?.[column] ?? '')}</td>
-                  <td>
-                    <select
-                      value={mapping[column] || 'ignore'}
-                      onChange={(event) => setMapping({ ...mapping, [column]: event.target.value })}
-                    >
-                      {upload.valid_roles.map((role) => (
-                        <option key={role} value={role}>
-                          {role.replaceAll('_', ' ')}
-                        </option>
-                      ))}
-                    </select>
-                  </td>
-                </tr>
-              ))}
+              {upload.columns.map((column) => {
+                const suggestion = upload.suggested_mapping[column]
+                const isAiSuggested = suggestion?.source === 'ai'
+                return (
+                  <tr key={column}>
+                    <td>{column}</td>
+                    <td className="mapping-sample">{String(upload.preview_rows[0]?.[column] ?? '')}</td>
+                    <td>
+                      <div className="mapping-role-cell">
+                        <select
+                          value={mapping[column] || 'ignore'}
+                          onChange={(event) => setMapping({ ...mapping, [column]: event.target.value })}
+                        >
+                          {upload.valid_roles.map((role) => (
+                            <option key={role} value={role}>
+                              {role.replaceAll('_', ' ')}
+                            </option>
+                          ))}
+                        </select>
+                        {isAiSuggested && (
+                          <span className="mapping-ai-badge" title={suggestion.ai_reasoning || 'AI-suggested'}>
+                            AI
+                          </span>
+                        )}
+                      </div>
+                    </td>
+                  </tr>
+                )
+              })}
             </tbody>
           </table>
           {validateError && <p className="error-text">{validateError}</p>}
