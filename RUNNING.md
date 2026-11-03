@@ -1,4 +1,22 @@
-# Running the Churn Engine Locally
+# Running the Churn Engine
+
+## Live deployment
+
+- **Frontend**: https://churn-prioritization-engine.vercel.app
+- **Backend**: https://churn-engine-api.onrender.com
+- **Database**: Supabase Postgres (project `churn-engine`, `ap-northeast-2`)
+
+Just open the frontend URL - nothing to start. The backend runs on Render's
+free tier, which spins the instance down after ~15 minutes of inactivity;
+the first request after idle time can take up to ~50 seconds while it wakes
+back up (Render's own free-tier behavior, not a bug). Frontend (Vercel)
+never sleeps.
+
+Redeploys happen automatically: pushing to `main` on GitHub triggers both
+Render and Vercel to rebuild and redeploy on their own - no manual
+redeploy step needed for either.
+
+## Running locally
 
 Two terminals: backend and frontend.
 
