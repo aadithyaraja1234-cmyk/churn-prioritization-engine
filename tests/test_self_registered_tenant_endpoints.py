@@ -24,7 +24,6 @@ import pytest
 from fastapi.testclient import TestClient
 from sqlalchemy import create_engine
 from sqlalchemy.orm import sessionmaker
-from sqlalchemy.pool import StaticPool
 
 import api.training as training_module
 from api.main import app
@@ -38,11 +37,17 @@ MERIDIAN_SAMPLE_CSV = ROOT / "data" / "test_onboarding_samples" / "company_merid
 
 
 @pytest.fixture()
-def client():
+def client(tmp_path):
+    # A real file-backed database, NOT in-memory + StaticPool: the training
+    # job's background thread commits its status from its own session, and
+    # with StaticPool every session shares ONE connection - a concurrent
+    # request session's rollback-on-close could silently discard the
+    # thread's pending "failed"/"succeeded" write, leaving the job stuck at
+    # "running" (seen in CI as test_failed_job_stores_error_message timing
+    # out). One connection per session matches production's real pool.
     engine = create_engine(
-        "sqlite:///:memory:",
+        f"sqlite:///{tmp_path / 'test.db'}",
         connect_args={"check_same_thread": False},
-        poolclass=StaticPool,
     )
     Base.metadata.create_all(engine)
     TestingSessionLocal = sessionmaker(bind=engine)
@@ -270,7 +275,7 @@ def test_training_populates_customers_and_predictions_tables_without_duplicating
     (api/training.py's _run_training_job() always opens its own brand-new
     SessionLocal() per job - see that function's own docstring). Two
     real trainings back-to-back through the actual background-thread path
-    against this test file's StaticPool-shared-single-connection-across-
+    against this test file's former StaticPool-shared-single-connection-across-
     threads fixture produced non-deterministic row-count flakiness that
     does NOT reproduce against the real file-based database/app.db
     (confirmed directly, twice) - a test-infrastructure-only artifact of

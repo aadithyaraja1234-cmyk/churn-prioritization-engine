@@ -15,7 +15,6 @@ import pytest
 from fastapi.testclient import TestClient
 from sqlalchemy import create_engine
 from sqlalchemy.orm import sessionmaker
-from sqlalchemy.pool import StaticPool
 
 import api.training as training_module
 from api.main import app
@@ -88,11 +87,17 @@ def _cleanup_tenant_artifacts(tenant_id: str) -> None:
 
 
 @pytest.fixture()
-def client():
+def client(tmp_path):
+    # A real file-backed database, NOT in-memory + StaticPool: the training
+    # job's background thread commits its status from its own session, and
+    # with StaticPool every session shares ONE connection - a concurrent
+    # request session's rollback-on-close could silently discard the
+    # thread's pending "failed"/"succeeded" write, leaving the job stuck at
+    # "running" (seen in CI as test_failed_job_stores_error_message timing
+    # out). One connection per session matches production's real pool.
     engine = create_engine(
-        "sqlite:///:memory:",
+        f"sqlite:///{tmp_path / 'test.db'}",
         connect_args={"check_same_thread": False},
-        poolclass=StaticPool,
     )
     Base.metadata.create_all(engine)
     TestingSessionLocal = sessionmaker(bind=engine)
